@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "News"
+msgid "News"
+msgstr "News"
+
+msgctxt "ManageBlogs"
+msgid "Manage News Items"
+msgstr "Manage News Items"
+
+msgctxt "ViewNews"
+msgid "View News Items"
+msgstr "View News Items"
+
+msgctxt "ManageNewsIntro"
+msgid "News items are displayed on your web site and are a great way to tell your customers about new products or special promotions."
+msgstr "News items are displayed on your web site and are a great way to tell your customers about new products or special promotions."
+
+msgctxt "NoNewsResults"
+msgid "No news items were found matching your search criteria, please try again."
+msgstr "No news items were found matching your search criteria, please try again."
+
+msgctxt "NoNews"
+msgid "No news items have been added. Please click the &quot;Create a News Item...&quot; button to add one."
+msgstr "No news items have been added. Please click the &quot;Create a News Item...&quot; button to add one."
+
+msgctxt "NewsTitle"
+msgid "Title"
+msgstr "Title"
+
+msgctxt "NewsContent"
+msgid "Content"
+msgstr "Content"
+
+msgctxt "ClickToHideNews"
+msgid "Click here to make this news item non-visible on your web site"
+msgstr "Click here to make this news item non-visible on your web site"
+
+msgctxt "ClickToShowNews"
+msgid "Click here to make this news item visible on your web site"
+msgstr "Click here to make this news item visible on your web site"
+
+msgctxt "NewsEdit"
+msgid "Edit this news item"
+msgstr "Edit this news item"
+
+msgctxt "ConfirmDeleteNews"
+msgid "WARNING: This will permanently remove the selected news item(s). Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected news item(s). Are you sure you wish to do this?"
+
+msgctxt "ChooseNews"
+msgid "Please choose at least one news item to delete."
+msgstr "Please choose at least one news item to delete."
+
+msgctxt "NewsDeletedSuccessfully"
+msgid "The selected news items have been deleted successfully."
+msgstr "The selected news items have been deleted successfully."
+
+msgctxt "AddNews"
+msgid "Create a News Item"
+msgstr "Create a News Item"
+
+msgctxt "AddNewsIntro"
+msgid "Enter the details of the news item in the form below."
+msgstr "Enter the details of the news item in the form below."
+
+msgctxt "NewNewsDetails"
+msgid "Post Information"
+msgstr "Post Information"
+
+msgctxt "YesNewsVisible"
+msgid "Yes, this news item should be visible on my web site."
+msgstr "Yes, this news item should be visible on my web site."
+
+msgctxt "ConfirmCancelNews"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "EnterNewsTitle"
+msgid "Please enter a title."
+msgstr "Please enter a title."
+
+msgctxt "EnterNewsContent"
+msgid "Please enter some content."
+msgstr "Please enter some content."
+
+msgctxt "NewsAddedSuccessfully"
+msgid "The news item has been added successfully."
+msgstr "The news item has been added successfully."
+
+msgctxt "ErrNewsNotAdded"
+msgid "An error occurred while trying to add this news item: '%s'"
+msgstr "An error occurred while trying to add this news item: '%s'"
+
+msgctxt "NewsDoesntExist"
+msgid "The selected news item doesn't exist or has been removed."
+msgstr "The selected news item doesn't exist or has been removed."
+
+msgctxt "EditNewsTitle"
+msgid "Edit News"
+msgstr "Edit News"
+
+msgctxt "EditNewsIntro"
+msgid "Edit the details of the news item in the form below."
+msgstr "Edit the details of the news item in the form below."
+
+msgctxt "NewsUpdatedSuccessfully"
+msgid "The selected news item has been updated successfully."
+msgstr "The selected news item has been updated successfully."
+
+msgctxt "ErrNewsNotUpdated"
+msgid "An error occurred while trying to update this news item: '%s'"
+msgstr "An error occurred while trying to update this news item: '%s'"
+
+msgctxt "TitleSortAsc"
+msgid "Sort by Title (ascending)"
+msgstr "Sort by Title (ascending)"
+
+msgctxt "TitleSortDesc"
+msgid "Sort by Title (descending)"
+msgstr "Sort by Title (descending)"
+
+msgctxt "ContentSortAsc"
+msgid "Sort by Content (ascending)"
+msgstr "Sort by Content (ascending)"
+
+msgctxt "ContentSortDesc"
+msgid "Sort by Content (descending)"
+msgstr "Sort by Content (descending)"
+
+msgctxt "NewsVisibleSuccessfully"
+msgid "The visibility of this news item has been changed successfully."
+msgstr "The visibility of this news item has been changed successfully."
+
+msgctxt "ErrNewsVisibilityNotChanged"
+msgid "An error occurred while trying to change the visibility of this news item: %s"
+msgstr "An error occurred while trying to change the visibility of this news item: %s"
+
+msgctxt "PreviewNewsPost"
+msgid "Preview News Item"
+msgstr "Preview News Item"
+
+msgctxt "PreviewNews"
+msgid "Preview Post"
+msgstr "Preview Post"
+
+msgctxt "NewsPublished"
+msgid "Published"
+msgstr "Published"
+
+msgctxt "LoadingNews"
+msgid "Loading news. Please wait..."
+msgstr "Loading news. Please wait..."
+
+msgctxt "EditNews"
+msgid "Edit News"
+msgstr "Edit News"
+
+msgctxt "Visible"
+msgid "发布"
+msgstr "发布"
+
+msgctxt "NewsVisible"
+msgid "可见性"
+msgstr "可见性"
+
+msgctxt "NewsFeatured"
+msgid "推荐"
+msgstr "推荐"
+
+msgctxt "NewsCommentStatus"
+msgid "评论权限"
+msgstr "评论权限"
+
+msgctxt "NewsCategory"
+msgid "文章分类"
+msgstr "文章分类"
+
+msgctxt "NewsCategoryText"
+msgid "分类名"
+msgstr "分类名"
+
+msgctxt "NewsRelatedProducts"
+msgid "是否展示相关商品？"
+msgstr "是否展示相关商品？"
+
+msgctxt "NewsRelatedProductsConfig"
+msgid "相关商品设置"
+msgstr "相关商品设置"
+
+msgctxt "NewsRelatedProductsIds"
+msgid "相关商品ID设置"
+msgstr "相关商品ID设置"
+
+msgctxt "NewsRelatedProductsIdsHelp"
+msgid "相关产品格式如下 1,2,103,202<br/>产品ID之间用,分隔"
+msgstr "相关产品格式如下 1,2,103,202<br/>产品ID之间用,分隔"
+
+msgctxt "SearchKeywords"
+msgid "Search Keywords"
+msgstr "Search Keywords"
+
+msgctxt "SearchKeywordsHelp"
+msgid "The search keywords are optional, but if entered will be used to assist people when searching your news. Enter keywords separated by commas, such as: <em>widget, affordable, portable.</em>"
+msgstr "The search keywords are optional, but if entered will be used to assist people when searching your news. Enter keywords separated by commas, such as: <em>widget, affordable, portable.</em>"

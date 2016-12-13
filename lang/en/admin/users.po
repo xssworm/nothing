@@ -1,0 +1,554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "WhatIsXMLAPI"
+msgid "What is the XML API and how does it work?"
+msgstr "What is the XML API and how does it work?"
+
+msgctxt "ViewUsers"
+msgid "View Users"
+msgstr "View Users"
+
+msgctxt "ManageUserIntro"
+msgid "A user is someone who has access to the administration area of your store. Each user account also has its own customizable access permissions."
+msgstr "A user is someone who has access to the administration area of your store. Each user account also has its own customizable access permissions."
+
+msgctxt "NoUsers"
+msgid "No user accounts have been created. Please click the &quot;Create User&quot; button to create one."
+msgstr "No user accounts have been created. Please click the &quot;Create User&quot; button to create one."
+
+msgctxt "CreateUser"
+msgid "Create a User Account"
+msgstr "Create a User Account"
+
+msgctxt "UserName1"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "UserEmail"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "UserStatus"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "UserSortAsc"
+msgid "Sort by Username (Ascending)"
+msgstr "Sort by Username (Ascending)"
+
+msgctxt "UserSortDesc"
+msgid "Sort by Username (Descending)"
+msgstr "Sort by Username (Descending)"
+
+msgctxt "UserInactiveTip"
+msgid "Deactivate this account"
+msgstr "Deactivate this account"
+
+msgctxt "UserActiveTip"
+msgid "Activate this account"
+msgstr "Activate this account"
+
+msgctxt "ConfirmDeleteUsers"
+msgid "WARNING: The selected users will be removed permanently. Are you sure?"
+msgstr "WARNING: The selected users will be removed permanently. Are you sure?"
+
+msgctxt "ChooseUser"
+msgid "Please choose at least one user to delete."
+msgstr "Please choose at least one user to delete."
+
+msgctxt "EditUser"
+msgid "Edit user"
+msgstr "Edit user"
+
+msgctxt "CopyUser"
+msgid "Copy a User Account"
+msgstr "Copy a User Account"
+
+msgctxt "UsersDeletedSuccessfully"
+msgid "The selected user accounts have been deleted successfully."
+msgstr "The selected user accounts have been deleted successfully."
+
+msgctxt "UserDeleteError"
+msgid "An error occurred while trying to delete the user account."
+msgstr "An error occurred while trying to delete the user account."
+
+msgctxt "UserDatabaseError"
+msgid "Database error."
+msgstr "Database error."
+
+msgctxt "UserStatusSuccessfully"
+msgid "The status of this user account has been changed successfully."
+msgstr "The status of this user account has been changed successfully."
+
+msgctxt "ErrUserStatusNotChanged"
+msgid "An error occurred while trying to change the status of this user account: %s"
+msgstr "An error occurred while trying to change the status of this user account: %s"
+
+msgctxt "UserIntro"
+msgid "A user is someone who has access to the administration area of your store. Each user account also has its own customizable access permissions, which you can setup below."
+msgstr "A user is someone who has access to the administration area of your store. Each user account also has its own customizable access permissions, which you can setup below."
+
+msgctxt "NewUserDetails"
+msgid "User Details"
+msgstr "User Details"
+
+msgctxt "ConfirmCancelUser"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "UserPass1"
+msgid "Password (confirm)"
+msgstr "Password (confirm)"
+
+msgctxt "UserFirstName"
+msgid "First Name"
+msgstr "First Name"
+
+msgctxt "UserLastName"
+msgid "Last Name"
+msgstr "Last Name"
+
+msgctxt "UserActive"
+msgid "Active"
+msgstr "Active"
+
+msgctxt "UserInactive"
+msgid "Inactive"
+msgstr "Inactive"
+
+msgctxt "UserStatusHelp"
+msgid "Active users can sign in. Inactive users are locked out and cannot sign in."
+msgstr "Active users can sign in. Inactive users are locked out and cannot sign in."
+
+msgctxt "UserType"
+msgid "User Type"
+msgstr "User Type"
+
+msgctxt "UserSysAdmin"
+msgid "System Administrator"
+msgstr "System Administrator"
+
+msgctxt "UserSalesManager"
+msgid "Sales Manager"
+msgstr "Sales Manager"
+
+msgctxt "UserSalesStaff"
+msgid "Sales Staff"
+msgstr "Sales Staff"
+
+msgctxt "UserTypeHelp"
+msgid "System administrators can control all aspects of the site. Sales managers can access everything except users, templates and settings. Sales staff can handle everything required to deal with orders."
+msgstr "System administrators can control all aspects of the site. Sales managers can access everything except users, templates and settings. Sales staff can handle everything required to deal with orders."
+
+msgctxt "SalesStaffPermissions"
+msgid "Sales Staff Permissions"
+msgstr "Sales Staff Permissions"
+
+msgctxt "EditReviews"
+msgid "Edit Reviews"
+msgstr "Edit Reviews"
+
+msgctxt "DeleteReviews"
+msgid "Delete Reviews"
+msgstr "Delete Reviews"
+
+msgctxt "ApproveReviews"
+msgid "Approve Selected"
+msgstr "Approve Selected"
+
+msgctxt "EditOrders"
+msgid "Edit Orders"
+msgstr "Edit Orders"
+
+msgctxt "AddOrders"
+msgid "Add Orders"
+msgstr "Add Orders"
+
+msgctxt "AddCustomers"
+msgid "Add Customers"
+msgstr "Add Customers"
+
+msgctxt "EditCustomers"
+msgid "Edit Customers"
+msgstr "Edit Customers"
+
+msgctxt "ManageCoupons"
+msgid "Manage Coupons"
+msgstr "Manage Coupons"
+
+msgctxt "AddCoupons"
+msgid "Add Coupons"
+msgstr "Add Coupons"
+
+msgctxt "EditCoupons"
+msgid "Edit Coupons"
+msgstr "Edit Coupons"
+
+msgctxt "DeleteCoupons"
+msgid "Delete Coupons"
+msgstr "Delete Coupons"
+
+msgctxt "SalesManagerPermissions"
+msgid "Sales Manager Permissions"
+msgstr "Sales Manager Permissions"
+
+msgctxt "CreateProducts"
+msgid "Create Products"
+msgstr "Create Products"
+
+msgctxt "EditProducts"
+msgid "Edit Products"
+msgstr "Edit Products"
+
+msgctxt "DeleteProducts"
+msgid "Delete Products"
+msgstr "Delete Products"
+
+msgctxt "CreateCategories"
+msgid "Create Categories"
+msgstr "Create Categories"
+
+msgctxt "EditCategories"
+msgid "Edit Categories"
+msgstr "Edit Categories"
+
+msgctxt "DeleteCategories"
+msgid "Delete Categories"
+msgstr "Delete Categories"
+
+msgctxt "DeleteOrders"
+msgid "Delete Orders"
+msgstr "Delete Orders"
+
+msgctxt "DeleteCustomers"
+msgid "Delete Customers"
+msgstr "Delete Customers"
+
+msgctxt "EditNews"
+msgid "Edit News"
+msgstr "Edit News"
+
+msgctxt "DeleteNews"
+msgid "Delete News"
+msgstr "Delete News"
+
+msgctxt "ApproveNews"
+msgid "Approve News"
+msgstr "Approve News"
+
+msgctxt "ViewStatistics"
+msgid "View Statistics"
+msgstr "View Statistics"
+
+msgctxt "SystemAdministratorPermissions"
+msgid "System Admin Permissions"
+msgstr "System Admin Permissions"
+
+msgctxt "AddUsers"
+msgid "Add Users"
+msgstr "Add Users"
+
+msgctxt "EditUsers"
+msgid "Edit Users"
+msgstr "Edit Users"
+
+msgctxt "DeleteUsers"
+msgid "Delete Users"
+msgstr "Delete Users"
+
+msgctxt "UserEnterUsername"
+msgid "Please enter a username."
+msgstr "Please enter a username."
+
+msgctxt "UserEnterPassword"
+msgid "Please enter a password."
+msgstr "Please enter a password."
+
+msgctxt "UserPasswordsDontMatch"
+msgid "The passwords don\'t match."
+msgstr "The passwords don\'t match."
+
+msgctxt "UserInvalidEmail"
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+msgctxt "UserNoPermissions"
+msgid "Please select at least one permission for this user."
+msgstr "Please select at least one permission for this user."
+
+msgctxt "ErrUsernameTaken"
+msgid "The username '%s' is already taken. Please choose another username."
+msgstr "The username '%s' is already taken. Please choose another username."
+
+msgctxt "UserAddedSuccessfully"
+msgid "The new user account has been added successfully."
+msgstr "The new user account has been added successfully."
+
+msgctxt "ErrUserNotAdded"
+msgid "An error occurred while trying to add this user account: '%s'"
+msgstr "An error occurred while trying to add this user account: '%s'"
+
+msgctxt "UserDoesntExist"
+msgid "The selected user account doesn't exist or has been removed."
+msgstr "The selected user account doesn't exist or has been removed."
+
+msgctxt "EditUser1"
+msgid "Edit a User Account"
+msgstr "Edit a User Account"
+
+msgctxt "UserUpdatedSuccessfully"
+msgid "The selected user account has been updated successfully."
+msgstr "The selected user account has been updated successfully."
+
+msgctxt "ErrUserNotUpdated"
+msgid "An error occurred while trying to update this user account: '%s'"
+msgstr "An error occurred while trying to update this user account: '%s'"
+
+msgctxt "AddBrands"
+msgid "Add Brands"
+msgstr "Add Brands"
+
+msgctxt "EditBrands"
+msgid "Edit Brands"
+msgstr "Edit Brands"
+
+msgctxt "DeleteBrands"
+msgid "Delete Brands"
+msgstr "Delete Brands"
+
+msgctxt "ManageOrders"
+msgid "Manage Orders"
+msgstr "Manage Orders"
+
+msgctxt "ManageCustomers"
+msgid "Manage Customers"
+msgstr "Manage Customers"
+
+msgctxt "ManageProducts"
+msgid "Manage Products"
+msgstr "Manage Products"
+
+msgctxt "ManageCategories"
+msgid "Manage Categories"
+msgstr "Manage Categories"
+
+msgctxt "ManageNews"
+msgid "Manage News"
+msgstr "Manage News"
+
+msgctxt "ManageUsers"
+msgid "Manage Users"
+msgstr "Manage Users"
+
+msgctxt "ManageSettings"
+msgid "Manage Settings"
+msgstr "Manage Settings"
+
+msgctxt "LoadingUsers"
+msgid "Loading users. Please wait..."
+msgstr "Loading users. Please wait..."
+
+msgctxt "EnableXMLAPI"
+msgid "Enable the XML API"
+msgstr "Enable the XML API"
+
+msgctxt "YesEnableXMLAPI"
+msgid "Yes, allow this user to use the XML API"
+msgstr "Yes, allow this user to use the XML API"
+
+msgctxt "EnableXMLAPIHelp"
+msgid "The XML API is a way for advanced store owners, programmers or IT personnel to access the contents of your store by sending and receiving XML content in a special format.<br /><br />Should this user have access to the XML API? If yes, tick this box. The API should be enabled for advanced users only. For more help on the API please see the developer\'s guide from the \'Help\' link in the menu at the top of the control panel."
+msgstr "The XML API is a way for advanced store owners, programmers or IT personnel to access the contents of your store by sending and receiving XML content in a special format.<br /><br />Should this user have access to the XML API? If yes, tick this box. The API should be enabled for advanced users only. For more help on the API please see the developer\'s guide from the \'Help\' link in the menu at the top of the control panel."
+
+msgctxt "XMLPath"
+msgid "XML Path"
+msgstr "XML Path"
+
+msgctxt "XMLToken"
+msgid "XML Token"
+msgstr "XML Token"
+
+msgctxt "XMLPathHelp"
+msgid "This is the path to the file where all XML API requests should be sent."
+msgstr "This is the path to the file where all XML API requests should be sent."
+
+msgctxt "XMLTokenHelp"
+msgid "This token is what the user needs to include in their XML requests. If this token is not present in the XML request or does not match what is set here, the request will fail."
+msgstr "This token is what the user needs to include in their XML requests. If this token is not present in the XML request or does not match what is set here, the request will fail."
+
+msgctxt "RegenerateToken"
+msgid "Regenerate XML API Token"
+msgstr "Regenerate XML API Token"
+
+msgctxt "PermissionsHelp1"
+msgid "Permissions allow you to restrict which areas of the administration area this user can access. For more information on permissions please see"
+msgstr "Permissions allow you to restrict which areas of the administration area this user can access. For more information on permissions please see"
+
+msgctxt "PermissionsHelp2"
+msgid "this article"
+msgstr "this article"
+
+msgctxt "UserRole"
+msgid "User Role"
+msgstr "User Role"
+
+msgctxt "UserRoleHelp"
+msgid "Please select the role (type of permissions) that this user should receive. To assign custom permissions for this user, select custom."
+msgstr "Please select the role (type of permissions) that this user should receive. To assign custom permissions for this user, select custom."
+
+msgctxt "UserRoleSales"
+msgid "Sales Staff"
+msgstr "Sales Staff"
+
+msgctxt "UserRoleManager"
+msgid "Sales Manager"
+msgstr "Sales Manager"
+
+msgctxt "UserRoleVendor"
+msgid "Vendor Staff"
+msgstr "Vendor Staff"
+
+msgctxt "UserRoleVendorAdmin"
+msgid "Vendor Administrator"
+msgstr "Vendor Administrator"
+
+msgctxt "UserRoleAdmin"
+msgid "Store Administrator"
+msgstr "Store Administrator"
+
+msgctxt "UserRoleCustom"
+msgid "Custom"
+msgstr "Custom"
+
+msgctxt "VendorSortAsc"
+msgid "Sort by vendor (ascending)"
+msgstr "Sort by vendor (ascending)"
+
+msgctxt "VendorSortDesc"
+msgid "Sort by vendor (descending)"
+msgstr "Sort by vendor (descending)"
+
+msgctxt "ManageBrands"
+msgid "Manage Brands"
+msgstr "Manage Brands"
+
+msgctxt "ManageGiftCertificates"
+msgid "Manage Gift Certificates"
+msgstr "Manage Gift Certificates"
+
+msgctxt "DeletePages"
+msgid "Delete Pages"
+msgstr "Delete Pages"
+
+msgctxt "EditPages"
+msgid "Edit Pages"
+msgstr "Edit Pages"
+
+msgctxt "CreatePages"
+msgid "Create Pages"
+msgstr "Create Pages"
+
+msgctxt "ManagePages"
+msgid "Manage Pages"
+msgstr "Manage Pages"
+
+msgctxt "ManageExportTemplates"
+msgid "Manage Export Templates"
+msgstr "Manage Export Templates"
+
+msgctxt "ManageImages"
+msgid "Use Image Manager"
+msgstr "Use Image Manager"
+
+msgctxt "ManageFormFields"
+msgid "Manage Form Fields"
+msgstr "Manage Form Fields"
+
+msgctxt "AddFormFields"
+msgid "Add Form Fields"
+msgstr "Add Form Fields"
+
+msgctxt "EditFormFields"
+msgid "Edit Form Fields"
+msgstr "Edit Form Fields"
+
+msgctxt "DeleteFormFields"
+msgid "Delete Form Fields"
+msgstr "Delete Form Fields"
+
+msgctxt "ManageEbaySelling"
+msgid "List Products on eBay"
+msgstr "List Products on eBay"
+
+msgctxt "ManageEmailMarketing"
+msgid "Manage Email Marketing Settings"
+msgstr "Manage Email Marketing Settings"
+
+msgctxt "InactiveInfo"
+msgid "The user accounts below haven't logged in for at least :inactiveDays days. For security purposes we recommend making these accounts inactive."
+msgstr "The user accounts below haven't logged in for at least :inactiveDays days. For security purposes we recommend making these accounts inactive."
+
+msgctxt "ManageNewsCategories"
+msgid "Manage News Categories"
+msgstr "Manage News Categories"
+
+msgctxt "CreateNewsCategory"
+msgid "Create News Category"
+msgstr "Create News Category"
+
+msgctxt "EditNewsCategories"
+msgid "Edit News Categories"
+msgstr "Edit News Categories"
+
+msgctxt "DeleteNewsCategories"
+msgid "Delete News Categories"
+msgstr "Delete News Categories"
+
+msgctxt "ManageNewsComments"
+msgid "Manage News Comments"
+msgstr "Manage News Comments"
+
+msgctxt "EditNewsComments"
+msgid "Edit News Comments"
+msgstr "Edit News Comments"
+
+msgctxt "DeleteNewsComments"
+msgid "Delete News Comments"
+msgstr "Delete News Comments"
+
+msgctxt "ApproveNewsComments"
+msgid "Approve News Comments"
+msgstr "Approve News Comments"
+
+msgctxt "ManageConsultations"
+msgid "Manage Consultations"
+msgstr "Manage Consultations"
+
+msgctxt "EditConsultations"
+msgid "Edit Consultations"
+msgstr "Edit Consultations"
+
+msgctxt "DeleteConsultations"
+msgid "Delete Consultations"
+msgstr "Delete Consultations"
+
+msgctxt "ApproveConsultations"
+msgid "Approve Consultations"
+msgstr "Approve Consultations"
+
+msgctxt "ReplyConsultations"
+msgid "Reply Consultations"
+msgstr "Reply Consultations"
+
+msgctxt "AddConsultations"
+msgid "Add Consultations"
+msgstr "Add Consultations"

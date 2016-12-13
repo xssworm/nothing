@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ManageImages"
+msgid "Image Manager"
+msgstr "Image Manager"
+
+msgctxt "ManageImagesIntro"
+msgid "Click the button below to upload one or more images from your computer. You can use the image by clicking the 'Insert Image' button on the editor when creating content."
+msgstr "Click the button below to upload one or more images from your computer. You can use the image by clicking the 'Insert Image' button on the editor when creating content."
+
+msgctxt "imagemanager_breadcrumb"
+msgid "Manage Images"
+msgstr "Manage Images"
+
+msgctxt "imageManagerCurrentImages"
+msgid "Images %s-%s of %s Images Shown Below"
+msgstr "Images %s-%s of %s Images Shown Below"
+
+msgctxt "imageManagerCurrentImagesSingle"
+msgid "%s of %s Images Shown Below"
+msgstr "%s of %s Images Shown Below"
+
+msgctxt "imageManagerShowFullImage"
+msgid "View Full Size"
+msgstr "View Full Size"
+
+msgctxt "imageManager10PerPage"
+msgid "Show 10 Images Per Page"
+msgstr "Show 10 Images Per Page"
+
+msgctxt "imageManager20PerPage"
+msgid "Show 20 Images Per Page"
+msgstr "Show 20 Images Per Page"
+
+msgctxt "imageManager50PerPage"
+msgid "Show 50 Images Per Page"
+msgstr "Show 50 Images Per Page"
+
+msgctxt "imageManager100PerPage"
+msgid "Show 100 Images Per Page"
+msgstr "Show 100 Images Per Page"
+
+msgctxt "imageManagerShowAllImages"
+msgid "Show All Images"
+msgstr "Show All Images"
+
+msgctxt "imageManagerUploadImages"
+msgid "Upload Images..."
+msgstr "Upload Images..."
+
+msgctxt "imageManagerDeleteSelected"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+msgctxt "SortNameAsc"
+msgid "Sort by Name (A-Z)"
+msgstr "Sort by Name (A-Z)"
+
+msgctxt "SortNameDesc"
+msgid "Sort by Name (Z-A)"
+msgstr "Sort by Name (Z-A)"
+
+msgctxt "SortDateAsc"
+msgid "Sort by Date Modified (Newest First)"
+msgstr "Sort by Date Modified (Newest First)"
+
+msgctxt "SortDateDesc"
+msgid "Sort by Date Modified (Oldest First)"
+msgstr "Sort by Date Modified (Oldest First)"
+
+msgctxt "SortFilesizeAsc"
+msgid "Sort by File Size (Smallest First)"
+msgstr "Sort by File Size (Smallest First)"
+
+msgctxt "SortFilesizeDesc"
+msgid "Sort by File Size (Largest First)"
+msgstr "Sort by File Size (Largest First)"
+
+msgctxt "imageManagerViewFullSize"
+msgid "Click here to view the full size image"
+msgstr "Click here to view the full size image"
+
+msgctxt "PromptToCreateImage"
+msgid "You haven't uploaded any images yet. Click the 'Upload Images...' button below to upload some now."
+msgstr "You haven't uploaded any images yet. Click the 'Upload Images...' button below to upload some now."
+
+msgctxt "imageManagerClickToViewFullSize"
+msgid "Click here to view the full size image"
+msgstr "Click here to view the full size image"
+
+msgctxt "imageManagerDownload"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "imageManagerDimensions"
+msgid "Dimensions"
+msgstr "Dimensions"
+
+msgctxt "imageManagerSize"
+msgid "Size"
+msgstr "Size"
+
+msgctxt "fileRenamedSuccess"
+msgid "Your file has been successfully renamed from &quot;%from%&quot; to &quot;%to%&quot;."
+msgstr "Your file has been successfully renamed from &quot;%from%&quot; to &quot;%to%&quot;."
+
+msgctxt "fileRenamedError"
+msgid "There was an error while trying to rename your file."
+msgstr "There was an error while trying to rename your file."
+
+msgctxt "imageManagerFileDoesntExistRename"
+msgid "The requested file does not exist to rename."
+msgstr "The requested file does not exist to rename."
+
+msgctxt "imageManagerNoImagesSelectedDelete"
+msgid "No images were selected to be deleted."
+msgstr "No images were selected to be deleted."
+
+msgctxt "imageManagerRenameInvalidFileName"
+msgid "The filename that was entered is not a valid filename."
+msgstr "The filename that was entered is not a valid filename."
+
+msgctxt "imageManagerRenameFileAlreadyExists"
+msgid "The destination file already exists."
+msgstr "The destination file already exists."
+
+msgctxt "imageManagerUploadInProgress"
+msgid "Image Upload In Progress"
+msgstr "Image Upload In Progress"
+
+msgctxt "noFlashImageUploadIntro"
+msgid "Click the browse button below to select an image to upload. Once you select an image more fields will become available to select additional images."
+msgstr "Click the browse button below to select an image to upload. Once you select an image more fields will become available to select additional images."
+
+msgctxt "imageManagerFilesNotValidImages"
+msgid "The following images were not uploaded because they are not valid image files:"
+msgstr "The following images were not uploaded because they are not valid image files:"
+
+msgctxt "imageManagerSomeFilesNotValidImages"
+msgid "The following images were not uploaded because they are not valid image files (Any image not listed here was uploaded successfully)"
+msgstr "The following images were not uploaded because they are not valid image files (Any image not listed here was uploaded successfully)"
+
+msgctxt "imageManagerDuplicates"
+msgid "All images were uploaded successfully with the exception of the following which were found to be duplicates. Please rename these files and try again."
+msgstr "All images were uploaded successfully with the exception of the following which were found to be duplicates. Please rename these files and try again."
+
+msgctxt "imageManagerSuccess"
+msgid "The selected image has been uploaded and is shown below."
+msgstr "The selected image has been uploaded and is shown below."
+
+msgctxt "imageManagerMultipleSuccessThe"
+msgid "The "
+msgstr "The "
+
+msgctxt "imageManagerMultipleSuccess"
+msgid "selected images have been uploaded and are shown below."
+msgstr "selected images have been uploaded and are shown below."
+
+msgctxt "imageManagerDeleteErrors"
+msgid "An error occurred while trying to delete your selected images: "
+msgstr "An error occurred while trying to delete your selected images: "
+
+msgctxt "imageManagerDeleteSuccessSingle"
+msgid "The selected image has been deleted successfully."
+msgstr "The selected image has been deleted successfully."
+
+msgctxt "imageManagerDeleteSuccessMulti"
+msgid "The %d selected images have been deleted successfully."
+msgstr "The %d selected images have been deleted successfully."
+
+msgctxt "imageManagerDelete"
+msgid "Delete this Image"
+msgstr "Delete this Image"
+
+msgctxt "imageManagerNoImagesSelectedForDelete"
+msgid "Please choose at least one image to delete first."
+msgstr "Please choose at least one image to delete first."
+
+msgctxt "imageManagerConfirmDeleteSelectedImages"
+msgid "Are you sure you want to delete the selected images? Click OK to confirm."
+msgstr "Are you sure you want to delete the selected images? Click OK to confirm."
+
+msgctxt "imageManagerConfirmDeleteSingleImage"
+msgid "Are you sure you want to delete "
+msgstr "Are you sure you want to delete "
+
+msgctxt "imageManagerConfirmDeleteSingleImageSuffix"
+msgid "? Click OK to confirm."
+msgstr "? Click OK to confirm."
+
+msgctxt "Upload"
+msgid "Upload"
+msgstr "Upload"
+
+msgctxt "UploadingImages"
+msgid "Uploading Images"
+msgstr "Uploading Images"
+
+msgctxt "UploadImagesChooseAnImage"
+msgid "Please choose an image first by clicking the 'Browse...' button."
+msgstr "Please choose an image first by clicking the 'Browse...' button."

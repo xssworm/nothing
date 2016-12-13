@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "FormFieldsHeading"
+msgid "Form Fields"
+msgstr "Form Fields"
+
+msgctxt "FormFieldsIntro"
+msgid "You can create and manage the form fields available during checkout, registration and for addresses below. You can also drag and drop a field's &quot;Name&quot; column to rearrange it."
+msgstr "You can create and manage the form fields available during checkout, registration and for addresses below. You can also drag and drop a field's &quot;Name&quot; column to rearrange it."
+
+msgctxt "FormFieldsAddField"
+msgid "Create a New Field..."
+msgstr "Create a New Field..."
+
+msgctxt "FormFieldsDeleteSelected"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+msgctxt "FormFieldsSectionNoFields"
+msgid "There are currently no custom fields for this Checkout section."
+msgstr "There are currently no custom fields for this Checkout section."
+
+msgctxt "FormFieldsSectionAccount"
+msgid "Account Signup"
+msgstr "Account Signup"
+
+msgctxt "FormFieldsSectionAddress"
+msgid "Address"
+msgstr "Address"
+
+msgctxt "FormFieldsSectionAccountSmall"
+msgid "account"
+msgstr "account"
+
+msgctxt "FormFieldsSectionAddressSmall"
+msgid "address"
+msgstr "address"
+
+msgctxt "FormFieldsSectionTab"
+msgid "%s Fields"
+msgstr "%s Fields"
+
+msgctxt "FormFieldsBuiltIn"
+msgid "Built In"
+msgstr "Built In"
+
+msgctxt "FormFieldsUserDefined"
+msgid "User Defined"
+msgstr "User Defined"
+
+msgctxt "FormFieldsDeleteNotAllowed"
+msgid "&quot;%s&quot; is a built-in form field and cannot be deleted."
+msgstr "&quot;%s&quot; is a built-in form field and cannot be deleted."
+
+msgctxt "FormFieldsCopyNotAllowed"
+msgid "&quot;%s&quot; uses a private form field and cannot be copied."
+msgstr "&quot;%s&quot; uses a private form field and cannot be copied."
+
+msgctxt "FormFieldsEditNotAllowedNoPermission"
+msgid "You do not have permission to edit this form field."
+msgstr "You do not have permission to edit this form field."
+
+msgctxt "FormFieldsCopyNotAllowedNoPermission"
+msgid "You do not have permission to copy this form field."
+msgstr "You do not have permission to copy this form field."
+
+msgctxt "FormFieldsDeleteNotAllowedNoPermission"
+msgid "You do not have permission to delete this form field."
+msgstr "You do not have permission to delete this form field."
+
+msgctxt "FormFieldDeleteSelectedConfirm"
+msgid "Are you sure you want to delete the selected form fields? All submitted data that is associated with the selected fields will also be deleted. Click OK to confirm."
+msgstr "Are you sure you want to delete the selected form fields? All submitted data that is associated with the selected fields will also be deleted. Click OK to confirm."
+
+msgctxt "FormFieldDeleteSelectedInvalid"
+msgid "Please choose at least one form field to delete."
+msgstr "Please choose at least one form field to delete."
+
+msgctxt "FormFieldDeleteSelectedFailed"
+msgid "An unknown error has occurred when trying to delete the selected form fields. Please try again. %s"
+msgstr "An unknown error has occurred when trying to delete the selected form fields. Please try again. %s"
+
+msgctxt "FormFieldDeleteSelectedSuccess"
+msgid "The selected form fields have been deleted successfully."
+msgstr "The selected form fields have been deleted successfully."
+
+msgctxt "FormFieldDeleteInvalid"
+msgid "An unknown error has occurred when trying to delete the form field. Please try again."
+msgstr "An unknown error has occurred when trying to delete the form field. Please try again."
+
+msgctxt "FormFieldDeleteFailed"
+msgid "An unknown error has occurred when trying to delete the form field . Please try again."
+msgstr "An unknown error has occurred when trying to delete the form field . Please try again."
+
+msgctxt "FormFieldDeleteSuccess"
+msgid "The form field has been successfully deleted."
+msgstr "The form field has been successfully deleted."
+
+msgctxt "FormFieldDeleteConfirm"
+msgid "Are you sure you wish to delete this form field? All submitted data that is associated with this field will also be deleted."
+msgstr "Are you sure you wish to delete this form field? All submitted data that is associated with this field will also be deleted."
+
+msgctxt "FormFieldReordered"
+msgid "The order of the selected form fields has been changed successfully."
+msgstr "The order of the selected form fields has been changed successfully."

@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "AddShippingZone"
+msgid "Add a Shipping Zone (Step 1 of 2)"
+msgstr "Add a Shipping Zone (Step 1 of 2)"
+
+msgctxt "AddShippingZoneStep2"
+msgid "Add a Shipping Zone (Step 2 of 2)"
+msgstr "Add a Shipping Zone (Step 2 of 2)"
+
+msgctxt "EditShippingZone"
+msgid "Edit Shipping Zone"
+msgstr "Edit Shipping Zone"
+
+msgctxt "AddShippingMethod"
+msgid "Add a Shipping Method"
+msgstr "Add a Shipping Method"
+
+msgctxt "EditShippingMethod"
+msgid "Edit Shipping Method"
+msgstr "Edit Shipping Method"
+
+msgctxt "InvalidShippingMethod"
+msgid "The selected shipping method does not exist."
+msgstr "The selected shipping method does not exist."
+
+msgctxt "ShippingMethodDisabled"
+msgid "The selected shipping method has been disabled successfully."
+msgstr "The selected shipping method has been disabled successfully."
+
+msgctxt "ShippingMethodEnabled"
+msgid "The selected shipping zone has been enabled successfully."
+msgstr "The selected shipping zone has been enabled successfully."
+
+msgctxt "InvalidShippingZone"
+msgid "The selected shipping zone does not exist."
+msgstr "The selected shipping zone does not exist."
+
+msgctxt "ShippingZoneDisabled"
+msgid "The selected shipping zone has been disabled successfully."
+msgstr "The selected shipping zone has been disabled successfully."
+
+msgctxt "AddNewShippingMethodTo"
+msgid "Add a Shipping Method to %s"
+msgstr "Add a Shipping Method to %s"
+
+msgctxt "AddShippingMethodIntro"
+msgid "Add a new shipping method for this zone using the form below."
+msgstr "Add a new shipping method for this zone using the form below."
+
+msgctxt "ProblemSavingShippingMethod"
+msgid "There was a problem saving this shipping method: "
+msgstr "There was a problem saving this shipping method: "
+
+msgctxt "ShippingMethodCreated"
+msgid "The shipping method has been created successfully."
+msgstr "The shipping method has been created successfully."
+
+msgctxt "DuplicateShippingMethodName"
+msgid "A shipping method already exists with this name. Please choose another one."
+msgstr "A shipping method already exists with this name. Please choose another one."
+
+msgctxt "EditShippingMethodIn"
+msgid "Edit Shipping Method in %s"
+msgstr "Edit Shipping Method in %s"
+
+msgctxt "EditShippingMethodIntro"
+msgid "Edit the settings for this shipping method below."
+msgstr "Edit the settings for this shipping method below."
+
+msgctxt "InvalidShippingModule"
+msgid "The selected shipping module does not exist."
+msgstr "The selected shipping module does not exist."
+
+msgctxt "ShippingMethodUpdated"
+msgid "The shipping method has been updated successfully."
+msgstr "The shipping method has been updated successfully."
+
+msgctxt "ShippingMethodsDeleted"
+msgid "The selected shipping methods have been deleted successfully."
+msgstr "The selected shipping methods have been deleted successfully."
+
+msgctxt "EditShippingZoneIntro"
+msgid "Edit the settings for this shipping zone below. The shipping methods for this zone can be managed from the &quot;Manage Shipping Methods&quot; tab."
+msgstr "Edit the settings for this shipping zone below. The shipping methods for this zone can be managed from the &quot;Manage Shipping Methods&quot; tab."
+
+msgctxt "DuplicateShippingZoneName"
+msgid "A shipping zone already exists with this name. Please choose another one."
+msgstr "A shipping zone already exists with this name. Please choose another one."
+
+msgctxt "ShippingZoneDuplicateCountries"
+msgid "The following countries are already in use by another country based shipping zone: %s"
+msgstr "The following countries are already in use by another country based shipping zone: %s"
+
+msgctxt "ShippingZoneDuplicateStates"
+msgid "The following states are already in use by another states based shipping zone: %s"
+msgstr "The following states are already in use by another states based shipping zone: %s"
+
+msgctxt "ShippingZoneDuplicateZipCodes"
+msgid "The following ZIP codes are already in use by another ZIP code based shipping zone: %s"
+msgstr "The following ZIP codes are already in use by another ZIP code based shipping zone: %s"
+
+msgctxt "ProblemSavingShippingZone"
+msgid "There was a problem saving this shipping zone: "
+msgstr "There was a problem saving this shipping zone: "
+
+msgctxt "ShippingZoneUpdated"
+msgid "The shipping zone has been updated successfully."
+msgstr "The shipping zone has been updated successfully."
+
+msgctxt "AddShippingZoneIntro"
+msgid "Create a new shipping zone below. You will be able to configure the available shipping methods for this zone after saving it."
+msgstr "Create a new shipping zone below. You will be able to configure the available shipping methods for this zone after saving it."
+
+msgctxt "ShippingZoneCreated"
+msgid "The shipping zone has been created successfully. You now need to choose which shipping methods will be available for that zone."
+msgstr "The shipping zone has been created successfully. You now need to choose which shipping methods will be available for that zone."
+
+msgctxt "ShippingZoneCopied"
+msgid "The shipping zone has been copied successfully. Please assign it to one or more locations below."
+msgstr "The shipping zone has been copied successfully. Please assign it to one or more locations below."
+
+msgctxt "ShippingZonesDeleted"
+msgid "The selected shipping zones have been deleted successfully."
+msgstr "The selected shipping zones have been deleted successfully."
+
+msgctxt "ShippingZoneEverywhereElse"
+msgid "Everywhere Else"
+msgstr "Everywhere Else"
+
+msgctxt "ShippingZoneEverywhereElseHelp"
+msgid "The default zone applies to any locations that you haven&#39;t created shipping zones for."
+msgstr "The default zone applies to any locations that you haven&#39;t created shipping zones for."
+
+msgctxt "WhatDoesThisMean"
+msgid "What does this mean?"
+msgstr "What does this mean?"
+
+msgctxt "ZoneTypeGlobal"
+msgid "Global"
+msgstr "Global"
+
+msgctxt "ZoneTypeState"
+msgid "State Based"
+msgstr "State Based"
+
+msgctxt "ZoneTypeZip"
+msgid "ZIP/Post Code Based"
+msgstr "ZIP/Post Code Based"
+
+msgctxt "ZoneTypeCountry"
+msgid "Country Based"
+msgstr "Country Based"
+
+msgctxt "ShippingZoneNoMethods"
+msgid "No shipping methods are configured for this shipping zone. Please click &quot;Add a Shipping Method&quot; to add a shipping method to this zone."
+msgstr "No shipping methods are configured for this shipping zone. Please click &quot;Add a Shipping Method&quot; to add a shipping method to this zone."
+
+msgctxt "GetQuote"
+msgid "Get Quote"
+msgstr "Get Quote"
+
+msgctxt "ZoneSettings"
+msgid "Zone Settings"
+msgstr "Zone Settings"
+
+msgctxt "ShippingMethods"
+msgid "Shipping Methods"
+msgstr "Shipping Methods"
+
+msgctxt "ShippingZoneSettings"
+msgid "Shipping Zone Settings"
+msgstr "Shipping Zone Settings"
+
+msgctxt "ShippingZoneName"
+msgid "Shipping Zone Name"
+msgstr "Shipping Zone Name"
+
+msgctxt "ShippingZoneNameHelp"
+msgid "Enter a name describing this shipping zone. This name is only shown within the control panel."
+msgstr "Enter a name describing this shipping zone. This name is only shown within the control panel."
+
+msgctxt "ShippingZoneType"
+msgid "Shipping Zone Type"
+msgstr "Shipping Zone Type"
+
+msgctxt "ShippingZoneTypeGlobal"
+msgid "This shipping zone applies to any other location not already assigned to another zone."
+msgstr "This shipping zone applies to any other location not already assigned to another zone."
+
+msgctxt "ShippingZoneTypeCountry"
+msgid "This shipping zone is based on one or more countries"
+msgstr "This shipping zone is based on one or more countries"
+
+msgctxt "ShippingZoneTypeState"
+msgid "This shipping zone is based on one or more states or provinces"
+msgstr "This shipping zone is based on one or more states or provinces"
+
+msgctxt "SelectOneOrMoreCountriesFirst"
+msgid "Select one or more countries first"
+msgstr "Select one or more countries first"
+
+msgctxt "ShippingZoneTypeZip"
+msgid "This shipping zone is based on one or more postal or ZIP codes"
+msgstr "This shipping zone is based on one or more postal or ZIP codes"
+
+msgctxt "ZipPostCodes"
+msgid "ZIP/Post Codes"
+msgstr "ZIP/Post Codes"
+
+msgctxt "ZipPostCodesPerLine"
+msgid "Enter one post code per line. Wild cards are supported."
+msgstr "Enter one post code per line. Wild cards are supported."
+
+msgctxt "LearnMoreAboutEnteringPostCodes"
+msgid "Learn more about entering post codes"
+msgstr "Learn more about entering post codes"
+
+msgctxt "FreeShippingAndHandlingSettings"
+msgid "Free Shipping &amp; Handling Fee Settings"
+msgstr "Free Shipping &amp; Handling Fee Settings"
+
+msgctxt "EnableFreeShipping"
+msgid "Enable Free Shipping"
+msgstr "Enable Free Shipping"
+
+msgctxt "YesEnableFreeShipping"
+msgid "Yes, enable free shipping options for this zone"
+msgstr "Yes, enable free shipping options for this zone"
+
+msgctxt "EnableFreeShippingHelp"
+msgid "If enabled, customers whose orders reach the specified &quot;Order Total To Qualify&quot; will have the option of choosing free shipping for their order during checkout."
+msgstr "If enabled, customers whose orders reach the specified &quot;Order Total To Qualify&quot; will have the option of choosing free shipping for their order during checkout."
+
+msgctxt "OrderTotalToQualify"
+msgid "Order Total to Qualify"
+msgstr "Order Total to Qualify"
+
+msgctxt "HandlingFee"
+msgid "Handling Fee"
+msgstr "Handling Fee"
+
+msgctxt "DoNotApplyZoneHandling"
+msgid "Do not apply a handling fee to this zone"
+msgstr "Do not apply a handling fee to this zone"
+
+msgctxt "ApplyZoneHandling1"
+msgid "Apply a single handling fee to all shipping methods in this zone"
+msgstr "Apply a single handling fee to all shipping methods in this zone"
+
+msgctxt "ApplyZoneHandling2"
+msgid "I'll specify a handling fee for each of the shipping methods in this zone"
+msgstr "I'll specify a handling fee for each of the shipping methods in this zone"
+
+msgctxt "ZoneShippingMethodsIntro"
+msgid "The shipping methods configured for this zone are below. Add a new shipping method to this zone by clicking &quot;Add a Shipping Method&quot;."
+msgstr "The shipping methods configured for this zone are below. Add a new shipping method to this zone by clicking &quot;Add a Shipping Method&quot;."
+
+msgctxt "AddAShippingMethodButton"
+msgid "Add a Shipping Method..."
+msgstr "Add a Shipping Method..."
+
+msgctxt "ShippingMethod"
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+msgctxt "EnterShippingZoneName"
+msgid "Please enter a name for this shipping zone."
+msgstr "Please enter a name for this shipping zone."
+
+msgctxt "SelectOneMoreZoneCountries"
+msgid "Please select one or more countries to assign to this shipping zone."
+msgstr "Please select one or more countries to assign to this shipping zone."
+
+msgctxt "SelectOneMoreZoneStates"
+msgid "Please select one or more states to assign to this shipping zone."
+msgstr "Please select one or more states to assign to this shipping zone."
+
+msgctxt "SelectZoneZipCountry"
+msgid "Please select a country that the ZIP or post codes in this zone belong to."
+msgstr "Please select a country that the ZIP or post codes in this zone belong to."
+
+msgctxt "EnterOneMoreZoneZipCodes"
+msgid "Please enter one or more ZIP or post codes to assign to this shipping zone."
+msgstr "Please enter one or more ZIP or post codes to assign to this shipping zone."
+
+msgctxt "SelectZoneType"
+msgid "Please select the type of this shipping zone."
+msgstr "Please select the type of this shipping zone."
+
+msgctxt "EnterValidFreeShippingTotal"
+msgid "Please enter a valid price for the order total to quality for free shipping."
+msgstr "Please enter a valid price for the order total to quality for free shipping."
+
+msgctxt "EnterValidHandlingFee"
+msgid "Please enter a valid handling fee."
+msgstr "Please enter a valid handling fee."
+
+msgctxt "AllStatesProvinces"
+msgid "All States/Provinces"
+msgstr "All States/Provinces"
+
+msgctxt "SelectOneMoreShippingMethodsDelete"
+msgid "Please select one or more shipping methods to delete."
+msgstr "Please select one or more shipping methods to delete."
+
+msgctxt "ConfirmDeleteShippingMethods"
+msgid "Are you sure you want to delete the selected shipping methods?"
+msgstr "Are you sure you want to delete the selected shipping methods?"
+
+msgctxt "ShippingMethodSettings"
+msgid "Shipping Method Settings"
+msgstr "Shipping Method Settings"
+
+msgctxt "ShippingMethodHelp"
+msgid "Please select the shipping module that this shipping method should use as a base for calculating shipping costs. Once you select a module, you will be able to configure it below."
+msgstr "Please select the shipping module that this shipping method should use as a base for calculating shipping costs. Once you select a module, you will be able to configure it below."
+
+msgctxt "DisplayName"
+msgid "Display Name"
+msgstr "Display Name"
+
+msgctxt "ShippingMethodDisplayNameHelp"
+msgid "Enter a name describing this shipping zone. This name is only shown within the control panel."
+msgstr "Enter a name describing this shipping zone. This name is only shown within the control panel."
+
+msgctxt "ChooseShippingMethodFirst"
+msgid "Please choose a shipping method first."
+msgstr "Please choose a shipping method first."
+
+msgctxt "SelectShippingMethod"
+msgid "Please select a shipping method."
+msgstr "Please select a shipping method."
+
+msgctxt "EnterShippingMethodName"
+msgid "Please enter a name for this shipping method."
+msgstr "Please enter a name for this shipping method."
+
+msgctxt "ZoneName"
+msgid "Zone Name"
+msgstr "Zone Name"
+
+msgctxt "ZoneType"
+msgid "Zone Type"
+msgstr "Zone Type"
+
+msgctxt "EditSettings"
+msgid "Edit Settings"
+msgstr "Edit Settings"
+
+msgctxt "EditMethods"
+msgid "Edit Methods"
+msgstr "Edit Methods"
+
+msgctxt "StoreLocation"
+msgid "Store Location"
+msgstr "Store Location"
+
+msgctxt "ShippingZones"
+msgid "Shipping Zones"
+msgstr "Shipping Zones"
+
+msgctxt "AddShippingZoneButton"
+msgid "Add a Shipping Zone..."
+msgstr "Add a Shipping Zone..."
+
+msgctxt "SelectOneMoreZonesDelete"
+msgid "Please select one or more shipping zones to delete."
+msgstr "Please select one or more shipping zones to delete."
+
+msgctxt "ConfirmDeleteZones"
+msgid "Are you sure you want to delete the selected shipping zones?"
+msgstr "Are you sure you want to delete the selected shipping zones?"
+
+msgctxt "ConfirmDeleteZone"
+msgid "Are you sure you want to delete the selected shipping zone?"
+msgstr "Are you sure you want to delete the selected shipping zone?"
+
+msgctxt "ShippingSettingsIntro"
+msgid "Update the shipping settings in the form below. To configure available shipping zones and shipping methods, click the &quot;Shipping Zones&quot; tab."
+msgstr "Update the shipping settings in the form below. To configure available shipping zones and shipping methods, click the &quot;Shipping Zones&quot; tab."
+
+msgctxt "YourLocation"
+msgid "Your Location"
+msgstr "Your Location"
+
+msgctxt "CompanyName"
+msgid "Company Name"
+msgstr "Company Name"
+
+msgctxt "CompanyAddress"
+msgid "Company Address"
+msgstr "Company Address"
+
+msgctxt "CompanyCity"
+msgid "Company City"
+msgstr "Company City"
+
+msgctxt "CompanyState"
+msgid "Company State"
+msgstr "Company State"
+
+msgctxt "CompanyCountry"
+msgid "Company Country"
+msgstr "Company Country"
+
+msgctxt "ChooseACountry"
+msgid "Choose a Country"
+msgstr "Choose a Country"
+
+msgctxt "ChooseAState"
+msgid "Choose a State"
+msgstr "Choose a State"
+
+msgctxt "CompanyZip"
+msgid "Zip/Postcode"
+msgstr "Zip/Postcode"
+
+msgctxt "CompanyNameHelp"
+msgid "The full name of your company, such as ACME Widgets Inc."
+msgstr "The full name of your company, such as ACME Widgets Inc."
+
+msgctxt "CompanyAddressHelp"
+msgid "The full street address of your company, such as 21 Smith Street."
+msgstr "The full street address of your company, such as 21 Smith Street."
+
+msgctxt "CompanyCityHelp"
+msgid "The city or providence where your company is located."
+msgstr "The city or providence where your company is located."
+
+msgctxt "CompanyCountryHelp"
+msgid "The country where your company is located."
+msgstr "The country where your company is located."
+
+msgctxt "CompanyZipHelp"
+msgid "The zip/postcode where your company is located."
+msgstr "The zip/postcode where your company is located."
+
+msgctxt "ConfirmCancelShippingSettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "EnterCompanyName"
+msgid "Please enter your company's name."
+msgstr "Please enter your company's name."
+
+msgctxt "EnterCompanyAddress"
+msgid "Please enter your company's address."
+msgstr "Please enter your company's address."
+
+msgctxt "EnterCompanyCity"
+msgid "Please enter your company's city."
+msgstr "Please enter your company's city."
+
+msgctxt "SelectCompanyCountry"
+msgid "Please choose your company's country."
+msgstr "Please choose your company's country."
+
+msgctxt "SelectEnterCompanyState"
+msgid "Please select or enter your company's state."
+msgstr "Please select or enter your company's state."
+
+msgctxt "EnterCompanyZip"
+msgid "Please enter your company's zip/postcode."
+msgstr "Please enter your company's zip/postcode."
+
+msgctxt "ShippingSettingsSavedSuccessfully"
+msgid "The modified shipping settings have been saved successfully."
+msgstr "The modified shipping settings have been saved successfully."
+
+msgctxt "ShippingSettingsNotSaved"
+msgid "An error occurred while trying to save the shipping settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the shipping settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "ShowSeparately"
+msgid "Show Separately?"
+msgstr "Show Separately?"
+
+msgctxt "ShowSeparatelyHelp"
+msgid "Do you want the handling fee to be shown separately to the shipping fee on the shopping cart, checkout page and invoice? If yes, tick this box. If not untick this box and the handling fee will be added to the shipping fee for each order."
+msgstr "Do you want the handling fee to be shown separately to the shipping fee on the shopping cart, checkout page and invoice? If yes, tick this box. If not untick this box and the handling fee will be added to the shipping fee for each order."
+
+msgctxt "YesShowSeparately"
+msgid "Yes, show the handling fee separately"
+msgstr "Yes, show the handling fee separately"
+
+msgctxt "RealTimeShippingQuotes"
+msgid "Real Time Shipping Quotes"
+msgstr "Real Time Shipping Quotes"
+
+msgctxt "FixedShippingQuotes"
+msgid "Fixed Shipping Quotes"
+msgstr "Fixed Shipping Quotes"
+
+msgctxt "EnableShippingMethod"
+msgid "Enable Shipping Method"
+msgstr "Enable Shipping Method"
+
+msgctxt "YesEnableShippingMethod"
+msgid "Yes, enable this shipping method"
+msgstr "Yes, enable this shipping method"
+
+msgctxt "EnableShippingMethodHelp"
+msgid "To temporarily disable this shipping method (so that it will not be used when performing shipping calculations) for this zone, untick this box."
+msgstr "To temporarily disable this shipping method (so that it will not be used when performing shipping calculations) for this zone, untick this box."
+
+msgctxt "EnableShippingZone"
+msgid "Enable Shipping Zone"
+msgstr "Enable Shipping Zone"
+
+msgctxt "YesEnableShippingZone"
+msgid "Yes, enable this shipping zone"
+msgstr "Yes, enable this shipping zone"
+
+msgctxt "EnableShippingZoneHelp"
+msgid "To temporarily disable this shipping zone (so that it will not be used when performing shipping zone lookups form addresses), untick this box"
+msgstr "To temporarily disable this shipping zone (so that it will not be used when performing shipping zone lookups form addresses), untick this box"
+
+msgctxt "NoShippingZones"
+msgid "Your store does not have any shipping zones configured. Please click 'Add Shipping Zone...' to create one."
+msgstr "Your store does not have any shipping zones configured. Please click 'Add Shipping Zone...' to create one."
+
+msgctxt "WizardShippingOptions"
+msgid "Shipping Options"
+msgstr "Shipping Options"
+
+msgctxt "WizardShippingOptionsDesc"
+msgid "During this step you will choose the shipping options available to customers when they place an order on your store."
+msgstr "During this step you will choose the shipping options available to customers when they place an order on your store."

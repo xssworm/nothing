@@ -1,0 +1,2386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "Ebay"
+msgid "Sell on eBay"
+msgstr "Sell on eBay"
+
+msgctxt "EbayHelp"
+msgid "To learn how to sell your products on eBay, please read <a href='javascript: LaunchHelp(899);'>this tutorial</a>."
+msgstr "To learn how to sell your products on eBay, please read <a href='javascript: LaunchHelp(899);'>this tutorial</a>."
+
+msgctxt "EbaySellingSettings"
+msgid "eBay Selling Settings"
+msgstr "eBay Selling Settings"
+
+msgctxt "EbayListingTemplate"
+msgid "eBay Listing Templates"
+msgstr "eBay Listing Templates"
+
+msgctxt "EbayDevId"
+msgid "eBay DevID"
+msgstr "eBay DevID"
+
+msgctxt "EbayDevIdHelp"
+msgid "The unique identifier for your developer account. You can find this in the <em>My Account</em> section of your developer account."
+msgstr "The unique identifier for your developer account. You can find this in the <em>My Account</em> section of your developer account."
+
+msgctxt "EbayAppId"
+msgid "eBay AppID"
+msgstr "eBay AppID"
+
+msgctxt "EbayAppIdHelp"
+msgid "The unique identifier for the application. You can find this in the <em>My Account</em> section of your developer account."
+msgstr "The unique identifier for the application. You can find this in the <em>My Account</em> section of your developer account."
+
+msgctxt "EbayCertId"
+msgid "eBay CertID"
+msgstr "eBay CertID"
+
+msgctxt "EbayCertIdHelp"
+msgid "The certificate that authenticates the application. You can find this in the <em>My Account</em> section of your developer account."
+msgstr "The certificate that authenticates the application. You can find this in the <em>My Account</em> section of your developer account."
+
+msgctxt "EbayUserToken"
+msgid "eBay User Token"
+msgstr "eBay User Token"
+
+msgctxt "EbayUserTokenHelp"
+msgid "Your eBay authentication token. You can generate a token by using the <em>Get a User Token</em> tool in your developer account."
+msgstr "Your eBay authentication token. You can generate a token by using the <em>Get a User Token</em> tool in your developer account."
+
+msgctxt "EbayDefaultSite"
+msgid "Default eBay Site"
+msgstr "Default eBay Site"
+
+msgctxt "EbayDefaultSiteHelp"
+msgid "Select the eBay Site which will be selected by default when creating listing templates.<br /><br />To add more countries, simply add more currencies to your online store from the Settings -> Currency Settings menu at the top right of this page."
+msgstr "Select the eBay Site which will be selected by default when creating listing templates.<br /><br />To add more countries, simply add more currencies to your online store from the Settings -> Currency Settings menu at the top right of this page."
+
+msgctxt "EbayStore"
+msgid "eBay Store"
+msgstr "eBay Store"
+
+msgctxt "EbayStoreDesc"
+msgid "<span id='ebaystorevalue'>%s</span> <a href='#' id='checkstore'>Check for eBay store</a>"
+msgstr "<span id='ebaystorevalue'>%s</span> <a href='#' id='checkstore'>Check for eBay store</a>"
+
+msgctxt "EbayNoStoreDesc"
+msgid "No eBay store found."
+msgstr "No eBay store found."
+
+msgctxt "EbayStoreHelp"
+msgid "The eBay store of your eBay account"
+msgstr "The eBay store of your eBay account"
+
+msgctxt "EbayAuSite"
+msgid "Australia"
+msgstr "Australia"
+
+msgctxt "EbayAtSite"
+msgid "Austria"
+msgstr "Austria"
+
+msgctxt "EbayBenlSite"
+msgid "Belgium (Dutch)"
+msgstr "Belgium (Dutch)"
+
+msgctxt "EbayBefrSite"
+msgid "Belgium (French)"
+msgstr "Belgium (French)"
+
+msgctxt "EbayCaSite"
+msgid "Canada"
+msgstr "Canada"
+
+msgctxt "EbayCafrSite"
+msgid "Canada (French)"
+msgstr "Canada (French)"
+
+msgctxt "EbayFrSite"
+msgid "France"
+msgstr "France"
+
+msgctxt "EbayDeSite"
+msgid "Germany"
+msgstr "Germany"
+
+msgctxt "EbayHkSite"
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgctxt "EbayIeSite"
+msgid "Ireland"
+msgstr "Ireland"
+
+msgctxt "EbayInSite"
+msgid "India"
+msgstr "India"
+
+msgctxt "EbayItSite"
+msgid "Italy"
+msgstr "Italy"
+
+msgctxt "EbayMySite"
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgctxt "EbayNlSite"
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgctxt "EbayPhSite"
+msgid "Philippines"
+msgstr "Philippines"
+
+msgctxt "EbayPlSite"
+msgid "Poland"
+msgstr "Poland"
+
+msgctxt "EbaySgSite"
+msgid "Singapore"
+msgstr "Singapore"
+
+msgctxt "EbayEsSite"
+msgid "Spain"
+msgstr "Spain"
+
+msgctxt "EbayChSite"
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgctxt "EbayUkSite"
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgctxt "EbayUsSite"
+msgid "United States"
+msgstr "United States"
+
+msgctxt "EbayMotorsSite"
+msgid "US eBay Motors"
+msgstr "US eBay Motors"
+
+msgctxt "EbayAuSiteId"
+msgid "15"
+msgstr "15"
+
+msgctxt "EbayAtSiteId"
+msgid "16"
+msgstr "16"
+
+msgctxt "EbayBenlSiteId"
+msgid "123"
+msgstr "123"
+
+msgctxt "EbayBefrSiteId"
+msgid "23"
+msgstr "23"
+
+msgctxt "EbayCaSiteId"
+msgid "2"
+msgstr "2"
+
+msgctxt "EbayCafrSiteId"
+msgid "210"
+msgstr "210"
+
+msgctxt "EbayFrSiteId"
+msgid "71"
+msgstr "71"
+
+msgctxt "EbayDeSiteId"
+msgid "77"
+msgstr "77"
+
+msgctxt "EbayHkSiteId"
+msgid "201"
+msgstr "201"
+
+msgctxt "EbayIeSiteId"
+msgid "205"
+msgstr "205"
+
+msgctxt "EbayInSiteId"
+msgid "203"
+msgstr "203"
+
+msgctxt "EbayItSiteId"
+msgid "101"
+msgstr "101"
+
+msgctxt "EbayMySiteId"
+msgid "207"
+msgstr "207"
+
+msgctxt "EbayNlSiteId"
+msgid "146"
+msgstr "146"
+
+msgctxt "EbayPhSiteId"
+msgid "211"
+msgstr "211"
+
+msgctxt "EbayPlSiteId"
+msgid "212"
+msgstr "212"
+
+msgctxt "EbaySgSiteId"
+msgid "216"
+msgstr "216"
+
+msgctxt "EbayEsSiteId"
+msgid "186"
+msgstr "186"
+
+msgctxt "EbayChSiteId"
+msgid "193"
+msgstr "193"
+
+msgctxt "EbayUkSiteId"
+msgid "3"
+msgstr "3"
+
+msgctxt "EbayUsSiteId"
+msgid "0"
+msgstr "0"
+
+msgctxt "EbayAuSiteCurrency"
+msgid "AUD"
+msgstr "AUD"
+
+msgctxt "EbayCaSiteCurrency"
+msgid "CAD"
+msgstr "CAD"
+
+msgctxt "EbayUkSiteCurrency"
+msgid "GBP"
+msgstr "GBP"
+
+msgctxt "EbayUsSiteCurrency"
+msgid "USD"
+msgstr "USD"
+
+msgctxt "EbayAuSiteCode"
+msgid "Australia"
+msgstr "Australia"
+
+msgctxt "EbayCaSiteCode"
+msgid "Canada"
+msgstr "Canada"
+
+msgctxt "EbayUkSiteCode"
+msgid "UK"
+msgstr "UK"
+
+msgctxt "EbayUsSiteCode"
+msgid "US"
+msgstr "US"
+
+msgctxt "EbayMotorsSiteId"
+msgid "100"
+msgstr "100"
+
+msgctxt "EbaySettingsSavedSuccessfully"
+msgid "Your eBay settings have been saved successfully. Click the &quot;eBay Listing Templates&quot; tab above to create your first listing template."
+msgstr "Your eBay settings have been saved successfully. Click the &quot;eBay Listing Templates&quot; tab above to create your first listing template."
+
+msgctxt "EbayKeysRemovedSuccessfully"
+msgid "Your eBay keys settings have been removed successfully."
+msgstr "Your eBay keys settings have been removed successfully."
+
+msgctxt "EbaySettingsNotSaved"
+msgid "An error occurred while trying to save the eBay settings."
+msgstr "An error occurred while trying to save the eBay settings."
+
+msgctxt "EbaySettingsNotValid"
+msgid "Your eBay settings appear to be incorrect."
+msgstr "Your eBay settings appear to be incorrect."
+
+msgctxt "EbayNotificationsNotSubscribed"
+msgid "An error occurred while trying to trying to subscribe your store to eBay notifications: :message"
+msgstr "An error occurred while trying to trying to subscribe your store to eBay notifications: :message"
+
+msgctxt "EbayStoreKeysMissing"
+msgid "Please save your eBay settings before you can retrieve your eBay store."
+msgstr "Please save your eBay settings before you can retrieve your eBay store."
+
+msgctxt "ConfirmCancelEbaySettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "EbayEnterDevId"
+msgid "Please enter an eBay DevID."
+msgstr "Please enter an eBay DevID."
+
+msgctxt "EbayEnterAppID"
+msgid "Please enter an eBay AppID."
+msgstr "Please enter an eBay AppID."
+
+msgctxt "EbayEnterCertID"
+msgid "Please enter an eBay CertID."
+msgstr "Please enter an eBay CertID."
+
+msgctxt "EbayEnterUserToken"
+msgid "Please enter an eBay UserToken."
+msgstr "Please enter an eBay UserToken."
+
+msgctxt "EbayEnterDefaultSiteId"
+msgid "Please enter an eBay DefaultSiteId."
+msgstr "Please enter an eBay DefaultSiteId."
+
+msgctxt "CreateEbayTemplate"
+msgid "Create an eBay Listing Template"
+msgstr "Create an eBay Listing Template"
+
+msgctxt "EbayListingGeneral"
+msgid "General"
+msgstr "General"
+
+msgctxt "ListingDuration"
+msgid "Listing Duration:"
+msgstr "Listing Duration:"
+
+msgctxt "ListingDurationHelp"
+msgid "The duration you wish your auction to run for. If after the duration your item has had a bid placed (which has reached your reserve price if specified) then you are obligated to sell the item."
+msgstr "The duration you wish your auction to run for. If after the duration your item has had a bid placed (which has reached your reserve price if specified) then you are obligated to sell the item."
+
+msgctxt "ListingDurationDays"
+msgid "%d Day(s)"
+msgstr "%d Day(s)"
+
+msgctxt "NoEbayStoreFound"
+msgid "No eBay Store was found for the selected eBay account. Would you like to learn how to setup your own eBay store now? If so, click the OK button."
+msgstr "No eBay Store was found for the selected eBay account. Would you like to learn how to setup your own eBay store now? If so, click the OK button."
+
+msgctxt "Plus"
+msgid "plus"
+msgstr "plus"
+
+msgctxt "Minus"
+msgid "minus"
+msgstr "minus"
+
+msgctxt "Percent"
+msgid "%"
+msgstr "%"
+
+msgctxt "ChooseEbayCategory"
+msgid "Choose an eBay Category"
+msgstr "Choose an eBay Category"
+
+msgctxt "ChooseEbayCategoryIntro"
+msgid "Click a main category below and then choose a sub category for where the product(s) will be listed on eBay."
+msgstr "Click a main category below and then choose a sub category for where the product(s) will be listed on eBay."
+
+msgctxt "ChooseEbayCategoryAttr"
+msgid "Choose Category Attributes"
+msgstr "Choose Category Attributes"
+
+msgctxt "AddCategory"
+msgid "Add Category"
+msgstr "Add Category"
+
+msgctxt "EbayCategorySelected"
+msgid "You have selected a valid eBay category."
+msgstr "You have selected a valid eBay category."
+
+msgctxt "EbayCategoryNotSelected"
+msgid "Please select a Category to List your Item"
+msgstr "Please select a Category to List your Item"
+
+msgctxt "EbayStoreMethod"
+msgid "eBay Store"
+msgstr "eBay Store"
+
+msgctxt "QuantityToSell"
+msgid "Quantity to Sell:"
+msgstr "Quantity to Sell:"
+
+msgctxt "JustOne"
+msgid "Just one"
+msgstr "Just one"
+
+msgctxt "JustOneHelp"
+msgid "Select this option if you wish to sell a single item."
+msgstr "Select this option if you wish to sell a single item."
+
+msgctxt "MoreThanOne"
+msgid "More than one"
+msgstr "More than one"
+
+msgctxt "MoreThanOneHelp"
+msgid "Select this option if you have more than one item you wish to sell. Conditions apply."
+msgstr "Select this option if you have more than one item you wish to sell. Conditions apply."
+
+msgctxt "SellMoreRequirementsDesc"
+msgid "To sell more than one item on eBay (Fixed Price listings only), you must"
+msgstr "To sell more than one item on eBay (Fixed Price listings only), you must"
+
+msgctxt "SellMoreRequirement1"
+msgid "Accept PayPal as a payment method and have a feedback rating of 15 or more <em>OR</em>"
+msgstr "Accept PayPal as a payment method and have a feedback rating of 15 or more <em>OR</em>"
+
+msgctxt "SellMoreRequirement2"
+msgid "Have a feedback rating of 30 or above and be registered on eBay for 14 days or more <em>OR</em>"
+msgstr "Have a feedback rating of 30 or above and be registered on eBay for 14 days or more <em>OR</em>"
+
+msgctxt "SellMoreRequirement3"
+msgid "Be ID verified"
+msgstr "Be ID verified"
+
+msgctxt "LotSize"
+msgid "Lot Size:"
+msgstr "Lot Size:"
+
+msgctxt "LotSizeHelpTitle"
+msgid "Lot Size"
+msgstr "Lot Size"
+
+msgctxt "LotSizeHelp"
+msgid "If this is a bulk lot listing, then you can enter the amount of items in the lot.<br /><br />Specifying a lot size ensures buyers can locate lots easily using eBay's search. It will also provide buyers with per-unit pricing with automatic updates as the price of the auction changes."
+msgstr "If this is a bulk lot listing, then you can enter the amount of items in the lot.<br /><br />Specifying a lot size ensures buyers can locate lots easily using eBay's search. It will also provide buyers with per-unit pricing with automatic updates as the price of the auction changes."
+
+msgctxt "AuctionCategoryType"
+msgid "auction"
+msgstr "auction"
+
+msgctxt "StoreCategoryType"
+msgid "store"
+msgstr "store"
+
+msgctxt "PaymentDetails"
+msgid "Payment Details"
+msgstr "Payment Details"
+
+msgctxt "PaymentMethods"
+msgid "Payment Methods:"
+msgstr "Payment Methods:"
+
+msgctxt "CacheUpdateName"
+msgid "Loading information from eBay. Please wait..."
+msgstr "Loading information from eBay. Please wait..."
+
+msgctxt "EbayRequestProblem"
+msgid "A problem occurred when updating the eBay cache."
+msgstr "A problem occurred when updating the eBay cache."
+
+msgctxt "DatabaseSaveFail"
+msgid "Error occurred when saving data to the database."
+msgstr "Error occurred when saving data to the database."
+
+msgctxt "CheckoutInstructions"
+msgid "Checkout Instructions:"
+msgstr "Checkout Instructions:"
+
+msgctxt "ProductImageDescription"
+msgid "Item Description & Images"
+msgstr "Item Description & Images"
+
+msgctxt "ItemLocationDetails"
+msgid "Item Location"
+msgstr "Item Location"
+
+msgctxt "CountryDetails"
+msgid "Country:"
+msgstr "Country:"
+
+msgctxt "ZipPostcodeDetails"
+msgid "Zip/Postcode:"
+msgstr "Zip/Postcode:"
+
+msgctxt "ZipPostcodeDetailsHelpTitle"
+msgid "Zip or Postcode"
+msgstr "Zip or Postcode"
+
+msgctxt "ZipPostcodeDetailsHelp"
+msgid "Entering a zip or postcode will allow your products to appear in distance based searches."
+msgstr "Entering a zip or postcode will allow your products to appear in distance based searches."
+
+msgctxt "ItemTitle"
+msgid "Item Title"
+msgstr "Item Title"
+
+msgctxt "ItemTitleText"
+msgid "Use the product name as it appears in my store"
+msgstr "Use the product name as it appears in my store"
+
+msgctxt "ItemSku"
+msgid "Item SKU"
+msgstr "Item SKU"
+
+msgctxt "ItemSkuText"
+msgid "Use the product SKU as it appears in my store"
+msgstr "Use the product SKU as it appears in my store"
+
+msgctxt "ItemDescription"
+msgid "Item Description"
+msgstr "Item Description"
+
+msgctxt "ItemDescriptionText"
+msgid "Use the product description as it appears in my store"
+msgstr "Use the product description as it appears in my store"
+
+msgctxt "ItemSubtitle"
+msgid "Item Subtitle"
+msgstr "Item Subtitle"
+
+msgctxt "ItemPhotos"
+msgid "Item Photo(s)"
+msgstr "Item Photo(s)"
+
+msgctxt "UseThisInstead"
+msgid "Use This Instead"
+msgstr "Use This Instead"
+
+msgctxt "UseProductPhotos"
+msgid "Use the product's default photo (recommended)"
+msgstr "Use the product's default photo (recommended)"
+
+msgctxt "UseInternetPhotos"
+msgid "Use a photo available on the internet"
+msgstr "Use a photo available on the internet"
+
+msgctxt "UseAdditionalPhotos"
+msgid "I have additional photos hosted with eBay picture services"
+msgstr "I have additional photos hosted with eBay picture services"
+
+msgctxt "PhotoNum"
+msgid "Photo #"
+msgstr "Photo #"
+
+msgctxt "CheckoutReturnPolicyDetails"
+msgid "Checkout & Return Policy Details"
+msgstr "Checkout & Return Policy Details"
+
+msgctxt "DoYouAcceptReturns"
+msgid "Do You Accept Returns?"
+msgstr "Do You Accept Returns?"
+
+msgctxt "ReturnOfferedAs"
+msgid "Return Offered As:"
+msgstr "Return Offered As:"
+
+msgctxt "ReturnsPeriod"
+msgid "Returns Period:"
+msgstr "Returns Period:"
+
+msgctxt "ReturnShippingCostBy"
+msgid "Return Shipping Cost Paid By:"
+msgstr "Return Shipping Cost Paid By:"
+
+msgctxt "AdditionalPolicyInfo"
+msgid "Additional Policy Info:"
+msgstr "Additional Policy Info:"
+
+msgctxt "HttpDefaultText"
+msgid "http://"
+msgstr "http://"
+
+msgctxt "YesAcceptReturn"
+msgid "Yes, we will accept returns for purchases from eBay"
+msgstr "Yes, we will accept returns for purchases from eBay"
+
+msgctxt "ShippingMethods"
+msgid "Shipping Methods:"
+msgstr "Shipping Methods:"
+
+msgctxt "NoDomesticShipping"
+msgid "No domestic shipping offered, just local pick up"
+msgstr "No domestic shipping offered, just local pick up"
+
+msgctxt "SpecifyDomesticShipping"
+msgid "I want to specify up to three domestic shipping methods"
+msgstr "I want to specify up to three domestic shipping methods"
+
+msgctxt "ShippingCostType"
+msgid "Shipping costs should be"
+msgstr "Shipping costs should be"
+
+msgctxt "ServiceTypeFlat"
+msgid "Flat: same cost to all buyers"
+msgstr "Flat: same cost to all buyers"
+
+msgctxt "ServiceTypeFreightFlat"
+msgid "Freight: items over 150 lbs"
+msgstr "Freight: items over 150 lbs"
+
+msgctxt "ServiceTypeCalculated"
+msgid "Calculated: cost depends on buyer location"
+msgstr "Calculated: cost depends on buyer location"
+
+msgctxt "OptionSeparator"
+msgid "-- Please select one of the following options --"
+msgstr "-- Please select one of the following options --"
+
+msgctxt "ShippingWeight"
+msgid "Weight"
+msgstr "Weight"
+
+msgctxt "YesUseProductWeight"
+msgid "Use the product's existing weight"
+msgstr "Use the product's existing weight"
+
+msgctxt "YesUseProductDimension"
+msgid "Use the product's existing dimension"
+msgstr "Use the product's existing dimension"
+
+msgctxt "ShippingDimension"
+msgid "Dimensions"
+msgstr "Dimensions"
+
+msgctxt "ShippingLengthShort"
+msgid "L"
+msgstr "L"
+
+msgctxt "ShippingWidthShort"
+msgid "W"
+msgstr "W"
+
+msgctxt "ShippingHeightShort"
+msgid "H"
+msgstr "H"
+
+msgctxt "PackageType"
+msgid "Package type"
+msgstr "Package type"
+
+msgctxt "ShippingLbs"
+msgid "lbs"
+msgstr "lbs"
+
+msgctxt "ShippingOz"
+msgid "oz"
+msgstr "oz"
+
+msgctxt "ShippingServices"
+msgid "Services"
+msgstr "Services"
+
+msgctxt "FirstItemCost"
+msgid "Cost"
+msgstr "Cost"
+
+msgctxt "EachAdditional"
+msgid "Each additional"
+msgstr "Each additional"
+
+msgctxt "OneDayShipping"
+msgid " - %s business day(s)"
+msgstr " - %s business day(s)"
+
+msgctxt "MoreDaysShipping"
+msgid " - %s to %s business day(s)"
+msgstr " - %s to %s business day(s)"
+
+msgctxt "YesFreeShipping"
+msgid "Free shipping"
+msgstr "Free shipping"
+
+msgctxt "YesLocalPickup"
+msgid "Yes, the user can pick up the item(s)"
+msgstr "Yes, the user can pick up the item(s)"
+
+msgctxt "FreightShippingDesc"
+msgid "Please specify the description of freights shipping service in the item description."
+msgstr "Please specify the description of freights shipping service in the item description."
+
+msgctxt "YesGetItFast"
+msgid "Show 'Get It Fast' on the eBay listing"
+msgstr "Show 'Get It Fast' on the eBay listing"
+
+msgctxt "GetItFastHelpTitle"
+msgid "Get It Fast"
+msgstr "Get It Fast"
+
+msgctxt "GetItFastHelp"
+msgid "The Get It Fast program gives buyers added confidence that an item will arrive quickly. Participating in the program is a great way to increase your sales of seasonal and gift items. Buyers can also search specifically for Get It Fast items.<br /><br /><strong>Important:</strong>By selecting the Get It Fast option, you are committing to post the item within one business day of receiving a cleared payment, even if the buyer does not select an expedited postage service. You should take this commitment seriously to avoid receiving negative feedback from buyers."
+msgstr "The Get It Fast program gives buyers added confidence that an item will arrive quickly. Participating in the program is a great way to increase your sales of seasonal and gift items. Buyers can also search specifically for Get It Fast items.<br /><br /><strong>Important:</strong>By selecting the Get It Fast option, you are committing to post the item within one business day of receiving a cleared payment, even if the buyer does not select an expedited postage service. You should take this commitment seriously to avoid receiving negative feedback from buyers."
+
+msgctxt "GetItFastDisabled"
+msgid "To enable the Get It Fast feature, you must specify a Buy It Now price."
+msgstr "To enable the Get It Fast feature, you must specify a Buy It Now price."
+
+msgctxt "HandlingTime"
+msgid "Handling Time:"
+msgstr "Handling Time:"
+
+msgctxt "HandlingTimeHelpTitle"
+msgid "Handling Time"
+msgstr "Handling Time"
+
+msgctxt "HandlingTimeHelp"
+msgid "The maximum number of business days you commit to for preparing an item to be shipped after receiving a cleared payment."
+msgstr "The maximum number of business days you commit to for preparing an item to be shipped after receiving a cleared payment."
+
+msgctxt "HandlingCost"
+msgid "Handling Cost:"
+msgstr "Handling Cost:"
+
+msgctxt "DomesticShipping"
+msgid "Domestic Shipping"
+msgstr "Domestic Shipping"
+
+msgctxt "InternationalShipping"
+msgid "International Shipping"
+msgstr "International Shipping"
+
+msgctxt "YesInternationalShipping"
+msgid "Yes, enable international shipping"
+msgstr "Yes, enable international shipping"
+
+msgctxt "AdditionalShippingDetails"
+msgid "Additional Shipping Details"
+msgstr "Additional Shipping Details"
+
+msgctxt "SalesTax"
+msgid "Sales Tax:"
+msgstr "Sales Tax:"
+
+msgctxt "NoSalesTax"
+msgid "I don't want to charge sales tax"
+msgstr "I don't want to charge sales tax"
+
+msgctxt "StateSalesTax"
+msgid "I want to charge sales tax for one state only"
+msgstr "I want to charge sales tax for one state only"
+
+msgctxt "ShippingInSalesTax"
+msgid "Includes shipping costs when calculating sales tax"
+msgstr "Includes shipping costs when calculating sales tax"
+
+msgctxt "ItemPostcode"
+msgid "Item Zip/Postcode"
+msgstr "Item Zip/Postcode"
+
+msgctxt "FreeVisitorCounter"
+msgid "Visitor Counter Options"
+msgstr "Visitor Counter Options"
+
+msgctxt "CounterStyle"
+msgid "Counter Style:"
+msgstr "Counter Style:"
+
+msgctxt "NoHitCounter"
+msgid "No counter"
+msgstr "No counter"
+
+msgctxt "HiddenStyle"
+msgid "Hide counter (only you can see the visitor count)"
+msgstr "Hide counter (only you can see the visitor count)"
+
+msgctxt "BasicStyle"
+msgid "Basic counter"
+msgstr "Basic counter"
+
+msgctxt "RetroStyle"
+msgid "Retro style counter"
+msgstr "Retro style counter"
+
+msgctxt "PaidListingUpgrade"
+msgid "Paid Listing Upgrade Options"
+msgstr "Paid Listing Upgrade Options"
+
+msgctxt "GalleryOptions"
+msgid "Gallery Options:"
+msgstr "Gallery Options:"
+
+msgctxt "EbayGalleryNone"
+msgid "No Gallery"
+msgstr "No Gallery"
+
+msgctxt "EbayGalleryGallery"
+msgid "Gallery"
+msgstr "Gallery"
+
+msgctxt "EbayGalleryPlus"
+msgid "Gallery Plus"
+msgstr "Gallery Plus"
+
+msgctxt "EbayGalleryFeatured"
+msgid "Featured Gallery"
+msgstr "Featured Gallery"
+
+msgctxt "GalleryDuration"
+msgid "Gallery Duration"
+msgstr "Gallery Duration"
+
+msgctxt "ListingFeatures"
+msgid "Listing Features:"
+msgstr "Listing Features:"
+
+msgctxt "BoldTitle"
+msgid "Bold Title"
+msgstr "Bold Title"
+
+msgctxt "Border"
+msgid "Border"
+msgstr "Border"
+
+msgctxt "FeaturedFirst"
+msgid "Featured First"
+msgstr "Featured First"
+
+msgctxt "FeaturedPlus"
+msgid "Featured Plus"
+msgstr "Featured Plus"
+
+msgctxt "GiftIcon"
+msgid "Gift Icon"
+msgstr "Gift Icon"
+
+msgctxt "Highlight"
+msgid "Highlight"
+msgstr "Highlight"
+
+msgctxt "HomePageFeatured"
+msgid "Home Page Featured"
+msgstr "Home Page Featured"
+
+msgctxt "ProPack"
+msgid "Pro Pack"
+msgstr "Pro Pack"
+
+msgctxt "CityState"
+msgid "City, State:"
+msgstr "City, State:"
+
+msgctxt "Other"
+msgid "Other"
+msgstr "Other"
+
+msgctxt "PaypalEmailAddress"
+msgid "PayPal Email Address:"
+msgstr "PayPal Email Address:"
+
+msgctxt "PaypalEmailHelpTitle"
+msgid "PayPal Email Address"
+msgstr "PayPal Email Address"
+
+msgctxt "PaypalEmailHelp"
+msgid "The valid PayPal email address for the PayPal account that you will use if you are oferring PayPal as a payment method."
+msgstr "The valid PayPal email address for the PayPal account that you will use if you are oferring PayPal as a payment method."
+
+msgctxt "EnterEbayTemplateName"
+msgid "Please enter a template name."
+msgstr "Please enter a template name."
+
+msgctxt "EnterListProductOn"
+msgid "Please specify the country where the product(s) will be listed."
+msgstr "Please specify the country where the product(s) will be listed."
+
+msgctxt "EnterListingMethod"
+msgid "Please specify the selling method."
+msgstr "Please specify the selling method."
+
+msgctxt "EnterAuctionStartingPrice"
+msgid "Please enter a valid starting price."
+msgstr "Please enter a valid starting price."
+
+msgctxt "EnterAuctionMethodDuration"
+msgid "Please specify the listing duration."
+msgstr "Please specify the listing duration."
+
+msgctxt "EnterListingiMethod"
+msgid "Please select a price option for the Buy It Now price."
+msgstr "Please select a price option for the Buy It Now price."
+
+msgctxt "EnterListingCustomPrice"
+msgid "Please enter a valid listing price."
+msgstr "Please enter a valid listing price."
+
+msgctxt "EnterListingCustomPriceCalc"
+msgid "Please enter the correct listing price calculation."
+msgstr "Please enter the correct listing price calculation."
+
+msgctxt "EnterShippingService"
+msgid "Please select a shipping service."
+msgstr "Please select a shipping service."
+
+msgctxt "EnterShippingServiceCost"
+msgid "Please enter a valid shipping cost for this service."
+msgstr "Please enter a valid shipping cost for this service."
+
+msgctxt "EnterCityStateDetails"
+msgid "Please enter the item city/state."
+msgstr "Please enter the item city/state."
+
+msgctxt "EnterZipPostcodeDetails"
+msgid "Please enter the item zip/postcode."
+msgstr "Please enter the item zip/postcode."
+
+msgctxt "EnterItemTitle"
+msgid "Please enter the item title."
+msgstr "Please enter the item title."
+
+msgctxt "EnterItemSku"
+msgid "Please enter the item sku."
+msgstr "Please enter the item sku."
+
+msgctxt "EnterItemDescription"
+msgid "Please enter the item description."
+msgstr "Please enter the item description."
+
+msgctxt "EnterInternetPhoto"
+msgid "Please enter a link to your item photo."
+msgstr "Please enter a link to your item photo."
+
+msgctxt "EnterSalesTaxPercentage"
+msgid "Please enter the correct sales tax percentage."
+msgstr "Please enter the correct sales tax percentage."
+
+msgctxt "EnterHandlingCost"
+msgid "Please enter the correct handling cost."
+msgstr "Please enter the correct handling cost."
+
+msgctxt "TemplateName"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "TemplateDate"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "TemplateEnabled"
+msgid "Enabled"
+msgstr "Enabled"
+
+msgctxt "ClickToDisableTemplate"
+msgid "Click to disable the template"
+msgstr "Click to disable the template"
+
+msgctxt "ClickToEnableTemplate"
+msgid "Click to enable the template"
+msgstr "Click to enable the template"
+
+msgctxt "TemplateAction"
+msgid "Action"
+msgstr "Action"
+
+msgctxt "EbayTemplateSavedSuccessfully"
+msgid "Your eBay listing template was saved successfully."
+msgstr "Your eBay listing template was saved successfully."
+
+msgctxt "EbayTemplateEditedSuccessfully"
+msgid "Your eBay listing template was edited successfully."
+msgstr "Your eBay listing template was edited successfully."
+
+msgctxt "AddEbayTemplate"
+msgid "Create an eBay Listing Template..."
+msgstr "Create an eBay Listing Template..."
+
+msgctxt "ConfirmCancelEbayTemplate"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "ErrTemplateStatusNotChanged"
+msgid "An error occurred while trying to change the status of this template: %s"
+msgstr "An error occurred while trying to change the status of this template: %s"
+
+msgctxt "TemplateStatusChangedSuccessfully"
+msgid "The status of this template has been changed successfully."
+msgstr "The status of this template has been changed successfully."
+
+msgctxt "ChooseTemplate"
+msgid "Please choose at least one template to delete."
+msgstr "Please choose at least one template to delete."
+
+msgctxt "ConfirmDeleteTemplate"
+msgid "WARNING: This will permanently remove the selected template(s). Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected template(s). Are you sure you wish to do this?"
+
+msgctxt "TemplateDeletedSuccessfully"
+msgid "The selected eBay listing templates have been deleted successfully."
+msgstr "The selected eBay listing templates have been deleted successfully."
+
+msgctxt "UnknownErrorDeletion"
+msgid "Unknown error occurs when deleting data."
+msgstr "Unknown error occurs when deleting data."
+
+msgctxt "NoTemplates"
+msgid "No eBay listing templates have been created. Click the &quot;Create an eBay Listing Template...&quot; button below to create one now or learn more <a href='javascript: LaunchHelp(899);'>here</a>."
+msgstr "No eBay listing templates have been created. Click the &quot;Create an eBay Listing Template...&quot; button below to create one now or learn more <a href='javascript: LaunchHelp(899);'>here</a>."
+
+msgctxt "Here"
+msgid "here"
+msgstr "here"
+
+msgctxt "EbayTemplateEdit"
+msgid "Edit this eBay template"
+msgstr "Edit this eBay template"
+
+msgctxt "MaxServiceAllowed"
+msgid "A maximum of 3 services can be specified."
+msgstr "A maximum of 3 services can be specified."
+
+msgctxt "MaxServiceAllowedWithPickup"
+msgid "A maximum of 2 services with local pickup can be specified."
+msgstr "A maximum of 2 services with local pickup can be specified."
+
+msgctxt "EditEbayTemplate"
+msgid "Edit eBay Listing Template"
+msgstr "Edit eBay Listing Template"
+
+msgctxt "NoTemplateFound"
+msgid "No eBay templates were found matching your search criteria, please try again."
+msgstr "No eBay templates were found matching your search criteria, please try again."
+
+msgctxt "EbaySettingsIntro"
+msgid "Enter your eBay account settings below and then click the &quot;Save&quot; button to setup your eBay templates and listings."
+msgstr "Enter your eBay account settings below and then click the &quot;Save&quot; button to setup your eBay templates and listings."
+
+msgctxt "ManageEbayTemplateIntro"
+msgid "Listing templates making it quick and easy to list dozens or even thousands of similar products on eBay at once."
+msgstr "Listing templates making it quick and easy to list dozens or even thousands of similar products on eBay at once."
+
+msgctxt "StoreCategory1"
+msgid "Store Category #1"
+msgstr "Store Category #1"
+
+msgctxt "StoreCategory2"
+msgid "Store Category #2"
+msgstr "Store Category #2"
+
+msgctxt "GTC"
+msgid "Good till cancelled"
+msgstr "Good till cancelled"
+
+msgctxt "EbayCountryNotSupported"
+msgid "In order to use eBay feature, you will need to setup your shopping cart's currencies for any of the these countries: United State, United Kingdom, Australia or Canada."
+msgstr "In order to use eBay feature, you will need to setup your shopping cart's currencies for any of the these countries: United State, United Kingdom, Australia or Canada."
+
+msgctxt "MinReserveCustomPrice"
+msgid "The minimum value of reserve price is: "
+msgstr "The minimum value of reserve price is: "
+
+msgctxt "LiveEbayListing"
+msgid "Live eBay Listings"
+msgstr "Live eBay Listings"
+
+msgctxt "ManageEbayLiveListingIntro"
+msgid "You have %d eBay listing(s). When an item sells or is won at auction an order will be created in your store."
+msgstr "You have %d eBay listing(s). When an item sells or is won at auction an order will be created in your store."
+
+msgctxt "EndListing"
+msgid "End Listing"
+msgstr "End Listing"
+
+msgctxt "EndListingsFromEbayAction"
+msgid "End the Selected Listing(s) on eBay"
+msgstr "End the Selected Listing(s) on eBay"
+
+msgctxt "EndListingsFromEbayTitle"
+msgid "End the Selected :totalSelected Listing(s) on eBay"
+msgstr "End the Selected :totalSelected Listing(s) on eBay"
+
+msgctxt "EndListingsFromEbayButton"
+msgid "End Selected :totalSelected Listing(s)..."
+msgstr "End Selected :totalSelected Listing(s)..."
+
+msgctxt "EndListingFromEbayRef"
+msgid "End this listing on eBay"
+msgstr "End this listing on eBay"
+
+msgctxt "RemoveListing"
+msgid "Remove Listing"
+msgstr "Remove Listing"
+
+msgctxt "RemoveListingRef"
+msgid "Remove this listing from my store"
+msgstr "Remove this listing from my store"
+
+msgctxt "RemoveListingsAction"
+msgid "Remove the selected listings from my store"
+msgstr "Remove the selected listings from my store"
+
+msgctxt "AllListingTypes"
+msgid "-- All Listing Types --"
+msgstr "-- All Listing Types --"
+
+msgctxt "AllListingStatuses"
+msgid "-- All Listing Statuses --"
+msgstr "-- All Listing Statuses --"
+
+msgctxt "ListingItem"
+msgid "Item"
+msgstr "Item"
+
+msgctxt "ListingDateListed"
+msgid "Listed"
+msgstr "Listed"
+
+msgctxt "ListingType"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "ListingStatus"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "ListingCurrentPrice"
+msgid "Current Price"
+msgstr "Current Price"
+
+msgctxt "ListingOrderNumber"
+msgid "Order No."
+msgstr "Order No."
+
+msgctxt "NoListingMatch"
+msgid "No eBay listings matched your search options. Please try again."
+msgstr "No eBay listings matched your search options. Please try again."
+
+msgctxt "NoListingFound"
+msgid "You haven't listed any products on eBay yet. To list products, go to the <a href='index.php?ToDo=viewProducts'>products</a> page and choose &quot;List These Products on eBay...&quot; from the &quot;Action&quot; dropdown."
+msgstr "You haven't listed any products on eBay yet. To list products, go to the <a href='index.php?ToDo=viewProducts'>products</a> page and choose &quot;List These Products on eBay...&quot; from the &quot;Action&quot; dropdown."
+
+msgctxt "LoadDialogFailed"
+msgid "Failed to load dialog."
+msgstr "Failed to load dialog."
+
+msgctxt "EndEbayListingIntro"
+msgid "eBay requires a reason to end each listing. Please choose that reason below:"
+msgstr "eBay requires a reason to end each listing. Please choose that reason below:"
+
+msgctxt "EndingReasonIncorrect"
+msgid "The start price or reserve price is incorrect"
+msgstr "The start price or reserve price is incorrect"
+
+msgctxt "EndingReasonLostOrBroken"
+msgid "The item was lost or broken"
+msgstr "The item was lost or broken"
+
+msgctxt "EndingReasonNotAvailable"
+msgid "The item is no longer available for sale"
+msgstr "The item is no longer available for sale"
+
+msgctxt "EndingReasonOtherListingError"
+msgid "The listing contained an error"
+msgstr "The listing contained an error"
+
+msgctxt "EndingReasonSellToHighBidder"
+msgid "The listing has qualifying bids"
+msgstr "The listing has qualifying bids"
+
+msgctxt "PleaseSelectEndReason"
+msgid "-- Please select a reason to end your listing --"
+msgstr "-- Please select a reason to end your listing --"
+
+msgctxt "UnknownErrorRetrieveData"
+msgid "Unknown error occurs when retrieving data."
+msgstr "Unknown error occurs when retrieving data."
+
+msgctxt "ItemEndedSuccess"
+msgid " - Item: %s (%s) - has been ended successfully."
+msgstr " - Item: %s (%s) - has been ended successfully."
+
+msgctxt "ItemEndedFailure"
+msgid " - Item: %s (%s) - Problem occurs when trying to end the item"
+msgstr " - Item: %s (%s) - Problem occurs when trying to end the item"
+
+msgctxt "AllItemEndedFailure"
+msgid "Problem occurs when trying to end all the selected item(s)."
+msgstr "Problem occurs when trying to end all the selected item(s)."
+
+msgctxt "EndResultPartialSuccessIntro"
+msgid "Selected listing(s) are partially ended/cancelled."
+msgstr "Selected listing(s) are partially ended/cancelled."
+
+msgctxt "EndResultSuccessIntro"
+msgid "The :totalSelected selected listings have been removed from eBay."
+msgstr "The :totalSelected selected listings have been removed from eBay."
+
+msgctxt "EndResultFailureIntro"
+msgid "All selected eBay listing(s) are ended/cancelled unsuccessfully."
+msgstr "All selected eBay listing(s) are ended/cancelled unsuccessfully."
+
+msgctxt "EndResultFailureNote"
+msgid "Note: The reasons of eBay listing(s) can't be ended might be one of the following:<p> - The status of the item(s) are 'Pending'<br/> - The item(s) already ended<br/> - There are 12 or less hours left before the auction ends and there are any bids on the item(s)</p>"
+msgstr "Note: The reasons of eBay listing(s) can't be ended might be one of the following:<p> - The status of the item(s) are 'Pending'<br/> - The item(s) already ended<br/> - There are 12 or less hours left before the auction ends and there are any bids on the item(s)</p>"
+
+msgctxt "LocalListingDeletedSuccessfully"
+msgid "The selected eBay listing(s) have been removed successfully from your store."
+msgstr "The selected eBay listing(s) have been removed successfully from your store."
+
+msgctxt "InvalidDataSupplied"
+msgid "The supplied data were invalid."
+msgstr "The supplied data were invalid."
+
+msgctxt "ChooseListing"
+msgid "Please choose at least one eBay listing."
+msgstr "Please choose at least one eBay listing."
+
+msgctxt "ListingBinPrice"
+msgid "BIN Price"
+msgstr "BIN Price"
+
+msgctxt "NA"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "Chinese"
+msgid "Auction"
+msgstr "Auction"
+
+msgctxt "FixedPriceItem"
+msgid "Buy It Now"
+msgstr "Buy It Now"
+
+msgctxt "Sold"
+msgid "Sold"
+msgstr "Sold"
+
+msgctxt "Won"
+msgid "Won"
+msgstr "Won"
+
+msgctxt "Unsold"
+msgid "Unsold"
+msgstr "Unsold"
+
+msgctxt "Pending"
+msgid "Pending"
+msgstr "Pending"
+
+msgctxt "Active"
+msgid "Active"
+msgstr "Active"
+
+msgctxt "ConfirmRemoveListings"
+msgid "The listings you've selected will be removed from this page only. Any live listings on the eBay website will not be changed.
+
+Click OK to confirm."
+msgstr "The listings you've selected will be removed from this page only. Any live listings on the eBay website will not be changed.
+
+Click OK to confirm."
+
+msgctxt "ConfirmRemoveListing"
+msgid "The selected listing will be removed from this page only but will not be changed on the eBay website.
+
+Click OK to confirm."
+msgstr "The selected listing will be removed from this page only but will not be changed on the eBay website.
+
+Click OK to confirm."
+
+msgctxt "ConfirmEndListing"
+msgid "Are you sure you want to end the selected listings on eBay?"
+msgstr "Are you sure you want to end the selected listings on eBay?"
+
+msgctxt "ListingBidCount"
+msgid "Bids"
+msgstr "Bids"
+
+msgctxt "ListingQuantityRemaining"
+msgid "Qty Left"
+msgstr "Qty Left"
+
+msgctxt "ChooseAnAction"
+msgid "-- Choose an action --"
+msgstr "-- Choose an action --"
+
+msgctxt "PendingStatusHelp"
+msgid "This product has been sent to eBay and is still being processed. The status will be updated to <em>Active</em> when the listing goes live on eBay. This process typically takes under 10 minutes to complete."
+msgstr "This product has been sent to eBay and is still being processed. The status will be updated to <em>Active</em> when the listing goes live on eBay. This process typically takes under 10 minutes to complete."
+
+msgctxt "ListingBidCountHelp"
+msgid "The amount of total bids that have been placed on the item for an auction listing."
+msgstr "The amount of total bids that have been placed on the item for an auction listing."
+
+msgctxt "ListingQuantityRemainingHelp"
+msgid "The amount of items remaining that are available to purchase for a fixed price listing."
+msgstr "The amount of items remaining that are available to purchase for a fixed price listing."
+
+msgctxt "ListingOrderNumberHelp"
+msgid "The order number for the order that was automatically created when the item was sold on eBay. Click the order number to view the order in your control panel."
+msgstr "The order number for the order that was automatically created when the item was sold on eBay. Click the order number to view the order in your control panel."
+
+msgctxt "ListingDateListedHelp"
+msgid "The date the product was listed on eBay."
+msgstr "The date the product was listed on eBay."
+
+msgctxt "ListingBinPriceHelp"
+msgid "The Buy-It-Now price that was set for the listing."
+msgstr "The Buy-It-Now price that was set for the listing."
+
+msgctxt "ListingCurrentPriceHelp"
+msgid "The current high bid for the item in an auction-style listing."
+msgstr "The current high bid for the item in an auction-style listing."
+
+msgctxt "EbayListingErrorTitle"
+msgid "List Products on eBay"
+msgstr "List Products on eBay"
+
+msgctxt "EbayListingNoValidProductsSelected"
+msgid "You have not selected any products that are valid for listing. Only physical products with no product variations can be listed on eBay."
+msgstr "You have not selected any products that are valid for listing. Only physical products with no product variations can be listed on eBay."
+
+msgctxt "EbayListingProductWarning"
+msgid "Note: Only physical products will be listed on eBay."
+msgstr "Note: Only physical products will be listed on eBay."
+
+msgctxt "EbayListingStoreNotConfigured"
+msgid "Your store has not yet been configured to sell on eBay. You must enter your settings in 'Marketing -> Sell on eBay' and then create a template before you can list your products."
+msgstr "Your store has not yet been configured to sell on eBay. You must enter your settings in 'Marketing -> Sell on eBay' and then create a template before you can list your products."
+
+msgctxt "EbayListingNoTemplates"
+msgid "You need to create an eBay listing template first, which you can do <a href='index.php?ToDo=addEbayTemplate'>here</a>."
+msgstr "You need to create an eBay listing template first, which you can do <a href='index.php?ToDo=addEbayTemplate'>here</a>."
+
+msgctxt "EbayListingTitle"
+msgid "List :count Products on eBay (Step :step of :totalSteps)"
+msgstr "List :count Products on eBay (Step :step of :totalSteps)"
+
+msgctxt "EbayListingChooseOptions"
+msgid "Choose options below to list your products on eBay."
+msgstr "Choose options below to list your products on eBay."
+
+msgctxt "EbayListingListingTemplate"
+msgid "Listing Template"
+msgstr "Listing Template"
+
+msgctxt "EbayListingChooseTemplateOption"
+msgid "--- Choose a Listing Template ---"
+msgstr "--- Choose a Listing Template ---"
+
+msgctxt "EbayListingListingDate"
+msgid "Listing Date"
+msgstr "Listing Date"
+
+msgctxt "EbayListingSetLive"
+msgid "Set listing live immediately"
+msgstr "Set listing live immediately"
+
+msgctxt "EbayListingSetSchedule"
+msgid "Schedule listings for a future date & time"
+msgstr "Schedule listings for a future date & time"
+
+msgctxt "EbayListingAllowMapping"
+msgid "Allow eBay to automatically map old categories to new ones"
+msgstr "Allow eBay to automatically map old categories to new ones"
+
+msgctxt "EbayListingAllowMappingHelpTitle"
+msgid "eBay Category Mapping"
+msgstr "eBay Category Mapping"
+
+msgctxt "EbayListingAllowMappingHelp"
+msgid "eBay periodically updates and changes the categories on the eBay site. If the category(s) you have selected for your template no longer exist, then ticking this option will allow eBay to automatically list your products in the new category that has replaced your chosen old one. Unticking this option will result in the listing process failing if the category is no longer available."
+msgstr "eBay periodically updates and changes the categories on the eBay site. If the category(s) you have selected for your template no longer exist, then ticking this option will allow eBay to automatically list your products in the new category that has replaced your chosen old one. Unticking this option will result in the listing process failing if the category is no longer available."
+
+msgctxt "EbayListingCategoryFeatures"
+msgid "Shown below are the features supported by the primary category you chose for the template. Click &quot;Next&quot; to view the estimated listing fees."
+msgstr "Shown below are the features supported by the primary category you chose for the template. Click &quot;Next&quot; to view the estimated listing fees."
+
+msgctxt "EbayListingCategoryFeaturesInvalidProducts"
+msgid "Shown below are the features supported by the primary category you chose for the template."
+msgstr "Shown below are the features supported by the primary category you chose for the template."
+
+msgctxt "EbayListingCategoryFeaturesError"
+msgid "An error occurred retrieving the category features."
+msgstr "An error occurred retrieving the category features."
+
+msgctxt "EbayListingRetrievingCosts"
+msgid "Please wait while we retrieve the estimated listing costs..."
+msgstr "Please wait while we retrieve the estimated listing costs..."
+
+msgctxt "EbayListingEstimatedCostsIntro"
+msgid "The approximate fees that will be charged to your eBay account for listing the selected products are shown below. Click the &quot;List on eBay&quot; button below to start the listing process with eBay."
+msgstr "The approximate fees that will be charged to your eBay account for listing the selected products are shown below. Click the &quot;List on eBay&quot; button below to start the listing process with eBay."
+
+msgctxt "EbayListingEstimatedCostsNB"
+msgid "Important: Some <a href='#' onclick='showExtraFees(); return false;'>extra fees</a> may be applied by eBay for this listing."
+msgstr "Important: Some <a href='#' onclick='showExtraFees(); return false;'>extra fees</a> may be applied by eBay for this listing."
+
+msgctxt "EbayListingEstimatedCostsExtraFees"
+msgid "Your listing(s) may be subject to extra fees from eBay as described below:"
+msgstr "Your listing(s) may be subject to extra fees from eBay as described below:"
+
+msgctxt "EbayListingEstimatedCostsAuctionWarning"
+msgid "Because you chose the 'Online Auction' method and a quantity of :quantity, each item will be listed separately and will incur its own fees."
+msgstr "Because you chose the 'Online Auction' method and a quantity of :quantity, each item will be listed separately and will incur its own fees."
+
+msgctxt "EbayListingEstimatedCostsFinalValueFee"
+msgid "The final cost of your item listing can include a Final Value Fee, which cannot be determined until the completion of the listing on eBay."
+msgstr "The final cost of your item listing can include a Final Value Fee, which cannot be determined until the completion of the listing on eBay."
+
+msgctxt "EbayListingEstimatedCostsError"
+msgid "An error occurred retrieving the estimated listing costs."
+msgstr "An error occurred retrieving the estimated listing costs."
+
+msgctxt "EbayListingEstimatedCostsCurrency"
+msgid "All fees are shown in <strong>:currencyCode</strong> currency."
+msgstr "All fees are shown in <strong>:currencyCode</strong> currency."
+
+msgctxt "EbayListingFee"
+msgid "Fee"
+msgstr "Fee"
+
+msgctxt "EbayListingCost"
+msgid "Cost"
+msgstr "Cost"
+
+msgctxt "EbayListingPerItem"
+msgid "Per-Item Listing"
+msgstr "Per-Item Listing"
+
+msgctxt "EbayListingEstimatedCostsTotal"
+msgid "Total Fees for :count Items"
+msgstr "Total Fees for :count Items"
+
+msgctxt "EbayListingErrorGoBack"
+msgid "You can go back and try again. If the error persists please double check your listing settings."
+msgstr "You can go back and try again. If the error persists please double check your listing settings."
+
+msgctxt "EbayListingStarted"
+msgid "You can close this window and you will not interrupt the listing process. You will receive an email with details as soon as the listing is finished."
+msgstr "You can close this window and you will not interrupt the listing process. You will receive an email with details as soon as the listing is finished."
+
+msgctxt "EbayListingInitializingError"
+msgid "An error occurred initializing the eBay listing:"
+msgstr "An error occurred initializing the eBay listing:"
+
+msgctxt "EbayListingListOnEbay"
+msgid "List on eBay"
+msgstr "List on eBay"
+
+msgctxt "EbayListingProgress"
+msgid ":offset :total product(s) exported so far<br />:error error(s) reported :eta"
+msgstr ":offset :total product(s) exported so far<br />:error error(s) reported :eta"
+
+msgctxt "EbayListingProgressBasic"
+msgid ":offset :total product(s) sent to eBay so far..."
+msgstr ":offset :total product(s) sent to eBay so far..."
+
+msgctxt "of"
+msgid "of"
+msgstr "of"
+
+msgctxt "EbayListingETA"
+msgid "About :remaining remaining"
+msgstr "About :remaining remaining"
+
+msgctxt "EbayListingFinished"
+msgid "The eBay listing has finished. Please check your email for further details."
+msgstr "The eBay listing has finished. Please check your email for further details."
+
+msgctxt "EbayConfirmCancelListing"
+msgid "Are you sure you wish to abort the current listing process? Some items may have already been pushed to eBay (these can be viewed from the Marketing -> Sell on eBay page)
+
+Click OK to confirm."
+msgstr "Are you sure you wish to abort the current listing process? Some items may have already been pushed to eBay (these can be viewed from the Marketing -> Sell on eBay page)
+
+Click OK to confirm."
+
+msgctxt "EbayListingCancelled"
+msgid "The eBay listing has been cancelled. Any products that have already been listed on eBay will not be automatically removed."
+msgstr "The eBay listing has been cancelled. Any products that have already been listed on eBay will not be automatically removed."
+
+msgctxt "EbayListingAbort"
+msgid "Abort..."
+msgstr "Abort..."
+
+msgctxt "EbayListingVariationsNotSupported"
+msgid "The primary category or selling method you selected does not support variations."
+msgstr "The primary category or selling method you selected does not support variations."
+
+msgctxt "EbayListingVariationCombinationsExceeded"
+msgid "The products total combinations (:totalCombinations) has exceeded the limit supported by eBay (120)."
+msgstr "The products total combinations (:totalCombinations) has exceeded the limit supported by eBay (120)."
+
+msgctxt "EbayListingVariationOptionsExceeded"
+msgid "The variation option ':optionName' has :optionCount options which exceeded the limit supported by eBay (30)."
+msgstr "The variation option ':optionName' has :optionCount options which exceeded the limit supported by eBay (30)."
+
+msgctxt "Ebay_Listing_Log_Prefix"
+msgid "Listing job: :id:"
+msgstr "Listing job: :id:"
+
+msgctxt "Ebay_Listing_Log_BatchComplete"
+msgid "Listing batch :start - :end complete with :success_count listings(s) and :error_count error(s)."
+msgstr "Listing batch :start - :end complete with :success_count listings(s) and :error_count error(s)."
+
+msgctxt "Ebay_Listing_Log_DoesNotExist"
+msgid "Listing job does not exist (listing may have been aborted)"
+msgstr "Listing job does not exist (listing may have been aborted)"
+
+msgctxt "Ebay_Listing_Log_TemplateNotFound"
+msgid "The template :id was not found"
+msgstr "The template :id was not found"
+
+msgctxt "Ebay_Listing_Log_AbortFlag"
+msgid "Job is marked as aborted"
+msgstr "Job is marked as aborted"
+
+msgctxt "Ebay_Listing_Log_ErrorFlag"
+msgid "Job is generated an error: :message"
+msgstr "Job is generated an error: :message"
+
+msgctxt "Ebay_Listing_Log_JobDatabaseError"
+msgid "Database error while trying to fetch products for export"
+msgstr "Database error while trying to fetch products for export"
+
+msgctxt "Ebay_Listing_Abort_Email_Subject"
+msgid "':template' listing was cancelled"
+msgstr "':template' listing was cancelled"
+
+msgctxt "Ebay_Listing_Abort_Email_Message_1"
+msgid "A ':template' listing which was started by you was cancelled after processing :offset record(s)."
+msgstr "A ':template' listing which was started by you was cancelled after processing :offset record(s)."
+
+msgctxt "Ebay_Listing_Abort_Email_Message_2"
+msgid "Any items already listed will not be removed."
+msgstr "Any items already listed will not be removed."
+
+msgctxt "Ebay_Listing_Error_Email_Subject"
+msgid "':template' listing has failed"
+msgstr "':template' listing has failed"
+
+msgctxt "Ebay_Listing_Error_Email_Message_1"
+msgid "A ':template' listing which was started by you has failed due to an error."
+msgstr "A ':template' listing which was started by you has failed due to an error."
+
+msgctxt "Ebay_Listing_Error_Email_Error_Heading"
+msgid "The error that stopped the listing was:"
+msgstr "The error that stopped the listing was:"
+
+msgctxt "Ebay_Listing_Error_Email_Error_Footer"
+msgid "More specific details may be available in the store system log. Any items already listed will not be automatically removed."
+msgstr "More specific details may be available in the store system log. Any items already listed will not be automatically removed."
+
+msgctxt "Ebay_Listing_End_Email_Subject"
+msgid "':template' listing has finished"
+msgstr "':template' listing has finished"
+
+msgctxt "Ebay_Listing_End_Email_Message_1"
+msgid "A ':template' listing which was started by you has finished successfully."
+msgstr "A ':template' listing which was started by you has finished successfully."
+
+msgctxt "Ebay_Listing_End_Email_Message_2"
+msgid "This listing was started on :start and finished on :end."
+msgstr "This listing was started on :start and finished on :end."
+
+msgctxt "Ebay_Listing_End_Email_Message_3"
+msgid ":total items(s) were processed by this export."
+msgstr ":total items(s) were processed by this export."
+
+msgctxt "Ebay_Listing_End_Email_Message_4"
+msgid "Of those, :success_count items(s) were accepted, while :error_count resulted in errors."
+msgstr "Of those, :success_count items(s) were accepted, while :error_count resulted in errors."
+
+msgctxt "Ebay_Listing_End_Email_Errors_Heading"
+msgid "<strong>Errors (max 100):</strong>"
+msgstr "<strong>Errors (max 100):</strong>"
+
+msgctxt "Ebay_Listing_End_Email_Warnings_Heading"
+msgid "<strong>Warnings (max 100):</strong>"
+msgstr "<strong>Warnings (max 100):</strong>"
+
+msgctxt "ViewYourEbayListing"
+msgid "View Your eBay Listings..."
+msgstr "View Your eBay Listings..."
+
+msgctxt "VariationInvalidProducts"
+msgid "None of the products you've chosen can be listed in the selected category on eBay because it doesn't support variations or fixed price selling method is not selected."
+msgstr "None of the products you've chosen can be listed in the selected category on eBay because it doesn't support variations or fixed price selling method is not selected."
+
+msgctxt "PartialVariationInvalidProducts"
+msgid "%d selected products contain variations and will not be listed."
+msgstr "%d selected products contain variations and will not be listed."
+
+msgctxt "EbayListingGeneralDetails"
+msgid "General Listing Details"
+msgstr "General Listing Details"
+
+msgctxt "EbayListProductOn"
+msgid "List Products On:"
+msgstr "List Products On:"
+
+msgctxt "EbaySite"
+msgid "eBay Site"
+msgstr "eBay Site"
+
+msgctxt "EbaySiteHelp"
+msgid "Select the localized eBay site on which you want to list your products.<br /><br />To add more countries, simply add more currencies to your online store from the Settings -> Currency Settings menu at the top right of this page."
+msgstr "Select the localized eBay site on which you want to list your products.<br /><br />To add more countries, simply add more currencies to your online store from the Settings -> Currency Settings menu at the top right of this page."
+
+msgctxt "EbayTemplateName"
+msgid "Template Name:"
+msgstr "Template Name:"
+
+msgctxt "EbayTemplateNameEg"
+msgid "(Such as 'Ipod template' - for your reference only)"
+msgstr "(Such as 'Ipod template' - for your reference only)"
+
+msgctxt "EbayTemplateNameHelpTitle"
+msgid "Template Name"
+msgstr "Template Name"
+
+msgctxt "EbayTemplateNameHelp"
+msgid "Enter a name to identify this template."
+msgstr "Enter a name to identify this template."
+
+msgctxt "EbayTemplateAsDefault"
+msgid "Use as Default?"
+msgstr "Use as Default?"
+
+msgctxt "EbayTemplateYesDefault"
+msgid "Yes, use this as the default listing template"
+msgstr "Yes, use this as the default listing template"
+
+msgctxt "EbayTemplateDefaultHelp"
+msgid "Tick the checkbox to select this template by default when listing your products for sale or auction on eBay."
+msgstr "Tick the checkbox to select this template by default when listing your products for sale or auction on eBay."
+
+msgctxt "PrivateListing"
+msgid "Private Listing?"
+msgstr "Private Listing?"
+
+msgctxt "PrivateListingText"
+msgid "Yes, mark the listing as private"
+msgstr "Yes, mark the listing as private"
+
+msgctxt "PrivateListingHelp"
+msgid "In a private auction listing, the bidders' user ID's are not shown to others. Sellers typically use this option if they believe that bidders for an item may not want their user ID disclosed to others."
+msgstr "In a private auction listing, the bidders' user ID's are not shown to others. Sellers typically use this option if they believe that bidders for an item may not want their user ID disclosed to others."
+
+msgctxt "NoneSelected"
+msgid "(None selected)"
+msgstr "(None selected)"
+
+msgctxt "EbaySelectCategories"
+msgid "Select Categories"
+msgstr "Select Categories"
+
+msgctxt "EbayPrimaryCategory"
+msgid "Primary eBay Category:"
+msgstr "Primary eBay Category:"
+
+msgctxt "EbaySecondaryCategory"
+msgid "Secondary eBay Category:"
+msgstr "Secondary eBay Category:"
+
+msgctxt "EbayStoreCategory1"
+msgid "Store Category #1:"
+msgstr "Store Category #1:"
+
+msgctxt "EbayStoreCategory2"
+msgid "Store Category #2:"
+msgstr "Store Category #2:"
+
+msgctxt "EbayCategory"
+msgid "eBay Category"
+msgstr "eBay Category"
+
+msgctxt "EbayCategoryHelp"
+msgid "Select a category on the eBay site you wish your item to be listed under. Choose the category that best fits the item to ensure maximum exposure."
+msgstr "Select a category on the eBay site you wish your item to be listed under. Choose the category that best fits the item to ensure maximum exposure."
+
+msgctxt "EbaySecondaryCategoryHelp"
+msgid "You may optionally list in a second category to reach more customers. Listing in a second category increases the cost of the insertion fee and the fees for other listing upgrades (eg. Bold title)."
+msgstr "You may optionally list in a second category to reach more customers. Listing in a second category increases the cost of the insertion fee and the fees for other listing upgrades (eg. Bold title)."
+
+msgctxt "CategoryText"
+msgid "(None selected)"
+msgstr "(None selected)"
+
+msgctxt "EbayTemplateDetails"
+msgid "Template Details"
+msgstr "Template Details"
+
+msgctxt "SellingMethod"
+msgid "Selling Method:"
+msgstr "Selling Method:"
+
+msgctxt "SellingMethodHeading"
+msgid "Selling Method"
+msgstr "Selling Method"
+
+msgctxt "SellingMethodIntro"
+msgid "Select either <strong>Online Auction</strong> or <strong>Fixed Price</strong> as your selling method. An online auction allows buyers to place a bid for the item with an optional price for a buyer to purchase immediately. A fixed price sale allows buyers to purchase the item immediately, but they cannot bid on the item."
+msgstr "Select either <strong>Online Auction</strong> or <strong>Fixed Price</strong> as your selling method. An online auction allows buyers to place a bid for the item with an optional price for a buyer to purchase immediately. A fixed price sale allows buyers to purchase the item immediately, but they cannot bid on the item."
+
+msgctxt "OnlineAuction"
+msgid "Online Auction (Configure Below)"
+msgstr "Online Auction (Configure Below)"
+
+msgctxt "OnlineAuctionSettings"
+msgid "Online Auction Settings"
+msgstr "Online Auction Settings"
+
+msgctxt "FixedPrice"
+msgid "Fixed Price (Configure Below)"
+msgstr "Fixed Price (Configure Below)"
+
+msgctxt "FixedPriceSettings"
+msgid "Fixed Price Settings"
+msgstr "Fixed Price Settings"
+
+msgctxt "ReservePrice"
+msgid "Reserve Price:"
+msgstr "Reserve Price:"
+
+msgctxt "ReservePriceHelpTitle"
+msgid "Reserve Price"
+msgstr "Reserve Price"
+
+msgctxt "ReservePriceHelp"
+msgid "The lowest price you are willing to sell an item at. The reserve price is not shown to bidders. If the auction does not reach the reserve price you are under no obligation to sell.<br /><br />NB: An additional fee is charged for setting a reserve price."
+msgstr "The lowest price you are willing to sell an item at. The reserve price is not shown to bidders. If the auction does not reach the reserve price you are under no obligation to sell.<br /><br />NB: An additional fee is charged for setting a reserve price."
+
+msgctxt "YesReservePriceText"
+msgid "Yes, use a reserve price for this listing"
+msgstr "Yes, use a reserve price for this listing"
+
+msgctxt "ReservePriceNotAllowed"
+msgid "The primary category or eBay site you selected does not allow reserve prices."
+msgstr "The primary category or eBay site you selected does not allow reserve prices."
+
+msgctxt "StartingPrice"
+msgid "Starting Price:"
+msgstr "Starting Price:"
+
+msgctxt "StartingPriceOption"
+msgid "Starting price option"
+msgstr "Starting price option"
+
+msgctxt "StartingPriceHelpTitle"
+msgid "Starting Price"
+msgstr "Starting Price"
+
+msgctxt "StartingPriceHelp"
+msgid "The price at which you wish bidding to begin on the item. You may set a reserve price which is lower than the starting price to represent the true minimum you wish to sell at."
+msgstr "The price at which you wish bidding to begin on the item. You may set a reserve price which is lower than the starting price to represent the true minimum you wish to sell at."
+
+msgctxt "BuyItNowPrice"
+msgid "Buy It Now Price:"
+msgstr "Buy It Now Price:"
+
+msgctxt "BuyItNowPriceOption"
+msgid "Buy It Now price option"
+msgstr "Buy It Now price option"
+
+msgctxt "YesBuyItNowPriceText"
+msgid "Yes, add a Buy It Now price to this listing"
+msgstr "Yes, add a Buy It Now price to this listing"
+
+msgctxt "BuyItNowPriceHelpTitle"
+msgid "Buy It Now Price"
+msgstr "Buy It Now Price"
+
+msgctxt "BuyItNowPriceHelp"
+msgid "You can optionally allow buyers to purchase an item immediately at the specified price. The Buy It Now price must be at least 10% higher than the start price.<br /><br />NB: You must have a feedback rating of 10 or higher."
+msgstr "You can optionally allow buyers to purchase an item immediately at the specified price. The Buy It Now price must be at least 10% higher than the start price.<br /><br />NB: You must have a feedback rating of 10 or higher."
+
+msgctxt "UseThisPrice"
+msgid "Use this price"
+msgstr "Use this price"
+
+msgctxt "UseThisPriceHelp"
+msgid "Use this option if you wish to enter a specific price at which to sell all of your items using this template."
+msgstr "Use this option if you wish to enter a specific price at which to sell all of your items using this template."
+
+msgctxt "UseProductPrice"
+msgid "Use the product price"
+msgstr "Use the product price"
+
+msgctxt "UseProductPriceHelp"
+msgid "Choose this option if you'd like to list products on eBay at exactly the same price in which they would appear in your online store."
+msgstr "Choose this option if you'd like to list products on eBay at exactly the same price in which they would appear in your online store."
+
+msgctxt "UseProductPricePlus"
+msgid "Use the product price"
+msgstr "Use the product price"
+
+msgctxt "UseProductPricePlusHelp"
+msgid "Use this option to sell products at their entered price plus or minus a percent or fixed amount modifier."
+msgstr "Use this option to sell products at their entered price plus or minus a percent or fixed amount modifier."
+
+msgctxt "EbayDurationDays_1"
+msgid "1 day"
+msgstr "1 day"
+
+msgctxt "EbayDurationDays_3"
+msgid "3 days"
+msgstr "3 days"
+
+msgctxt "EbayDurationDays_5"
+msgid "5 days"
+msgstr "5 days"
+
+msgctxt "EbayDurationDays_7"
+msgid "7 days"
+msgstr "7 days"
+
+msgctxt "EbayDurationDays_10"
+msgid "10 days"
+msgstr "10 days"
+
+msgctxt "EbayDurationDays_14"
+msgid "14 days"
+msgstr "14 days"
+
+msgctxt "EbayDurationDays_21"
+msgid "21 days"
+msgstr "21 days"
+
+msgctxt "EbayDurationDays_30"
+msgid "30 days"
+msgstr "30 days"
+
+msgctxt "EbayDurationDays_60"
+msgid "60 days"
+msgstr "60 days"
+
+msgctxt "EbayDurationDays_90"
+msgid "90 days"
+msgstr "90 days"
+
+msgctxt "EbayDurationDays_120"
+msgid "120 days"
+msgstr "120 days"
+
+msgctxt "EbayDurationGTC"
+msgid "Good 'Til Cancelled"
+msgstr "Good 'Til Cancelled"
+
+msgctxt "EbayDurationLifeTime"
+msgid "Life Time"
+msgstr "Life Time"
+
+msgctxt "GeneralTab"
+msgid "General"
+msgstr "General"
+
+msgctxt "PaymentTab"
+msgid "Payment"
+msgstr "Payment"
+
+msgctxt "ShippingTab"
+msgid "Shipping"
+msgstr "Shipping"
+
+msgctxt "OtherTab"
+msgid "Other"
+msgstr "Other"
+
+msgctxt "EbayFormStep1"
+msgid "1. Select eBay Site"
+msgstr "1. Select eBay Site"
+
+msgctxt "EbayFormStep2"
+msgid "2. Select Categories"
+msgstr "2. Select Categories"
+
+msgctxt "EbayFormStep3"
+msgid "3. Enter Template Details"
+msgstr "3. Enter Template Details"
+
+msgctxt "EbayCreateTemplateIntro"
+msgid "Fill in the form below to create an eBay listing template, which makes it easy to list multiple, similar products on eBay at once. <a href='javascript: LaunchHelp(899);'>Learn more</a>."
+msgstr "Fill in the form below to create an eBay listing template, which makes it easy to list multiple, similar products on eBay at once. <a href='javascript: LaunchHelp(899);'>Learn more</a>."
+
+msgctxt "EbayFormStep1Intro"
+msgid "Select the eBay site you wish to list the items on. If you wish to list items on multiple sites then you must create a separate template for each one."
+msgstr "Select the eBay site you wish to list the items on. If you wish to list items on multiple sites then you must create a separate template for each one."
+
+msgctxt "EbayFormStep1Instruction"
+msgid "Enter a name and an optional description to describe this template then click next to continue."
+msgstr "Enter a name and an optional description to describe this template then click next to continue."
+
+msgctxt "ChangeEbaySiteWarning"
+msgid "Changing the eBay Site or primary category can cause some of your template details to reset to their defaults."
+msgstr "Changing the eBay Site or primary category can cause some of your template details to reset to their defaults."
+
+msgctxt "EbayFormStep2Intro"
+msgid "Select the categories you wish to list your items in. You must select at least the primary eBay category."
+msgstr "Select the categories you wish to list your items in. You must select at least the primary eBay category."
+
+msgctxt "EbayFormStep2Instruction"
+msgid "If you have an eBay Store, you may also pick up to two of your store categories to list your items in."
+msgstr "If you have an eBay Store, you may also pick up to two of your store categories to list your items in."
+
+msgctxt "EbayFormStep3Intro"
+msgid "Choose the selling method, payment methods, shipping services and other template details to customize your listing. When you are done, click save to finalize your template."
+msgstr "Choose the selling method, payment methods, shipping services and other template details to customize your listing. When you are done, click save to finalize your template."
+
+msgctxt "LoadingEbayTemplateDetailsMessage"
+msgid "Loading template details, please wait..."
+msgstr "Loading template details, please wait..."
+
+msgctxt "ErrorLoadingEbayTemplateDetails"
+msgid "An error occurred loading the template form."
+msgstr "An error occurred loading the template form."
+
+msgctxt "UnknownTemplateNameError"
+msgid "An error occurred checking the template name. Please try again."
+msgstr "An error occurred checking the template name. Please try again."
+
+msgctxt "UnknownSavingTemplateError"
+msgid "An error occurred saving the template. Please try again."
+msgstr "An error occurred saving the template. Please try again."
+
+msgctxt "EnterPrimaryCategory"
+msgid "You must select a primary eBay category."
+msgstr "You must select a primary eBay category."
+
+msgctxt "ChooseSellingMethod"
+msgid "Please choose a selling method."
+msgstr "Please choose a selling method."
+
+msgctxt "TemplateFormNotLoaded"
+msgid "An error occurred when loading the template: :error"
+msgstr "An error occurred when loading the template: :error"
+
+msgctxt "ErrorSavingTemplate"
+msgid "An error occurred when saving the template. For further information, please consult your store log (under Tools > Store Logs) or lodge a support ticket if the issue persists."
+msgstr "An error occurred when saving the template. For further information, please consult your store log (under Tools > Store Logs) or lodge a support ticket if the issue persists."
+
+msgctxt "ShippingIntro"
+msgid "You may specify both domestic and international shipping options. If international services are offered, then you must also include domestic services."
+msgstr "You may specify both domestic and international shipping options. If international services are offered, then you must also include domestic services."
+
+msgctxt "ShippingDimensionsWarning"
+msgid "If using <strong>Calculated</strong> shipping services please ensure your products have both their correct weights and dimensions specified."
+msgstr "If using <strong>Calculated</strong> shipping services please ensure your products have both their correct weights and dimensions specified."
+
+msgctxt "ShipTo"
+msgid "Ship to"
+msgstr "Ship to"
+
+msgctxt "PleaseSelectLocation"
+msgid "-- Please select a location --"
+msgstr "-- Please select a location --"
+
+msgctxt "EnterShipToLocation"
+msgid "Please select a location to ship to."
+msgstr "Please select a location to ship to."
+
+msgctxt "EbayPaymentMethodAmEx"
+msgid "American Express"
+msgstr "American Express"
+
+msgctxt "EbayPaymentMethodCashInPerson"
+msgid "Cash-in-person"
+msgstr "Cash-in-person"
+
+msgctxt "EbayPaymentMethodCashOnPickup"
+msgid "Payment on Delivery"
+msgstr "Payment on Delivery"
+
+msgctxt "EbayPaymentMethodCCAccepted"
+msgid "Credit Card"
+msgstr "Credit Card"
+
+msgctxt "EbayPaymentMethodCOD"
+msgid "Cash on Delivery"
+msgstr "Cash on Delivery"
+
+msgctxt "EbayPaymentMethodDiscover"
+msgid "Discover Card"
+msgstr "Discover Card"
+
+msgctxt "EbayPaymentMethodELV"
+msgid "Elektronisches Lastschriftverfahren"
+msgstr "Elektronisches Lastschriftverfahren"
+
+msgctxt "EbayPaymentMethodEscrow"
+msgid "Escrow"
+msgstr "Escrow"
+
+msgctxt "EbayPaymentMethodIntegratedMerchantCreditCard"
+msgid "Integrated Merchant Credit Card"
+msgstr "Integrated Merchant Credit Card"
+
+msgctxt "EbayPaymentMethodLoanCheck"
+msgid "Loan Check"
+msgstr "Loan Check"
+
+msgctxt "EbayPaymentMethodMOCC"
+msgid "Money Order or Cashiers Check"
+msgstr "Money Order or Cashiers Check"
+
+msgctxt "EbayPaymentMethodMoneybookers"
+msgid "Moneybookers"
+msgstr "Moneybookers"
+
+msgctxt "EbayPaymentMethodMoneyXferAccepted"
+msgid "Money Transfer"
+msgstr "Money Transfer"
+
+msgctxt "EbayPaymentMethodMoneyXferAcceptedInCheckout"
+msgid "Money Transfer (Accepted in Checkout)"
+msgstr "Money Transfer (Accepted in Checkout)"
+
+msgctxt "EbayPaymentMethodNone"
+msgid "None"
+msgstr "None"
+
+msgctxt "EbayPaymentMethodOther"
+msgid "Other"
+msgstr "Other"
+
+msgctxt "EbayPaymentMethodOtherOnlinePayments"
+msgid "Other Online Payments"
+msgstr "Other Online Payments"
+
+msgctxt "EbayPaymentMethodPaisaPayAccepted"
+msgid "PaisaPay"
+msgstr "PaisaPay"
+
+msgctxt "EbayPaymentMethodPaisaPayEscrow"
+msgid "PaisaPay Escrow"
+msgstr "PaisaPay Escrow"
+
+msgctxt "EbayPaymentMethodPaisaPayEscrowEMI"
+msgid "PaisaPay Escrow Equal Monthly Installments"
+msgstr "PaisaPay Escrow Equal Monthly Installments"
+
+msgctxt "EbayPaymentMethodPaymate"
+msgid "Paymate"
+msgstr "Paymate"
+
+msgctxt "EbayPaymentMethodPaymentSeeDescription"
+msgid "Paymate (see item description)"
+msgstr "Paymate (see item description)"
+
+msgctxt "EbayPaymentMethodPayOnPickup"
+msgid "Payment on Delivery"
+msgstr "Payment on Delivery"
+
+msgctxt "EbayPaymentMethodPayPal"
+msgid "PayPal"
+msgstr "PayPal"
+
+msgctxt "EbayPaymentMethodPersonalCheck"
+msgid "Personal Check"
+msgstr "Personal Check"
+
+msgctxt "EbayPaymentMethodProPay"
+msgid "ProPay"
+msgstr "ProPay"
+
+msgctxt "EbayPaymentMethodVisaMC"
+msgid "Visa or Mastercard"
+msgstr "Visa or Mastercard"
+
+msgctxt "EbayPayPalRequired"
+msgid "The primary category you selected requires <strong>PayPal</strong> as a payment method."
+msgstr "The primary category you selected requires <strong>PayPal</strong> as a payment method."
+
+msgctxt "ShippingDetails"
+msgid "Shipping Details"
+msgstr "Shipping Details"
+
+msgctxt "ItemDetails"
+msgid "Item Details"
+msgstr "Item Details"
+
+msgctxt "ItemPhoto"
+msgid "Item Photo:"
+msgstr "Item Photo:"
+
+msgctxt "YesUseItemPhoto"
+msgid "Yes, show the product's default photo on eBay (untick for no photo)"
+msgstr "Yes, show the product's default photo on eBay (untick for no photo)"
+
+msgctxt "EbayFeeAuctionLengthFee"
+msgid "Auction Length (10 day listing)"
+msgstr "Auction Length (10 day listing)"
+
+msgctxt "EbayFeeBoldFee"
+msgid "Item Result (Boldface)"
+msgstr "Item Result (Boldface)"
+
+msgctxt "EbayFeeBorderFee"
+msgid "Item Result (Border)"
+msgstr "Item Result (Border)"
+
+msgctxt "EbayFeeBuyItNowFee"
+msgid "Buy It Now"
+msgstr "Buy It Now"
+
+msgctxt "EbayFeeCategoryFeaturedFee"
+msgid "Featured Item (Category)"
+msgstr "Featured Item (Category)"
+
+msgctxt "EbayFeeCrossBorderTradeGBFee"
+msgid "Cross Border Trade (UK)"
+msgstr "Cross Border Trade (UK)"
+
+msgctxt "EbayFeeCrossBorderTradeNorthAmericaFee"
+msgid "Cross Border Trade (US)"
+msgstr "Cross Border Trade (US)"
+
+msgctxt "EbayFeeFeaturedFee"
+msgid "Featured Item (Home page)"
+msgstr "Featured Item (Home page)"
+
+msgctxt "EbayFeeFeaturedGalleryFee"
+msgid "Featured Gallery"
+msgstr "Featured Gallery"
+
+msgctxt "EbayFeeFixedPriceDurationFee"
+msgid "Fixed Price Duration"
+msgstr "Fixed Price Duration"
+
+msgctxt "EbayFeeGalleryFee"
+msgid "Gallery"
+msgstr "Gallery"
+
+msgctxt "EbayFeeGalleryPlusFee"
+msgid "Gallery Plus"
+msgstr "Gallery Plus"
+
+msgctxt "EbayFeeGiftIconFee"
+msgid "Gift Icon"
+msgstr "Gift Icon"
+
+msgctxt "EbayFeeHighLightFee"
+msgid "Item Result (Highlight)"
+msgstr "Item Result (Highlight)"
+
+msgctxt "EbayFeeInsertionFee"
+msgid "Insertion"
+msgstr "Insertion"
+
+msgctxt "EbayFeeInternationalInsertionFee"
+msgid "Insertion (International)"
+msgstr "Insertion (International)"
+
+msgctxt "EbayFeeListingDesignerFee"
+msgid "Listing Designer Layout or Theme"
+msgstr "Listing Designer Layout or Theme"
+
+msgctxt "EbayFeeMotorsGermanySearchFee"
+msgid "Germany Motors Search Result"
+msgstr "Germany Motors Search Result"
+
+msgctxt "EbayFeePhotoDisplayFee"
+msgid "Photo (Special Display)"
+msgstr "Photo (Special Display)"
+
+msgctxt "EbayFeePhotoFee"
+msgid "Photo (Listing)"
+msgstr "Photo (Listing)"
+
+msgctxt "EbayFeePrivateListingFee"
+msgid "Private Listing"
+msgstr "Private Listing"
+
+msgctxt "EbayFeeProPackBundleFee"
+msgid "Pro Pack"
+msgstr "Pro Pack"
+
+msgctxt "EbayFeeProPackPlusBundleFee"
+msgid "Pro Pack Plus"
+msgstr "Pro Pack Plus"
+
+msgctxt "EbayFeeReserveFee"
+msgid "Reserve Price"
+msgstr "Reserve Price"
+
+msgctxt "EbayFeeSchedulingFee"
+msgid "Schedule Time"
+msgstr "Schedule Time"
+
+msgctxt "EbayFeeSubtitleFee"
+msgid "Subtitle"
+msgstr "Subtitle"
+
+msgctxt "EbayFeeValuePackBundleFee"
+msgid "Value Pack"
+msgstr "Value Pack"
+
+msgctxt "EnterTemplateName"
+msgid "You must enter a template name."
+msgstr "You must enter a template name."
+
+msgctxt "TemplateNameInUse"
+msgid "The template name ':templateName' is currently in use. Please enter a different name."
+msgstr "The template name ':templateName' is currently in use. Please enter a different name."
+
+msgctxt "SelectEbaySite"
+msgid "Please select an eBay site to list your products on."
+msgstr "Please select an eBay site to list your products on."
+
+msgctxt "EnterLotSize"
+msgid "You must enter a valid lot size."
+msgstr "You must enter a valid lot size."
+
+msgctxt "EnterQuantity"
+msgid "You must enter a valid quantity to sell."
+msgstr "You must enter a valid quantity to sell."
+
+msgctxt "EnterReservePrice"
+msgid "Please enter a valid Reserve price."
+msgstr "Please enter a valid Reserve price."
+
+msgctxt "EnterStartPrice"
+msgid "Please enter a valid Starting price."
+msgstr "Please enter a valid Starting price."
+
+msgctxt "EnterBuyItNowPrice"
+msgid "Please enter a valid Buy It Now price."
+msgstr "Please enter a valid Buy It Now price."
+
+msgctxt "MinimumReserveNotMet"
+msgid "The minimum reserve for the chosen primary category is "
+msgstr "The minimum reserve for the chosen primary category is "
+
+msgctxt "BuyItNowPriceTooLow"
+msgid "The Buy It Now price must be at least 10% higher than the Starting price."
+msgstr "The Buy It Now price must be at least 10% higher than the Starting price."
+
+msgctxt "SelectPaymentMethod"
+msgid "Please select a payment method."
+msgstr "Please select a payment method."
+
+msgctxt "EnterPayPalEmail"
+msgid "Please enter a PayPal email address."
+msgstr "Please enter a PayPal email address."
+
+msgctxt "EbayTestMode"
+msgid "Listing Mode"
+msgstr "Listing Mode"
+
+msgctxt "EbayTestModeHelp"
+msgid "If you wish to test the eBay integration and have signed up for a sandbox account then select <strong>Sandbox</strong>. Any items you list will only be shown on eBay's sandbox site.<br /><br />If you are ready to start listing your products on the live eBay site then select <strong>Production</strong>."
+msgstr "If you wish to test the eBay integration and have signed up for a sandbox account then select <strong>Sandbox</strong>. Any items you list will only be shown on eBay's sandbox site.<br /><br />If you are ready to start listing your products on the live eBay site then select <strong>Production</strong>."
+
+msgctxt "EbayModeProduction"
+msgid "Production Site"
+msgstr "Production Site"
+
+msgctxt "EbayModeSandbox"
+msgid "Sandbox (Test) Site"
+msgstr "Sandbox (Test) Site"
+
+msgctxt "EbaySandboxOnly"
+msgid "Listing your products on eBay's live site isn't possible during the trial, however you can still list them on eBay's sandbox (test) site by choosing that option for the 'Listing Mode' setting on this page."
+msgstr "Listing your products on eBay's live site isn't possible during the trial, however you can still list them on eBay's sandbox (test) site by choosing that option for the 'Listing Mode' setting on this page."
+
+msgctxt "StepNumOfTotal"
+msgid "(Step :step of :totalSteps)"
+msgstr "(Step :step of :totalSteps)"
+
+msgctxt "SelectACategory"
+msgid "Select a Category"
+msgstr "Select a Category"
+
+msgctxt "MapProductConditions"
+msgid "Map Product Conditions"
+msgstr "Map Product Conditions"
+
+msgctxt "LoadingEbayCategoriesMessage"
+msgid "Loading categories, please wait..."
+msgstr "Loading categories, please wait..."
+
+msgctxt "LoadingEbayCategoriesFailure"
+msgid "The categories could not be loaded."
+msgstr "The categories could not be loaded."
+
+msgctxt "SelectEbayCategoriesIntro"
+msgid "Click a main category below and then choose a sub-category for where the product(s) will be listed on eBay."
+msgstr "Click a main category below and then choose a sub-category for where the product(s) will be listed on eBay."
+
+msgctxt "LoadingEbayCategoryCondMessage"
+msgid "Loading category conditions, please wait..."
+msgstr "Loading category conditions, please wait..."
+
+msgctxt "LoadingEbayCategoryCondFailure"
+msgid "The category conditions could not be loaded."
+msgstr "The category conditions could not be loaded."
+
+msgctxt "NoCondSupported"
+msgid "This category doesn't support item conditions."
+msgstr "This category doesn't support item conditions."
+
+msgctxt "FinishToAddEbayCategory"
+msgid "Click Finish to add the category to the template."
+msgstr "Click Finish to add the category to the template."
+
+msgctxt "LoadingEbayCategoryDetailsMessage"
+msgid "Loading category details, please wait..."
+msgstr "Loading category details, please wait..."
+
+msgctxt "LoadingEbayCategoryDetailsFailure"
+msgid "The category details could not be loaded."
+msgstr "The category details could not be loaded."
+
+msgctxt "TryAgainMessage"
+msgid "Please try again. If the error persists please submit a ticket to technical support."
+msgstr "Please try again. If the error persists please submit a ticket to technical support."
+
+msgctxt "MayTryAgainMessage"
+msgid "You may either go back and try again or cancel. If the issue persists, please lodge a support ticket."
+msgstr "You may either go back and try again or cancel. If the issue persists, please lodge a support ticket."
+
+msgctxt "Finish"
+msgid "Finish"
+msgstr "Finish"
+
+msgctxt "ProductCondMapOptional"
+msgid "Map the product conditions to those for the selected eBay category below."
+msgstr "Map the product conditions to those for the selected eBay category below."
+
+msgctxt "ProductCondMapMandatory"
+msgid "Map the product conditions to those for the selected eBay category below. This category requires that all conditions be mapped."
+msgstr "Map the product conditions to those for the selected eBay category below. This category requires that all conditions be mapped."
+
+msgctxt "MappedFinished"
+msgid "All the conditions have been mapped. Click Finish to add the category to the template."
+msgstr "All the conditions have been mapped. Click Finish to add the category to the template."
+
+msgctxt "NextMapCond"
+msgid "Click the &quot;Next&quot; button to continue."
+msgstr "Click the &quot;Next&quot; button to continue."
+
+msgctxt "FinishAddCat"
+msgid "Click Finish add the category to the template."
+msgstr "Click Finish add the category to the template."
+
+msgctxt "MiscellaneousSettings"
+msgid "Miscellaneous Settings"
+msgstr "Miscellaneous Settings"
+
+msgctxt "EbaySupportedFeatures"
+msgid "Supported Listing Features"
+msgstr "Supported Listing Features"
+
+msgctxt "EbayProductsWithVariationsAllowed"
+msgid "Products with variations can be listed in this category"
+msgstr "Products with variations can be listed in this category"
+
+msgctxt "EbayProductsWithVariationsNotAllowed"
+msgid "Products with variations cannot be listed in this category"
+msgstr "Products with variations cannot be listed in this category"
+
+msgctxt "EbayReservePriceAllowed"
+msgid "A reserve price can be set for the listing (minimum reserve of :minimumReserve)"
+msgstr "A reserve price can be set for the listing (minimum reserve of :minimumReserve)"
+
+msgctxt "EbayReservePriceNotAllowed"
+msgid "A reserve price cannot be set for the listing"
+msgstr "A reserve price cannot be set for the listing"
+
+msgctxt "EbayPayPalRequiredMethod"
+msgid "PayPal is required as a payment method"
+msgstr "PayPal is required as a payment method"
+
+msgctxt "EbayReturnPolicyAllowed"
+msgid "A return policy can be specified"
+msgstr "A return policy can be specified"
+
+msgctxt "EbayLotSizeAllowed"
+msgid "A lot size can be set"
+msgstr "A lot size can be set"
+
+msgctxt "EbayProductsWithVariationsSellingMethodNotAllowed"
+msgid "Products with variations can only be listed as fixed price"
+msgstr "Products with variations can only be listed as fixed price"

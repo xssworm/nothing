@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "Backups"
+msgid "Backups"
+msgstr "Backups"
+
+msgctxt "CreateBackup"
+msgid "Create a Backup"
+msgstr "Create a Backup"
+
+msgctxt "CreateBackupIntro"
+msgid "Complete the form below to create a backup of your store. You can choose which items to backup and where to back them up to."
+msgstr "Complete the form below to create a backup of your store. You can choose which items to backup and where to back them up to."
+
+msgctxt "BackupMethod"
+msgid "Backup Method"
+msgstr "Backup Method"
+
+msgctxt "BackupMethodLocal"
+msgid "Store locally"
+msgstr "Store locally"
+
+msgctxt "BackupMethodRemoteFTP"
+msgid "Store on remote FTP Server"
+msgstr "Store on remote FTP Server"
+
+msgctxt "BackupDatabase"
+msgid "Backup Store Database?"
+msgstr "Backup Store Database?"
+
+msgctxt "BackupDatabaseHelp"
+msgid "Should a copy of the database be created for this backup? If this box is ticked, an SQL format database dump will be created.<br /><br />This SQL database dump can later be imported using an application such as phpMyAdmin"
+msgstr "Should a copy of the database be created for this backup? If this box is ticked, an SQL format database dump will be created.<br /><br />This SQL database dump can later be imported using an application such as phpMyAdmin"
+
+msgctxt "YesBackupDatabase"
+msgid "Yes, backup database"
+msgstr "Yes, backup database"
+
+msgctxt "BackupDatabaseTableCount"
+msgid "Number of tables to be backed up:"
+msgstr "Number of tables to be backed up:"
+
+msgctxt "BackupDatabaseRowCount"
+msgid "Total number of rows to be backed up:"
+msgstr "Total number of rows to be backed up:"
+
+msgctxt "BackupDatabaseMaxRows"
+msgid "Maximum number of rows in a single table:"
+msgstr "Maximum number of rows in a single table:"
+
+msgctxt "BackupDatabaseMinRows"
+msgid "Minimum number of rows in a single table:"
+msgstr "Minimum number of rows in a single table:"
+
+msgctxt "BackupProductImages"
+msgid "Backup Product Images?"
+msgstr "Backup Product Images?"
+
+msgctxt "BackupProductImagesHelp"
+msgid "To include any product images in this backup, check this box. Product images will be copied to a directory within the backup.<br /><br />To restore backed up product images you will need to copy the contents of the created \'product_images\' directory in to your existing images directory."
+msgstr "To include any product images in this backup, check this box. Product images will be copied to a directory within the backup.<br /><br />To restore backed up product images you will need to copy the contents of the created \'product_images\' directory in to your existing images directory."
+
+msgctxt "YesBackupProductImages"
+msgid "Yes, backup product images"
+msgstr "Yes, backup product images"
+
+msgctxt "BackupProductImagesCount"
+msgid "Number of images to be backed up:"
+msgstr "Number of images to be backed up:"
+
+msgctxt "BackupDigitalProducts"
+msgid "Backup Downloadable Products?"
+msgstr "Backup Downloadable Products?"
+
+msgctxt "BackupDigitalProductsHelp"
+msgid "Your store makes use of one or more digital (downloadable) products. To back these files up too, check this box.<br /><br />To restore backed up downloadable products you will need to copy the contents of the created \'product_downloads\' directory in to your existing downloads directory."
+msgstr "Your store makes use of one or more digital (downloadable) products. To back these files up too, check this box.<br /><br />To restore backed up downloadable products you will need to copy the contents of the created \'product_downloads\' directory in to your existing downloads directory."
+
+msgctxt "YesBackupDigitalProducts"
+msgid "Yes, backup downloadable products"
+msgstr "Yes, backup downloadable products"
+
+msgctxt "BackupDigitalProductsCount"
+msgid "Number of downloadable products to be backed up:"
+msgstr "Number of downloadable products to be backed up:"
+
+msgctxt "StartBackup"
+msgid "Start Backup"
+msgstr "Start Backup"
+
+msgctxt "CancelBackup"
+msgid "Cancel Backup"
+msgstr "Cancel Backup"
+
+msgctxt "ConfirmCancelBackup"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "BackupInProgress"
+msgid "Backup in Progress.."
+msgstr "Backup in Progress.."
+
+msgctxt "BackupInProgressIntro"
+msgid "Please do not click away or close your browser window until the backup is complete."
+msgstr "Please do not click away or close your browser window until the backup is complete."
+
+msgctxt "ManageLocalBackups"
+msgid "View Local Backups"
+msgstr "View Local Backups"
+
+msgctxt "ManageLocalBackupsIntro"
+msgid "Backups that have been saved locally are shown below. Remote backups are not listed and can be downloaded from your backup server via FTP."
+msgstr "Backups that have been saved locally are shown below. Remote backups are not listed and can be downloaded from your backup server via FTP."
+
+msgctxt "BackupsAvailableIn"
+msgid "Available in %s"
+msgstr "Available in %s"
+
+msgctxt "BackupFileName"
+msgid "File / Folder Name"
+msgstr "File / Folder Name"
+
+msgctxt "BackupSize"
+msgid "Size"
+msgstr "Size"
+
+msgctxt "BackupMTime"
+msgid "Date Created"
+msgstr "Date Created"
+
+msgctxt "OpenBackup"
+msgid "Open Backup Directory"
+msgstr "Open Backup Directory"
+
+msgctxt "DownloadBackup"
+msgid "Download Backup File"
+msgstr "Download Backup File"
+
+msgctxt "NoBackups"
+msgid "You haven't created any local backups. Once you create a local backup, they'll be available here."
+msgstr "You haven't created any local backups. Once you create a local backup, they'll be available here."
+
+msgctxt "InvalidBackup"
+msgid "The selected backup does not exist or has been moved."
+msgstr "The selected backup does not exist or has been moved."
+
+msgctxt "BackupCancelled"
+msgid "The backup has successfully been cancelled."
+msgstr "The backup has successfully been cancelled."
+
+msgctxt "BackupDeleted"
+msgid "The backup has successfully been deleted."
+msgstr "The backup has successfully been deleted."
+
+msgctxt "SelectedBackupsDeleted"
+msgid "The selected backups have successfully been deleted."
+msgstr "The selected backups have successfully been deleted."
+
+msgctxt "ConfirmDeleteBackups"
+msgid "Are you sure you wish to delete the selected backups?"
+msgstr "Are you sure you wish to delete the selected backups?"
+
+msgctxt "NoBackupsSelected"
+msgid "Please choose at least one backup to delete."
+msgstr "Please choose at least one backup to delete."
+
+msgctxt "LocalBackupFailed"
+msgid "The local backup failed to be created. Please check that the backups directory exists and is writable"
+msgstr "The local backup failed to be created. Please check that the backups directory exists and is writable"
+
+msgctxt "RemoteBackupFailed"
+msgid "The remote backup failed. Please check that the remote server settings for this backup type are correct."
+msgstr "The remote backup failed. Please check that the remote server settings for this backup type are correct."
+
+msgctxt "BackupStatusComplete"
+msgid "Backup complete... Redirecting..."
+msgstr "Backup complete... Redirecting..."
+
+msgctxt "BackupStatusTable"
+msgid "Currently backing up database (%s)"
+msgstr "Currently backing up database (%s)"
+
+msgctxt "BackupStatusUploading"
+msgid "Uploading to remote host.."
+msgstr "Uploading to remote host.."
+
+msgctxt "BackupStatusImages"
+msgid "Backing up product images..."
+msgstr "Backing up product images..."
+
+msgctxt "BackupStatusImageX"
+msgid "Backing up product image %s of %s.."
+msgstr "Backing up product image %s of %s.."
+
+msgctxt "BackupStatusDownloads"
+msgid "Backing up downloadable products..."
+msgstr "Backing up downloadable products..."
+
+msgctxt "BackupStatusDownloadX"
+msgid "Backing up downloadable product %s of %s..."
+msgstr "Backing up downloadable product %s of %s..."
+
+msgctxt "RemoteBackupComplete"
+msgid "The remote backup completed successfully."
+msgstr "The remote backup completed successfully."
+
+msgctxt "LocalBackupComplete"
+msgid "The local backup completed successfully. This backup can be found in '%s'"
+msgstr "The local backup completed successfully. This backup can be found in '%s'"
+
+msgctxt "BackupFolder"
+msgid "Backup Folder"
+msgstr "Backup Folder"
+
+msgctxt "BackupFile"
+msgid "Database Backup File"
+msgstr "Database Backup File"

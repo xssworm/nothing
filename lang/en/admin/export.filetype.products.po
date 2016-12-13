@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "TypeTitle"
+msgid "Products"
+msgstr "Products"
+
+msgctxt "TypeInstructions"
+msgid "If you want to export your products for bulk editing and re-importing in Microsoft Excel please see this <a href='javascript:LaunchHelp(891);'>tutorial</a>."
+msgstr "If you want to export your products for bulk editing and re-importing in Microsoft Excel please see this <a href='javascript:LaunchHelp(891);'>tutorial</a>."
+
+msgctxt "productID"
+msgid "Product ID"
+msgstr "Product ID"
+
+msgctxt "productType"
+msgid "Product Type"
+msgstr "Product Type"
+
+msgctxt "productCode"
+msgid "Code"
+msgstr "Code"
+
+msgctxt "productName"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "productBrand"
+msgid "Brand"
+msgstr "Brand"
+
+msgctxt "productBrandName"
+msgid "Brand + Name"
+msgstr "Brand + Name"
+
+msgctxt "productDesc"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "productTaxable"
+msgid "Taxable Product"
+msgstr "Taxable Product"
+
+msgctxt "productPrice"
+msgid "Price"
+msgstr "Price"
+
+msgctxt "productCostPrice"
+msgid "Cost Price"
+msgstr "Cost Price"
+
+msgctxt "productRetailPrice"
+msgid "Retail Price"
+msgstr "Retail Price"
+
+msgctxt "productSalePrice"
+msgid "Sale Price"
+msgstr "Sale Price"
+
+msgctxt "productCalculatedPrice"
+msgid "Calculated Price"
+msgstr "Calculated Price"
+
+msgctxt "productShippingPrice"
+msgid "Fixed Shipping Price"
+msgstr "Fixed Shipping Price"
+
+msgctxt "productFreeShipping"
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+msgctxt "productWarranty"
+msgid "Warranty"
+msgstr "Warranty"
+
+msgctxt "productWeight"
+msgid "Weight"
+msgstr "Weight"
+
+msgctxt "productWidth"
+msgid "Width"
+msgstr "Width"
+
+msgctxt "productHeight"
+msgid "Height"
+msgstr "Height"
+
+msgctxt "productDepth"
+msgid "Depth"
+msgstr "Depth"
+
+msgctxt "productDateAdded"
+msgid "Date Added"
+msgstr "Date Added"
+
+msgctxt "productLastModified"
+msgid "Date Modified"
+msgstr "Date Modified"
+
+msgctxt "productCategoryString"
+msgid "Category String"
+msgstr "Category String"
+
+msgctxt "productCategories"
+msgid "Category Details"
+msgstr "Category Details"
+
+msgctxt "productCategoryID"
+msgid "Category ID"
+msgstr "Category ID"
+
+msgctxt "productCategoryName"
+msgid "Category Name"
+msgstr "Category Name"
+
+msgctxt "productCategoryPath"
+msgid "Category Path"
+msgstr "Category Path"
+
+msgctxt "productSearchKeywords"
+msgid "Search Keywords"
+msgstr "Search Keywords"
+
+msgctxt "productPageTitle"
+msgid "Page Title"
+msgstr "Page Title"
+
+msgctxt "productMetaKeywords"
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+msgctxt "productMetaDesc"
+msgid "Meta Description"
+msgstr "Meta Description"
+
+msgctxt "productAvailability"
+msgid "Product Availability"
+msgstr "Product Availability"
+
+msgctxt "productVisible"
+msgid "Product Visible"
+msgstr "Product Visible"
+
+msgctxt "productNotVisible"
+msgid "Product Not Visible"
+msgstr "Product Not Visible"
+
+msgctxt "productInventoried"
+msgid "Product Inventoried"
+msgstr "Product Inventoried"
+
+msgctxt "productStockLevel"
+msgid "Stock Level"
+msgstr "Stock Level"
+
+msgctxt "productTrackInventory"
+msgid "Track Inventory"
+msgstr "Track Inventory"
+
+msgctxt "productLowStockLevel"
+msgid "Low Stock Level"
+msgstr "Low Stock Level"
+
+msgctxt "productVariations"
+msgid "Product Variations"
+msgstr "Product Variations"
+
+msgctxt "productVarDetails"
+msgid "Variation Details"
+msgstr "Variation Details"
+
+msgctxt "productVarSKU"
+msgid "SKU"
+msgstr "SKU"
+
+msgctxt "productVarPrice"
+msgid "Price"
+msgstr "Price"
+
+msgctxt "productVarWeight"
+msgid "Weight"
+msgstr "Weight"
+
+msgctxt "productVarStockLevel"
+msgid "Stock Level"
+msgstr "Stock Level"
+
+msgctxt "productVarLowStockLevel"
+msgid "Low Stock Level"
+msgstr "Low Stock Level"
+
+msgctxt "productPurchasable"
+msgid "Allow Purchases"
+msgstr "Allow Purchases"
+
+msgctxt "productMYOBAsset"
+msgid "MYOB Asset Acct"
+msgstr "MYOB Asset Acct"
+
+msgctxt "productMYOBIncome"
+msgid "MYOB Income Acct"
+msgstr "MYOB Income Acct"
+
+msgctxt "productMYOBExpense"
+msgid "MYOB Expense Acct"
+msgstr "MYOB Expense Acct"
+
+msgctxt "productCondition"
+msgid "Product Condition"
+msgstr "Product Condition"
+
+msgctxt "productShowCondition"
+msgid "Show Product Condition"
+msgstr "Show Product Condition"
+
+msgctxt "productSortOrder"
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgctxt "productImages"
+msgid "Product Images"
+msgstr "Product Images"
+
+msgctxt "productImageID"
+msgid "Product Image ID"
+msgstr "Product Image ID"
+
+msgctxt "productImageFile"
+msgid "Product Image File"
+msgstr "Product Image File"
+
+msgctxt "productImagePath"
+msgid "Product Image Path"
+msgstr "Product Image Path"
+
+msgctxt "productImageURL"
+msgid "Product Image URL"
+msgstr "Product Image URL"
+
+msgctxt "productImageDescription"
+msgid "Product Image Description"
+msgstr "Product Image Description"
+
+msgctxt "productImageIsThumbnail"
+msgid "Product Image Is Thumbnail"
+msgstr "Product Image Is Thumbnail"
+
+msgctxt "productImageIndex"
+msgid "Product Image Index"
+msgstr "Product Image Index"
+
+msgctxt "productEventDateRequired"
+msgid "Event Date Required"
+msgstr "Event Date Required"
+
+msgctxt "productEventDateName"
+msgid "Event Date Name"
+msgstr "Event Date Name"
+
+msgctxt "productEventDateLimited"
+msgid "Event Date Is Limited"
+msgstr "Event Date Is Limited"
+
+msgctxt "productEventDateStartDate"
+msgid "Event Date Start Date"
+msgstr "Event Date Start Date"
+
+msgctxt "productEventDateEndDate"
+msgid "Event Date End Date"
+msgstr "Event Date End Date"
+
+msgctxt "productFiles"
+msgid "Product Files"
+msgstr "Product Files"
+
+msgctxt "productFileFileName"
+msgid "Product File"
+msgstr "Product File"
+
+msgctxt "productFilePath"
+msgid "Product File Path"
+msgstr "Product File Path"
+
+msgctxt "productFileDescription"
+msgid "Product File Description"
+msgstr "Product File Description"
+
+msgctxt "productFileMaxDownloads"
+msgid "Product File Max Downloads"
+msgstr "Product File Max Downloads"
+
+msgctxt "productFileTotalDownloads"
+msgid "Product File Total Downloads"
+msgstr "Product File Total Downloads"
+
+msgctxt "productFileDisabledAfter"
+msgid "Product File Expires After"
+msgstr "Product File Expires After"
+
+msgctxt "productTypeHelp"
+msgid "This field will contain \'P\' for physical products or \'D\' for downloadable products."
+msgstr "This field will contain \'P\' for physical products or \'D\' for downloadable products."
+
+msgctxt "productTaxClass"
+msgid "Product Tax Class"
+msgstr "Product Tax Class"
+
+msgctxt "productUPC"
+msgid "Product UPC"
+msgstr "Product UPC"
+
+msgctxt "gpsUniqueProductIdentifiers"
+msgid "GPS Unique Product Identifiers"
+msgstr "GPS Unique Product Identifiers"
+
+msgctxt "gpsGlobalTradeItemNumber"
+msgid "GPS Global Trade Item Number"
+msgstr "GPS Global Trade Item Number"
+
+msgctxt "gpsManufacturerPartNumber"
+msgid "GPS Manufacturer Part Number"
+msgstr "GPS Manufacturer Part Number"
+
+msgctxt "gpsGender"
+msgid "GPS Gender"
+msgstr "GPS Gender"
+
+msgctxt "gpsAgeGroup"
+msgid "GPS Age Group"
+msgstr "GPS Age Group"
+
+msgctxt "gpsColor"
+msgid "GPS Color"
+msgstr "GPS Color"
+
+msgctxt "gpsSize"
+msgid "GPS Size"
+msgstr "GPS Size"
+
+msgctxt "gpsMaterial"
+msgid "GPS Material"
+msgstr "GPS Material"
+
+msgctxt "gpsPattern"
+msgid "GPS Pattern"
+msgstr "GPS Pattern"
+
+msgctxt "gpsItemGroupId"
+msgid "GPS Item Group ID"
+msgstr "GPS Item Group ID"
+
+msgctxt "gpsCategory"
+msgid "GPS Category"
+msgstr "GPS Category"
+
+msgctxt "gpsGooglePsEnabled"
+msgid "GPS Enabled"
+msgstr "GPS Enabled"
+
+msgctxt "ProductInventoryTrackingByProduct"
+msgid "by product"
+msgstr "by product"
+
+msgctxt "ProductInventoryTrackingByVariation"
+msgid "by variation"
+msgstr "by variation"
+
+msgctxt "ProductInventoryTrackingNone"
+msgid "none"
+msgstr "none"

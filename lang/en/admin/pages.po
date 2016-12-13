@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ManagePages"
+msgid "Manage Web Pages"
+msgstr "Manage Web Pages"
+
+msgctxt "CreatePages"
+msgid "Create Web Pages"
+msgstr "Create Web Pages"
+
+msgctxt "EditPages"
+msgid "Edit Web Pages"
+msgstr "Edit Web Pages"
+
+msgctxt "DeletePages"
+msgid "Delete Web Pages"
+msgstr "Delete Web Pages"
+
+msgctxt "PageOrdersUpdated"
+msgid "The display order of your pages has been updated successfully. <a href='../index.php' target='_blank'>View your store.</a>"
+msgstr "The display order of your pages has been updated successfully. <a href='../index.php' target='_blank'>View your store.</a>"
+
+msgctxt "DuplicatePageTitle"
+msgid "The specified page name is already in use. Please try another name."
+msgstr "The specified page name is already in use. Please try another name."
+
+msgctxt "ViewWebPages"
+msgid "View Web Pages"
+msgstr "View Web Pages"
+
+msgctxt "CreateAWebPage"
+msgid "Create a Web Page"
+msgstr "Create a Web Page"
+
+msgctxt "ManagePagesIntro"
+msgid "Web pages are used to display content that doesn't change often. For example an 'About Us' or a 'Contact Us' page."
+msgstr "Web pages are used to display content that doesn't change often. For example an 'About Us' or a 'Contact Us' page."
+
+msgctxt "NoPageResults"
+msgid "No pages were found matching your search criteria, please try again."
+msgstr "No pages were found matching your search criteria, please try again."
+
+msgctxt "NoPages"
+msgid "No pages have been created. Please click the &quot;Create Page&quot; button to create one."
+msgstr "No pages have been created. Please click the &quot;Create Page&quot; button to create one."
+
+msgctxt "RSSPage"
+msgid "Display syndicated content from an RSS feed"
+msgstr "Display syndicated content from an RSS feed"
+
+msgctxt "RSSFeed"
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+msgctxt "RSSFeedHelp"
+msgid "What is the link to the RSS feed you want to display on this page? All items in the RSS feed will automatically be extracted and displayed as the contents of this page."
+msgstr "What is the link to the RSS feed you want to display on this page? All items in the RSS feed will automatically be extracted and displayed as the contents of this page."
+
+msgctxt "PageLinkHelp"
+msgid "What is the link of the web page you want to display when someone chooses this page from the site\'s navigation menu?"
+msgstr "What is the link of the web page you want to display when someone chooses this page from the site\'s navigation menu?"
+
+msgctxt "ViewPages"
+msgid "View Web Pages"
+msgstr "View Web Pages"
+
+msgctxt "CreatePage"
+msgid "Create a Web Page"
+msgstr "Create a Web Page"
+
+msgctxt "PageTitle"
+msgid "Page Name"
+msgstr "Page Name"
+
+msgctxt "PageType"
+msgid "This Page Will"
+msgstr "This Page Will"
+
+msgctxt "PageType1"
+msgid "Web Site Link"
+msgstr "Web Site Link"
+
+msgctxt "TypeSortAsc"
+msgid "Sort by Type (ascending)"
+msgstr "Sort by Type (ascending)"
+
+msgctxt "TypeSortDesc"
+msgid "Sort by Type (descending)"
+msgstr "Sort by Type (descending)"
+
+msgctxt "OrderSortAsc"
+msgid "Sort by Order (ascending)"
+msgstr "Sort by Order (ascending)"
+
+msgctxt "OrderSortDesc"
+msgid "Sort by Order (descending)"
+msgstr "Sort by Order (descending)"
+
+msgctxt "ConfirmDeletePages"
+msgid "WARNING: This will permanently remove the selected page(s). Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected page(s). Are you sure you wish to do this?"
+
+msgctxt "ChoosePages"
+msgid "Please choose at least one page to delete."
+msgstr "Please choose at least one page to delete."
+
+msgctxt "PreviewPage"
+msgid "Preview Page"
+msgstr "Preview Page"
+
+msgctxt "NormalPage"
+msgid "Contain content created using the WYSIWYG editor below"
+msgstr "Contain content created using the WYSIWYG editor below"
+
+msgctxt "ExternalLink"
+msgid "Link to another website or document"
+msgstr "Link to another website or document"
+
+msgctxt "ClickToHidePage"
+msgid "Click here to make this page non-visible on your web site"
+msgstr "Click here to make this page non-visible on your web site"
+
+msgctxt "ClickToShowPage"
+msgid "Click here to make this page visible on your web site"
+msgstr "Click here to make this page visible on your web site"
+
+msgctxt "PageEdit"
+msgid "Edit this page"
+msgstr "Edit this page"
+
+msgctxt "CantPreviewPage"
+msgid "Page cannot be previewed because it is a link"
+msgstr "Page cannot be previewed because it is a link"
+
+msgctxt "PageVisibleSuccessfully"
+msgid "The visibility of this pages has been changed successfully."
+msgstr "The visibility of this pages has been changed successfully."
+
+msgctxt "ErrPageVisibilityNotChanged"
+msgid "An error occurred while trying to change the visibility of this page: %s"
+msgstr "An error occurred while trying to change the visibility of this page: %s"
+
+msgctxt "PagesDeletedSuccessfully"
+msgid "The selected pages have been deleted successfully."
+msgstr "The selected pages have been deleted successfully."
+
+msgctxt "NewPagesDetails"
+msgid "Web Page Details"
+msgstr "Web Page Details"
+
+msgctxt "NavigationMenuOptions"
+msgid "Navigation Menu Options"
+msgstr "Navigation Menu Options"
+
+msgctxt "NavigationMenu"
+msgid "Navigation Menu"
+msgstr "Navigation Menu"
+
+msgctxt "ConfirmCancelPage"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "PageContent"
+msgid "Page Content"
+msgstr "Page Content"
+
+msgctxt "PageTitleHelp"
+msgid "The page name is displayed on your web site, above the page content."
+msgstr "The page name is displayed on your web site, above the page content."
+
+msgctxt "Link"
+msgid "Link"
+msgstr "Link"
+
+msgctxt "NoParentPage"
+msgid "No Parent Page"
+msgstr "No Parent Page"
+
+msgctxt "ParentPage"
+msgid "Parent Page"
+msgstr "Parent Page"
+
+msgctxt "ParentPageHelp"
+msgid "The page under which a link to this page will be displayed."
+msgstr "The page under which a link to this page will be displayed."
+
+msgctxt "MetaKeywords"
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+msgctxt "MetaKeywordsHelp"
+msgid "Specify unique meta keywords, or leave blank to use default site wide keywords as defined in the <em>Settings</em> page."
+msgstr "Specify unique meta keywords, or leave blank to use default site wide keywords as defined in the <em>Settings</em> page."
+
+msgctxt "MetaDescription"
+msgid "Meta Description"
+msgstr "Meta Description"
+
+msgctxt "MetaDescriptionHelp"
+msgid "Specify unique meta description, or leave blank to use default site wide description as defined in the <em>Settings</em> page."
+msgstr "Specify unique meta description, or leave blank to use default site wide description as defined in the <em>Settings</em> page."
+
+msgctxt "SortOrderHelp"
+msgid "Enter a low number (such as 1)  to move it to the top, or a high number (such as 20)  to move it to the bottom."
+msgstr "Enter a low number (such as 1)  to move it to the top, or a high number (such as 20)  to move it to the bottom."
+
+msgctxt "YesPageVisible"
+msgid "Yes, show this web page on the navigation menu"
+msgstr "Yes, show this web page on the navigation menu"
+
+msgctxt "PageNavigationMenuHelp"
+msgid "Tick this box if you want a link to this page to appear on your web site\'s navigation menu."
+msgstr "Tick this box if you want a link to this page to appear on your web site\'s navigation menu."
+
+msgctxt "AdvancedPageOptions"
+msgid "Advanced Options"
+msgstr "Advanced Options"
+
+msgctxt "PageIntro"
+msgid "To create a web page (such as an &quot;About Us&quot; page or a contact form), start by choosing the type of page you want and then fill in the other details."
+msgstr "To create a web page (such as an &quot;About Us&quot; page or a contact form), start by choosing the type of page you want and then fill in the other details."
+
+msgctxt "EnterPageTitle"
+msgid "Please enter a page name."
+msgstr "Please enter a page name."
+
+msgctxt "EnterPageContent"
+msgid "Please enter content for this page."
+msgstr "Please enter content for this page."
+
+msgctxt "EnterPageLink"
+msgid "Please enter an external link."
+msgstr "Please enter an external link."
+
+msgctxt "EnterPageFeed"
+msgid "Please enter the link to your RSS feed."
+msgstr "Please enter the link to your RSS feed."
+
+msgctxt "PageAddedSuccessfully"
+msgid "The new page has been added successfully."
+msgstr "The new page has been added successfully."
+
+msgctxt "ErrPageNotAdded"
+msgid "An error occurred while trying to add this page: '%s'"
+msgstr "An error occurred while trying to add this page: '%s'"
+
+msgctxt "PageDoesntExist"
+msgid "The selected page doesn't exist or has been removed."
+msgstr "The selected page doesn't exist or has been removed."
+
+msgctxt "EditPage"
+msgid "Edit a Web Page"
+msgstr "Edit a Web Page"
+
+msgctxt "PageUpdatedSuccessfully"
+msgid "The selected page has been updated successfully."
+msgstr "The selected page has been updated successfully."
+
+msgctxt "ErrPageNotUpdated"
+msgid "An error occurred while trying to update this page: '%s'"
+msgstr "An error occurred while trying to update this page: '%s'"
+
+msgctxt "ContactPage"
+msgid "Allow people to send questions/comments via a contact form"
+msgstr "Allow people to send questions/comments via a contact form"
+
+msgctxt "ShowTheseFields"
+msgid "Show These Fields"
+msgstr "Show These Fields"
+
+msgctxt "ShowTheseFieldsHelp"
+msgid "Choose which fields you want to display on the contact form. The person submitting the contact form will have to fill out each of these fields, and their responses will be included along with their question/comment in the email."
+msgstr "Choose which fields you want to display on the contact form. The person submitting the contact form will have to fill out each of these fields, and their responses will be included along with their question/comment in the email."
+
+msgctxt "ContactEmail"
+msgid "Email Address"
+msgstr "Email Address"
+
+msgctxt "ContactQuestion"
+msgid "Question/Comment"
+msgstr "Question/Comment"
+
+msgctxt "ContactName"
+msgid "Full Name"
+msgstr "Full Name"
+
+msgctxt "ContactCompanyName"
+msgid "Company Name"
+msgstr "Company Name"
+
+msgctxt "ContactPhone"
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgctxt "ContactOrderNo"
+msgid "Order Number"
+msgstr "Order Number"
+
+msgctxt "ContactRMANo"
+msgid "RMA Number"
+msgstr "RMA Number"
+
+msgctxt "EmailQuestionsTo"
+msgid "Email Questions to"
+msgstr "Email Questions to"
+
+msgctxt "EmailQuestionsToHelp"
+msgid "The email address where questions/comments should be sent once this contact form is filled out from your web site. This defaults to the administrator\'s email address from the settings page."
+msgstr "The email address where questions/comments should be sent once this contact form is filled out from your web site. This defaults to the administrator\'s email address from the settings page."
+
+msgctxt "EnterPageEmail"
+msgid "Please enter a valid email address, such as john@example.com."
+msgstr "Please enter a valid email address, such as john@example.com."
+
+msgctxt "PageType0"
+msgid "Normal Page"
+msgstr "Normal Page"
+
+msgctxt "PageType2"
+msgid "Syndicated Content"
+msgstr "Syndicated Content"
+
+msgctxt "PageType3"
+msgid "Contact Form"
+msgstr "Contact Form"
+
+msgctxt "PageTypeHeading"
+msgid "Page Type"
+msgstr "Page Type"
+
+msgctxt "DisplayAsHomePage"
+msgid "Display as Home Page"
+msgstr "Display as Home Page"
+
+msgctxt "YesDisplayAsHomePage"
+msgid "Yes, display this page as the home page of my store"
+msgstr "Yes, display this page as the home page of my store"
+
+msgctxt "DisplayAsHomePageHelp"
+msgid "If you tick this box then this page will be displayed as the home page of your store. When this box is not ticked then the default home page containing new products, news items, etc will be displayed instead. A link to this page will *not* be shown on your store\'s navigation menu if it is set to be the home page."
+msgstr "If you tick this box then this page will be displayed as the home page of your store. When this box is not ticked then the default home page containing new products, news items, etc will be displayed instead. A link to this page will *not* be shown on your store\'s navigation menu if it is set to be the home page."
+
+msgctxt "PageTemplateLayoutFileHelp1"
+msgid "Advanced users can create an alternate template layout file to use instead of the default one for this web page. If you have done this, you can select the layout file here.<br /><br />To create a new template layout file copy the existing page.html file from within your templates/"
+msgstr "Advanced users can create an alternate template layout file to use instead of the default one for this web page. If you have done this, you can select the layout file here.<br /><br />To create a new template layout file copy the existing page.html file from within your templates/"
+
+msgctxt "PageTemplateLayoutFileHelp2"
+msgid " folder, make your required changes and rename it so that it starts with an underscore, such as _page.html or _page1.html. It will then appear in this list."
+msgstr " folder, make your required changes and rename it so that it starts with an underscore, such as _page.html or _page1.html. It will then appear in this list."
+
+msgctxt "InfoTipManagePages"
+msgid "Did you know that you can change the display order of pages as they appear in your store's menu by dragging and dropping the &quot;Page Name&quot; column below?"
+msgstr "Did you know that you can change the display order of pages as they appear in your store's menu by dragging and dropping the &quot;Page Name&quot; column below?"
+
+msgctxt "PageCustomersOnly"
+msgid "Restrict to Customers Only"
+msgstr "Restrict to Customers Only"
+
+msgctxt "YesRestrictToCustomersOnly"
+msgid "Yes, only allow customers who've logged in to view this page"
+msgstr "Yes, only allow customers who've logged in to view this page"
+
+msgctxt "PageCustomersOnlyHelp"
+msgid "If you tick this box then this page will only be accessible to customers who\'ve registered and are logged in on your store."
+msgstr "If you tick this box then this page will only be accessible to customers who\'ve registered and are logged in on your store."
+
+msgctxt "TitleSortAsc"
+msgid "Sort by page name (ascending)"
+msgstr "Sort by page name (ascending)"
+
+msgctxt "TitleSortDesc"
+msgid "Sort by page name (descending)"
+msgstr "Sort by page name (descending)"
+
+msgctxt "MetaTitle"
+msgid "Page Title"
+msgstr "Page Title"
+
+msgctxt "MetaTitleHelp"
+msgid "Specify a page title which will be included between the &amp;lt;title&amp;gt; and &amp;lt;/title&amp;gt; tag. Your page title should include keywords people might search for to find this page. Leave this field blank to use the page\'s name as the title."
+msgstr "Specify a page title which will be included between the &amp;lt;title&amp;gt; and &amp;lt;/title&amp;gt; tag. Your page title should include keywords people might search for to find this page. Leave this field blank to use the page\'s name as the title."
+
+msgctxt "EnableGoogleWebsiteOptimizer"
+msgid "Enable Google Website Optimizer"
+msgstr "Enable Google Website Optimizer"
+
+msgctxt "YesEnableGoogleWebsiteOptimizer"
+msgid "Yes, enable Google Website Optimizer for this web page"
+msgstr "Yes, enable Google Website Optimizer for this web page"
+
+msgctxt "PageGoogleWebsiteOptimizerIntro"
+msgid "For help on setting up a Google Website Optimizer test, please read <a href='#' onclick='LaunchHelp(889); return false;'>this article</a>."
+msgstr "For help on setting up a Google Website Optimizer test, please read <a href='#' onclick='LaunchHelp(889); return false;'>this article</a>."
+
+msgctxt "ConfirmEnablePageOptimizer"
+msgid "Are you sure you want to enable Google Website Optimizer for this web page?  Because of the way testing works any of the sitewide tests (such as the \'Newsletter Box\' test) won\'t be enabled on this particular web page."
+msgstr "Are you sure you want to enable Google Website Optimizer for this web page?  Because of the way testing works any of the sitewide tests (such as the \'Newsletter Box\' test) won\'t be enabled on this particular web page."
+
+msgctxt "EnableGoogleWebsiteOptimizerAfterSave"
+msgid "You need to save the web page before you can enable Google Website Optimizer for this web page."
+msgstr "You need to save the web page before you can enable Google Website Optimizer for this web page."
+
+msgctxt "SearchKeywords"
+msgid "Search Keywords"
+msgstr "Search Keywords"
+
+msgctxt "SearchKeywordsHelp"
+msgid "The search keywords are optional, but if entered will be used to assist people when searching your pages. Enter keywords separated by commas, such as: <em>widget, affordable, portable.</em>"
+msgstr "The search keywords are optional, but if entered will be used to assist people when searching your pages. Enter keywords separated by commas, such as: <em>widget, affordable, portable.</em>"
+
+msgctxt "InvalidParentPage"
+msgid "The page you selected as the parent page is invalid. You can not select a child of the current page as it's parent."
+msgstr "The page you selected as the parent page is invalid. You can not select a child of the current page as it's parent."

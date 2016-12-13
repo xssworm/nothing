@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "UpgradeInterspireShoppingCart"
+msgid "Interspire Shopping Cart Upgrade Wizard"
+msgstr "Interspire Shopping Cart Upgrade Wizard"
+
+msgctxt "UpgradeWelcomeFromTo"
+msgid "Welcome to the upgrade wizard for Interspire Shopping Cart. This wizard will upgrade your copy of Interspire Shopping Cart from <em>%s</em> to <em>%s</em>."
+msgstr "Welcome to the upgrade wizard for Interspire Shopping Cart. This wizard will upgrade your copy of Interspire Shopping Cart from <em>%s</em> to <em>%s</em>."
+
+msgctxt "UpgradeWelcomeStart"
+msgid "Please click 'Start Upgrade' when you are ready to begin the upgrade process."
+msgstr "Please click 'Start Upgrade' when you are ready to begin the upgrade process."
+
+msgctxt "StartUpgrade"
+msgid "Start Upgrade"
+msgstr "Start Upgrade"
+
+msgctxt "UpgradeContinueWelcome"
+msgid "The upgrade to your store was interrupted. To continue the upgrade process from where you left off, please click the 'Continue Upgrade' button below."
+msgstr "The upgrade to your store was interrupted. To continue the upgrade process from where you left off, please click the 'Continue Upgrade' button below."
+
+msgctxt "ContinueUpgrade"
+msgid "Continue Upgrade"
+msgstr "Continue Upgrade"
+
+msgctxt "UpgradeInProgress"
+msgid "Upgrade in Progress..."
+msgstr "Upgrade in Progress..."
+
+msgctxt "UpgradeInProgressIntro"
+msgid "Your copy of Interspire Shopping Cart is currently being updated to <em>%s</em>. Please do not navigate away from this page."
+msgstr "Your copy of Interspire Shopping Cart is currently being updated to <em>%s</em>. Please do not navigate away from this page."
+
+msgctxt "UpgradeRunningStepXOfY"
+msgid "Running step %s of %s"
+msgstr "Running step %s of %s"
+
+msgctxt "UpgradeInterspireShoppingCartComplete"
+msgid "Your store has been upgraded to Interspire Shopping Cart %s"
+msgstr "Your store has been upgraded to Interspire Shopping Cart %s"
+
+msgctxt "UpgradeSomethingWrong"
+msgid "Something went wrong during the upgrade process. Please copy &amp; paste the text in the box below and create a support ticket from our client area where one of our support engineers will be able to assist you."
+msgstr "Something went wrong during the upgrade process. Please copy &amp; paste the text in the box below and create a support ticket from our client area where one of our support engineers will be able to assist you."
+
+msgctxt "ClickHereToContinue"
+msgid "Click here to continue"
+msgstr "Click here to continue"
+
+msgctxt "OopsUpgradePreChecks"
+msgid "Before you can run the upgrade process you need to perform the following:"
+msgstr "Before you can run the upgrade process you need to perform the following:"
+
+msgctxt "UpgradePreChecksRetry"
+msgid "Once you have completed the above steps, please click the 'Retry' button below."
+msgstr "Once you have completed the above steps, please click the 'Retry' button below."
+
+msgctxt "Retry"
+msgid "Retry"
+msgstr "Retry"
+
+msgctxt "UpgradePreChecks1400ConfigDirectory"
+msgid "Please ensure the &quot;config&quot; directory exists in your installation and both the directory and all of the files within it are writable.<br /><span style='color: gray;'>(On UNIX based servers, this generally means using CHMOD to set the permissions on the directory - and files in it - to 775 or 777)</span>"
+msgstr "Please ensure the &quot;config&quot; directory exists in your installation and both the directory and all of the files within it are writable.<br /><span style='color: gray;'>(On UNIX based servers, this generally means using CHMOD to set the permissions on the directory - and files in it - to 775 or 777)</span>"
+
+msgctxt "UpgradePreCheckDirectoryNotWriteable"
+msgid "Please ensure the &quot;%s&quot; directory exists in your installation and the directory is writable.<br /><span style='color: gray;'>(On UNIX based servers, this generally means using CHMOD to set the permissions on the directory to 775 or 777)</span>"
+msgstr "Please ensure the &quot;%s&quot; directory exists in your installation and the directory is writable.<br /><span style='color: gray;'>(On UNIX based servers, this generally means using CHMOD to set the permissions on the directory to 775 or 777)</span>"
+
+msgctxt "UpgradePreCheckFileNotWriteable"
+msgid "Please ensure the &quot;%s&quot; file exists in your installation and the file is writeable.<br /><span style='color: gray;'>(On UNIX based servers, this generally means using CHMOD to set the permissions on the file to 664 or 666)</span>"
+msgstr "Please ensure the &quot;%s&quot; file exists in your installation and the file is writeable.<br /><span style='color: gray;'>(On UNIX based servers, this generally means using CHMOD to set the permissions on the file to 664 or 666)</span>"
+
+msgctxt "UpgradeComplete"
+msgid "Upgrade complete... Please wait..."
+msgstr "Upgrade complete... Please wait..."
+
+msgctxt "ServerConfigurationDetails"
+msgid "Server Configuration Details"
+msgstr "Server Configuration Details"
+
+msgctxt "SendServerDetails"
+msgid "Send anonymous server details to Interspire (recommended)"
+msgstr "Send anonymous server details to Interspire (recommended)"
+
+msgctxt "ServerDetailsInfo"
+msgid "-- Server Configuration Details --\n\nIf you tick this box then various details about your web server will be sent back to Interspire anonymously. These details include which versions of PHP and MySQL you\'re running, server operating system, which extensions your server is running, etc.\n\nSending this information back to Interspire helps us to make our software as compatible as possible with as many different server configurations as possible."
+msgstr "-- Server Configuration Details --\n\nIf you tick this box then various details about your web server will be sent back to Interspire anonymously. These details include which versions of PHP and MySQL you\'re running, server operating system, which extensions your server is running, etc.\n\nSending this information back to Interspire helps us to make our software as compatible as possible with as many different server configurations as possible."
+
+msgctxt "WhatWillBeSent"
+msgid "What will be sent and why?"
+msgstr "What will be sent and why?"
+
+msgctxt "UpgradePreUpgradeConfigFileWriteFailed"
+msgid "Please ensure the &quot;config&quot; directory exists in your installation and both the directory and all of the files within it are writable.<br /><span style='color: gray;'>(On UNIX based servers, this generally means using CHMOD to set the permissions on the directory - and files in it - to 775 or 777)</span>"
+msgstr "Please ensure the &quot;config&quot; directory exists in your installation and both the directory and all of the files within it are writable.<br /><span style='color: gray;'>(On UNIX based servers, this generally means using CHMOD to set the permissions on the directory - and files in it - to 775 or 777)</span>"
+
+msgctxt "EmailChangeModulePreUpgradeCheck"
+msgid "Before this upgrade can proceed, the Email Change addon must be removed. Please remove your /addons/emailchange directory."
+msgstr "Before this upgrade can proceed, the Email Change addon must be removed. Please remove your /addons/emailchange directory."

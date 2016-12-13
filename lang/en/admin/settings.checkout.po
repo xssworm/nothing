@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "CheckoutSettings"
+msgid "Checkout Settings"
+msgstr "Checkout Settings"
+
+msgctxt "OrderSettings"
+msgid "Order Settings"
+msgstr "Order Settings"
+
+msgctxt "CancelCheckoutMessage"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "CheckoutSettingsIntro"
+msgid "Update the checkout settings in the form below. To enable a new checkout method, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that checkout method."
+msgstr "Update the checkout settings in the form below. To enable a new checkout method, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that checkout method."
+
+msgctxt "CheckoutMethods"
+msgid "Checkout Methods"
+msgstr "Checkout Methods"
+
+msgctxt "CheckoutMethodsHelp"
+msgid "Choose a list of checkout methods to provide your customers with. You can choose multiple methods and your customers can choose which one they want to use.<br /><br />When you click \'Save\' you will be able to configure the selected checkout methods by clicking on the new tab that appears for each one."
+msgstr "Choose a list of checkout methods to provide your customers with. You can choose multiple methods and your customers can choose which one they want to use.<br /><br />When you click \'Save\' you will be able to configure the selected checkout methods by clicking on the new tab that appears for each one."
+
+msgctxt "CheckoutSettingsSavedSuccessfully"
+msgid "The modified checkout settings have been saved successfully. If you enabled a new checkout provider you can configure it by clicking its tab below."
+msgstr "The modified checkout settings have been saved successfully. If you enabled a new checkout provider you can configure it by clicking its tab below."
+
+msgctxt "CheckoutSettingsNotSaved"
+msgid "An error occurred while trying to save the checkout settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the checkout settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "CheckoutType"
+msgid "Checkout Type"
+msgstr "Checkout Type"
+
+msgctxt "CheckoutTypeSingle"
+msgid "Single page express checkout (recommended)"
+msgstr "Single page express checkout (recommended)"
+
+msgctxt "CheckoutTypeMulti"
+msgid "Multiple page checkout"
+msgstr "Multiple page checkout"
+
+msgctxt "CheckoutTypeHelp"
+msgid "Choose the type of checkout process you\'d like to use on your store.<br /><br />In single page checkout, customers complete the entire checkout process on the one page.<br /><br />In multiple page checkout, customers complete each step of the checkout process on a separate page."
+msgstr "Choose the type of checkout process you\'d like to use on your store.<br /><br />In single page checkout, customers complete the entire checkout process on the one page.<br /><br />In multiple page checkout, customers complete each step of the checkout process on a separate page."
+
+msgctxt "UpdateProductInventoryWhen"
+msgid "Update Inventory When"
+msgstr "Update Inventory When"
+
+msgctxt "UpdateInventorySuccessfulOrder"
+msgid "An order is successfully placed on my store"
+msgstr "An order is successfully placed on my store"
+
+msgctxt "UpdateInventoryOrderCompleted"
+msgid "An order status is changed to completed or shipped"
+msgstr "An order status is changed to completed or shipped"
+
+msgctxt "UpdateProductInventoryWhenHelp"
+msgid "If inventory tracking is enabled for products in an order, when should the inventory levels for products be updated?"
+msgstr "If inventory tracking is enabled for products in an order, when should the inventory levels for products be updated?"
+
+msgctxt "EmailOnOrderStatusChange"
+msgid "Customer Email Notifications"
+msgstr "Customer Email Notifications"
+
+msgctxt "EmailOnOrderStatusChangeHelp"
+msgid "When changing the status of an order an email can be sent to the customer automatically to notify him/her of the change. Choose which statuses you\'d like to have emails sent out for from this list."
+msgstr "When changing the status of an order an email can be sent to the customer automatically to notify him/her of the change. Choose which statuses you\'d like to have emails sent out for from this list."
+
+msgctxt "OrderStatusChangedTo"
+msgid "Status changed to %s"
+msgstr "Status changed to %s"
+
+msgctxt "EnableGuestCheckout"
+msgid "Enable Guest Checkout"
+msgstr "Enable Guest Checkout"
+
+msgctxt "YesEnableGuestCheckout"
+msgid "Yes, enable guest checkout"
+msgstr "Yes, enable guest checkout"
+
+msgctxt "EnableGuestCheckoutHelp"
+msgid "If enabled, customers will be able to checkout on your store without creating an account."
+msgstr "If enabled, customers will be able to checkout on your store without creating an account."
+
+msgctxt "YesAutoCreateGuestAccounts"
+msgid "Create an account for guest checkouts and assign them a random password"
+msgstr "Create an account for guest checkouts and assign them a random password"
+
+msgctxt "AutoCreateGuestAccounts"
+msgid "Create Accounts for Guests"
+msgstr "Create Accounts for Guests"
+
+msgctxt "AutoCreateGuestAccountsHelp"
+msgid "If this option is enabled, when a customer checks out as a guest an account will automatically be created for them and they\'ll be assigned a random password.<br /><br />The customer will also receive an email with their account details which they can use to login and track their orders."
+msgstr "If this option is enabled, when a customer checks out as a guest an account will automatically be created for them and they\'ll be assigned a random password.<br /><br />The customer will also receive an email with their account details which they can use to login and track their orders."
+
+msgctxt "EnableOrderComments"
+msgid "Enable Order Comments"
+msgstr "Enable Order Comments"
+
+msgctxt "EnableOrderCommentsHelp"
+msgid "If enabled, store visitors will be able to enter a message on the order confirmation page. This message will be shown along with their order."
+msgstr "If enabled, store visitors will be able to enter a message on the order confirmation page. This message will be shown along with their order."
+
+msgctxt "YesEnableOrderComments"
+msgid "Yes, allow customers to enter comments with their order"
+msgstr "Yes, allow customers to enter comments with their order"
+
+msgctxt "EnableMultipleShippingAddresses"
+msgid "Multiple Shipping Addresses"
+msgstr "Multiple Shipping Addresses"
+
+msgctxt "YesEnableMultipleShippingAddresses"
+msgid "Yes, allow customers to select multiple shipping addresses for orders"
+msgstr "Yes, allow customers to select multiple shipping addresses for orders"
+
+msgctxt "EnableMultipleShippingAddressesHelp"
+msgid "If enabled, customers will have the ability to choose to have each item in their shopping cart shipped to a different address."
+msgstr "If enabled, customers will have the ability to choose to have each item in their shopping cart shipped to a different address."
+
+msgctxt "DigitalProductSettings"
+msgid "Digital Product Settings"
+msgstr "Digital Product Settings"
+
+msgctxt "EnableDigitalHandlingFee"
+msgid "Enable Digital Handling Fee"
+msgstr "Enable Digital Handling Fee"
+
+msgctxt "YesEnableDigitalHandlingFee"
+msgid "Yes, apply a handling fee to orders containing digital products"
+msgstr "Yes, apply a handling fee to orders containing digital products"
+
+msgctxt "EnableDigitalHandlingFeeHelp"
+msgid "If you wish to apply a handling fee to digital orders (such as to cover bandwidth usage, etc) then tick this option and specify a handling fee below. If this option is not ticked then no handling fees will be applied to digital orders."
+msgstr "If you wish to apply a handling fee to digital orders (such as to cover bandwidth usage, etc) then tick this option and specify a handling fee below. If this option is not ticked then no handling fees will be applied to digital orders."
+
+msgctxt "EnterDigitalOrderHandlingFee"
+msgid "Please enter a handling fee for digital orders."
+msgstr "Please enter a handling fee for digital orders."
+
+msgctxt "EnableOrderTermsAndConditions"
+msgid "Enable Terms And Conditions"
+msgstr "Enable Terms And Conditions"
+
+msgctxt "YesEnableOrderTermsAndConditions"
+msgid "Yes, enable order terms and conditions"
+msgstr "Yes, enable order terms and conditions"
+
+msgctxt "EnableOrderTermsAndConditionsHelp"
+msgid "Tick this box to specify terms and conditions which shoppers must agree to before checking out."
+msgstr "Tick this box to specify terms and conditions which shoppers must agree to before checking out."
+
+msgctxt "OrderTermsAndConditions"
+msgid "Order terms and conditions"
+msgstr "Order terms and conditions"
+
+msgctxt "LetMeTypeTermsAndConditions"
+msgid "Let me type in my terms and conditions"
+msgstr "Let me type in my terms and conditions"
+
+msgctxt "OrderTermsAndConditionsText"
+msgid "Terms and Conditions Text"
+msgstr "Terms and Conditions Text"
+
+msgctxt "LinkToMyTermsAndConditions"
+msgid "Link to my terms and conditions page"
+msgstr "Link to my terms and conditions page"
+
+msgctxt "OrderTermsAndConditionsLink"
+msgid "Terms and Conditions Link"
+msgstr "Terms and Conditions Link"
+
+msgctxt "OrderTermsAndConditionsTextareaHelp"
+msgid "Type your terms and conditions in the box below. They will be displayed in a scrolling text box during the checkout process."
+msgstr "Type your terms and conditions in the box below. They will be displayed in a scrolling text box during the checkout process."
+
+msgctxt "OrderTermsAndConditionsLinkHelp"
+msgid "Enter the location of your terms and conditions page in the box below. The link will be displayed during the checkout process."
+msgstr "Enter the location of your terms and conditions page in the box below. The link will be displayed during the checkout process."
+
+msgctxt "EnterTermsAndConditionsLink"
+msgid "Please enter the link to your terms and conditions page."
+msgstr "Please enter the link to your terms and conditions page."
+
+msgctxt "EnterTermsAndConditions"
+msgid "Please enter terms and conditions in the textarea."
+msgstr "Please enter terms and conditions in the textarea."
+
+msgctxt "SelectTermsAndConditionsType"
+msgid "Please select the way to show terms and conditions on the checkout page."
+msgstr "Please select the way to show terms and conditions on the checkout page."
+
+msgctxt "UseBuiltInGateway"
+msgid "I would like to use the :gatewayName (recommended)"
+msgstr "I would like to use the :gatewayName (recommended)"
+
+msgctxt "UseCustomGateway"
+msgid "I already have my own merchant account or payment provider setup"
+msgstr "I already have my own merchant account or payment provider setup"
+
+msgctxt "CannotEnableBuiltInModuleErrors"
+msgid "The built in checkout module cannot be enabled until the problems listed have been corrected."
+msgstr "The built in checkout module cannot be enabled until the problems listed have been corrected."
+
+msgctxt "WizardPaymentMethods"
+msgid "Payment Methods"
+msgstr "Payment Methods"
+
+msgctxt "WizardPaymentMethodsDesc"
+msgid "During this step you will choose which payment methods you want to accept in your store. You can configure one or more third party payment methods (such as PayPal or Google Checkout), or you can signup for your own merchant account which allows you to accept payments directly into your checking account."
+msgstr "During this step you will choose which payment methods you want to accept in your store. You can configure one or more third party payment methods (such as PayPal or Google Checkout), or you can signup for your own merchant account which allows you to accept payments directly into your checking account."
+
+msgctxt "CheckoutSettingsSavedNoConfigure"
+msgid "The modified checkout settings have been saved successfully."
+msgstr "The modified checkout settings have been saved successfully."
+
+msgctxt "UpdateInventoryOnOrderEdit"
+msgid "Adjust for Order Edits?"
+msgstr "Adjust for Order Edits?"
+
+msgctxt "UpdateInventoryOnOrderEditHelp"
+msgid "If enabled, inventory levels will automatically be decreased (or increased) for the affected products when an order is edited. This only affects orders which have already made inventory level adjustments as per the 'Update Inventory When' setting above. If this is not enabled, inventory level adjustments will only happen when an order is created - you will need to perform manual inventory adjustments if you wish to edit an order."
+msgstr "If enabled, inventory levels will automatically be decreased (or increased) for the affected products when an order is edited. This only affects orders which have already made inventory level adjustments as per the 'Update Inventory When' setting above. If this is not enabled, inventory level adjustments will only happen when an order is created - you will need to perform manual inventory adjustments if you wish to edit an order."
+
+msgctxt "YesUpdateInventoryOnOrderEdit"
+msgid "Yes, automatically adjust product inventory levels when I edit an order"
+msgstr "Yes, automatically adjust product inventory levels when I edit an order"
+
+msgctxt "UpdateInventoryOnOrderDelete"
+msgid "Adjust for Order Deletes?"
+msgstr "Adjust for Order Deletes?"
+
+msgctxt "YesUpdateInventoryOnOrderDelete"
+msgid "Yes, automatically adjust restore inventory levels when I delete an order"
+msgstr "Yes, automatically adjust restore inventory levels when I delete an order"
+
+msgctxt "UpdateInventoryOnOrderDeleteHelp"
+msgid "If enabled, inventory levels will automatically be increased for the affected products when an order is deleted. This only affects orders which have already made inventory level adjustments as per the 'Update Inventory When' setting above. If this is not enabled, inventory level adjustments will only happen when an order is created - you will need to perform manual inventory adjustments if you wish to delete an order."
+msgstr "If enabled, inventory levels will automatically be increased for the affected products when an order is deleted. This only affects orders which have already made inventory level adjustments as per the 'Update Inventory When' setting above. If this is not enabled, inventory level adjustments will only happen when an order is created - you will need to perform manual inventory adjustments if you wish to delete an order."

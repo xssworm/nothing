@@ -1,0 +1,3626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "SSLWontLoad"
+msgid "I have enabled SSL but my site wont load"
+msgstr "I have enabled SSL but my site wont load"
+
+msgctxt "LicenseSettings"
+msgid "License Settings"
+msgstr "License Settings"
+
+msgctxt "StoreSettings"
+msgid "Store Settings"
+msgstr "Store Settings"
+
+msgctxt "ShippingSettings"
+msgid "Shipping Settings"
+msgstr "Shipping Settings"
+
+msgctxt "CheckoutSettings"
+msgid "Checkout Settings"
+msgstr "Checkout Settings"
+
+msgctxt "GeneralSettings"
+msgid "General Settings"
+msgstr "General Settings"
+
+msgctxt "SettingsIntro"
+msgid "Update the settings in the form below and click &quot;Save&quot;, or click &quot;Cancel&quot; to keep the current settings."
+msgstr "Update the settings in the form below and click &quot;Save&quot;, or click &quot;Cancel&quot; to keep the current settings."
+
+msgctxt "WebsiteSettings"
+msgid "Website Settings"
+msgstr "Website Settings"
+
+msgctxt "LocalizationSettings"
+msgid "Localization Settings"
+msgstr "Localization Settings"
+
+msgctxt "NewsletterSettings"
+msgid "Newsletter Settings"
+msgstr "Newsletter Settings"
+
+msgctxt "DisplaySettings"
+msgid "Display Settings"
+msgstr "Display Settings"
+
+msgctxt "SiteSettings"
+msgid "General Store Settings"
+msgstr "General Store Settings"
+
+msgctxt "AdvancedStoreSettings"
+msgid "Advanced Store Settings"
+msgstr "Advanced Store Settings"
+
+msgctxt "StoreLogo"
+msgid "Store Logo"
+msgstr "Store Logo"
+
+msgctxt "StoreLogoHelp"
+msgid "What would you like to be shown as the logo in your store? You can upload your store\'s logo by choosing the \'Display my logo image\' option."
+msgstr "What would you like to be shown as the logo in your store? You can upload your store\'s logo by choosing the \'Display my logo image\' option."
+
+msgctxt "RecommendedSize"
+msgid "Recommended size"
+msgstr "Recommended size"
+
+msgctxt "LogoNotSaved"
+msgid "Something went wrong when trying to upload your logo image: %s"
+msgstr "Something went wrong when trying to upload your logo image: %s"
+
+msgctxt "InvalidLogoFile"
+msgid "The file you uploaded was not a valid image file"
+msgstr "The file you uploaded was not a valid image file"
+
+msgctxt "MoveLogoError"
+msgid "The logo file couldn't be saved. Make sure the product_images folder is writable (CHMOD 757)"
+msgstr "The logo file couldn't be saved. Make sure the product_images folder is writable (CHMOD 757)"
+
+msgctxt "DisplayStoreName"
+msgid "Display my store name"
+msgstr "Display my store name"
+
+msgctxt "DisplayStoreImage"
+msgid "Display my logo image"
+msgstr "Display my logo image"
+
+msgctxt "Pixels"
+msgid "pixels"
+msgstr "pixels"
+
+msgctxt "StoreName"
+msgid "Store Name"
+msgstr "Store Name"
+
+msgctxt "StoreAddress"
+msgid "Store Address"
+msgstr "Store Address"
+
+msgctxt "StoreAddressHelp"
+msgid "The physical address of your store. This will be included on all invoices and should look like this:<br /><br />ACME Widgets Inc.<br />543 Acme Way<br />Acmeville, AC 12345<br />United States of America"
+msgstr "The physical address of your store. This will be included on all invoices and should look like this:<br /><br />ACME Widgets Inc.<br />543 Acme Way<br />Acmeville, AC 12345<br />United States of America"
+
+msgctxt "ShopPath"
+msgid "Store Web Site"
+msgstr "Store Web Site"
+
+msgctxt "CharacterSet"
+msgid "Character Set"
+msgstr "Character Set"
+
+msgctxt "MetaKeywords"
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+msgctxt "MetaDescription"
+msgid "Meta Description"
+msgstr "Meta Description"
+
+msgctxt "Language"
+msgid "Language"
+msgstr "Language"
+
+msgctxt "LanguageSettings"
+msgid "Language Settings"
+msgstr "Language Settings"
+
+msgctxt "LanguageHelp"
+msgid "Choose a language to show text in on the store front and control panel."
+msgstr "Choose a language to show text in on the store front and control panel."
+
+msgctxt "NumberSettings"
+msgid "Number Settings"
+msgstr "Number Settings"
+
+msgctxt "CurrencyToken"
+msgid "Currency Token"
+msgstr "Currency Token"
+
+msgctxt "Left"
+msgid "Left"
+msgstr "Left"
+
+msgctxt "Right"
+msgid "Right"
+msgstr "Right"
+
+msgctxt "AllowPurchasing"
+msgid "Allow Purchasing"
+msgstr "Allow Purchasing"
+
+msgctxt "YesAllowPurchasing"
+msgid "Yes, allow people to purchase from my store"
+msgstr "Yes, allow people to purchase from my store"
+
+msgctxt "AllowPurchasingHelp"
+msgid "Do you want the shopping cart and checkout functionality of your store enabled? If yes, tick this box. If you only want your store to function as an online catalog and *not* allow customers to place orders online, then untick this box and all shopping cart and checkout functionality will be disabled in your store."
+msgstr "Do you want the shopping cart and checkout functionality of your store enabled? If yes, tick this box. If you only want your store to function as an online catalog and *not* allow customers to place orders online, then untick this box and all shopping cart and checkout functionality will be disabled in your store."
+
+msgctxt "ProductSettings"
+msgid "Product Settings"
+msgstr "Product Settings"
+
+msgctxt "ShowProductPrice"
+msgid "Show Product's Price"
+msgstr "Show Product's Price"
+
+msgctxt "YesShowProductPrice"
+msgid "Yes, show the product's price in my store"
+msgstr "Yes, show the product's price in my store"
+
+msgctxt "ShowProductSKU"
+msgid "Show Product's SKU"
+msgstr "Show Product's SKU"
+
+msgctxt "YesShowProductSKU"
+msgid "Yes, show the product's SKU in my store"
+msgstr "Yes, show the product's SKU in my store"
+
+msgctxt "EnableWishlist"
+msgid "Enable Wishlist"
+msgstr "Enable Wishlist"
+
+msgctxt "YesEnableWishlist"
+msgid "Yes, enable the wishlist for my store"
+msgstr "Yes, enable the wishlist for my store"
+
+msgctxt "EnableAccountCreation"
+msgid "Enable Account Creation"
+msgstr "Enable Account Creation"
+
+msgctxt "YesEnableAccountCreation"
+msgid "Yes, enable account creation in my store"
+msgstr "Yes, enable account creation in my store"
+
+msgctxt "EnableAccountCreationHelp"
+msgid "If enabled, store visitors will be able to create an account which they can use to place orders on your site. If this setting is disabled, then the checkout functionality of your store will also be hidden."
+msgstr "If enabled, store visitors will be able to create an account which they can use to place orders on your site. If this setting is disabled, then the checkout functionality of your store will also be hidden."
+
+msgctxt "ShowProductWeight"
+msgid "Show Product's Weight"
+msgstr "Show Product's Weight"
+
+msgctxt "YesShowProductWeight"
+msgid "Yes, show the product's weight in my store"
+msgstr "Yes, show the product's weight in my store"
+
+msgctxt "ShowProductBrand"
+msgid "Show Product's Brand"
+msgstr "Show Product's Brand"
+
+msgctxt "YesShowProductBrand"
+msgid "Yes, show the product's brand in my store"
+msgstr "Yes, show the product's brand in my store"
+
+msgctxt "ShowProductShipping"
+msgid "Show Product's Shipping Cost"
+msgstr "Show Product's Shipping Cost"
+
+msgctxt "YesShowProductShipping"
+msgid "Yes, show the product's shipping cost in my store"
+msgstr "Yes, show the product's shipping cost in my store"
+
+msgctxt "ShowProductRating"
+msgid "Show Product's Rating"
+msgstr "Show Product's Rating"
+
+msgctxt "YesShowProductRating"
+msgid "Yes, show the product's rating in my store"
+msgstr "Yes, show the product's rating in my store"
+
+msgctxt "PhysicalDimensionSettings"
+msgid "Physical Dimension Settings"
+msgstr "Physical Dimension Settings"
+
+msgctxt "WeightMeasurement"
+msgid "Weight Measurement"
+msgstr "Weight Measurement"
+
+msgctxt "Pounds"
+msgid "Pounds"
+msgstr "Pounds"
+
+msgctxt "Kilograms"
+msgid "Kilograms"
+msgstr "Kilograms"
+
+msgctxt "LengthMeasurement"
+msgid "Length Measurement"
+msgstr "Length Measurement"
+
+msgctxt "Inches"
+msgid "Inches"
+msgstr "Inches"
+
+msgctxt "Centimeters"
+msgid "Centimeters"
+msgstr "Centimeters"
+
+msgctxt "DateSettings"
+msgid "Date Settings"
+msgstr "Date Settings"
+
+msgctxt "DisplayDateFormat"
+msgid "Display Date Format"
+msgstr "Display Date Format"
+
+msgctxt "ExportDateFormat"
+msgid "Export Date Format"
+msgstr "Export Date Format"
+
+msgctxt "ExtendedDisplayDateFormat"
+msgid "Extended Display Date Format"
+msgstr "Extended Display Date Format"
+
+msgctxt "DownloadDirectory"
+msgid "Download Directory"
+msgstr "Download Directory"
+
+msgctxt "ImageDirectory"
+msgid "Image Directory"
+msgstr "Image Directory"
+
+msgctxt "HomeFeaturedProducts"
+msgid "Featured Products"
+msgstr "Featured Products"
+
+msgctxt "LayoutSettings"
+msgid "Layout Settings"
+msgstr "Layout Settings"
+
+msgctxt "HomeFeaturedProductsPerRow"
+msgid "Featured Products Per Row"
+msgstr "Featured Products Per Row"
+
+msgctxt "HomeNewProducts"
+msgid "New Products"
+msgstr "New Products"
+
+msgctxt "HomeNewProductsPerRow"
+msgid "New Products Per Row"
+msgstr "New Products Per Row"
+
+msgctxt "HomeBlogPosts"
+msgid "Recent News Items"
+msgstr "Recent News Items"
+
+msgctxt "CategoryProductsPerPage"
+msgid "Products Per Page"
+msgstr "Products Per Page"
+
+msgctxt "CategoryProductsPerRow"
+msgid "Products Per Row"
+msgstr "Products Per Row"
+
+msgctxt "ProductReviewsPerPage"
+msgid "Product Reviews Per Page"
+msgstr "Product Reviews Per Page"
+
+msgctxt "TagCloudsEnabled"
+msgid "Enable Tag Clouds?"
+msgstr "Enable Tag Clouds?"
+
+msgctxt "YesTagCloudsEnabled"
+msgid "Yes, enable tag clouds"
+msgstr "Yes, enable tag clouds"
+
+msgctxt "CaptchaEnabled"
+msgid "Enable CAPTCHA?"
+msgstr "Enable CAPTCHA?"
+
+msgctxt "YesCaptchaEnabled"
+msgid "Yes, enable CAPTCHA security"
+msgstr "Yes, enable CAPTCHA security"
+
+msgctxt "ShowCartSuggestions"
+msgid "Show Cart Suggestions?"
+msgstr "Show Cart Suggestions?"
+
+msgctxt "YesShowCartSuggestions"
+msgid "Yes, show cart suggestions"
+msgstr "Yes, show cart suggestions"
+
+msgctxt "DatabaseSettings"
+msgid "Database Settings"
+msgstr "Database Settings"
+
+msgctxt "DatabaseType"
+msgid "Database Type"
+msgstr "Database Type"
+
+msgctxt "DatabaseUser"
+msgid "Database User"
+msgstr "Database User"
+
+msgctxt "DatabasePassword"
+msgid "Database Password"
+msgstr "Database Password"
+
+msgctxt "DatabaseHostname"
+msgid "Database Hostname"
+msgstr "Database Hostname"
+
+msgctxt "DatabaseName"
+msgid "Database Name"
+msgstr "Database Name"
+
+msgctxt "DatabaseTablePrefix"
+msgid "Database Table Prefix"
+msgstr "Database Table Prefix"
+
+msgctxt "DatabaseVersion"
+msgid "Database Version"
+msgstr "Database Version"
+
+msgctxt "AutoThumbSize"
+msgid "Thumbnail Width"
+msgstr "Thumbnail Width"
+
+msgctxt "EmailSettings"
+msgid "Email Settings"
+msgstr "Email Settings"
+
+msgctxt "AdminEmail"
+msgid "Administrator's Email"
+msgstr "Administrator's Email"
+
+msgctxt "AdminEmail1"
+msgid "Administrator\'s Email"
+msgstr "Administrator\'s Email"
+
+msgctxt "OrderEmail"
+msgid "From Email Address"
+msgstr "From Email Address"
+
+msgctxt "ShowThumbsInCart"
+msgid "Show Thumbnails in Cart?"
+msgstr "Show Thumbnails in Cart?"
+
+msgctxt "YesShowThumbsInCart"
+msgid "Yes, show thumbnails in cart"
+msgstr "Yes, show thumbnails in cart"
+
+msgctxt "AutoApproveReviews"
+msgid "Auto Approve Reviews?"
+msgstr "Auto Approve Reviews?"
+
+msgctxt "YesAutoApproveReviews"
+msgid "Yes, auto approve reviews"
+msgstr "Yes, auto approve reviews"
+
+msgctxt "ConfirmCancelSettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "SettingsSavedSuccessfully"
+msgid "The modified settings have been saved successfully."
+msgstr "The modified settings have been saved successfully."
+
+msgctxt "SettingsNotSaved"
+msgid "An error occurred while trying to save the settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "StoreNameHelp"
+msgid "The name of your eCommerce store. This will be shown in the header of all pages on your site if you don\'t upload a logo."
+msgstr "The name of your eCommerce store. This will be shown in the header of all pages on your site if you don\'t upload a logo."
+
+msgctxt "ShopPathHelp"
+msgid "The full path to your eCommerce store as you would type it into a web browser."
+msgstr "The full path to your eCommerce store as you would type it into a web browser."
+
+msgctxt "CharacterSetHelp"
+msgid "The character set for text in your eCommerce store. UTF-8 is recommended and can be used for all languages. Only change this if you know what you are doing."
+msgstr "The character set for text in your eCommerce store. UTF-8 is recommended and can be used for all languages. Only change this if you know what you are doing."
+
+msgctxt "SettingsMetaKeywordsHelp"
+msgid "The meta keywords to display in the header of each page on your site. These words should explain what you sell online. Separate each word with a comma, such as <em>action dvd\'s, comedy dvd\'s</em>, etc."
+msgstr "The meta keywords to display in the header of each page on your site. These words should explain what you sell online. Separate each word with a comma, such as <em>action dvd\'s, comedy dvd\'s</em>, etc."
+
+msgctxt "SettingsMetaDescriptionHelp"
+msgid "The meta description to display in the header on each page of your site. Use a brief sentence to describe your eCommerce shop as this is the text Google will use to describe your site in its search results."
+msgstr "The meta description to display in the header on each page of your site. Use a brief sentence to describe your eCommerce shop as this is the text Google will use to describe your site in its search results."
+
+msgctxt "DownloadDirectoryHelp"
+msgid "The folder on your server in which files will be saved for any downloadable products you create. This is relative to your shop path."
+msgstr "The folder on your server in which files will be saved for any downloadable products you create. This is relative to your shop path."
+
+msgctxt "ImageDirectoryHelp"
+msgid "The folder on your server where product images will be saved. This is relative to your shop path."
+msgstr "The folder on your server where product images will be saved. This is relative to your shop path."
+
+msgctxt "AdminEmailHelp"
+msgid "The email address where all system notifications should be sent to."
+msgstr "The email address where all system notifications should be sent to."
+
+msgctxt "OrderEmailHelp"
+msgid "The email address that all emails to customers will be sent from, such as \'sales@yoursite.com\' or \'orders@yoursite.com\'."
+msgstr "The email address that all emails to customers will be sent from, such as \'sales@yoursite.com\' or \'orders@yoursite.com\'."
+
+msgctxt "WeightMeasurementHelp"
+msgid "Enter the weight measurement used when calculating the weight of physical products in your eCommerce store."
+msgstr "Enter the weight measurement used when calculating the weight of physical products in your eCommerce store."
+
+msgctxt "LengthMeasurementHelp"
+msgid "Enter the length measurement used when calculating the dimensions of physical products for shipping in your eCommerce store."
+msgstr "Enter the length measurement used when calculating the dimensions of physical products for shipping in your eCommerce store."
+
+msgctxt "DisplayDateFormatHelp"
+msgid "The default date format used in your eCommerce store. To change the date format see http://www.php.net/date"
+msgstr "The default date format used in your eCommerce store. To change the date format see http://www.php.net/date"
+
+msgctxt "ExportDateFormatHelp"
+msgid "The default date format used when exporting your product list. To change the date format see http://www.php.net/date"
+msgstr "The default date format used when exporting your product list. To change the date format see http://www.php.net/date"
+
+msgctxt "ExtendedDisplayDateFormatHelp"
+msgid "The default extended date format used in your eCommerce store. To change the date format see http://www.php.net/date"
+msgstr "The default extended date format used in your eCommerce store. To change the date format see http://www.php.net/date"
+
+msgctxt "AutoThumbSizeHelp"
+msgid "The width to use when creating product thumbnail images on the fly."
+msgstr "The width to use when creating product thumbnail images on the fly."
+
+msgctxt "HomeFeaturedProductsHelp"
+msgid "The number of featured products to display on the home page of your eCommerce store."
+msgstr "The number of featured products to display on the home page of your eCommerce store."
+
+msgctxt "HomeFeaturedProductsPerRowHelp"
+msgid "The number of featured products to display per row on the home page."
+msgstr "The number of featured products to display per row on the home page."
+
+msgctxt "HomeNewProductsHelp"
+msgid "The number of new products to display on the home page of your eCommerce store."
+msgstr "The number of new products to display on the home page of your eCommerce store."
+
+msgctxt "HomeNewProductsPerRowHelp"
+msgid "The number of new products to display per row on the home page."
+msgstr "The number of new products to display per row on the home page."
+
+msgctxt "HomeBlogPostsHelp"
+msgid "The number of news items to display on the home page of your eCommerce store."
+msgstr "The number of news items to display on the home page of your eCommerce store."
+
+msgctxt "CategoryProductsPerPageHelp"
+msgid "The number of products to display per page when browsing the category pages and search results in your eCommerce store."
+msgstr "The number of products to display per page when browsing the category pages and search results in your eCommerce store."
+
+msgctxt "CategoryProductsPerRowHelp"
+msgid "The number of products to display per row on the category pages of your eCommerce store."
+msgstr "The number of products to display per row on the category pages of your eCommerce store."
+
+msgctxt "ProductReviewsPerPageHelp"
+msgid "The number of reviews to display on the products page. If a product contains more than this number of reviews then Next and Previous links will be used to browse the reviews."
+msgstr "The number of reviews to display on the products page. If a product contains more than this number of reviews then Next and Previous links will be used to browse the reviews."
+
+msgctxt "TagCloudsEnabledHelp"
+msgid "Should tag clouds be displayed in your eCommerce store? If you\'re unsure then untick this option."
+msgstr "Should tag clouds be displayed in your eCommerce store? If you\'re unsure then untick this option."
+
+msgctxt "CaptchaEnabledHelp"
+msgid "Should a captcha field be displayed on forms in your eCommerce store (such as the product review form)? CAPTCHA fields help reduce comment spam, so leave this ticked if you\'re unsure."
+msgstr "Should a captcha field be displayed on forms in your eCommerce store (such as the product review form)? CAPTCHA fields help reduce comment spam, so leave this ticked if you\'re unsure."
+
+msgctxt "ShowThumbsInCartHelp"
+msgid "Should product thumbnail images be displayed on your site\'s shopping cart page?"
+msgstr "Should product thumbnail images be displayed on your site\'s shopping cart page?"
+
+msgctxt "ShowCartSuggestionsHelp"
+msgid "When someone adds a product to their shopping cart, should they be shown a list of complimentary products? If unticked then the normal shopping cart will be displayed instead."
+msgstr "When someone adds a product to their shopping cart, should they be shown a list of complimentary products? If unticked then the normal shopping cart will be displayed instead."
+
+msgctxt "AutoApproveReviewsHelp"
+msgid "Should new product reviews be approved and made live automatically?"
+msgstr "Should new product reviews be approved and made live automatically?"
+
+msgctxt "EnterStoreName"
+msgid "Please enter a name for your eCommerce store."
+msgstr "Please enter a name for your eCommerce store."
+
+msgctxt "EnterStoreAddress"
+msgid "Please enter the physical address for your eCommerce store."
+msgstr "Please enter the physical address for your eCommerce store."
+
+msgctxt "EnterLogoImage"
+msgid "Please upload a logo image for your eCommerce store."
+msgstr "Please upload a logo image for your eCommerce store."
+
+msgctxt "EnterShopPath"
+msgid "Please enter the full path to your eCommerce store."
+msgstr "Please enter the full path to your eCommerce store."
+
+msgctxt "EnterCharacterSet"
+msgid "Please enter a character set."
+msgstr "Please enter a character set."
+
+msgctxt "EnterMetaKeywords"
+msgid "Please enter some meta keywords."
+msgstr "Please enter some meta keywords."
+
+msgctxt "EnterDownloadDirectory"
+msgid "Please enter a download directory."
+msgstr "Please enter a download directory."
+
+msgctxt "EnterImageDirectory"
+msgid "Please enter an image directory."
+msgstr "Please enter an image directory."
+
+msgctxt "EnterLicenseKey"
+msgid "Please enter your license key."
+msgstr "Please enter your license key."
+
+msgctxt "EnterValidAdminEmail"
+msgid "Please enter a valid administrator\'s email address."
+msgstr "Please enter a valid administrator\'s email address."
+
+msgctxt "EnterValidOrderEmail"
+msgid "Please enter a valid \'From\' email address."
+msgstr "Please enter a valid \'From\' email address."
+
+msgctxt "EnterCurrencyToken"
+msgid "Please enter a currency token."
+msgstr "Please enter a currency token."
+
+msgctxt "EnterDecimalToken"
+msgid "Please enter a decimal token."
+msgstr "Please enter a decimal token."
+
+msgctxt "EnterThousandsToken"
+msgid "Please enter a thousands token."
+msgstr "Please enter a thousands token."
+
+msgctxt "EnterDecimalPlaces"
+msgid "Please enter a decimal places value."
+msgstr "Please enter a decimal places value."
+
+msgctxt "EnterDisplayDateFormat"
+msgid "Please enter a display date format."
+msgstr "Please enter a display date format."
+
+msgctxt "EnterExportDateFormat"
+msgid "Please enter an export date format."
+msgstr "Please enter an export date format."
+
+msgctxt "EnterExtendedDisplayDateFormat"
+msgid "please enter an extended display date format."
+msgstr "please enter an extended display date format."
+
+msgctxt "EnterAutoThumbSize"
+msgid "Please enter a valid thumbnail width."
+msgstr "Please enter a valid thumbnail width."
+
+msgctxt "EnterHomeFeaturedProducts"
+msgid "Please enter a valid number of featured products to display."
+msgstr "Please enter a valid number of featured products to display."
+
+msgctxt "EnterHomeFeaturedProductsPerRow"
+msgid "Please enter a valid number of featured products per row."
+msgstr "Please enter a valid number of featured products per row."
+
+msgctxt "EnterHomeNewProducts"
+msgid "Please enter a valid number of new products to display."
+msgstr "Please enter a valid number of new products to display."
+
+msgctxt "EnterHomeNewProductsPerRow"
+msgid "Please enter a valid number of new products per row."
+msgstr "Please enter a valid number of new products per row."
+
+msgctxt "EnterHomeBlogPosts"
+msgid "Please enter a valid number of news items to display."
+msgstr "Please enter a valid number of news items to display."
+
+msgctxt "EnterCategoryProductsPerPage"
+msgid "Please enter a valid number of products per page."
+msgstr "Please enter a valid number of products per page."
+
+msgctxt "EnterCategoryProductsPerRow"
+msgid "Please enter a valid number of products per row."
+msgstr "Please enter a valid number of products per row."
+
+msgctxt "EnterProductReviewsPerPage"
+msgid "Please enter a valid number of product reviews per page."
+msgstr "Please enter a valid number of product reviews per page."
+
+msgctxt "SiteStatusSettings"
+msgid "Site Status Settings"
+msgstr "Site Status Settings"
+
+msgctxt "SiteSecuritySettings"
+msgid "Site Security Settings"
+msgstr "Site Security Settings"
+
+msgctxt "SSL"
+msgid "SSL"
+msgstr "SSL"
+
+msgctxt "SharedSSL"
+msgid "Shared SSL"
+msgstr "Shared SSL"
+
+msgctxt "SubdomainSSL"
+msgid "Subdomain SSL"
+msgstr "Subdomain SSL"
+
+msgctxt "UseSSLDuringCheckout"
+msgid "Use a Secure Checkout Process"
+msgstr "Use a Secure Checkout Process"
+
+msgctxt "UseSSLDuringCheckoutHelp"
+msgid "If SSL during checkout is enabled then the checkout process on your site will be completed using SSL security, which encrypts all customer information..<br /><br />If you don\'t have an SSL certificate then leave this option disabled and your checkout process will still function as normal, however only the payment portion of the checkout will use SSL (as provided by the payment provider).<br /><br />You must have an SSL certificate setup for your web site in order to use SSL during checkout."
+msgstr "If SSL during checkout is enabled then the checkout process on your site will be completed using SSL security, which encrypts all customer information..<br /><br />If you don\'t have an SSL certificate then leave this option disabled and your checkout process will still function as normal, however only the payment portion of the checkout will use SSL (as provided by the payment provider).<br /><br />You must have an SSL certificate setup for your web site in order to use SSL during checkout."
+
+msgctxt "DontUseSSL"
+msgid "I don't want to use a secure checkout process"
+msgstr "I don't want to use a secure checkout process"
+
+msgctxt "UseInstalledSSL"
+msgid "I have already purchased and installed an SSL certificate"
+msgstr "I have already purchased and installed an SSL certificate"
+
+msgctxt "UseInstalledSSLHelp"
+msgid "If you have an SSL certificate installed on the same domain as your store web site then choose this option."
+msgstr "If you have an SSL certificate installed on the same domain as your store web site then choose this option."
+
+msgctxt "UseSharedSSL"
+msgid "I want to use my web host's shared SSL certificate"
+msgstr "I want to use my web host's shared SSL certificate"
+
+msgctxt "UseSharedSSLHelp"
+msgid "If your hosting company has a shared SSL environment available then choose this option and enter the shared SSL URL supplied by your host. Be sure to include the full path to your store. This will typically be in the form: <br /><br /><em>https://server.com/~username/shop"
+msgstr "If your hosting company has a shared SSL environment available then choose this option and enter the shared SSL URL supplied by your host. Be sure to include the full path to your store. This will typically be in the form: <br /><br /><em>https://server.com/~username/shop"
+
+msgctxt "EnterSharedSSL"
+msgid "Please enter the full path of your shared SSL site."
+msgstr "Please enter the full path of your shared SSL site."
+
+msgctxt "UseSubdomainSSL"
+msgid "I want to use a subdomain for my secure checkout"
+msgstr "I want to use a subdomain for my secure checkout"
+
+msgctxt "UseSubdomainSSLHelp"
+msgid "If you want to access the secure areas of your shop using a separate <em>subdomain</em> (such as https://secure.myshop.com) then choose this option and enter the full path to your secure store location."
+msgstr "If you want to access the secure areas of your shop using a separate <em>subdomain</em> (such as https://secure.myshop.com) then choose this option and enter the full path to your secure store location."
+
+msgctxt "EnterSubdomainSSL"
+msgid "Please enter the full path of your secure subdomain."
+msgstr "Please enter the full path of your secure subdomain."
+
+msgctxt "TestSSLText"
+msgid "To test if your store has its own SSL certificate we will now try to display your website in secure (SSL) mode. If your store appears normally then it supports secure mode. If you see an error then your store does not support secure mode and you should uncheck this option."
+msgstr "To test if your store has its own SSL certificate we will now try to display your website in secure (SSL) mode. If your store appears normally then it supports secure mode. If you see an error then your store does not support secure mode and you should uncheck this option."
+
+msgctxt "DesignMode"
+msgid "Design Mode"
+msgstr "Design Mode"
+
+msgctxt "YesDesignMode"
+msgid "Yes, enable design mode"
+msgstr "Yes, enable design mode"
+
+msgctxt "DesignModeHelp"
+msgid "If design mode is enabled you will be able to rearrange the panels of your store by dragging and dropping them after clicking the \'View Store\' link at the top of the page."
+msgstr "If design mode is enabled you will be able to rearrange the panels of your store by dragging and dropping them after clicking the \'View Store\' link at the top of the page."
+
+msgctxt "ProviderRequiresSSL"
+msgid "requires 'Use Secure Checkout Process' to be enabled from the settings page before it will function correctly."
+msgstr "requires 'Use Secure Checkout Process' to be enabled from the settings page before it will function correctly."
+
+msgctxt "ControlPanelDisplaySettings"
+msgid "Control Panel"
+msgstr "Control Panel"
+
+msgctxt "UseWYSIWYGEditor"
+msgid "Use WYSIWYG Editor?"
+msgstr "Use WYSIWYG Editor?"
+
+msgctxt "ShowProductThumbnails"
+msgid "Show Product Thumbnails?"
+msgstr "Show Product Thumbnails?"
+
+msgctxt "ShowProductThumbnailsHelp"
+msgid "Should thumbnail images be shown for each product on the \'View Products\' page in the control panel? If yes, tick this box. If not untick this box."
+msgstr "Should thumbnail images be shown for each product on the \'View Products\' page in the control panel? If yes, tick this box. If not untick this box."
+
+msgctxt "YesShowProductThumbnails"
+msgid "Yes, show product thumbnail images"
+msgstr "Yes, show product thumbnail images"
+
+msgctxt "YesEnableWYSIWYGEditor"
+msgid "Yes, enable the WYSIWYG editor"
+msgstr "Yes, enable the WYSIWYG editor"
+
+msgctxt "UseWYSIWYGEditorHelp"
+msgid "Should the WYSIWYG editor be shown when entering product descriptions, etc? If not a plain text box will be displayed instead."
+msgstr "Should the WYSIWYG editor be shown when entering product descriptions, etc? If not a plain text box will be displayed instead."
+
+msgctxt "ApplicationPath"
+msgid "Application Path"
+msgstr "Application Path"
+
+msgctxt "ApplicationPathHelp"
+msgid "The relative URL path to this application. If your URL is like this www.example.com/store then the value should be \'/store\'. If you are just installing on www.example.com then leave this field blank."
+msgstr "The relative URL path to this application. If your URL is like this www.example.com/store then the value should be \'/store\'. If you are just installing on www.example.com then leave this field blank."
+
+msgctxt "EnableSearchSuggest"
+msgid "Enable Search Suggest?"
+msgstr "Enable Search Suggest?"
+
+msgctxt "YesSearchSuggest"
+msgid "Yes, enable search suggest"
+msgstr "Yes, enable search suggest"
+
+msgctxt "SearchSuggest"
+msgid "Search Suggest"
+msgstr "Search Suggest"
+
+msgctxt "SearchSuggestHelp"
+msgid "Should suggestions be made automatically when customers searching in your store misspell words? If so, tick this box. PSpell must be installed for search suggestion to function. If PSpell is not installed then search suggest will be disabled automatically."
+msgstr "Should suggestions be made automatically when customers searching in your store misspell words? If so, tick this box. PSpell must be installed for search suggestion to function. If PSpell is not installed then search suggest will be disabled automatically."
+
+msgctxt "EnableQuickSearch"
+msgid "Enable Quick Search?"
+msgstr "Enable Quick Search?"
+
+msgctxt "YesQuickSearch"
+msgid "Yes, enable quick search"
+msgstr "Yes, enable quick search"
+
+msgctxt "QuickSearchHelp"
+msgid "If enabled, the product search box on the top of every page will show instant results matching what the user is typing."
+msgstr "If enabled, the product search box on the top of every page will show instant results matching what the user is typing."
+
+msgctxt "RSSSettings"
+msgid "Syndication Settings"
+msgstr "Syndication Settings"
+
+msgctxt "RSSNewProductsEnabled"
+msgid "Enable New Products Feed?"
+msgstr "Enable New Products Feed?"
+
+msgctxt "YesRSSNewProductsEnabled"
+msgid "Yes, enable new products feed"
+msgstr "Yes, enable new products feed"
+
+msgctxt "RSSNewProductsHelp"
+msgid "Should an RSS feed of new products be accessible to visitors?"
+msgstr "Should an RSS feed of new products be accessible to visitors?"
+
+msgctxt "RSSPopularProductsEnabled"
+msgid "Enable Popular Products Feed?"
+msgstr "Enable Popular Products Feed?"
+
+msgctxt "YesRSSPopularProductsEnabled"
+msgid "Yes, enable popular products feed"
+msgstr "Yes, enable popular products feed"
+
+msgctxt "RSSPopularProductsHelp"
+msgid "Should an RSS feed of popular products (by rating) be accessible to visitors?"
+msgstr "Should an RSS feed of popular products (by rating) be accessible to visitors?"
+
+msgctxt "RSSCategoriesEnabled"
+msgid "Enable Per Category Feeds?"
+msgstr "Enable Per Category Feeds?"
+
+msgctxt "YesRSSCategoriesEnabled"
+msgid "Yes, enable per category feeds"
+msgstr "Yes, enable per category feeds"
+
+msgctxt "RSSCategoriesHelp"
+msgid "Should the new and popular RSS feeds be available on a per-category basis?"
+msgstr "Should the new and popular RSS feeds be available on a per-category basis?"
+
+msgctxt "RSSProductSearchesEnabled"
+msgid "Enable Product Search Feeds?"
+msgstr "Enable Product Search Feeds?"
+
+msgctxt "YesRSSProductSearchesEnabled"
+msgid "Yes, enable product search feeds"
+msgstr "Yes, enable product search feeds"
+
+msgctxt "RSSProductSearchesHelp"
+msgid "Should visitors be able to view their product searches as RSS feeds?"
+msgstr "Should visitors be able to view their product searches as RSS feeds?"
+
+msgctxt "RSSLatestBlogEntriesEnabled"
+msgid "Enable Recent News Feed?"
+msgstr "Enable Recent News Feed?"
+
+msgctxt "YesRSSLatestBlogEntriesEnabled"
+msgid "Yes, enable latest news items feed"
+msgstr "Yes, enable latest news items feed"
+
+msgctxt "RSSLatestBlogEntriesHelp"
+msgid "Should an RSS feed of the latest news items be accessible to visitors?"
+msgstr "Should an RSS feed of the latest news items be accessible to visitors?"
+
+msgctxt "RSSItemsLimit"
+msgid "Products/Items Per Feed"
+msgstr "Products/Items Per Feed"
+
+msgctxt "RSSItemsLimitHelp"
+msgid "The number of products or items to include in each RSS feed or syndication file."
+msgstr "The number of products or items to include in each RSS feed or syndication file."
+
+msgctxt "RSSCacheTime"
+msgid "Cache Files for"
+msgstr "Cache Files for"
+
+msgctxt "RSSMinutes"
+msgid "minutes"
+msgstr "minutes"
+
+msgctxt "RSSCacheTimeHelp"
+msgid "The length of time, if any, to cache RSS feeds for. Enter the time period in minutes, or set to 0 to disable caching (not recommended)."
+msgstr "The length of time, if any, to cache RSS feeds for. Enter the time period in minutes, or set to 0 to disable caching (not recommended)."
+
+msgctxt "EnterRSSItemsLimit"
+msgid "Please enter a valid number of items per feed."
+msgstr "Please enter a valid number of items per feed."
+
+msgctxt "EnterValidRSSCacheTime"
+msgid "Please enter a valid cache time in minutes, or leave this field empty to disable caching (not recommended)."
+msgstr "Please enter a valid cache time in minutes, or leave this field empty to disable caching (not recommended)."
+
+msgctxt "RSSSyndicationIconsEnabled"
+msgid "Enable Syndication Icons?"
+msgstr "Enable Syndication Icons?"
+
+msgctxt "YesRSSSyndicationIconsEnabled"
+msgid "Yes, enable syndication icons"
+msgstr "Yes, enable syndication icons"
+
+msgctxt "RSSSyndicationIconsHelp"
+msgid "Should the small syndication icons be shown throughout the store? If not, untick this box and visitors can still access your syndication feeds from the \'Syndicate\' page."
+msgstr "Should the small syndication icons be shown throughout the store? If not, untick this box and visitors can still access your syndication feeds from the \'Syndicate\' page."
+
+msgctxt "EnableLocalBackups"
+msgid "Enable Local Backups?"
+msgstr "Enable Local Backups?"
+
+msgctxt "YesEnableLocalBackups"
+msgid "Yes, enable local backups"
+msgstr "Yes, enable local backups"
+
+msgctxt "EnableLocalBackupsHelp"
+msgid "If enabled, backups will be able to be stored directly on this server in the admin/backups directory."
+msgstr "If enabled, backups will be able to be stored directly on this server in the admin/backups directory."
+
+msgctxt "EnableRemoteFTPBackups"
+msgid "Enable Remote FTP Backups?"
+msgstr "Enable Remote FTP Backups?"
+
+msgctxt "YesEnableRemoteFTPBackups"
+msgid "Yes, enable remote FTP backups"
+msgstr "Yes, enable remote FTP backups"
+
+msgctxt "EnableRemoteFTPBackupsHelp"
+msgid "If you have FTP space on a remote server that you\'d like to store backups on, it can be configured here."
+msgstr "If you have FTP space on a remote server that you\'d like to store backups on, it can be configured here."
+
+msgctxt "FTPServerDetails"
+msgid "FTP Server Details"
+msgstr "FTP Server Details"
+
+msgctxt "FTPHostName"
+msgid "Host Name"
+msgstr "Host Name"
+
+msgctxt "FTPServerDetailsHelp"
+msgid "Enter the host name, username and password for your remote FTP server here.<br /><br />You can also enter the path to the location you\'d like to store backups in. This directory must already exist on the server."
+msgstr "Enter the host name, username and password for your remote FTP server here.<br /><br />You can also enter the path to the location you\'d like to store backups in. This directory must already exist on the server."
+
+msgctxt "FTPUsername"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "FTPPassword"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "FTPPath"
+msgid "Path"
+msgstr "Path"
+
+msgctxt "TestFTPSettings"
+msgid "Test FTP Settings"
+msgstr "Test FTP Settings"
+
+msgctxt "AutomaticBackups"
+msgid "Automatic Backups (Crontab Based)"
+msgstr "Automatic Backups (Crontab Based)"
+
+msgctxt "EnableAutomaticBackups"
+msgid "Enable Automatic Backups?"
+msgstr "Enable Automatic Backups?"
+
+msgctxt "YesEnableAutomaticBackups"
+msgid "Yes, enable automatic backups"
+msgstr "Yes, enable automatic backups"
+
+msgctxt "EnableAutomaticBackupsHelp"
+msgid "If enabled, you will be able to set up a cronjob (scheduled task) on your server to perform automated backups of your store.<br /><br />Note that just enabling this setting is not enough. You need to configure your crontab to run the script below."
+msgstr "If enabled, you will be able to set up a cronjob (scheduled task) on your server to perform automated backups of your store.<br /><br />Note that just enabling this setting is not enough. You need to configure your crontab to run the script below."
+
+msgctxt "BackupCronPath"
+msgid "Cron Path"
+msgstr "Cron Path"
+
+msgctxt "BackupCronPathHelp"
+msgid "This is the script line that you need to insert in to your crontab for the automated backups to run.<br /><br />For more information please see the backup documentation."
+msgstr "This is the script line that you need to insert in to your crontab for the automated backups to run.<br /><br />For more information please see the backup documentation."
+
+msgctxt "AutomaticBackupMethod"
+msgid "Automatic Backup Method"
+msgstr "Automatic Backup Method"
+
+msgctxt "AutomaticBackupLocal"
+msgid "Local"
+msgstr "Local"
+
+msgctxt "AutomaticBackupRemoteFTP"
+msgid "Remote (FTP)"
+msgstr "Remote (FTP)"
+
+msgctxt "AutomaticBackupMethodHelp"
+msgid "Select the type of backup that should be performed whenever the backup cronjob is run."
+msgstr "Select the type of backup that should be performed whenever the backup cronjob is run."
+
+msgctxt "SettingsBackupDatabase"
+msgid "Backup store database"
+msgstr "Backup store database"
+
+msgctxt "SettingsBackupProductImages"
+msgid "Backup product images"
+msgstr "Backup product images"
+
+msgctxt "SettingsBackupDigitalProducts"
+msgid "Backup downloadable products"
+msgstr "Backup downloadable products"
+
+msgctxt "TestingFTPSettings"
+msgid "Testing FTP Settings..."
+msgstr "Testing FTP Settings..."
+
+msgctxt "EnterFTPHostname"
+msgid "Please enter a valid FTP server host name."
+msgstr "Please enter a valid FTP server host name."
+
+msgctxt "EnterFTPUsername"
+msgid "Please enter a valid FTP server username"
+msgstr "Please enter a valid FTP server username"
+
+msgctxt "EnterFTPPassword"
+msgid "Please enter a valid FTP server password."
+msgstr "Please enter a valid FTP server password."
+
+msgctxt "BackupFTPBadServer"
+msgid "Uanble to connect to your FTP server. Is the hostname correct?"
+msgstr "Uanble to connect to your FTP server. Is the hostname correct?"
+
+msgctxt "BackupFTPBadUser"
+msgid "Unable authenticate with your FTP server. Are the username and password correct?"
+msgstr "Unable authenticate with your FTP server. Are the username and password correct?"
+
+msgctxt "BackupFTPBadPath"
+msgid "Unable to change to the specified FTP path. Is the path correct?"
+msgstr "Unable to change to the specified FTP path. Is the path correct?"
+
+msgctxt "BackupFTPSuccess"
+msgid "The FTP details you entered are valid and working correctly."
+msgstr "The FTP details you entered are valid and working correctly."
+
+msgctxt "AtLeastOnAutomaticBackup"
+msgid "You must select at least one item to backup if performing automatic backups."
+msgstr "You must select at least one item to backup if performing automatic backups."
+
+msgctxt "MiscellaneousSettings"
+msgid "Miscellaneous Settings"
+msgstr "Miscellaneous Settings"
+
+msgctxt "GoogleMapsSettings"
+msgid "Google Maps Settings"
+msgstr "Google Maps Settings"
+
+msgctxt "GoogleMapsAPIKey"
+msgid "Google Maps API Key"
+msgstr "Google Maps API Key"
+
+msgctxt "GoogleMapsAPIKeyHelp"
+msgid "Enter your Google Maps API key here. Google maps are used on the statistics page to generate order location reports and maps. If you don\'t have a Google Maps API key then follow the \'Register for a free Google Maps API key\' link to generate one."
+msgstr "Enter your Google Maps API key here. Google maps are used on the statistics page to generate order location reports and maps. If you don\'t have a Google Maps API key then follow the \'Register for a free Google Maps API key\' link to generate one."
+
+msgctxt "GoogleMapsAPILinkText"
+msgid "Register for a free Google Maps API key"
+msgstr "Register for a free Google Maps API key"
+
+msgctxt "LoggingSettings"
+msgid "Logging Settings"
+msgstr "Logging Settings"
+
+msgctxt "SystemLogging"
+msgid "System Logging"
+msgstr "System Logging"
+
+msgctxt "EnableSystemLogging"
+msgid "Enable System Logging"
+msgstr "Enable System Logging"
+
+msgctxt "YesEnableSystemLogging"
+msgid "Yes, enable automatic system logging"
+msgstr "Yes, enable automatic system logging"
+
+msgctxt "EnableSystemLoggingHelp"
+msgid "Tick this box to enable logging of all system messages. You can view the log from the Tools -> Store Logs menu."
+msgstr "Tick this box to enable logging of all system messages. You can view the log from the Tools -> Store Logs menu."
+
+msgctxt "ActionsToLog"
+msgid "Actions to Log"
+msgstr "Actions to Log"
+
+msgctxt "ActionsToLogGeneral"
+msgid "General Actions"
+msgstr "General Actions"
+
+msgctxt "ActionsToLogPayment"
+msgid "Payment Gateway Requests"
+msgstr "Payment Gateway Requests"
+
+msgctxt "ActionsToLogShipping"
+msgid "Real-time Shipping Quotes"
+msgstr "Real-time Shipping Quotes"
+
+msgctxt "ActionsToLogNotification"
+msgid "Notification System Messages"
+msgstr "Notification System Messages"
+
+msgctxt "ActionsToLogSQL"
+msgid "Database Error Messages"
+msgstr "Database Error Messages"
+
+msgctxt "ActionsToLogPHP"
+msgid "PHP Error Messages"
+msgstr "PHP Error Messages"
+
+msgctxt "TypesOfMessages"
+msgid "Types of Messages"
+msgstr "Types of Messages"
+
+msgctxt "TypesOfMessagesErrors"
+msgid "Errors (Recommended)"
+msgstr "Errors (Recommended)"
+
+msgctxt "TypesOfMessagesWarnings"
+msgid "Warnings"
+msgstr "Warnings"
+
+msgctxt "TypesOfMessagesSuccesses"
+msgid "Successes"
+msgstr "Successes"
+
+msgctxt "TypesOfMessagesNotices"
+msgid "Notices"
+msgstr "Notices"
+
+msgctxt "RestrictLogTo"
+msgid "Restrict Log To"
+msgstr "Restrict Log To"
+
+msgctxt "RestrictLogToHelp"
+msgid "Enter the maximum number of log entries to save, or enter 0 to save all log entries."
+msgstr "Enter the maximum number of log entries to save, or enter 0 to save all log entries."
+
+msgctxt "MostRecentEntries"
+msgid "most recent entries"
+msgstr "most recent entries"
+
+msgctxt "AdministratorLogging"
+msgid "Staff Logging"
+msgstr "Staff Logging"
+
+msgctxt "EnableAdministratorLogging"
+msgid "Enable Staff Logging"
+msgstr "Enable Staff Logging"
+
+msgctxt "EnableAdministratorLoggingHelp"
+msgid "Tick this box to enable logging of all of actions that are performed in the control panel. You can view the log from the Tools -> Store Logs menu."
+msgstr "Tick this box to enable logging of all of actions that are performed in the control panel. You can view the log from the Tools -> Store Logs menu."
+
+msgctxt "YesEnableAdministratorLogging"
+msgid "Yes, enable staff action logging"
+msgstr "Yes, enable staff action logging"
+
+msgctxt "SelectOneMoreLoggingTypes"
+msgid "Please select one or more actions to log."
+msgstr "Please select one or more actions to log."
+
+msgctxt "SelectOneMoreLoggingSeverities"
+msgid "Please select one or more severities to log items for."
+msgstr "Please select one or more severities to log items for."
+
+msgctxt "EnterValidSystemLogLength"
+msgid "Please enter a valid number for the maximum number of entries in the system log."
+msgstr "Please enter a valid number for the maximum number of entries in the system log."
+
+msgctxt "EnterValidAdministratorLogLength"
+msgid "Please enter a valid number for the maximum number of entries in the staff log."
+msgstr "Please enter a valid number for the maximum number of entries in the staff log."
+
+msgctxt "OrderSettings"
+msgid "Order Settings"
+msgstr "Order Settings"
+
+msgctxt "UpdateProductInventoryWhen"
+msgid "Update Inventory When"
+msgstr "Update Inventory When"
+
+msgctxt "UpdateInventorySuccessfulOrder"
+msgid "An order is successfully placed on my store"
+msgstr "An order is successfully placed on my store"
+
+msgctxt "UpdateInventoryOrderCompleted"
+msgid "An order status is changed to completed or shipped"
+msgstr "An order status is changed to completed or shipped"
+
+msgctxt "UpdateProductInventoryWhenHelp"
+msgid "If inventory tracking is enabled for products in an order, when should the inventory levels for products be updated?"
+msgstr "If inventory tracking is enabled for products in an order, when should the inventory levels for products be updated?"
+
+msgctxt "EmailOnOrderStatusChange"
+msgid "Customer Email Notifications"
+msgstr "Customer Email Notifications"
+
+msgctxt "EmailOnOrderStatusChangeHelp"
+msgid "When changing the status of an order an email can be sent to the customer automatically to notify him/her of the change. Choose which statuses you\'d like to have emails sent out for from this list."
+msgstr "When changing the status of an order an email can be sent to the customer automatically to notify him/her of the change. Choose which statuses you\'d like to have emails sent out for from this list."
+
+msgctxt "OrderStatusChangedTo"
+msgid "Status changed to %s"
+msgstr "Status changed to %s"
+
+msgctxt "SearchEngineFriendlyURLs"
+msgid "Search Engine Friendly URLs"
+msgstr "Search Engine Friendly URLs"
+
+msgctxt "SearchEngineFriendlyURLsAuto"
+msgid "Enable if available"
+msgstr "Enable if available"
+
+msgctxt "SearchEngineFriendlyURLsEnabled"
+msgid "Yes, enable search engine friendly URLs"
+msgstr "Yes, enable search engine friendly URLs"
+
+msgctxt "SearchEngineFriendlyURLsDisabled"
+msgid "No, do not enable search engine friendly URLs"
+msgstr "No, do not enable search engine friendly URLs"
+
+msgctxt "SearchEngineFriendlyURLsHelp"
+msgid "Search engine friendly URLs make it easier for search engines (such as Google) to find and index the contents of your store. A search engine friendly URL will strip characters (such as ?, =, &amp;) from links in your store and may improve your store\'s ranking in search engines.<br /><br />A search engine friendly URL looks like /products/Example-product.html, whereas a non-search engine friendly link looks like /products.php?product=Example-product.<br /><br />Set to &quot;Enable if available&quot; to have this feature enabled or disabled automatically based on your server configuration. Otherwise, set to enabled or disabled to force this feature on or off."
+msgstr "Search engine friendly URLs make it easier for search engines (such as Google) to find and index the contents of your store. A search engine friendly URL will strip characters (such as ?, =, &amp;) from links in your store and may improve your store\'s ranking in search engines.<br /><br />A search engine friendly URL looks like /products/Example-product.html, whereas a non-search engine friendly link looks like /products.php?product=Example-product.<br /><br />Set to &quot;Enable if available&quot; to have this feature enabled or disabled automatically based on your server configuration. Otherwise, set to enabled or disabled to force this feature on or off."
+
+msgctxt "ShowInventory"
+msgid "Show Inventory Levels?"
+msgstr "Show Inventory Levels?"
+
+msgctxt "YesShowInventory"
+msgid "Yes, show inventory levels in my store"
+msgstr "Yes, show inventory levels in my store"
+
+msgctxt "EnableWishlistHelp"
+msgid "If enabled, store visitors will be able to create and view their own wishlists, which allow them to store a collection of products that they would like to purchase at a future date."
+msgstr "If enabled, store visitors will be able to create and view their own wishlists, which allow them to store a collection of products that they would like to purchase at a future date."
+
+msgctxt "ShowInventoryHelp"
+msgid "Should customers be able to see exactly how many of a particular product you have in stock on the product details page?"
+msgstr "Should customers be able to see exactly how many of a particular product you have in stock on the product details page?"
+
+msgctxt "CouldntBackupConfig"
+msgid "A backup of your config file couldn't be created. Please make sure your config/ folder is writable."
+msgstr "A backup of your config file couldn't be created. Please make sure your config/ folder is writable."
+
+msgctxt "CouldntSaveConfig"
+msgid "You config file couldn't be saved. Please make sure your config/config.php folder is writable."
+msgstr "You config file couldn't be saved. Please make sure your config/config.php folder is writable."
+
+msgctxt "HidePHPErrors"
+msgid "Disable PHP Error Messages"
+msgstr "Disable PHP Error Messages"
+
+msgctxt "YesHidePHPErrors"
+msgid "Yes, disable PHP error messages"
+msgstr "Yes, disable PHP error messages"
+
+msgctxt "HidePHPErrorsHelp"
+msgid "If enabled, error messages generated by PHP will not be shown on your store. This is particularly useful in production environments where the error messages should not be shown."
+msgstr "If enabled, error messages generated by PHP will not be shown on your store. This is particularly useful in production environments where the error messages should not be shown."
+
+msgctxt "EnableDSTCorrection"
+msgid "Enable DST Correction"
+msgstr "Enable DST Correction"
+
+msgctxt "YesEnableDSTCorrection"
+msgid "Yes, enable daylight savings time correction"
+msgstr "Yes, enable daylight savings time correction"
+
+msgctxt "EnableDSTCorrectionHelp"
+msgid "If checked, an additional hour will be added to your timezone automatically. This setting should be enabled only when you\'re currently observing Daylight Savings Time."
+msgstr "If checked, an additional hour will be added to your timezone automatically. This setting should be enabled only when you\'re currently observing Daylight Savings Time."
+
+msgctxt "EnableDebugMode"
+msgid "Enable Debug Mode"
+msgstr "Enable Debug Mode"
+
+msgctxt "YesEnableDebugMode"
+msgid "Yes, enable debug mode"
+msgstr "Yes, enable debug mode"
+
+msgctxt "EnableDebugModeHelp"
+msgid "If enabled, debug mode will add the number of database queries and page generation time to the bottom of each page. You can also append ?debug=1 to any URL to a list of database queries used on that page and their execution time."
+msgstr "If enabled, debug mode will add the number of database queries and page generation time to the bottom of each page. You can also append ?debug=1 to any URL to a list of database queries used on that page and their execution time."
+
+msgctxt "EnableProductComparisons"
+msgid "Enable Product Comparisons"
+msgstr "Enable Product Comparisons"
+
+msgctxt "YesEnableProductComparisons"
+msgid "Yes, enable product comparisons"
+msgstr "Yes, enable product comparisons"
+
+msgctxt "EnableProductComparisonsHelp"
+msgid "If enabled, store visitors will be able to compare one or more products on a single page to easily see the differences between them."
+msgstr "If enabled, store visitors will be able to compare one or more products on a single page to easily see the differences between them."
+
+msgctxt "LowInventoryEmails"
+msgid "Low Inventory Notification"
+msgstr "Low Inventory Notification"
+
+msgctxt "YesEnableLowInventoryEmails"
+msgid "Yes, email me when my stock levels reach their &quot;Low Inventory&quot; level"
+msgstr "Yes, email me when my stock levels reach their &quot;Low Inventory&quot; level"
+
+msgctxt "LowInventoryEmailsHelp"
+msgid "If you wish to receive email messages when products in your store reach the &quot;Low Inventory&quot; level set up for them, check this box and enter the email address you wish for the notifications to be sent to below."
+msgstr "If you wish to receive email messages when products in your store reach the &quot;Low Inventory&quot; level set up for them, check this box and enter the email address you wish for the notifications to be sent to below."
+
+msgctxt "CartQuantityBoxes"
+msgid "Cart Quantity Boxes"
+msgstr "Cart Quantity Boxes"
+
+msgctxt "ProductBreadcrumbs"
+msgid "Product Breadcrumbs"
+msgstr "Product Breadcrumbs"
+
+msgctxt "ProductBreadcrumbsHelp"
+msgid "How should product breadcrumbs be displayed at the top of your product detail pages in your store? Breadcrumbs are navigational aids that help shoppers navigate your store."
+msgstr "How should product breadcrumbs be displayed at the top of your product detail pages in your store? Breadcrumbs are navigational aids that help shoppers navigate your store."
+
+msgctxt "ShowAll"
+msgid "Show All"
+msgstr "Show All"
+
+msgctxt "ShowOneOnly"
+msgid "Show One Only"
+msgstr "Show One Only"
+
+msgctxt "DontShow"
+msgid "Don't Show"
+msgstr "Don't Show"
+
+msgctxt "DropdownList"
+msgid "Dropdown List"
+msgstr "Dropdown List"
+
+msgctxt "TextBox"
+msgid "Text Box"
+msgstr "Text Box"
+
+msgctxt "CartQuantityBoxesHelp"
+msgid "How should the quantity boxes for products be displayed on the <em>View Cart</em> page? Choose \'Text Box\' to show a text box in which shoppers can type a quantity, or \'Dropdown List\' to show a list of quantities instead."
+msgstr "How should the quantity boxes for products be displayed on the <em>View Cart</em> page? Choose \'Text Box\' to show a text box in which shoppers can type a quantity, or \'Dropdown List\' to show a list of quantities instead."
+
+msgctxt "StoreTimeZone"
+msgid "Your Timezone"
+msgstr "Your Timezone"
+
+msgctxt "StoreTimeZoneHelp"
+msgid "What timezone is it where you are? If your local timezone is different to the web server where your store is hosted, then this timezone will be used to make date options such as \'Today\' and \'Yesterday\' relative to your local timezone instead of your server\'s timezone."
+msgstr "What timezone is it where you are? If your local timezone is different to the web server where your store is hosted, then this timezone will be used to make date options such as \'Today\' and \'Yesterday\' relative to your local timezone instead of your server\'s timezone."
+
+msgctxt "TimeZone_Minus1200"
+msgid "Eniwetok, Kwajalein (GMT -12:00)"
+msgstr "Eniwetok, Kwajalein (GMT -12:00)"
+
+msgctxt "TimeZone_Minus1100"
+msgid "Midway Island, Samoa (GMT -11:00)"
+msgstr "Midway Island, Samoa (GMT -11:00)"
+
+msgctxt "TimeZone_Minus1000"
+msgid "Hawaii (GMT -10:00)"
+msgstr "Hawaii (GMT -10:00)"
+
+msgctxt "TimeZone_Minus900"
+msgid "Alaska (GMT -9:00)"
+msgstr "Alaska (GMT -9:00)"
+
+msgctxt "TimeZone_Minus800"
+msgid "Pacific Time (US & Canada) (GMT -8:00)"
+msgstr "Pacific Time (US & Canada) (GMT -8:00)"
+
+msgctxt "TimeZone_Minus700"
+msgid "Mountain Time (US & Canada) (GMT -7:00)"
+msgstr "Mountain Time (US & Canada) (GMT -7:00)"
+
+msgctxt "TimeZone_Minus600"
+msgid "Central Time (US & Canada), Mexico City (GMT -6:00)"
+msgstr "Central Time (US & Canada), Mexico City (GMT -6:00)"
+
+msgctxt "TimeZone_Minus500"
+msgid "Eastern Time (US & Canada), Bogota, Lima (GMT -5:00)"
+msgstr "Eastern Time (US & Canada), Bogota, Lima (GMT -5:00)"
+
+msgctxt "TimeZone_Minus400"
+msgid "Atlantic Time (Canada), Caracas, La Paz (GMT -4:00)"
+msgstr "Atlantic Time (Canada), Caracas, La Paz (GMT -4:00)"
+
+msgctxt "TimeZone_Minus330"
+msgid "Newfoundland (GMT -3:30)"
+msgstr "Newfoundland (GMT -3:30)"
+
+msgctxt "TimeZone_Minus300"
+msgid "Brazil, Buenos Aires, Georgetown (GMT -3:00)"
+msgstr "Brazil, Buenos Aires, Georgetown (GMT -3:00)"
+
+msgctxt "TimeZone_Minus200"
+msgid "Mid-Atlantic (GMT -2:00)"
+msgstr "Mid-Atlantic (GMT -2:00)"
+
+msgctxt "TimeZone_Minus100"
+msgid "Azores, Cape Verde Islands (GMT -1:00)"
+msgstr "Azores, Cape Verde Islands (GMT -1:00)"
+
+msgctxt "TimeZone_000"
+msgid "Western Europe Time, London, Lisbon, Casablanca (GMT)"
+msgstr "Western Europe Time, London, Lisbon, Casablanca (GMT)"
+
+msgctxt "TimeZone_100"
+msgid "Brussels, Copenhagen, Madrid, Paris, Stockholm (GMT +1:00)"
+msgstr "Brussels, Copenhagen, Madrid, Paris, Stockholm (GMT +1:00)"
+
+msgctxt "TimeZone_200"
+msgid "Kalinangrad, South Africa (GMT +2:00)"
+msgstr "Kalinangrad, South Africa (GMT +2:00)"
+
+msgctxt "TimeZone_300"
+msgid "Baghdad, Riyadh, Moscow, St. Petersburg (GMT +3:00)"
+msgstr "Baghdad, Riyadh, Moscow, St. Petersburg (GMT +3:00)"
+
+msgctxt "TimeZone_330"
+msgid "Tehran (GMT +3:30)"
+msgstr "Tehran (GMT +3:30)"
+
+msgctxt "TimeZone_400"
+msgid "Abu Dhabi, Muscat, Baku, Tbilisi (GMT +4:00)"
+msgstr "Abu Dhabi, Muscat, Baku, Tbilisi (GMT +4:00)"
+
+msgctxt "TimeZone_430"
+msgid "Kabul (GMT +4:30)"
+msgstr "Kabul (GMT +4:30)"
+
+msgctxt "TimeZone_500"
+msgid "Ekaterinburg, Islamabad, Karachi, Tashkent (GMT +5:00)"
+msgstr "Ekaterinburg, Islamabad, Karachi, Tashkent (GMT +5:00)"
+
+msgctxt "TimeZone_530"
+msgid "Bombay, Calcutta, Madras, New Delhi (GMT +5:30)"
+msgstr "Bombay, Calcutta, Madras, New Delhi (GMT +5:30)"
+
+msgctxt "TimeZone_600"
+msgid "Almaty, Dhaka, Colombo (GMT +6:00)"
+msgstr "Almaty, Dhaka, Colombo (GMT +6:00)"
+
+msgctxt "TimeZone_700"
+msgid "Bangkok, Hanoi, Jakarta (GMT +7:00)"
+msgstr "Bangkok, Hanoi, Jakarta (GMT +7:00)"
+
+msgctxt "TimeZone_800"
+msgid "Beijing, Perth, Singapore, Hong Kong (GMT +8:00)"
+msgstr "Beijing, Perth, Singapore, Hong Kong (GMT +8:00)"
+
+msgctxt "TimeZone_900"
+msgid "Tokyo, Seoul, Osaka, Sapporo, Yakutsk (GMT +9:00)"
+msgstr "Tokyo, Seoul, Osaka, Sapporo, Yakutsk (GMT +9:00)"
+
+msgctxt "TimeZone_930"
+msgid "Adelaide, Darwin (GMT +9:30)"
+msgstr "Adelaide, Darwin (GMT +9:30)"
+
+msgctxt "TimeZone_1000"
+msgid "Eastern Australia, Guam, Vladivostok (GMT +10:00)"
+msgstr "Eastern Australia, Guam, Vladivostok (GMT +10:00)"
+
+msgctxt "TimeZone_1100"
+msgid "Magadan, Solomon Islands, New Caledonia (GMT +11:00)"
+msgstr "Magadan, Solomon Islands, New Caledonia (GMT +11:00)"
+
+msgctxt "TimeZone_1200"
+msgid "Auckland, Wellington, Fiji, Kamchatka (GMT +12:00)"
+msgstr "Auckland, Wellington, Fiji, Kamchatka (GMT +12:00)"
+
+msgctxt "CancelCheckoutMessage"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "CheckoutSettingsIntro"
+msgid "Update the checkout settings in the form below. To enable a new checkout method, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that checkout method."
+msgstr "Update the checkout settings in the form below. To enable a new checkout method, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that checkout method."
+
+msgctxt "CheckoutMethods"
+msgid "Checkout Methods"
+msgstr "Checkout Methods"
+
+msgctxt "CheckoutMethodsHelp"
+msgid "Choose a list of checkout methods to provide your customers with. You can choose multiple methods and your customers can choose which one they want to use.<br /><br />When you click \'Save\' you will be able to configure the selected checkout methods by clicking on the new tab that appears for each one."
+msgstr "Choose a list of checkout methods to provide your customers with. You can choose multiple methods and your customers can choose which one they want to use.<br /><br />When you click \'Save\' you will be able to configure the selected checkout methods by clicking on the new tab that appears for each one."
+
+msgctxt "CheckoutSettingsSavedSuccessfully"
+msgid "The modified checkout settings have been saved successfully. If you enabled a new checkout provider you can configure it by clicking its tab below."
+msgstr "The modified checkout settings have been saved successfully. If you enabled a new checkout provider you can configure it by clicking its tab below."
+
+msgctxt "CheckoutSettingsNotSaved"
+msgid "An error occurred while trying to save the checkout settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the checkout settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "NotificationSettingsIntro"
+msgid "Update the order notifications settings in the form below. To enable a new order notification method, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that notification method below."
+msgstr "Update the order notifications settings in the form below. To enable a new order notification method, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that notification method below."
+
+msgctxt "NotificationMethods"
+msgid "Notification Methods"
+msgstr "Notification Methods"
+
+msgctxt "ConfirmCancelNotificationSettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "TestNotificationMethod"
+msgid "Test Notification Method"
+msgstr "Test Notification Method"
+
+msgctxt "NotificationMethodsHelp"
+msgid "Choose a list of notification methods to trigger when your store receives a new order. You can choose multiple notification methods if required.<br /><br />When you click \'Save\' you will be able to configure the selected notification methods by clicking on the new tab that appears for each one."
+msgstr "Choose a list of notification methods to trigger when your store receives a new order. You can choose multiple notification methods if required.<br /><br />When you click \'Save\' you will be able to configure the selected notification methods by clicking on the new tab that appears for each one."
+
+msgctxt "NotificationSettingsSavedSuccessfully"
+msgid "The modified notification settings have been saved successfully. If you enabled a new notification method you can configure it by clicking its tab below."
+msgstr "The modified notification settings have been saved successfully. If you enabled a new notification method you can configure it by clicking its tab below."
+
+msgctxt "NotificationSettingsNotSaved"
+msgid "An error occurred while trying to save the notification settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the notification settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "YesTickNewsletterBox"
+msgid "Yes, tick the newsletter subscription box by default"
+msgstr "Yes, tick the newsletter subscription box by default"
+
+msgctxt "AutomaticallyTickDuringCheckout"
+msgid "Tick Newsletter Checkbox"
+msgstr "Tick Newsletter Checkbox"
+
+msgctxt "AutomaticallyTickDuringCheckout_Help"
+msgid "On the order confirmation page your customers will have the option to subscribe to your newsletter. Should the checkbox that adds them to your mailing list be ticked by default? If yes, and they don't untick it, then they will automatically be added to your newsletter mailing list. If not, they have the option to choose whether or not they are added to your newsletter mailing list."
+msgstr "On the order confirmation page your customers will have the option to subscribe to your newsletter. Should the checkbox that adds them to your mailing list be ticked by default? If yes, and they don't untick it, then they will automatically be added to your newsletter mailing list. If not, they have the option to choose whether or not they are added to your newsletter mailing list."
+
+msgctxt "AnalyticsMethods"
+msgid "Analytics Packages"
+msgstr "Analytics Packages"
+
+msgctxt "AnalyticsSettingsIntro"
+msgid "Update the analytics settings in the form below. To enable a new analytics package, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that package below."
+msgstr "Update the analytics settings in the form below. To enable a new analytics package, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that package below."
+
+msgctxt "CancelAnalyticsMessage"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "AnalyticsSettingsSavedSuccessfully"
+msgid "Your analytics settings were saved successfully. If you enabled a new analytics package you can configure it by clicking its tab below."
+msgstr "Your analytics settings were saved successfully. If you enabled a new analytics package you can configure it by clicking its tab below."
+
+msgctxt "AnalyticsMethodsHelp"
+msgid "Choose a list of analytics packages to track visitors and orders. You can choose one or more analytics packages as required.<br /><br />When you click \'Save\' you will be able to configure the selected analytics packages by clicking on the new tab that appears for each one."
+msgstr "Choose a list of analytics packages to track visitors and orders. You can choose one or more analytics packages as required.<br /><br />When you click \'Save\' you will be able to configure the selected analytics packages by clicking on the new tab that appears for each one."
+
+msgctxt "ConfirmCancelAnalyticsSettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "AnalyticsSettingsNotSaved"
+msgid "An error occurred while trying to save the analytics settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the analytics settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "ReturnsSettingsIntro"
+msgid "The returns system will allow your customers to request a return on items they've purchased. These are also known as RMA requests."
+msgstr "The returns system will allow your customers to request a return on items they've purchased. These are also known as RMA requests."
+
+msgctxt "EnableReturnsSystem"
+msgid "Enable Returns System?"
+msgstr "Enable Returns System?"
+
+msgctxt "YesEnableReturnsSystem"
+msgid "Yes, enable returns requests"
+msgstr "Yes, enable returns requests"
+
+msgctxt "EnableReturnsHelp"
+msgid "Should customers be allowed to submit returns requests for items they\'ve previously purchased? If so, tick this box. Customers will then be able to return one or more items from their order on the \'View Completed Orders\' page."
+msgstr "Should customers be allowed to submit returns requests for items they\'ve previously purchased? If so, tick this box. Customers will then be able to return one or more items from their order on the \'View Completed Orders\' page."
+
+msgctxt "ReturnInstructions"
+msgid "Return Instructions"
+msgstr "Return Instructions"
+
+msgctxt "ReturnInstructionsHelp"
+msgid "The instructions that should be shown to a customer after they\'ve successfully created a new return request.<br /><br /><strong>For Example:</strong><div style=\'padding-left: 20px;\'>Please package and return your items to:<br />Smith\'s Company<br />123 Smith Street<br />Smithville.<br /><br />Ensure your returns authority number is clearly marked on the package.</div>"
+msgstr "The instructions that should be shown to a customer after they\'ve successfully created a new return request.<br /><br /><strong>For Example:</strong><div style=\'padding-left: 20px;\'>Please package and return your items to:<br />Smith\'s Company<br />123 Smith Street<br />Smithville.<br /><br />Ensure your returns authority number is clearly marked on the package.</div>"
+
+msgctxt "ReturnReasons"
+msgid "Return Reasons"
+msgstr "Return Reasons"
+
+msgctxt "ReturnReasonsHelp"
+msgid "A list of reasons a customer should be able to use when submitting a returns request. Enter each reason on a new line."
+msgstr "A list of reasons a customer should be able to use when submitting a returns request. Enter each reason on a new line."
+
+msgctxt "ReturnActions"
+msgid "Return Actions"
+msgstr "Return Actions"
+
+msgctxt "ReturnActionsHelp"
+msgid "A list of actions (such as submit for repairs, refund these items) that a customer should be able to select when submitting a returns request. Enter each action on a new line.<br /><br />If this field is left blank, it will not be shown on the return request page."
+msgstr "A list of actions (such as submit for repairs, refund these items) that a customer should be able to select when submitting a returns request. Enter each action on a new line.<br /><br />If this field is left blank, it will not be shown on the return request page."
+
+msgctxt "ReturnCredits"
+msgid "Allow Store Credits?"
+msgstr "Allow Store Credits?"
+
+msgctxt "YesEnableReturnCredits"
+msgid "Yes, allow staff to issue store credits for returned items"
+msgstr "Yes, allow staff to issue store credits for returned items"
+
+msgctxt "ReturnCreditsHelp"
+msgid "Should staff be able to credit a customers account when a return request results in a refund? If so, tick this box."
+msgstr "Should staff be able to credit a customers account when a return request results in a refund? If so, tick this box."
+
+msgctxt "ReturnsSettingsSavedSuccessfully"
+msgid "The returns settings have been saved successfully."
+msgstr "The returns settings have been saved successfully."
+
+msgctxt "ReturnsSettingsNotSaved"
+msgid "An error occurred while trying to save the returns settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the returns settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "ReturnsNotifications"
+msgid "Notification Settings"
+msgstr "Notification Settings"
+
+msgctxt "NotifyOnReturn"
+msgid "Return Notifications"
+msgstr "Return Notifications"
+
+msgctxt "YesEnableReturnNotifyCustomer"
+msgid "Send a confirmation message to the customer"
+msgstr "Send a confirmation message to the customer"
+
+msgctxt "YesEnableReturnNotifyStatusChange"
+msgid "Send the customer an email when a return status is changed"
+msgstr "Send the customer an email when a return status is changed"
+
+msgctxt "YesEnableReturnNotifyOwner"
+msgid "Send me an email when I receive a new return request"
+msgstr "Send me an email when I receive a new return request"
+
+msgctxt "EnterReturnReason"
+msgid "Please enter at least one return reason."
+msgstr "Please enter at least one return reason."
+
+msgctxt "AddonSettings"
+msgid "Addon Settings"
+msgstr "Addon Settings"
+
+msgctxt "AddonSettingsIntro"
+msgid "To enable a new addon package, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that package below."
+msgstr "To enable a new addon package, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that package below."
+
+msgctxt "AddonPackages"
+msgid "Addon Packages"
+msgstr "Addon Packages"
+
+msgctxt "AddonPackagesHelp"
+msgid "Choose a list of addon packages to enable. You can choose one or more addon package as required.<br /><br />When you click \'Save\' you will be able to configure the selected addon packages by clicking on the new tab that appears for each one."
+msgstr "Choose a list of addon packages to enable. You can choose one or more addon package as required.<br /><br />When you click \'Save\' you will be able to configure the selected addon packages by clicking on the new tab that appears for each one."
+
+msgctxt "ConfirmCancelAddonsSettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "AddonSettingsSavedSuccessfully"
+msgid "Your addon settings were saved successfully."
+msgstr "Your addon settings were saved successfully."
+
+msgctxt "AddonSettingsNotSaved"
+msgid "An error occurred while trying to save the addon settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the addon settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "Addons"
+msgid "Addons"
+msgstr "Addons"
+
+msgctxt "InvalidAddon"
+msgid "The addon '%s' is invalid and doesn't exist in the addons folder."
+msgstr "The addon '%s' is invalid and doesn't exist in the addons folder."
+
+msgctxt "AddonInvalidFunction"
+msgid "The addon '%s' doesn't contain a function called '%s'."
+msgstr "The addon '%s' doesn't contain a function called '%s'."
+
+msgctxt "NoAddonSpecified"
+msgid "No addon name was specified. An addon name is required to find and load the addon."
+msgstr "No addon name was specified. An addon name is required to find and load the addon."
+
+msgctxt "GoogleAdWordsCreateAdsFor"
+msgid "I Want to Create Ads for"
+msgstr "I Want to Create Ads for"
+
+msgctxt "GoogleAdWordsCancelMessage"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "NoAddonPackages"
+msgid "No Addon Packages Found"
+msgstr "No Addon Packages Found"
+
+msgctxt "SeeAddonPackages"
+msgid "You haven't purchased any addon packages yet. To see a list of addon packages, please <a href='index.php?ToDo=viewDownloadAddons'>click here</a>."
+msgstr "You haven't purchased any addon packages yet. To see a list of addon packages, please <a href='index.php?ToDo=viewDownloadAddons'>click here</a>."
+
+msgctxt "AddonNotEnabled"
+msgid "The addon package %s isn't enabled. Please visit the Settings -> Addon Settings page to enable it first."
+msgstr "The addon package %s isn't enabled. Please visit the Settings -> Addon Settings page to enable it first."
+
+msgctxt "GiftCertificateSettingsIntro"
+msgid "You can allow people to purchase gift certificates via your store that they can send to friends, family etc. Specify the settings for gift certificate purchases below."
+msgstr "You can allow people to purchase gift certificates via your store that they can send to friends, family etc. Specify the settings for gift certificate purchases below."
+
+msgctxt "EnableGiftCertificates"
+msgid "Enable Gift Certificates?"
+msgstr "Enable Gift Certificates?"
+
+msgctxt "YesEnableGiftCertificates"
+msgid "Yes, enable the gift certificate system"
+msgstr "Yes, enable the gift certificate system"
+
+msgctxt "EnableGiftCertificatesHelp"
+msgid "To allow customers to purchase and use gift certificates, tick this option."
+msgstr "To allow customers to purchase and use gift certificates, tick this option."
+
+msgctxt "GiftCertificateAmounts"
+msgid "Gift Certificate Values"
+msgstr "Gift Certificate Values"
+
+msgctxt "GiftCertificateAmountsHelp"
+msgid "Enter a list of predefined gift certificate amounts you wish for users to be able to purchase. Enter each value on a new line.<br /><br /><strong>Example:</strong><br />10.00<br />15.00<br />20.00."
+msgstr "Enter a list of predefined gift certificate amounts you wish for users to be able to purchase. Enter each value on a new line.<br /><br /><strong>Example:</strong><br />10.00<br />15.00<br />20.00."
+
+msgctxt "GiftCertificateSelectAmounts"
+msgid "Specify a list of allowed gift certificate amounts"
+msgstr "Specify a list of allowed gift certificate amounts"
+
+msgctxt "GiftCertificateCustomAmounts"
+msgid "Allow customers to enter the value for gift certificates"
+msgstr "Allow customers to enter the value for gift certificates"
+
+msgctxt "GiftCertificateCustomAmountsHelp"
+msgid "If you wish for users to be able to create gift certificates for any value they like, choose this option."
+msgstr "If you wish for users to be able to create gift certificates for any value they like, choose this option."
+
+msgctxt "GiftCertificateExpiry"
+msgid "Gift Certificate Expiry"
+msgstr "Gift Certificate Expiry"
+
+msgctxt "YesEnableGiftCertificateExpiry"
+msgid "Yes, set an expiry date for gift certificates"
+msgstr "Yes, set an expiry date for gift certificates"
+
+msgctxt "GiftCertificateExpiryHelp"
+msgid "You can set gift certificates so they automatically expire after a certain period past their purchase date. Tick this option to enable gift certificate expiry."
+msgstr "You can set gift certificates so they automatically expire after a certain period past their purchase date. Tick this option to enable gift certificate expiry."
+
+msgctxt "GiftCertificateExpiryOptions"
+msgid "Gift certificates expire after"
+msgstr "Gift certificates expire after"
+
+msgctxt "GiftCertificateThemes"
+msgid "Enabled Gift Certificate Themes"
+msgstr "Enabled Gift Certificate Themes"
+
+msgctxt "GiftCertificateMinAmount"
+msgid "Minimum Amount:"
+msgstr "Minimum Amount:"
+
+msgctxt "GiftCertificateMaxAmount"
+msgid "Maximum Amount:"
+msgstr "Maximum Amount:"
+
+msgctxt "GiftCertificateSettingsSavedSuccessfully"
+msgid "The gift certificate settings have been updated successfully."
+msgstr "The gift certificate settings have been updated successfully."
+
+msgctxt "GiftCertificateSettingsNotSaved"
+msgid "The gift certificate settings could not be saved: %s"
+msgstr "The gift certificate settings could not be saved: %s"
+
+msgctxt "GiftCertificateViewingPreview"
+msgid "Currently previewing %s"
+msgstr "Currently previewing %s"
+
+msgctxt "GiftCertificateManageTemplatesNotice"
+msgid "To view and edit gift certificate templates, click <a href=':manageTemplatesUrl'>here</a> or go to the 'Store Design' page and click the 'Gift Certificates' tab."
+msgstr "To view and edit gift certificate templates, click <a href=':manageTemplatesUrl'>here</a> or go to the 'Store Design' page and click the 'Gift Certificates' tab."
+
+msgctxt "AffiliateSettingsIntro"
+msgid "Paste your affiliate conversion tracking code in the box below. See <a href='#' onclick='LaunchHelp(805)'>this guide</a> for information on how to specify the order's total cost and ID in your tracking code."
+msgstr "Paste your affiliate conversion tracking code in the box below. See <a href='#' onclick='LaunchHelp(805)'>this guide</a> for information on how to specify the order's total cost and ID in your tracking code."
+
+msgctxt "ConfirmCancelAffiliateSettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "AffiliateConversionTrackingCode"
+msgid "Conversion Tracking Code"
+msgstr "Conversion Tracking Code"
+
+msgctxt "AffiliateConversionTrackingCodeHelp"
+msgid "Paste the conversion tracking code from your affiliate program here. You will need to alter your code so that the details of the order are passed back to your affiliate program.<p>There are various place holders you can use in the tracking code. These are:</p><p><br /><strong>%%ORDER_AMOUNT%%</strong><br />The order total in dollars/cents.</p><p><strong>%%ORDER_AMOUNT_IN_CENTS%%</strong><br />The order total in cents.</p><p><strong>%%ORDER_SUBTOTAL%%</strong><br />The order subtotal in dollars/cents.</p><p><strong>%%ORDER_SUBTOTAL_IN_CENTS%%</strong><br />The order subtotal in cents.</p><p><strong>%%ORDER_SUBTOTAL_DISCOUNTED%%</strong><br />The order subtotal minus coupon and other discount amounts.</p><p><strong>%%ORDER_SUBTOTAL_DISCOUNTED_IN_CENTS%%</strong><br />The order subtotal minus coupon and other discount amounts, in cents.</p><p><strong>%%ORDER_ID%%</strong><br />The order ID.</p><p>Click the \'How do I pass order details back to my affiliate program?\' link for information on how to do this.</p>"
+msgstr "Paste the conversion tracking code from your affiliate program here. You will need to alter your code so that the details of the order are passed back to your affiliate program.<p>There are various place holders you can use in the tracking code. These are:</p><p><br /><strong>%%ORDER_AMOUNT%%</strong><br />The order total in dollars/cents.</p><p><strong>%%ORDER_AMOUNT_IN_CENTS%%</strong><br />The order total in cents.</p><p><strong>%%ORDER_SUBTOTAL%%</strong><br />The order subtotal in dollars/cents.</p><p><strong>%%ORDER_SUBTOTAL_IN_CENTS%%</strong><br />The order subtotal in cents.</p><p><strong>%%ORDER_SUBTOTAL_DISCOUNTED%%</strong><br />The order subtotal minus coupon and other discount amounts.</p><p><strong>%%ORDER_SUBTOTAL_DISCOUNTED_IN_CENTS%%</strong><br />The order subtotal minus coupon and other discount amounts, in cents.</p><p><strong>%%ORDER_ID%%</strong><br />The order ID.</p><p>Click the \'How do I pass order details back to my affiliate program?\' link for information on how to do this.</p>"
+
+msgctxt "AffiliateHowPass"
+msgid "How do I pass order details back to my affiliate program?"
+msgstr "How do I pass order details back to my affiliate program?"
+
+msgctxt "AffiliateSettingsSavedSuccessfully"
+msgid "The modified conversion tracking code has been saved successfully."
+msgstr "The modified conversion tracking code has been saved successfully."
+
+msgctxt "AffiliateSettingsNotSaved"
+msgid "An error occurred while trying to save your conversion tracking code. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save your conversion tracking code. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "ExchangeRateSettings"
+msgid "Exchange Rate Settings"
+msgstr "Exchange Rate Settings"
+
+msgctxt "Currency"
+msgid "Currencies"
+msgstr "Currencies"
+
+msgctxt "ExchangeRate"
+msgid "Exchange Rate"
+msgstr "Exchange Rate"
+
+msgctxt "CurrencyIntro"
+msgid "You can sell in different currencies by creating them below. Customers who visit your store can then choose to shop in their local currency."
+msgstr "You can sell in different currencies by creating them below. Customers who visit your store can then choose to shop in their local currency."
+
+msgctxt "CurrencyStatusDisable"
+msgid "Click here to disable this currency"
+msgstr "Click here to disable this currency"
+
+msgctxt "CurrencyStatusEnable"
+msgid "Click here to enable this currency"
+msgstr "Click here to enable this currency"
+
+msgctxt "CurrencyEdit"
+msgid "Edit this currency"
+msgstr "Edit this currency"
+
+msgctxt "NoCurrencies"
+msgid "No currency types have been created. Please click the &quot;Add a Currency...&quot; button to create one."
+msgstr "No currency types have been created. Please click the &quot;Add a Currency...&quot; button to create one."
+
+msgctxt "AddCurrency"
+msgid "Add a Currency"
+msgstr "Add a Currency"
+
+msgctxt "EditCurrency"
+msgid "Edit Currency"
+msgstr "Edit Currency"
+
+msgctxt "CurrencyUpdateSelectedExchangeRate"
+msgid "Update Selected Exchange Rates..."
+msgstr "Update Selected Exchange Rates..."
+
+msgctxt "ConfirmDeleteCurrency"
+msgid "Are you sure you want to delete the selected currencies?"
+msgstr "Are you sure you want to delete the selected currencies?"
+
+msgctxt "ConfirmUpdateCurrencyExchangeRate"
+msgid "Are you sure you want to update the exchange rate for the selected currencies?\n\nThe default currency must be a real currency as all the updated exchange rates are compared against the default currency. If the default currency is not a real currency then all the updated exchange rates will be invalid. Invalid exchange rates will not override the existing exchange rates."
+msgstr "Are you sure you want to update the exchange rate for the selected currencies?\n\nThe default currency must be a real currency as all the updated exchange rates are compared against the default currency. If the default currency is not a real currency then all the updated exchange rates will be invalid. Invalid exchange rates will not override the existing exchange rates."
+
+msgctxt "ChooseCurrencyDelete"
+msgid "Please choose at least one currency to delete."
+msgstr "Please choose at least one currency to delete."
+
+msgctxt "ChooseCurrencyUpdate"
+msgid "Please choose at least one currency to update."
+msgstr "Please choose at least one currency to update."
+
+msgctxt "DefaultCurrencyDelete"
+msgid "You cannot delete the default currency. You must nominate another currency to be the default before you can delete this currency"
+msgstr "You cannot delete the default currency. You must nominate another currency to be the default before you can delete this currency"
+
+msgctxt "ConfirmCancelCurrencySettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "EnterACurrency"
+msgid "Please enter a valid currency exchange rate"
+msgstr "Please enter a valid currency exchange rate"
+
+msgctxt "CancelAddCurrency"
+msgid "Are you sure you want to cancel adding a new currency? Click OK to confirm."
+msgstr "Are you sure you want to cancel adding a new currency? Click OK to confirm."
+
+msgctxt "CancelEditCurrency"
+msgid "Are you sure you want to cancel editing this currency? Click OK to confirm."
+msgstr "Are you sure you want to cancel editing this currency? Click OK to confirm."
+
+msgctxt "CurrencyDetails"
+msgid "Currency Details"
+msgstr "Currency Details"
+
+msgctxt "CurrencyName"
+msgid "Currency Name"
+msgstr "Currency Name"
+
+msgctxt "CurrencyNameHelp"
+msgid "Enter the name of this currency here, such as US Dollars or New Zealand Dollars. This will be shown to customers along with the order total during the checkout process."
+msgstr "Enter the name of this currency here, such as US Dollars or New Zealand Dollars. This will be shown to customers along with the order total during the checkout process."
+
+msgctxt "CurrencyCode"
+msgid "Currency Code"
+msgstr "Currency Code"
+
+msgctxt "CurrencyCodeHelp"
+msgid "The currency code is the international 3 letter code for the currency, such as AUD for Australian Dollars or USD for US Dollars. This will be shown along with the order total during the checkout process."
+msgstr "The currency code is the international 3 letter code for the currency, such as AUD for Australian Dollars or USD for US Dollars. This will be shown along with the order total during the checkout process."
+
+msgctxt "CurrencyEnabled"
+msgid "Enabled?"
+msgstr "Enabled?"
+
+msgctxt "CurrencyEnabledHelp"
+msgid "If ticked then customers will be able to select this currency in your store when browsing and ordering."
+msgstr "If ticked then customers will be able to select this currency in your store when browsing and ordering."
+
+msgctxt "YesCurrencyEnabled"
+msgid "Yes, this currency is enabled"
+msgstr "Yes, this currency is enabled"
+
+msgctxt "CurrencyExchangeMethod"
+msgid "Currency Exchange Method"
+msgstr "Currency Exchange Method"
+
+msgctxt "CurrencyExchangeRate"
+msgid "Exchange Rate"
+msgstr "Exchange Rate"
+
+msgctxt "CurrencyExchangeRateHelp"
+msgid "The currency exchange rate compared to the default exchange rate. The current default currency is <strong>&quot;%s&quot;</strong> with an exchange rate of <strong>%01.3f</strong>.<br /><br />You can either select the exchange rate manually or choose from the list a currency converter which will automatically convert the currency for you based on the entered currency code."
+msgstr "The currency exchange rate compared to the default exchange rate. The current default currency is <strong>&quot;%s&quot;</strong> with an exchange rate of <strong>%01.3f</strong>.<br /><br />You can either select the exchange rate manually or choose from the list a currency converter which will automatically convert the currency for you based on the entered currency code."
+
+msgctxt "CurrencyConverterManual"
+msgid "Enter the exchange rate manually in the box below"
+msgstr "Enter the exchange rate manually in the box below"
+
+msgctxt "CurrencyConverterAuto"
+msgid "Get currency exchange rate from <a href='%s' target='_blank'>%s</a>"
+msgstr "Get currency exchange rate from <a href='%s' target='_blank'>%s</a>"
+
+msgctxt "CurrencyConverterUpdate"
+msgid "Get Rate"
+msgstr "Get Rate"
+
+msgctxt "CurrencyDisplay"
+msgid "Currency Display"
+msgstr "Currency Display"
+
+msgctxt "ErrorEnterCurrencyCodeForConverter"
+msgid "Please enter a valid currency code first."
+msgstr "Please enter a valid currency code first."
+
+msgctxt "ErrorInvalidCurrencyCodeForConverter"
+msgid "The currency code entered could not be found. Please choose a different currency code or enter in the conversion rate manually"
+msgstr "The currency code entered could not be found. Please choose a different currency code or enter in the conversion rate manually"
+
+msgctxt "CurrencyConverterBox"
+msgid "The conversion rate based against the %s is "
+msgstr "The conversion rate based against the %s is "
+
+msgctxt "CurrencyOptions"
+msgid "Currency Options"
+msgstr "Currency Options"
+
+msgctxt "CurrencyMethods"
+msgid "Web Services for Conversions"
+msgstr "Web Services for Conversions"
+
+msgctxt "TestCurrencyMethod"
+msgid "Test Currency Converter Method"
+msgstr "Test Currency Converter Method"
+
+msgctxt "CurrencyMethodsHelp"
+msgid "When you create a currency you have the option of using a real-time online service to fetch live currency quotes. Choose the web services you\'d like to use to fetch currency quotes from those shown in this list.<br /><br />You can select multiple web services and will then be able to choose which one to use for each different currency you create."
+msgstr "When you create a currency you have the option of using a real-time online service to fetch live currency quotes. Choose the web services you\'d like to use to fetch currency quotes from those shown in this list.<br /><br />You can select multiple web services and will then be able to choose which one to use for each different currency you create."
+
+msgctxt "CurrencySettingsSavedSuccessfully"
+msgid "The modified currency converter settings have been saved successfully."
+msgstr "The modified currency converter settings have been saved successfully."
+
+msgctxt "CurrencySettingsNotSaved"
+msgid "An error occurred while trying to save the currency converter settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the currency converter settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "CurrencyModuleInvalidFromCode"
+msgid "The currency code to convert from (%s) is incorrect. The code must consist of only 3 characters."
+msgstr "The currency code to convert from (%s) is incorrect. The code must consist of only 3 characters."
+
+msgctxt "CurrencyModuleInvalidToCode"
+msgid "The currency code to convert to (%s) is incorrect. The code must consist of only 3 characters."
+msgstr "The currency code to convert to (%s) is incorrect. The code must consist of only 3 characters."
+
+msgctxt "CurrencyModuleSuccessMessage"
+msgid "The current exchange rate of %s for this currency has been updated."
+msgstr "The current exchange rate of %s for this currency has been updated."
+
+msgctxt "CurrencyProviderRequestUnavailable"
+msgid "This currency converter is temporarily unavailable. Please try another one or try again later."
+msgstr "This currency converter is temporarily unavailable. Please try another one or try again later."
+
+msgctxt "CurrencyProviderRequestInvalidCode"
+msgid "The currency code provided is not a real currency. The currency converter can only convert real currencies."
+msgstr "The currency code provided is not a real currency. The currency converter can only convert real currencies."
+
+msgctxt "CurrencyStringPosition"
+msgid "Currency Location"
+msgstr "Currency Location"
+
+msgctxt "CurrencyStringPositionHelp"
+msgid "On which side of the prices do you want the currency token to be displayed?"
+msgstr "On which side of the prices do you want the currency token to be displayed?"
+
+msgctxt "CurrencyString"
+msgid "Currency Token"
+msgstr "Currency Token"
+
+msgctxt "CurrencyStringHelp"
+msgid "The currency token used to display prices in your store."
+msgstr "The currency token used to display prices in your store."
+
+msgctxt "CurrencyDecimalString"
+msgid "Decimal Token"
+msgstr "Decimal Token"
+
+msgctxt "CurrencyDecimalStringHelp"
+msgid "The decimal token to display prices in your store."
+msgstr "The decimal token to display prices in your store."
+
+msgctxt "CurrencyThousandString"
+msgid "Thousands Token"
+msgstr "Thousands Token"
+
+msgctxt "CurrencyThousandStringHelp"
+msgid "The thousands token used to display prices in your store."
+msgstr "The thousands token used to display prices in your store."
+
+msgctxt "CurrencyDecimalPlace"
+msgid "Decimal Places"
+msgstr "Decimal Places"
+
+msgctxt "CurrencyDecimalPlaceHelp"
+msgid "The number of decimal places to show when displaying prices in your store."
+msgstr "The number of decimal places to show when displaying prices in your store."
+
+msgctxt "EnterCurrencyName"
+msgid "Please enter a currency name."
+msgstr "Please enter a currency name."
+
+msgctxt "EnterCurrencyCode"
+msgid "Please enter a currency code."
+msgstr "Please enter a currency code."
+
+msgctxt "InvalidCurrencyCode"
+msgid "The currency code is invalid. The code must consist of only 3 characters."
+msgstr "The currency code is invalid. The code must consist of only 3 characters."
+
+msgctxt "InvalidCurrencyDecimalPlace"
+msgid "The decimal place is invalid. The decimal place must consist of number(s)."
+msgstr "The decimal place is invalid. The decimal place must consist of number(s)."
+
+msgctxt "InvalidCurrencyExchangeRate"
+msgid "Please enter a valid exchange rate. The exchange rate must be a decimal number (e.g.: 1.25 or 0.945)."
+msgstr "Please enter a valid exchange rate. The exchange rate must be a decimal number (e.g.: 1.25 or 0.945)."
+
+msgctxt "InvalidCurrencyString"
+msgid "The currency string is invalid. The currency string must only contain 1 character (no numbers)."
+msgstr "The currency string is invalid. The currency string must only contain 1 character (no numbers)."
+
+msgctxt "InvalidCurrencyDecimalString"
+msgid "The currency decimal string is invalid. The currency decimal string must only contain 1 character (no numbers)."
+msgstr "The currency decimal string is invalid. The currency decimal string must only contain 1 character (no numbers)."
+
+msgctxt "InvalidCurrencyThousandString"
+msgid "The currency thousand string is invalid. The currency thousand string must only contain 1 character (no numbers)."
+msgstr "The currency thousand string is invalid. The currency thousand string must only contain 1 character (no numbers)."
+
+msgctxt "EnterCurrencyOrigin"
+msgid "Please select a country or region for this currency."
+msgstr "Please select a country or region for this currency."
+
+msgctxt "EnterCurrencyExchangeRate"
+msgid "Please enter an exchange rate for this currency."
+msgstr "Please enter an exchange rate for this currency."
+
+msgctxt "EnterCurrencyStringPosition"
+msgid "Please select a currency location."
+msgstr "Please select a currency location."
+
+msgctxt "EnterCurrencyString"
+msgid "Please enter a currency token."
+msgstr "Please enter a currency token."
+
+msgctxt "EnterCurrencyDecimalString"
+msgid "Please enter a decimal token."
+msgstr "Please enter a decimal token."
+
+msgctxt "EnterCurrencyThousandString"
+msgid "Please enter a thousands token."
+msgstr "Please enter a thousands token."
+
+msgctxt "EnterCurrencyDecimalPlace"
+msgid "Please enter a decimal places."
+msgstr "Please enter a decimal places."
+
+msgctxt "CurrencyAddedSuccessfully"
+msgid "The new currency has been added successfully."
+msgstr "The new currency has been added successfully."
+
+msgctxt "CurrencyNotAdded"
+msgid "An error occurred while trying to add this currency: '%s'"
+msgstr "An error occurred while trying to add this currency: '%s'"
+
+msgctxt "CurrencyAlreadySetup"
+msgid "A currency has already been setup for the selected country and code."
+msgstr "A currency has already been setup for the selected country and code."
+
+msgctxt "CurrencyUpdatedSuccessfully"
+msgid "The selected currency has been updated successfully."
+msgstr "The selected currency has been updated successfully."
+
+msgctxt "CurrencyNotUpdated"
+msgid "An error occurred while trying to update this currency: '%s'"
+msgstr "An error occurred while trying to update this currency: '%s'"
+
+msgctxt "CurrencySetAsDefault"
+msgid "Set as Default"
+msgstr "Set as Default"
+
+msgctxt "CurrencySetAsDefaultTitle"
+msgid "Set Currency as Default"
+msgstr "Set Currency as Default"
+
+msgctxt "CurrencySetAsDefaultMessage"
+msgid "Setting this currency as the default will display all prices (products, previous orders, etc) with this currency and, if selected, will convert all product prices to the new exchange rate of this currency. <br /><br />Click on '%s' to automatically update all product prices to the new currency. Click on '%s' to manually change the price on all products."
+msgstr "Setting this currency as the default will display all prices (products, previous orders, etc) with this currency and, if selected, will convert all product prices to the new exchange rate of this currency. <br /><br />Click on '%s' to automatically update all product prices to the new currency. Click on '%s' to manually change the price on all products."
+
+msgctxt "CurrencyDeleteDefaultError"
+msgid "You cannot delete the default currency. Please update another currency to be the default to be able to delete this currency."
+msgstr "You cannot delete the default currency. Please update another currency to be the default to be able to delete this currency."
+
+msgctxt "CurrencySetAsDefaultOptNo"
+msgid "No do not set as default"
+msgstr "No do not set as default"
+
+msgctxt "CurrencySetAsDefaultOptYes"
+msgid "Yes but no price update"
+msgstr "Yes but no price update"
+
+msgctxt "CurrencySetAsDefaultOptYesPrice"
+msgid "Yes plus do a price update"
+msgstr "Yes plus do a price update"
+
+msgctxt "CurrencySetAsDefaultSuccessfully"
+msgid "The currency was successfully set as the default currency"
+msgstr "The currency was successfully set as the default currency"
+
+msgctxt "CurrencyNotSetAsDefault"
+msgid "An error occurred while trying to set this currency as the default: '%s'"
+msgstr "An error occurred while trying to set this currency as the default: '%s'"
+
+msgctxt "CurrencyExchangeRateUpdateSuccess"
+msgid "updated"
+msgstr "updated"
+
+msgctxt "CurrencyExchangeRateUpdateInvalid"
+msgid "invalid"
+msgstr "invalid"
+
+msgctxt "CurrencyExchangeRateUpdateFailed"
+msgid "failed"
+msgstr "failed"
+
+msgctxt "CurrencyStatusSuccessfully"
+msgid "The status of the selected currency has been changed successfully."
+msgstr "The status of the selected currency has been changed successfully."
+
+msgctxt "CurrencyErrStatusNotChanged"
+msgid "An error occurred while trying to change the status of this currency: %s"
+msgstr "An error occurred while trying to change the status of this currency: %s"
+
+msgctxt "GettingStartedCurrency"
+msgid "<a href='index.php?ToDo=viewCurrencySettings'>Reconfigure your default currency</a> so product can be priced based upon the currency"
+msgstr "<a href='index.php?ToDo=viewCurrencySettings'>Reconfigure your default currency</a> so product can be priced based upon the currency"
+
+msgctxt "CurrencyRateSettings"
+msgid "Exchange Rate Settings"
+msgstr "Exchange Rate Settings"
+
+msgctxt "CXeName"
+msgid "Xe.com"
+msgstr "Xe.com"
+
+msgctxt "CXeDesc"
+msgid "Xe.com is an online currency converter"
+msgstr "Xe.com is an online currency converter"
+
+msgctxt "CXeHelp"
+msgid "Help about Xe.com"
+msgstr "Help about Xe.com"
+
+msgctxt "CWebXName"
+msgid "Webservice X"
+msgstr "Webservice X"
+
+msgctxt "CWebXDesc"
+msgid "Webservice X is an online currency converter"
+msgstr "Webservice X is an online currency converter"
+
+msgctxt "CWebXHelp"
+msgid "Help about Webservice X"
+msgstr "Help about Webservice X"
+
+msgctxt "HomePagePageTitle"
+msgid "Home Page Title"
+msgstr "Home Page Title"
+
+msgctxt "HomePagePageTitleHelp"
+msgid "Specify a page title for the home page of your store, or leave blank to use the store name set above."
+msgstr "Specify a page title for the home page of your store, or leave blank to use the store name set above."
+
+msgctxt "CustomerGroupsSettings"
+msgid "Customer Groups Settings"
+msgstr "Customer Groups Settings"
+
+msgctxt "GuestCustomerGroup"
+msgid "Customer Group for Guests"
+msgstr "Customer Group for Guests"
+
+msgctxt "GuestCustomerGroupHelp"
+msgid "Please select the customer group that should be applied to visitors browsing your store who are not logged in. Any viewing or product pricing restrictions in this group will be applied to the visitor.<br /><br />Select \'None\' to not have guests automatically placed in a customer group."
+msgstr "Please select the customer group that should be applied to visitors browsing your store who are not logged in. Any viewing or product pricing restrictions in this group will be applied to the visitor.<br /><br />Select \'None\' to not have guests automatically placed in a customer group."
+
+msgctxt "GuestCustomerGroupNone"
+msgid "None"
+msgstr "None"
+
+msgctxt "ForwardInvoiceEmails"
+msgid "Forward Order Invoices"
+msgstr "Forward Order Invoices"
+
+msgctxt "ForwardInvoiceEmailsHelp"
+msgid "To forward copies of order confirmation messages sent to your customers after they place an order to one or more additional addresses of your own, check this box and enter a comma separated list of email addresses below."
+msgstr "To forward copies of order confirmation messages sent to your customers after they place an order to one or more additional addresses of your own, check this box and enter a comma separated list of email addresses below."
+
+msgctxt "YesEnableForwardInvoiceEmails"
+msgid "Yes, forward order invoice emails to:"
+msgstr "Yes, forward order invoice emails to:"
+
+msgctxt "ForwardOrderInvoicesDesc"
+msgid "Type the email addresses above, separated by commas."
+msgstr "Type the email addresses above, separated by commas."
+
+msgctxt "UseSMTPServer"
+msgid "Use SMTP Server"
+msgstr "Use SMTP Server"
+
+msgctxt "UseDefaultMailSettings"
+msgid "Use my default mail settings"
+msgstr "Use my default mail settings"
+
+msgctxt "UseDefaultMailSettingsHelp"
+msgid "Choose this option to use the default mail settings for your server."
+msgstr "Choose this option to use the default mail settings for your server."
+
+msgctxt "SpecifyOwnSMTPDetails"
+msgid "Let me specify my own SMTP server details"
+msgstr "Let me specify my own SMTP server details"
+
+msgctxt "SpecifyOwnSMTPDetailsHelp"
+msgid "Choose this option to manually specify the SMTP mail server to be used when sending email messages from your store."
+msgstr "Choose this option to manually specify the SMTP mail server to be used when sending email messages from your store."
+
+msgctxt "SMTPHostname"
+msgid "SMTP Hostname"
+msgstr "SMTP Hostname"
+
+msgctxt "SMTPHostnameHelp"
+msgid "Enter the SMTP host name here, such as &quot;192.168.0.50&quot; or &quot;mail.mysite.com&quot;. If the server supports SSL or TLS, make sure to prefix the host name with either ssl:// or tls:// accordingly, eg &quot;ssl://mail.mysite.com&quot;."
+msgstr "Enter the SMTP host name here, such as &quot;192.168.0.50&quot; or &quot;mail.mysite.com&quot;. If the server supports SSL or TLS, make sure to prefix the host name with either ssl:// or tls:// accordingly, eg &quot;ssl://mail.mysite.com&quot;."
+
+msgctxt "SMTPUsername"
+msgid "SMTP Username"
+msgstr "SMTP Username"
+
+msgctxt "SMTPUsernameHelp"
+msgid "If your SMTP server requires authentication, enter the username here."
+msgstr "If your SMTP server requires authentication, enter the username here."
+
+msgctxt "SMTPPassword"
+msgid "SMTP Password"
+msgstr "SMTP Password"
+
+msgctxt "SMTPPasswordHelp"
+msgid "If your SMTP server requires authentication, enter the password here."
+msgstr "If your SMTP server requires authentication, enter the password here."
+
+msgctxt "SMTPPort"
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+msgctxt "SMTPPortHelp"
+msgid "To use a non-standard SMTP port (the default is 25), enter it here."
+msgstr "To use a non-standard SMTP port (the default is 25), enter it here."
+
+msgctxt "TestSMTPSettings"
+msgid "Test SMTP Settings"
+msgstr "Test SMTP Settings"
+
+msgctxt "TestSMTPSettingsNote"
+msgid "Testing your SMTP settings, please wait..."
+msgstr "Testing your SMTP settings, please wait..."
+
+msgctxt "EnterSMTPServer"
+msgid "Please enter the host name of your SMTP server"
+msgstr "Please enter the host name of your SMTP server"
+
+msgctxt "TestEmailSent"
+msgid "The test email was sent successfully to %s. Please allow a moment for it to arrive."
+msgstr "The test email was sent successfully to %s. Please allow a moment for it to arrive."
+
+msgctxt "TestEmailNotSent"
+msgid "The test email could not be delivered to %s successfully for the reasons below:\n\n%s"
+msgstr "The test email could not be delivered to %s successfully for the reasons below:\n\n%s"
+
+msgctxt "TestSendingSubject"
+msgid "Test email from %s"
+msgstr "Test email from %s"
+
+msgctxt "TestSendingEmail"
+msgid "This is a test email confirming that the SMTP settings entered on %s are working correctly."
+msgstr "This is a test email confirming that the SMTP settings entered on %s are working correctly."
+
+msgctxt "TestingSMTPSettings"
+msgid "Testing SMTP Settings.."
+msgstr "Testing SMTP Settings.."
+
+msgctxt "lowerDefault"
+msgid "default"
+msgstr "default"
+
+msgctxt "CurrencyOrigin"
+msgid "Currency Country/Region"
+msgstr "Currency Country/Region"
+
+msgctxt "CurrencyOriginHelp"
+msgid "The country or region that this currency will be associated with. For example, US Dollars (USD) would be associated with the United States OR the Euro would be associated with the European Union."
+msgstr "The country or region that this currency will be associated with. For example, US Dollars (USD) would be associated with the United States OR the Euro would be associated with the European Union."
+
+msgctxt "CurrencyOriginBackButton"
+msgid "&lt;&lt; Back"
+msgstr "&lt;&lt; Back"
+
+msgctxt "ChooseARegion"
+msgid "Choose a Region"
+msgstr "Choose a Region"
+
+msgctxt "CurrencyCountries"
+msgid "Countries"
+msgstr "Countries"
+
+msgctxt "CurrencyRegions"
+msgid "Regions"
+msgstr "Regions"
+
+msgctxt "AutomaticExchangeRateUpdates"
+msgid "Automatic Exchange Rate Updates (Crontab Based)"
+msgstr "Automatic Exchange Rate Updates (Crontab Based)"
+
+msgctxt "AutomaticExchangeRateUpdatesHelp"
+msgid "You can automatically update the exchange rates of currencies in your store via cron. For more information see <a href='javascript:LaunchHelp(835);'>this article</a>."
+msgstr "You can automatically update the exchange rates of currencies in your store via cron. For more information see <a href='javascript:LaunchHelp(835);'>this article</a>."
+
+msgctxt "ExchangeRateCronCommand"
+msgid "Cron Command"
+msgstr "Cron Command"
+
+msgctxt "ExchangeRateCronCommandHelp"
+msgid "This is the script line that you need to insert in to your crontab for the automated exchange rate updates to run.<br /><br />For more information please see the documentation link above."
+msgstr "This is the script line that you need to insert in to your crontab for the automated exchange rate updates to run.<br /><br />For more information please see the documentation link above."
+
+msgctxt "HTTPProxySettings"
+msgid "HTTP Proxy Settings"
+msgstr "HTTP Proxy Settings"
+
+msgctxt "HTTPProxyServer"
+msgid "HTTP Proxy Server"
+msgstr "HTTP Proxy Server"
+
+msgctxt "HTTPProxyServerHelp"
+msgid "Some web hosts require all external requests to go via a proxy server. If you are on GoDaddy for example set this to &quot;proxy.shr.secureserver.net&quot;"
+msgstr "Some web hosts require all external requests to go via a proxy server. If you are on GoDaddy for example set this to &quot;proxy.shr.secureserver.net&quot;"
+
+msgctxt "HTTPProxyPort"
+msgid "HTTP Proxy Port"
+msgstr "HTTP Proxy Port"
+
+msgctxt "HTTPProxyPortHelp"
+msgid "Some web hosts require all external requests to go via a proxy server. If you are on GoDaddy for example set this to &quot;3128&quot;"
+msgstr "Some web hosts require all external requests to go via a proxy server. If you are on GoDaddy for example set this to &quot;3128&quot;"
+
+msgctxt "HTTPSSLVerifyPeer"
+msgid "HTTP Verify SSL Peer"
+msgstr "HTTP Verify SSL Peer"
+
+msgctxt "HTTPSSLVerifyPeerHelp"
+msgid "Check to make sure the remote SSL certificate is signed by a known authority. If you are on GoDaddy you must make sure this is unticked."
+msgstr "Check to make sure the remote SSL certificate is signed by a known authority. If you are on GoDaddy you must make sure this is unticked."
+
+msgctxt "YesHTTPSSLVerifyPeer"
+msgid "Yes, verify the SSL Peer"
+msgstr "Yes, verify the SSL Peer"
+
+msgctxt "TransactionId"
+msgid "Transaction Id"
+msgstr "Transaction Id"
+
+msgctxt "ProductImageMode"
+msgid "Display Product Images"
+msgstr "Display Product Images"
+
+msgctxt "ProductImageModePopup"
+msgid "Display product images in a popup window"
+msgstr "Display product images in a popup window"
+
+msgctxt "ProductImageModeLightbox"
+msgid "Display product images in a lightbox zoom window"
+msgstr "Display product images in a lightbox zoom window"
+
+msgctxt "ProductImageModeHelp"
+msgid "Choose how large versions of product images should be displayed. To display large versions in a new browser window, select \'Display product images in a popup window\' or to load the additional images in a lightbox style window (inside the current page with a dimmed background) select \'Display product images in a lightbox zoom window\'."
+msgstr "Choose how large versions of product images should be displayed. To display large versions in a new browser window, select \'Display product images in a popup window\' or to load the additional images in a lightbox style window (inside the current page with a dimmed background) select \'Display product images in a lightbox zoom window\'."
+
+msgctxt "DimensionsDecimalToken"
+msgid "Decimal Token"
+msgstr "Decimal Token"
+
+msgctxt "DimensionsDecimalTokenHelp"
+msgid "The decimal token to display dimensions in your store."
+msgstr "The decimal token to display dimensions in your store."
+
+msgctxt "DimensionsThousandsToken"
+msgid "Thousands Token"
+msgstr "Thousands Token"
+
+msgctxt "DimensionsThousandsTokenHelp"
+msgid "The thousands token to display dimensions in your store."
+msgstr "The thousands token to display dimensions in your store."
+
+msgctxt "DimensionsDecimalPlaces"
+msgid "Decimal Places"
+msgstr "Decimal Places"
+
+msgctxt "DimensionsDecimalPlacesHelp"
+msgid "The number of decimal places to show when displaying dimensions in your store."
+msgstr "The number of decimal places to show when displaying dimensions in your store."
+
+msgctxt "AutoSubscribeOrdersList"
+msgid "Automatically Add Subscribers?"
+msgstr "Automatically Add Subscribers?"
+
+msgctxt "YesAutoSubscribeOrdersList"
+msgid "Automatically add customers to this mailing list"
+msgstr "Automatically add customers to this mailing list"
+
+msgctxt "AutoSubscribeOrdersListHelp"
+msgid "If checked, customers who purchase will automatically be added to this mailing list.<br /><br />If this setting is left unchecked, customers will have the choice to subscribe to this list."
+msgstr "If checked, customers who purchase will automatically be added to this mailing list.<br /><br />If this setting is left unchecked, customers will have the choice to subscribe to this list."
+
+msgctxt "DigitalProductSettings"
+msgid "Digital Product Settings"
+msgstr "Digital Product Settings"
+
+msgctxt "EnableDigitalHandlingFee"
+msgid "Enable Digital Handling Fee"
+msgstr "Enable Digital Handling Fee"
+
+msgctxt "YesEnableDigitalHandlingFee"
+msgid "Yes, apply a handling fee to orders containing digital products"
+msgstr "Yes, apply a handling fee to orders containing digital products"
+
+msgctxt "EnableDigitalHandlingFeeHelp"
+msgid "If you wish to apply a handling fee to digital orders (such as to cover bandwidth usage, etc) then tick this option and specify a handling fee below. If this option is not ticked then no handling fees will be applied to digital orders."
+msgstr "If you wish to apply a handling fee to digital orders (such as to cover bandwidth usage, etc) then tick this option and specify a handling fee below. If this option is not ticked then no handling fees will be applied to digital orders."
+
+msgctxt "EnterDigitalOrderHandlingFee"
+msgid "Please enter a handling fee for digital orders."
+msgstr "Please enter a handling fee for digital orders."
+
+msgctxt "CheckoutType"
+msgid "Checkout Type"
+msgstr "Checkout Type"
+
+msgctxt "CheckoutTypeSingle"
+msgid "Single page express checkout (recommended)"
+msgstr "Single page express checkout (recommended)"
+
+msgctxt "CheckoutTypeMulti"
+msgid "Multiple page checkout"
+msgstr "Multiple page checkout"
+
+msgctxt "CheckoutTypeHelp"
+msgid "Choose the type of checkout process you\'d like to use on your store.<br /><br />In single page checkout, customers complete the entire checkout process on the one page.<br /><br />In multiple page checkout, customers complete each step of the checkout process on a separate page."
+msgstr "Choose the type of checkout process you\'d like to use on your store.<br /><br />In single page checkout, customers complete the entire checkout process on the one page.<br /><br />In multiple page checkout, customers complete each step of the checkout process on a separate page."
+
+msgctxt "EnableGuestCheckout"
+msgid "Enable Guest Checkout"
+msgstr "Enable Guest Checkout"
+
+msgctxt "YesEnableGuestCheckout"
+msgid "Yes, enable guest checkout"
+msgstr "Yes, enable guest checkout"
+
+msgctxt "EnableGuestCheckoutHelp"
+msgid "If enabled, customers will be able to checkout on your store without creating an account."
+msgstr "If enabled, customers will be able to checkout on your store without creating an account."
+
+msgctxt "YesAutoCreateGuestAccounts"
+msgid "Create an account for guest checkouts and assign them a random password"
+msgstr "Create an account for guest checkouts and assign them a random password"
+
+msgctxt "AutoCreateGuestAccounts"
+msgid "Create Accounts for Guests"
+msgstr "Create Accounts for Guests"
+
+msgctxt "AutoCreateGuestAccountsHelp"
+msgid "If this option is enabled, when a customer checks out as a guest an account will automatically be created for them and they\'ll be assigned a random password.<br /><br />The customer will also receive an email with their account details which they can use to login and track their orders."
+msgstr "If this option is enabled, when a customer checks out as a guest an account will automatically be created for them and they\'ll be assigned a random password.<br /><br />The customer will also receive an email with their account details which they can use to login and track their orders."
+
+msgctxt "CategoryAndBrandImages"
+msgid "Category &amp; Brand Images"
+msgstr "Category &amp; Brand Images"
+
+msgctxt "CatItemPerRow"
+msgid "Categories Per Row"
+msgstr "Categories Per Row"
+
+msgctxt "EnterCategoryPerRow"
+msgid "Please enter a valid number of categories per row."
+msgstr "Please enter a valid number of categories per row."
+
+msgctxt "CatItemPerRowHelp"
+msgid "How many categories would you like to display per row? This will be applied to all subcategories which are listed when you click a category from the main categories menu."
+msgstr "How many categories would you like to display per row? This will be applied to all subcategories which are listed when you click a category from the main categories menu."
+
+msgctxt "CatImageDimSetting"
+msgid "Category Image Dimensions"
+msgstr "Category Image Dimensions"
+
+msgctxt "CatImageDimSettingHelp"
+msgid "The width and height that the category images will be resized to fit into if they are larger than these dimensions."
+msgstr "The width and height that the category images will be resized to fit into if they are larger than these dimensions."
+
+msgctxt "EnterCategoryImageWidth"
+msgid "Please enter a valid width for the category images."
+msgstr "Please enter a valid width for the category images."
+
+msgctxt "EnterCategoryImageHeight"
+msgid "Please enter a valid height for the category images."
+msgstr "Please enter a valid height for the category images."
+
+msgctxt "CatImageDefaultSetting"
+msgid "Default Category Image"
+msgstr "Default Category Image"
+
+msgctxt "CatImageDefaultSettingHelp"
+msgid "The default image that will be displayed for categories if one isn\'t uploaded. Image files should end in .gif, .jpg and .png only."
+msgstr "The default image that will be displayed for categories if one isn\'t uploaded. Image files should end in .gif, .jpg and .png only."
+
+msgctxt "CatImageDefaultSettingDesc"
+msgid "<input name='DelCategoryDefaultImage' id='DelCategoryDefaultImage' type='checkbox' value='1' /> <label for='DelCategoryDefaultImage'>Delete current default image?</label> <a href='%s' target='_blank'>%s</a>"
+msgstr "<input name='DelCategoryDefaultImage' id='DelCategoryDefaultImage' type='checkbox' value='1' /> <label for='DelCategoryDefaultImage'>Delete current default image?</label> <a href='%s' target='_blank'>%s</a>"
+
+msgctxt "CatImageDefaultSettingNoDeleteDesc"
+msgid "Current default image <a href='%s' target='_blank'>%s</a>."
+msgstr "Current default image <a href='%s' target='_blank'>%s</a>."
+
+msgctxt "BrandItemPerRow"
+msgid "Brands Per Row"
+msgstr "Brands Per Row"
+
+msgctxt "BrandItemPerRowHelp"
+msgid "How many brands would you like to display per row on the \'View All Brands\' page?"
+msgstr "How many brands would you like to display per row on the \'View All Brands\' page?"
+
+msgctxt "EnterBrandPerRow"
+msgid "Please enter a valid number of brands per row."
+msgstr "Please enter a valid number of brands per row."
+
+msgctxt "BrandImageDimSetting"
+msgid "Brand Image Dimensions"
+msgstr "Brand Image Dimensions"
+
+msgctxt "BrandImageDimSettingHelp"
+msgid "The width and height that the brand images will be resized to fit into if they are larger than these dimensions."
+msgstr "The width and height that the brand images will be resized to fit into if they are larger than these dimensions."
+
+msgctxt "EnterBrandImageWidth"
+msgid "Please enter a valid width for the brand images."
+msgstr "Please enter a valid width for the brand images."
+
+msgctxt "EnterBrandImageHeight"
+msgid "Please enter a valid height for the brand images."
+msgstr "Please enter a valid height for the brand images."
+
+msgctxt "BrandImageDefaultSetting"
+msgid "Default Brand Image"
+msgstr "Default Brand Image"
+
+msgctxt "BrandImageDefaultSettingHelp"
+msgid "The default image that will be displayed for brands if one isn\'t uploaded. Image files should end in .gif, .jpg and .png only."
+msgstr "The default image that will be displayed for brands if one isn\'t uploaded. Image files should end in .gif, .jpg and .png only."
+
+msgctxt "BrandImageDefaultSettingDesc"
+msgid "<input name='DelBrandDefaultImage' id='DelBrandDefaultImage' type='checkbox' value='1' /> <label for='DelBrandDefaultImage'>Delete current default image?</label> <a href='%s' target='_blank'>%s</a>."
+msgstr "<input name='DelBrandDefaultImage' id='DelBrandDefaultImage' type='checkbox' value='1' /> <label for='DelBrandDefaultImage'>Delete current default image?</label> <a href='%s' target='_blank'>%s</a>."
+
+msgctxt "BrandImageDefaultSettingNoDeleteDesc"
+msgid "Current default image <a href='%s' target='_blank'>%s</a>."
+msgstr "Current default image <a href='%s' target='_blank'>%s</a>."
+
+msgctxt "EnableOrderComments"
+msgid "Enable Order Comments"
+msgstr "Enable Order Comments"
+
+msgctxt "EnableOrderCommentsHelp"
+msgid "If enabled, store visitors will be able to enter a message on the order confirmation page. This message will be shown along with their order."
+msgstr "If enabled, store visitors will be able to enter a message on the order confirmation page. This message will be shown along with their order."
+
+msgctxt "YesEnableOrderComments"
+msgid "Yes, allow customers to enter comments with their order"
+msgstr "Yes, allow customers to enter comments with their order"
+
+msgctxt "ShowMailingListDuringCheckout"
+msgid "Allow Newsletter Subscriptions"
+msgstr "Allow Newsletter Subscriptions"
+
+msgctxt "YesShowMailingListDuringCheckout"
+msgid "Yes, allow customers to subscribe to the store newsletter"
+msgstr "Yes, allow customers to subscribe to the store newsletter"
+
+msgctxt "ShowMailingListDuringCheckout_Help"
+msgid "If enabled, the mailing list subscription options on the 'Order Confirmation' page allowing the customer to subscribe to your store mailing list will be visible.<br /><br />Disabling this option will remove this from the checkout and also remove the 'Our Newsletter' box from your store."
+msgstr "If enabled, the mailing list subscription options on the 'Order Confirmation' page allowing the customer to subscribe to your store mailing list will be visible.<br /><br />Disabling this option will remove this from the checkout and also remove the 'Our Newsletter' box from your store."
+
+msgctxt "ShowAddToCartQtyBox"
+msgid "Show Quantity Box for Products"
+msgstr "Show Quantity Box for Products"
+
+msgctxt "ShowAddToCartQtyBoxHelp"
+msgid "If ticked then shoppers will see a \'quantity\' box next to the \'Add to Cart\' button on the product pages which will allow them to choose how many units of a product are added to their cart. If unticked they will just see the \'Add to Cart\' button and when clicked just one unit of the product will be added to their cart."
+msgstr "If ticked then shoppers will see a \'quantity\' box next to the \'Add to Cart\' button on the product pages which will allow them to choose how many units of a product are added to their cart. If unticked they will just see the \'Add to Cart\' button and when clicked just one unit of the product will be added to their cart."
+
+msgctxt "YesShowAddToCartQtyBox"
+msgid "Yes, show the quantity box on the <em>add to cart</em> panel"
+msgstr "Yes, show the quantity box on the <em>add to cart</em> panel"
+
+msgctxt "ShowAddToCartLink"
+msgid "Show Add to Cart Link"
+msgstr "Show Add to Cart Link"
+
+msgctxt "YesShowAddToCartLink"
+msgid "Yes, show the &quot;Add to Cart&quot; link in all the small product boxes"
+msgstr "Yes, show the &quot;Add to Cart&quot; link in all the small product boxes"
+
+msgctxt "CategoryListMode"
+msgid "Category Product List"
+msgstr "Category Product List"
+
+msgctxt "CategoryListModeHelp"
+msgid "Choose where products when viewing a category should be fetched from. You can choose to display only what\'s in the current category, or if the category is empty that products should be fetched from the child categories or automatically fetch products from this category as well as any child categories."
+msgstr "Choose where products when viewing a category should be fetched from. You can choose to display only what\'s in the current category, or if the category is empty that products should be fetched from the child categories or automatically fetch products from this category as well as any child categories."
+
+msgctxt "CategoryListModeSingle"
+msgid "Show products from the current category only"
+msgstr "Show products from the current category only"
+
+msgctxt "CategoryListModeEmptyChildren"
+msgid "Show products from child categories if the current category is empty"
+msgstr "Show products from child categories if the current category is empty"
+
+msgctxt "CategoryListModeChildren"
+msgid "Show products from the current category and its children"
+msgstr "Show products from the current category and its children"
+
+msgctxt "EmailAddress"
+msgid "Email Address"
+msgstr "Email Address"
+
+msgctxt "LicenseKey"
+msgid "License Key"
+msgstr "License Key"
+
+msgctxt "TagCloudFontSize"
+msgid "Tag Cloud Font Size"
+msgstr "Tag Cloud Font Size"
+
+msgctxt "TagCloudFontSizeHelp"
+msgid "Enter the minimum and maximum font sizes for tags shown in the product tag cloud. These values should be percentages relative to the normal size of text on the page."
+msgstr "Enter the minimum and maximum font sizes for tags shown in the product tag cloud. These values should be percentages relative to the normal size of text on the page."
+
+msgctxt "EnterTagCloudMinSize"
+msgid "Please enter a minimum size for tags in the product tag cloud."
+msgstr "Please enter a minimum size for tags in the product tag cloud."
+
+msgctxt "EnterTagCloudMaxSize"
+msgid "Please enter a maximum size for tags in the product tag cloud."
+msgstr "Please enter a maximum size for tags in the product tag cloud."
+
+msgctxt "BulkDiscountEnabled"
+msgid "Enable Bulk Discount"
+msgstr "Enable Bulk Discount"
+
+msgctxt "YesBulkDiscountEnabled"
+msgid "Yes, enable bulk discounts"
+msgstr "Yes, enable bulk discounts"
+
+msgctxt "BulkDiscountEnabledHelp"
+msgid "If enabled, you will be able to create quantity based discounts for products in your store. Quantity based discounts allow you to have fixed or percentage discounts for products based on the quantity that the customer adds to their cart."
+msgstr "If enabled, you will be able to create quantity based discounts for products in your store. Quantity based discounts allow you to have fixed or percentage discounts for products based on the quantity that the customer adds to their cart."
+
+msgctxt "EnableMultipleShippingAddresses"
+msgid "Multiple Shipping Addresses"
+msgstr "Multiple Shipping Addresses"
+
+msgctxt "YesEnableMultipleShippingAddresses"
+msgid "Yes, allow customers to select multiple shipping addresses for orders"
+msgstr "Yes, allow customers to select multiple shipping addresses for orders"
+
+msgctxt "EnableMultipleShippingAddressesHelp"
+msgid "If enabled, customers will have the ability to choose to have each item in their shopping cart shipped to a different address."
+msgstr "If enabled, customers will have the ability to choose to have each item in their shopping cart shipped to a different address."
+
+msgctxt "VendorSettings"
+msgid "Vendor Settings"
+msgstr "Vendor Settings"
+
+msgctxt "VendorLogoUploading"
+msgid "Vendor Logo Uploads"
+msgstr "Vendor Logo Uploads"
+
+msgctxt "YesAllowVendorLogoUploading"
+msgid "Yes, allow vendors to upload their logo"
+msgstr "Yes, allow vendors to upload their logo"
+
+msgctxt "VendorLogoUploadingHelp"
+msgid "If vendors should be allowed to upload a logo to their profile, tick this option. You will then be able to enter the maximum image dimensions. If a vendor uploads a logo greater than these dimensions, it will automatically be resized."
+msgstr "If vendors should be allowed to upload a logo to their profile, tick this option. You will then be able to enter the maximum image dimensions. If a vendor uploads a logo greater than these dimensions, it will automatically be resized."
+
+msgctxt "EnterVendorLogoSizeDimensions"
+msgid "Please enter a valid logo size dimension (in pixels)"
+msgstr "Please enter a valid logo size dimension (in pixels)"
+
+msgctxt "EnterVendorPhotoSizeDimensions"
+msgid "Please enter a valid photo size dimension (in pixels)"
+msgstr "Please enter a valid photo size dimension (in pixels)"
+
+msgctxt "MaximumImageDimensions"
+msgid "Maximum Image Dimensions"
+msgstr "Maximum Image Dimensions"
+
+msgctxt "VendorPhotoUploading"
+msgid "Vendor Photo Uploads"
+msgstr "Vendor Photo Uploads"
+
+msgctxt "YesAllowVendorPhotoUploading"
+msgid "Yes, allow vendors to upload a profile photo"
+msgstr "Yes, allow vendors to upload a profile photo"
+
+msgctxt "VendorPhotoUploadingHelp"
+msgid "If vendors should be allowed to upload a photo to their profile, tick this option. You will then be able to enter the maximum image dimensions. If a vendor uploads a photo greater than these dimensions, it will automatically be resized."
+msgstr "If vendors should be allowed to upload a photo to their profile, tick this option. You will then be able to enter the maximum image dimensions. If a vendor uploads a photo greater than these dimensions, it will automatically be resized."
+
+msgctxt "EnableProductTabs"
+msgid "Enable Product Tabs"
+msgstr "Enable Product Tabs"
+
+msgctxt "YesEnableProductTabs"
+msgid "Yes, enable product tabs"
+msgstr "Yes, enable product tabs"
+
+msgctxt "EnableProductTabsHelp"
+msgid "If enabled, each section on the products page will be displayed under its own tab."
+msgstr "If enabled, each section on the products page will be displayed under its own tab."
+
+msgctxt "CategoryDisplayMode"
+msgid "Category Display Mode"
+msgstr "Category Display Mode"
+
+msgctxt "CategoryDisplayModeGrid"
+msgid "Show products in a grid"
+msgstr "Show products in a grid"
+
+msgctxt "CategoryDisplayModeList"
+msgid "Show products in a list"
+msgstr "Show products in a list"
+
+msgctxt "ShippingFactoringDimensionHeading"
+msgid "Shipping Factoring Dimension"
+msgstr "Shipping Factoring Dimension"
+
+msgctxt "ShippingFactoringDimension"
+msgid "Factoring Dimension"
+msgstr "Factoring Dimension"
+
+msgctxt "ShippingFactoringDimensionHelp"
+msgid "<p>The factoring dimension for a shipping quote is the dimension that will be added up per product whereas the other dimensions will be the maximum out of all the products.</p><b>EG:</b><br />If \'<i>Product Depth</i>\' was selected then the shipping quote will be based on these dimensions:</p><p style=\'\'><i><u>Width</u></i> = Maximum width out of all the products<br /><i><u>Height</u></i> = Maximum height out of all the products<br /><i><u>Depth</u></i> = The summed up depth of all the products</p>"
+msgstr "<p>The factoring dimension for a shipping quote is the dimension that will be added up per product whereas the other dimensions will be the maximum out of all the products.</p><b>EG:</b><br />If \'<i>Product Depth</i>\' was selected then the shipping quote will be based on these dimensions:</p><p style=\'\'><i><u>Width</u></i> = Maximum width out of all the products<br /><i><u>Height</u></i> = Maximum height out of all the products<br /><i><u>Depth</u></i> = The summed up depth of all the products</p>"
+
+msgctxt "ShippingFactoringDimensionDepth"
+msgid "Product Depth"
+msgstr "Product Depth"
+
+msgctxt "ShippingFactoringDimensionHeight"
+msgid "Product Height"
+msgstr "Product Height"
+
+msgctxt "ShippingFactoringDimensionWidth"
+msgid "Product Width"
+msgstr "Product Width"
+
+msgctxt "DefaultProductImage"
+msgid "Default Product Image"
+msgstr "Default Product Image"
+
+msgctxt "DefaultProductImageHelp"
+msgid ""
+msgstr ""
+
+msgctxt "DefaultProductImageNone"
+msgid "Don't show a default image if a product does not have an uploaded image"
+msgstr "Don't show a default image if a product does not have an uploaded image"
+
+msgctxt "DefaultProductImageTemplate"
+msgid "Show the default product image for my active store design"
+msgstr "Show the default product image for my active store design"
+
+msgctxt "DefaultProductImageCustom"
+msgid "Show a custom image uploaded from my computer"
+msgstr "Show a custom image uploaded from my computer"
+
+msgctxt "CurrentDefaultImage"
+msgid "Current default image"
+msgstr "Current default image"
+
+msgctxt "ChooseDefaultProductImageUpload"
+msgid "Please choose a valid image to upload from your computer. Image files should end in .gif, .jpg and .png only."
+msgstr "Please choose a valid image to upload from your computer. Image files should end in .gif, .jpg and .png only."
+
+msgctxt "ConfigureStoreSettings"
+msgid "Configure Store Settings"
+msgstr "Configure Store Settings"
+
+msgctxt "ConfigureStoreSettingsDesc"
+msgid "During this step you will enter some information about your store, including name and address. These will be shown on invoices. You will also setup the other options for your store such as the length/weight measurements and time zone."
+msgstr "During this step you will enter some information about your store, including name and address. These will be shown on invoices. You will also setup the other options for your store such as the length/weight measurements and time zone."
+
+msgctxt "Text"
+msgid "Text"
+msgstr "Text"
+
+msgctxt "HTML"
+msgid "HTML"
+msgstr "HTML"
+
+msgctxt "EmailFormat"
+msgid "Email format"
+msgstr "Email format"
+
+msgctxt "ActionsToLogAccounting"
+msgid "Accounting Messages"
+msgstr "Accounting Messages"
+
+msgctxt "ShowAddThisLink"
+msgid "AddThis Button"
+msgstr "AddThis Button"
+
+msgctxt "YesShowAddThisLink"
+msgid "Yes, show an AddThis share button for the products in my store"
+msgstr "Yes, show an AddThis share button for the products in my store"
+
+msgctxt "ShowAddThisLinkHelp"
+msgid "Displays a button from AddThis.com on your product pages that allows customers to share your product with various bookmarking social services."
+msgstr "Displays a button from AddThis.com on your product pages that allows customers to share your product with various bookmarking social services."
+
+msgctxt "WebsiteSettingsTab"
+msgid "Website"
+msgstr "Website"
+
+msgctxt "LocalizationSettingsTab"
+msgid "Localization"
+msgstr "Localization"
+
+msgctxt "DisplaySettingsTab"
+msgid "Display"
+msgstr "Display"
+
+msgctxt "BackupSettingsTab"
+msgid "Backup"
+msgstr "Backup"
+
+msgctxt "LoggingSettingsTab"
+msgid "Logging"
+msgstr "Logging"
+
+msgctxt "MiscellaneousSettingsTab"
+msgid "Miscellaneous"
+msgstr "Miscellaneous"
+
+msgctxt "SearchSettingsTab"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "UseControlPanelSSL"
+msgid "Use SSL for the Control Panel"
+msgstr "Use SSL for the Control Panel"
+
+msgctxt "YesUseControlPanelSSL"
+msgid "Yes, always use a secure control panel"
+msgstr "Yes, always use a secure control panel"
+
+msgctxt "UseControlPanelSSLHelp"
+msgid "Do you want all access to the control panel to be secure? If yes, check this box. This option is only available if you've enabled a SSL option above."
+msgstr "Do you want all access to the control panel to be secure? If yes, check this box. This option is only available if you've enabled a SSL option above."
+
+msgctxt "SSLNotWorking"
+msgid "***** WARNING *****\r\n\r\nIt appears that you have check the \'Use SSL for the Control Panel\' option and it has been detected that HTTPS is not working on your website. It is recommended that you uncheck this option and confirm that HTTPS is working on your website before proceeding. If you continue and HTTPS is not working, you will not be able to access your control panel. \r\n\r\nClick OK to continue if you are sure HTTPS is working. Click Cancel to go back and uncheck the \'Use SSL for the Control Panel\' option."
+msgstr "***** WARNING *****\r\n\r\nIt appears that you have check the \'Use SSL for the Control Panel\' option and it has been detected that HTTPS is not working on your website. It is recommended that you uncheck this option and confirm that HTTPS is working on your website before proceeding. If you continue and HTTPS is not working, you will not be able to access your control panel. \r\n\r\nClick OK to continue if you are sure HTTPS is working. Click Cancel to go back and uncheck the \'Use SSL for the Control Panel\' option."
+
+msgctxt "SearchSettings"
+msgid "Search Settings"
+msgstr "Search Settings"
+
+msgctxt "SearchDefaultSortRelevance"
+msgid "Relevance"
+msgstr "Relevance"
+
+msgctxt "SearchDefaultSortAlphaasc"
+msgid "Alphabetical: A to Z"
+msgstr "Alphabetical: A to Z"
+
+msgctxt "SearchDefaultSortAlphadesc"
+msgid "Alphabetical: Z to A"
+msgstr "Alphabetical: Z to A"
+
+msgctxt "SearchDefaultSortFeatured"
+msgid "Featured Items"
+msgstr "Featured Items"
+
+msgctxt "SearchDefaultSortNewest"
+msgid "Newest Items"
+msgstr "Newest Items"
+
+msgctxt "SearchDefaultSortBestselling"
+msgid "Bestselling"
+msgstr "Bestselling"
+
+msgctxt "SearchDefaultSortAvgcustomerreview"
+msgid "Avg. Customer Review"
+msgstr "Avg. Customer Review"
+
+msgctxt "SearchDefaultSortPriceasc"
+msgid "Price: Low to High"
+msgstr "Price: Low to High"
+
+msgctxt "SearchDefaultSortPricedesc"
+msgid "Price: High to Low"
+msgstr "Price: High to Low"
+
+msgctxt "SearchDefaultProductSort"
+msgid "Default Product Sort"
+msgstr "Default Product Sort"
+
+msgctxt "SearchDefaultProductSortHelp"
+msgid "This is the default sorting order for all the products that are found in the search."
+msgstr "This is the default sorting order for all the products that are found in the search."
+
+msgctxt "SearchDefaultContentSort"
+msgid "Default Content Sort"
+msgstr "Default Content Sort"
+
+msgctxt "SearchDefaultContentSortHelp"
+msgid "This is the default sorting order for all information &amp; news items that are found in the search."
+msgstr "This is the default sorting order for all information &amp; news items that are found in the search."
+
+msgctxt "SearchProductDisplayMode"
+msgid "Product Display Mode"
+msgstr "Product Display Mode"
+
+msgctxt "SearchProductDisplayModeHelp"
+msgid "This is the display mode for all the products that are found in the search.<br /><br />The <b>Grid</b> option will display the product normally in a box within a grid format.<br /><br />The <b>List</b> will display each product on a separate line within a list."
+msgstr "This is the display mode for all the products that are found in the search.<br /><br />The <b>Grid</b> option will display the product normally in a box within a grid format.<br /><br />The <b>List</b> will display each product on a separate line within a list."
+
+msgctxt "SearchProductDisplayModeGrid"
+msgid "Show products in a grid"
+msgstr "Show products in a grid"
+
+msgctxt "SearchProductDisplayModeList"
+msgid "Show products in a list"
+msgstr "Show products in a list"
+
+msgctxt "SearchResultsPerPage"
+msgid "Results Per Page"
+msgstr "Results Per Page"
+
+msgctxt "EnterSearchResultsPerPage"
+msgid "Please enter a valid number of search results per page."
+msgstr "Please enter a valid number of search results per page."
+
+msgctxt "SearchResultsPerPageHelp"
+msgid "This is the default amount of items to display within each separate section of the search."
+msgstr "This is the default amount of items to display within each separate section of the search."
+
+msgctxt "SearchOptimisation"
+msgid "Search Type"
+msgstr "Search Type"
+
+msgctxt "SearchOptimisationHelp"
+msgid "Select a search type that will best suit your store<br /><ul><li><b>Full Text search</b> offers the quickest most relevant search results, however if your product descriptions contain 2-4 character words such as model numbers, then those products won\'t be displayed in the search results. Full Text search also supports operators such as AND, OR and NOT.</li><li><b>Like search</b> is generally slower than full text search, however if your product descriptions contain 2-4 character words such as model numbers then these WILL be picked up and displayed in the search results.</li><li><b>Both Full Text and Like search</b> will use both the full text and like search methods described above.</li></ul>"
+msgstr "Select a search type that will best suit your store<br /><ul><li><b>Full Text search</b> offers the quickest most relevant search results, however if your product descriptions contain 2-4 character words such as model numbers, then those products won\'t be displayed in the search results. Full Text search also supports operators such as AND, OR and NOT.</li><li><b>Like search</b> is generally slower than full text search, however if your product descriptions contain 2-4 character words such as model numbers then these WILL be picked up and displayed in the search results.</li><li><b>Both Full Text and Like search</b> will use both the full text and like search methods described above.</li></ul>"
+
+msgctxt "SearchOptimisationFulltext"
+msgid "Full Text search"
+msgstr "Full Text search"
+
+msgctxt "SearchOptimisationLike"
+msgid "Like search"
+msgstr "Like search"
+
+msgctxt "SearchOptimisationBoth"
+msgid "Both Full Text and Like search"
+msgstr "Both Full Text and Like search"
+
+msgctxt "VendorSettingsTab"
+msgid "Vendor"
+msgstr "Vendor"
+
+msgctxt "AbandonOrderLifetime"
+msgid "Abandoned Orders"
+msgstr "Abandoned Orders"
+
+msgctxt "AbandonOrderLifetimeHelp"
+msgid "This option will let you choose how long to save any abandoned (incomplete) orders. Any incomplete order outside the selected time frame will be deleted."
+msgstr "This option will let you choose how long to save any abandoned (incomplete) orders. Any incomplete order outside the selected time frame will be deleted."
+
+msgctxt "AbandonOrderLifetimeHeading"
+msgid "Save Orders for"
+msgstr "Save Orders for"
+
+msgctxt "AbandonOrderLifetimeOption1Days"
+msgid "1 day"
+msgstr "1 day"
+
+msgctxt "AbandonOrderLifetimeOption7Days"
+msgid "1 week"
+msgstr "1 week"
+
+msgctxt "AbandonOrderLifetimeOption14Days"
+msgid "2 weeks"
+msgstr "2 weeks"
+
+msgctxt "AbandonOrderLifetimeOption21Days"
+msgid "3 weeks"
+msgstr "3 weeks"
+
+msgctxt "AbandonOrderLifetimeOption30Days"
+msgid "1 month"
+msgstr "1 month"
+
+msgctxt "AbandonOrderLifetimeOption60Days"
+msgid "2 months"
+msgstr "2 months"
+
+msgctxt "AbandonOrderLifetimeOption90Days"
+msgid "3 months"
+msgstr "3 months"
+
+msgctxt "AbandonOrderLifetimeOption120Days"
+msgid "4 months"
+msgstr "4 months"
+
+msgctxt "AbandonOrderLifetimeOption150Days"
+msgid "5 months"
+msgstr "5 months"
+
+msgctxt "AbandonOrderLifetimeOption180Days"
+msgid "6 months"
+msgstr "6 months"
+
+msgctxt "ImageSettings"
+msgid "Images"
+msgstr "Images"
+
+msgctxt "ProductThumbnailSizes"
+msgid "Product Image Sizes"
+msgstr "Product Image Sizes"
+
+msgctxt "StorewideThumbnail"
+msgid "Storewide Thumbnail"
+msgstr "Storewide Thumbnail"
+
+msgctxt "StorewideThumbnailHelp"
+msgid "The width and the height of the thumbnail image to be used for products in your store. These images will display in your featured products section, new products section and when browsing categories."
+msgstr "The width and the height of the thumbnail image to be used for products in your store. These images will display in your featured products section, new products section and when browsing categories."
+
+msgctxt "ProductPageImage"
+msgid "Product Page Image"
+msgstr "Product Page Image"
+
+msgctxt "ProductPageImageHelp"
+msgid "The width and the height of the thumbnail image to be used when viewing a product page."
+msgstr "The width and the height of the thumbnail image to be used when viewing a product page."
+
+msgctxt "ProductPageGalleryThumbnail"
+msgid "Product Page Thumbnail"
+msgstr "Product Page Thumbnail"
+
+msgctxt "ProductPageGalleryThumbnailHelp"
+msgid "The width and height of the small thumbnail images which will be displayed under the main image on the product page."
+msgstr "The width and height of the small thumbnail images which will be displayed under the main image on the product page."
+
+msgctxt "ProductPageZoomImage"
+msgid "Product Zoom Image"
+msgstr "Product Zoom Image"
+
+msgctxt "ProductPageZoomImageHelp"
+msgid "The width and the height of the full size image displayed when users click to enlarge a thumbnail image."
+msgstr "The width and the height of the full size image displayed when users click to enlarge a thumbnail image."
+
+msgctxt "ShowTinyThumbnails"
+msgid "Show Tiny Thumbnails?"
+msgstr "Show Tiny Thumbnails?"
+
+msgctxt "ShowTinyThumbnailsHelp"
+msgid "When checked, clickable tiny thumbnail images of additional product images will be displayed under the product page image."
+msgstr "When checked, clickable tiny thumbnail images of additional product images will be displayed under the product page image."
+
+msgctxt "YesShowTinyThumbnails"
+msgid "Yes, show tiny thumbnail images on the product page"
+msgstr "Yes, show tiny thumbnail images on the product page"
+
+msgctxt "EnableImageZoom"
+msgid "Enable Image Zoom?"
+msgstr "Enable Image Zoom?"
+
+msgctxt "EnableImageZoomHelp"
+msgid "When checked, website visitors will be able to click on the product images to see a larger zoomed in version."
+msgstr "When checked, website visitors will be able to click on the product images to see a larger zoomed in version."
+
+msgctxt "YesEnableImageZoom"
+msgid "Yes, enable image zooming on the product page"
+msgstr "Yes, enable image zooming on the product page"
+
+msgctxt "ReprocessImages"
+msgid "Resize Images?"
+msgstr "Resize Images?"
+
+msgctxt "ReprocessImagesLink"
+msgid "Resize Images..."
+msgstr "Resize Images..."
+
+msgctxt "ProcessingImages"
+msgid "Resizing Images"
+msgstr "Resizing Images"
+
+msgctxt "ProcessImagesModalTitle"
+msgid "Resize Product Image"
+msgstr "Resize Product Image"
+
+msgctxt "LoadingProcessImages"
+msgid "Loading..."
+msgstr "Loading..."
+
+msgctxt "ProcessImagesProgress"
+msgid "{complete} of {total} images resized"
+msgstr "{complete} of {total} images resized"
+
+msgctxt "ProcessImagesFinished"
+msgid "Finished!"
+msgstr "Finished!"
+
+msgctxt "ProcessingImagesIntro"
+msgid "Your product images are currently being resized. Please wait..."
+msgstr "Your product images are currently being resized. Please wait..."
+
+msgctxt "ReprocessImagesHelp"
+msgid "Click this link if you\'ve changed the default image sizes above and would like to resize all of your existing product images. Please note that if you have a large amount of images this may take a while to complete."
+msgstr "Click this link if you\'ve changed the default image sizes above and would like to resize all of your existing product images. Please note that if you have a large amount of images this may take a while to complete."
+
+msgctxt "ShouldImagesBeResized"
+msgid "We noticed you\'ve change the default width or height of some images. Would you like us to resize all of your existing images now? Click OK to confirm. If not you can always click the \'Resize Images...\' link on the \'Images\' tab later."
+msgstr "We noticed you\'ve change the default width or height of some images. Would you like us to resize all of your existing images now? Click OK to confirm. If not you can always click the \'Resize Images...\' link on the \'Images\' tab later."
+
+msgctxt "EnterNumberForImageSizesMeasurements"
+msgid " You do not need include measurements (e.g. px or %)."
+msgstr " You do not need include measurements (e.g. px or %)."
+
+msgctxt "ProductImagesStorewideThumbnailWidthInvalidValue"
+msgid "Please enter a valid number in the width field for the storewide thumbnail setting."
+msgstr "Please enter a valid number in the width field for the storewide thumbnail setting."
+
+msgctxt "ProductImagesStorewideThumbnailHeightInvalidValue"
+msgid "Please enter a valid number in the height field for the storewide thumbnail setting."
+msgstr "Please enter a valid number in the height field for the storewide thumbnail setting."
+
+msgctxt "ProductImagesProductPageImageWidthInvalidValue"
+msgid "Please enter a valid number in the width field for the product page image setting."
+msgstr "Please enter a valid number in the width field for the product page image setting."
+
+msgctxt "ProductImagesProductPageImageHeightInvalidValue"
+msgid "Please enter a valid number in the height field for the product page image setting."
+msgstr "Please enter a valid number in the height field for the product page image setting."
+
+msgctxt "ProductImagesGalleryThumbnailWidthInvalidValue"
+msgid "Please enter a valid number in the width field for the product page thumbnail setting."
+msgstr "Please enter a valid number in the width field for the product page thumbnail setting."
+
+msgctxt "ProductImagesGalleryThumbnailHeightInvalidValue"
+msgid "Please enter a valid number in the height field for the product page thumbnail setting."
+msgstr "Please enter a valid number in the height field for the product page thumbnail setting."
+
+msgctxt "ProductImagesZoomImageWidthInvalidValue"
+msgid "Please enter a valid number in the width field for the product zoom image setting."
+msgstr "Please enter a valid number in the width field for the product zoom image setting."
+
+msgctxt "ProductImagesZoomImageHeightInvalidValue"
+msgid "Please enter a valid number in the height field for the product zoom image setting."
+msgstr "Please enter a valid number in the height field for the product zoom image setting."
+
+msgctxt "SettingsCharset_utf8"
+msgid "UTF-8 (Recommended /Universal, all languages)"
+msgstr "UTF-8 (Recommended /Universal, all languages)"
+
+msgctxt "SettingsCharset_iso88591"
+msgid "ISO-8859-1 (Western European, Latin-1)"
+msgstr "ISO-8859-1 (Western European, Latin-1)"
+
+msgctxt "SettingsCharset_iso885915"
+msgid "ISO-8859-15 (ISO-8859-1 + Euro sign, French and Finnish letters)"
+msgstr "ISO-8859-15 (ISO-8859-1 + Euro sign, French and Finnish letters)"
+
+msgctxt "SettingsCharset_cp866"
+msgid "cp866 (DOS-specific Cyrillic charset)"
+msgstr "cp866 (DOS-specific Cyrillic charset)"
+
+msgctxt "SettingsCharset_cp1251"
+msgid "cp1251 (Windows-specific Cyrillic charset)"
+msgstr "cp1251 (Windows-specific Cyrillic charset)"
+
+msgctxt "SettingsCharset_cp1252"
+msgid "cp1252 (Windows specific charset for Western Europe)"
+msgstr "cp1252 (Windows specific charset for Western Europe)"
+
+msgctxt "SettingsCharset_koi8r"
+msgid "KOI8-R (Russian)"
+msgstr "KOI8-R (Russian)"
+
+msgctxt "SettingsCharset_shiftjis"
+msgid "Shift_JIS (Japanese)"
+msgstr "Shift_JIS (Japanese)"
+
+msgctxt "SettingsCharset_eucjp"
+msgid "EUC-JP (Japanese)"
+msgstr "EUC-JP (Japanese)"
+
+msgctxt "ConfirmChangeCharacterSet"
+msgid "Are you sure you want to change your character set? This could have unexpected consequences. \r\n\r\nPress OK to confirm if you\'re sure you want to proceed."
+msgstr "Are you sure you want to change your character set? This could have unexpected consequences. \r\n\r\nPress OK to confirm if you\'re sure you want to proceed."
+
+msgctxt "ConfirmChangeCharacterSetUTF8"
+msgid "Are you sure you want to change your character set from UTF-8?\r\n\r\nUTF-8 supports most languages and it is highly recommended that you use this character set. \r\n\r\nPress OK to confirm if you\'re sure you want to proceed."
+msgstr "Are you sure you want to change your character set from UTF-8?\r\n\r\nUTF-8 supports most languages and it is highly recommended that you use this character set. \r\n\r\nPress OK to confirm if you\'re sure you want to proceed."
+
+msgctxt "StartingOrderNumber"
+msgid "Starting Order Number"
+msgstr "Starting Order Number"
+
+msgctxt "StartingOrderNumberHelp"
+msgid "Set the order number that the next order placed in your store will receive."
+msgstr "Set the order number that the next order placed in your store will receive."
+
+msgctxt "StartingOrderNumberTooLow"
+msgid "Unforunately the number you have selected for the starting order number is too low. Your highest order number is currently :currentHighest. The lowest you can set your starting order number to is :lowestPossible."
+msgstr "Unforunately the number you have selected for the starting order number is too low. Your highest order number is currently :currentHighest. The lowest you can set your starting order number to is :lowestPossible."
+
+msgctxt "StartingOrderNumberAlterFailed"
+msgid "Unable to save the starting order number. Your database user may not have sufficient ALTER TABLE privileges."
+msgstr "Unable to save the starting order number. Your database user may not have sufficient ALTER TABLE privileges."
+
+msgctxt "DownForMaintenance"
+msgid "Down for Maintenance"
+msgstr "Down for Maintenance"
+
+msgctxt "YesDownForMaintenance"
+msgid "Yes, display a 'Down for Maintenance' message on my store"
+msgstr "Yes, display a 'Down for Maintenance' message on my store"
+
+msgctxt "DownForMaintenanceHelp"
+msgid "If checked the store will become unavailable to visitors and a customisable \'Down for Maintenance\' message will be displayed."
+msgstr "If checked the store will become unavailable to visitors and a customisable \'Down for Maintenance\' message will be displayed."
+
+msgctxt "ShowPreOrderInventory"
+msgid "Show Pre-Order Inventory?"
+msgstr "Show Pre-Order Inventory?"
+
+msgctxt "YesShowPreOrderInventory"
+msgid "Yes, show inventory levels for pre-order products"
+msgstr "Yes, show inventory levels for pre-order products"
+
+msgctxt "ShowPreOrderInventoryHelp"
+msgid "Should customers be able to see inventory levels for pre-order products? This setting only applies to pre-order products with inventory tracking enabled."
+msgstr "Should customers be able to see inventory levels for pre-order products? This setting only applies to pre-order products with inventory tracking enabled."
+
+msgctxt "DefaultPreOrderMessage"
+msgid "Default Pre-Order Message"
+msgstr "Default Pre-Order Message"
+
+msgctxt "DefaultPreOrderMessageHelp"
+msgid "The default message to be shown in your store when a release date is specified for a pre-order product. You can also change the message for each individual product in the Products section of the control panel. To place the product's release date into the message, use the %%DATE%% placeholder."
+msgstr "The default message to be shown in your store when a release date is specified for a pre-order product. You can also change the message for each individual product in the Products section of the control panel. To place the product's release date into the message, use the %%DATE%% placeholder."
+
+msgctxt "EnableCustomersAlsoViewed"
+msgid "Enable 'Customers Also Viewed'"
+msgstr "Enable 'Customers Also Viewed'"
+
+msgctxt "EnableCustomersAlsoViewedHelp"
+msgid "Enables or disables both the tracking and display of customer viewing patterns to created a list of related products."
+msgstr "Enables or disables both the tracking and display of customer viewing patterns to created a list of related products."
+
+msgctxt "YesEnableCustomersAlsoViewed"
+msgid "Yes, enable the 'Customers Also Viewed' feature"
+msgstr "Yes, enable the 'Customers Also Viewed' feature"
+
+msgctxt "CustomersAlsoViewedCount"
+msgid "Products Related By Views"
+msgstr "Products Related By Views"
+
+msgctxt "CustomersAlsoViewedCountHelp"
+msgid "The number of products to show on the products page under the 'Customers Also Viewed' feature. Set this to 0 (zero) to track customer viewing patterns, but to not show related products."
+msgstr "The number of products to show on the products page under the 'Customers Also Viewed' feature. Set this to 0 (zero) to track customer viewing patterns, but to not show related products."
+
+msgctxt "ActionsToLogEmailIntegration"
+msgid "Email Integration Messages"
+msgstr "Email Integration Messages"
+
+msgctxt "ActionsToLogEbay"
+msgid "eBay Messages"
+msgstr "eBay Messages"
+
+msgctxt "ActionsToLogShoppingComparison"
+msgid "Shopping Comparison Messages"
+msgstr "Shopping Comparison Messages"
+
+msgctxt "RedirectWWW"
+msgid "WWW/No WWW Redirect"
+msgstr "WWW/No WWW Redirect"
+
+msgctxt "RedirectWWWHelp"
+msgid "In the context of search engine optimization, having &quot;yourstore.com&quot; and &quot;www.yourstore.com&quot; may be seen by Google as duplicate content so it's a good idea to choose to display your store either with &quot;www.&quot in the domain or without. You can choose which you'd prefer here. This will not affect any subdomains you setup under Tools -> DNS Records."
+msgstr "In the context of search engine optimization, having &quot;yourstore.com&quot; and &quot;www.yourstore.com&quot; may be seen by Google as duplicate content so it's a good idea to choose to display your store either with &quot;www.&quot in the domain or without. You can choose which you'd prefer here. This will not affect any subdomains you setup under Tools -> DNS Records."
+
+msgctxt "RedirectToWWW"
+msgid "Redirect no WWW to WWW"
+msgstr "Redirect no WWW to WWW"
+
+msgctxt "RedirectToNoWWW"
+msgid "Redirect WWW to no WWW"
+msgstr "Redirect WWW to no WWW"
+
+msgctxt "RedirectNoPreference"
+msgid "No preference"
+msgstr "No preference"
+
+msgctxt "PCISettingsPanel"
+msgid "Login Security Settings"
+msgstr "Login Security Settings"
+
+msgctxt "PCIPasswordMinLen"
+msgid "Minimum Password Length"
+msgstr "Minimum Password Length"
+
+msgctxt "PCIPasswordMinLenHelp"
+msgid "Minimum number of characters required for a valid password, 0 to disable."
+msgstr "Minimum number of characters required for a valid password, 0 to disable."
+
+msgctxt "PCIPasswordExpiryTimeDay"
+msgid "Password Expiry Time"
+msgstr "Password Expiry Time"
+
+msgctxt "PCIPasswordExpiryTimeDayHelp"
+msgid "Store administrator passwords expire after X days, 0 to disable."
+msgstr "Store administrator passwords expire after X days, 0 to disable."
+
+msgctxt "PCIPasswordHistoryCount"
+msgid "Password History"
+msgstr "Password History"
+
+msgctxt "PCIPasswordHistoryCountHelp"
+msgid "Number of previously used passwords to remember, and prevent store administrators to use, 0 to disable."
+msgstr "Number of previously used passwords to remember, and prevent store administrators to use, 0 to disable."
+
+msgctxt "PCILoginAttemptCount"
+msgid "Maximum Login Attempts"
+msgstr "Maximum Login Attempts"
+
+msgctxt "PCILoginAttemptCountHelp"
+msgid "How many times a user can try to login, until user is locked out for X minutes, 0 to disable."
+msgstr "How many times a user can try to login, until user is locked out for X minutes, 0 to disable."
+
+msgctxt "PCILoginLockoutTimeMin"
+msgid "Lock Out Time Frame"
+msgstr "Lock Out Time Frame"
+
+msgctxt "PCILoginIdleTimeMin"
+msgid "Idle Logout Time"
+msgstr "Idle Logout Time"
+
+msgctxt "PCILoginIdleTimeMinHelp"
+msgid "Store administrators will be logged out after being idle for X minutes, 0 to disable."
+msgstr "Store administrators will be logged out after being idle for X minutes, 0 to disable."
+
+msgctxt "PCILoginInactiveTimeDay"
+msgid "Inactive Time"
+msgstr "Inactive Time"
+
+msgctxt "PCILoginInactiveTimeDayHelp"
+msgid "Store administrators will be marked as inactive for not logging in for X days, 0 to disable."
+msgstr "Store administrators will be marked as inactive for not logging in for X days, 0 to disable."
+
+msgctxt "SocialSettings"
+msgid "Social Sharing Settings"
+msgstr "Social Sharing Settings"
+
+msgctxt "ShowFacebookLikeButton"
+msgid "Facebook Like Button"
+msgstr "Facebook Like Button"
+
+msgctxt "YesShowFacebookLikeButton"
+msgid "Yes, show a Facebook Like button for the products in my store"
+msgstr "Yes, show a Facebook Like button for the products in my store"
+
+msgctxt "ShowFacebookLikeButtonHelp"
+msgid "Displays a Facebook Like button on your product pages that allows customers to share or recommend your products to their friends on Facebook."
+msgstr "Displays a Facebook Like button on your product pages that allows customers to share or recommend your products to their friends on Facebook."
+
+msgctxt "LayoutStyle"
+msgid "Layout Style"
+msgstr "Layout Style"
+
+msgctxt "StyleStandard"
+msgid "Standard"
+msgstr "Standard"
+
+msgctxt "StyleCountOnly"
+msgid "Count only"
+msgstr "Count only"
+
+msgctxt "ButtonPosition"
+msgid "Button Position"
+msgstr "Button Position"
+
+msgctxt "ButtonPositionHelp"
+msgid "You can choose to display the Facebook Like button either <em>above</em> or <em>below</em> the product details."
+msgstr "You can choose to display the Facebook Like button either <em>above</em> or <em>below</em> the product details."
+
+msgctxt "Above"
+msgid "Above"
+msgstr "Above"
+
+msgctxt "Below"
+msgid "Below"
+msgstr "Below"
+
+msgctxt "TextToDisplay"
+msgid "Text to Display"
+msgstr "Text to Display"
+
+msgctxt "Like"
+msgid "Like"
+msgstr "Like"
+
+msgctxt "ShowFaces"
+msgid "Show Faces"
+msgstr "Show Faces"
+
+msgctxt "YesShowFaces"
+msgid "Yes, show friends faces under the button"
+msgstr "Yes, show friends faces under the button"
+
+msgctxt "FacebookAdminIds"
+msgid "Admin User Ids"
+msgstr "Admin User Ids"
+
+msgctxt "FacebookAdminIdsHelp"
+msgid "You can publish updates to users have who liked your products by administering a page on Facebook.
+Enter a comma-separated list of Facebook user ID's that can administrate the pages.
+<br /><br />
+The user ID must be your numeric ID. You can find your user ID by clicking <em>View my profile</em> in facebook, then clicking on your main profile photo. Your user ID will be in the browser's address bar:<br />http://www.facebook.com/album.php?profile=1&id=<strong>myfacebookid</strong>
+<br /><br />
+<small>NB: Each listed user must first 'like' the product to be able to administrate it.</small>
+"
+msgstr "You can publish updates to users have who liked your products by administering a page on Facebook.
+Enter a comma-separated list of Facebook user ID's that can administrate the pages.
+<br /><br />
+The user ID must be your numeric ID. You can find your user ID by clicking <em>View my profile</em> in facebook, then clicking on your main profile photo. Your user ID will be in the browser's address bar:<br />http://www.facebook.com/album.php?profile=1&id=<strong>myfacebookid</strong>
+<br /><br />
+<small>NB: Each listed user must first 'like' the product to be able to administrate it.</small>
+"
+
+msgctxt "FacebookAdminIdsRequired"
+msgid "Please enter at least one Admin User ID for the Facebook Like Button"
+msgstr "Please enter at least one Admin User ID for the Facebook Like Button"
+
+msgctxt "FacebookAdminIdsLearnMore"
+msgid "<a href='#' class='HelpLink' kb:id='908'>Learn more about Facebook Admin User Ids</a>"
+msgstr "<a href='#' class='HelpLink' kb:id='908'>Learn more about Facebook Admin User Ids</a>"
+
+msgctxt "RSSFeaturedProductsEnabled"
+msgid "Enable Featured Products Feed?"
+msgstr "Enable Featured Products Feed?"
+
+msgctxt "YesRSSFeaturedProductsEnabled"
+msgid "Yes, enable featured products feed"
+msgstr "Yes, enable featured products feed"
+
+msgctxt "RSSFeaturedProductsHelp"
+msgid "Should an RSS feed of featured products be accessible to visitors?"
+msgstr "Should an RSS feed of featured products be accessible to visitors?"
+
+msgctxt "DeletedOrders"
+msgid "Deleted Orders"
+msgstr "Deleted Orders"
+
+msgctxt "DeletedOrdersActionHelp"
+msgid "Choose how you would like orders to be treated when they are deleted. It is highly recommended that you choose the 'archived' option so that if an order is removed by accident it can be restored by clicking the dropdown next to 'View:' on the orders page and choosing the 'Deleted Orders' option."
+msgstr "Choose how you would like orders to be treated when they are deleted. It is highly recommended that you choose the 'archived' option so that if an order is removed by accident it can be restored by clicking the dropdown next to 'View:' on the orders page and choosing the 'Deleted Orders' option."
+
+msgctxt "DeletedOrdersAction_Delete"
+msgid "Should be archived and not deleted (recommended)"
+msgstr "Should be archived and not deleted (recommended)"
+
+msgctxt "DeletedOrdersAction_Purge"
+msgid "Should be permanently removed from my store"
+msgstr "Should be permanently removed from my store"
+
+msgctxt "FastCartLabel"
+msgid "'Add to Cart' Action"
+msgstr "'Add to Cart' Action"
+
+msgctxt "FastCartOption1ShowPopWindow"
+msgid "Show Confirmation in a Popup Window"
+msgstr "Show Confirmation in a Popup Window"
+
+msgctxt "FastCartOption2ShowCartPage"
+msgid "Take Them to Their Shopping Cart"
+msgstr "Take Them to Their Shopping Cart"
+
+msgctxt "FastCartHelp"
+msgid "When a shopper adds an item to the cart, which action should occur? Choose 'Show confirmation in a popup window' to show the add to cart confirmation message in a popup window without leaving the product page. (Note: only works if 'Show Cart Suggestions' is ON). Choose 'Take them to their shopping cart' to take them straight to their shopping cart."
+msgstr "When a shopper adds an item to the cart, which action should occur? Choose 'Show confirmation in a popup window' to show the add to cart confirmation message in a popup window without leaving the product page. (Note: only works if 'Show Cart Suggestions' is ON). Choose 'Take them to their shopping cart' to take them straight to their shopping cart."
+
+msgctxt "CategoryListStyle"
+msgid "Category Menu Style"
+msgstr "Category Menu Style"
+
+msgctxt "CategoryListStyleHelp"
+msgid "How would you like the list of product categories displayed in your store? Choose 'Show categories in a simple list' to show them as a vertical list of links. Choose 'Show categories in a fly out menu' to show your root categories as a list which expands and shows sub categories when the mouse is moved over them."
+msgstr "How would you like the list of product categories displayed in your store? Choose 'Show categories in a simple list' to show them as a vertical list of links. Choose 'Show categories in a fly out menu' to show your root categories as a list which expands and shows sub categories when the mouse is moved over them."
+
+msgctxt "CategoryListStyleFlyout"
+msgid "Show categories in a fly out menu"
+msgstr "Show categories in a fly out menu"
+
+msgctxt "CategoryListStyleStatic"
+msgid "Show categories in a simple list"
+msgstr "Show categories in a simple list"
+
+msgctxt "CategoryListStyleFlyoutNotSupported"
+msgid "The store design you've selected doesn't currently support fly out menus."
+msgstr "The store design you've selected doesn't currently support fly out menus."
+
+msgctxt "CategorySettings"
+msgid "Category Settings"
+msgstr "Category Settings"
+
+msgctxt "categoryFlyoutDropShadow"
+msgid "Menu Drop Shadows?"
+msgstr "Menu Drop Shadows?"
+
+msgctxt "categoryFlyoutDropShadowHelp"
+msgid "Would you like drop shadows to be displayed around the fly out menu? A drop shadow is the shading effect used to give the appearance of raised type or graphics on the designed page. This setting will have no effect on some very old browsers (such as Internet Explorer 6)."
+msgstr "Would you like drop shadows to be displayed around the fly out menu? A drop shadow is the shading effect used to give the appearance of raised type or graphics on the designed page. This setting will have no effect on some very old browsers (such as Internet Explorer 6)."
+
+msgctxt "YescategoryFlyoutDropShadow"
+msgid "Yes, show drop shadows around the fly out menu"
+msgstr "Yes, show drop shadows around the fly out menu"
+
+msgctxt "categoryFlyoutMouseOutDelay"
+msgid "Menu Fade Timeout"
+msgstr "Menu Fade Timeout"
+
+msgctxt "categoryFlyoutMouseOutDelayUnit"
+msgid "seconds"
+msgstr "seconds"
+
+msgctxt "categoryFlyoutMouseOutDelayHelp"
+msgid "When the category fly out menu is displayed, after how many seconds should it disappear when the mouse is no longer hovering over it?"
+msgstr "When the category fly out menu is displayed, after how many seconds should it disappear when the mouse is no longer hovering over it?"
+
+msgctxt "CategoryListDepthUnit"
+msgid "levels deep"
+msgstr "levels deep"

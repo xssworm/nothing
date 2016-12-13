@@ -1,0 +1,750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "TaxSettings"
+msgid "Tax Settings"
+msgstr "Tax Settings"
+
+msgctxt "TaxSettingsIntro"
+msgid "Update the tax settings in the form below. To configure available tax rates and zones, click the 'Tax Rates & Zones' tab."
+msgstr "Update the tax settings in the form below. To configure available tax rates and zones, click the 'Tax Rates & Zones' tab."
+
+msgctxt "General"
+msgid "General"
+msgstr "General"
+
+msgctxt "TaxClasses"
+msgid "Tax Classes"
+msgstr "Tax Classes"
+
+msgctxt "TaxRatesAndZones"
+msgid "Tax Rates & Zones"
+msgstr "Tax Rates & Zones"
+
+msgctxt "InvalidTaxSettingTaxLabel"
+msgid "Please enter a tax label."
+msgstr "Please enter a tax label."
+
+msgctxt "InvalidTaxSettingTaxEnteredWithPrices"
+msgid "Please select if prices will be entered with or without tax."
+msgstr "Please select if prices will be entered with or without tax."
+
+msgctxt "InvalidTaxSettingTaxCalculationBasedOn"
+msgid "Please select the type of address tax calculations should be based on."
+msgstr "Please select the type of address tax calculations should be based on."
+
+msgctxt "InvalidTaxSettingTaxDefaultTaxDisplay"
+msgid "Please select if product prices should be shown inclusive, exclusive or both inclusive and exclusive of tax."
+msgstr "Please select if product prices should be shown inclusive, exclusive or both inclusive and exclusive of tax."
+
+msgctxt "InvalidTaxSettingTaxChargesOnOrders"
+msgid "Please choose how tax calculations should be shown on orders."
+msgstr "Please choose how tax calculations should be shown on orders."
+
+msgctxt "InvalidTaxSettingTaxChargesInCart"
+msgid "Please select how tax charges should be shown for products in the shopping cart."
+msgstr "Please select how tax charges should be shown for products in the shopping cart."
+
+msgctxt "TaxSettingsNotSaved"
+msgid "The updated tax settings could not be saved successfully. Please try again."
+msgstr "The updated tax settings could not be saved successfully. Please try again."
+
+msgctxt "TaxSettingsSaved"
+msgid "The updated tax settings were saved successfully."
+msgstr "The updated tax settings were saved successfully."
+
+msgctxt "ErrorSavingTaxClass"
+msgid "There was a problem saving the tax class ':name'. Please try again."
+msgstr "There was a problem saving the tax class ':name'. Please try again."
+
+msgctxt "ErrorDeletingTaxClass"
+msgid "There was a problem deleting one or more tax classes. Please try again."
+msgstr "There was a problem deleting one or more tax classes. Please try again."
+
+msgctxt "TaxClassesSaved"
+msgid "The updated tax classes were saved successfully."
+msgstr "The updated tax classes were saved successfully."
+
+msgctxt "EnterDefaultTaxClassName"
+msgid "Please enter a name for the default tax class."
+msgstr "Please enter a name for the default tax class."
+
+msgctxt "TaxClassMissingName"
+msgid "Please enter a name for this tax class."
+msgstr "Please enter a name for this tax class."
+
+msgctxt "TaxClassDuplicateName"
+msgid "Another tax class called :name already exists. Please choose another name or delete it first."
+msgstr "Another tax class called :name already exists. Please choose another name or delete it first."
+
+msgctxt "ConfigureTaxOptions"
+msgid "Configure Tax Options"
+msgstr "Configure Tax Options"
+
+msgctxt "TaxLabel"
+msgid "Tax Label"
+msgstr "Tax Label"
+
+msgctxt "PricesEnteredWithTax"
+msgid "Prices Entered With Tax"
+msgstr "Prices Entered With Tax"
+
+msgctxt "PricesEnteredWithTaxYes"
+msgid "Yes, I will enter prices inclusive of tax"
+msgstr "Yes, I will enter prices inclusive of tax"
+
+msgctxt "PricesEnteredWithTaxNo"
+msgid "No, I will enter prices exclusive of tax"
+msgstr "No, I will enter prices exclusive of tax"
+
+msgctxt "CalculateTaxBasedOn"
+msgid "Calculate Tax Based on"
+msgstr "Calculate Tax Based on"
+
+msgctxt "BillingAddress"
+msgid "Billing address"
+msgstr "Billing address"
+
+msgctxt "ShippingAddress"
+msgid "Shipping address"
+msgstr "Shipping address"
+
+msgctxt "StoreAddress"
+msgid "Store address"
+msgstr "Store address"
+
+msgctxt "ShowPricesOnProductListings"
+msgid "Show Prices on Product Listings"
+msgstr "Show Prices on Product Listings"
+
+msgctxt "ShowPricesOnProductDetailPages"
+msgid "Show Prices on Product Pages"
+msgstr "Show Prices on Product Pages"
+
+msgctxt "ShowPricesOnOrdersInvoices"
+msgid "Show Prices on Orders & Invoices"
+msgstr "Show Prices on Orders & Invoices"
+
+msgctxt "ShowPricesOnProductListingsHelp"
+msgid "This setting controls how product prices should be shown on listings such as the list of products in a particular category, brand or set of search results.<br /><br />Choose <strong>Including tax</strong> to show product prices on these listing pages inclusive of any tax charges.<br /><br />Choose <strong>Excluding tax</strong> to show prices excluding tax.<br /><br />Choosing <strong>Including and excluding tax</strong> will show both the inclusive and exclusive tax price for each product, using the <em>Tax Label</em> configured above."
+msgstr "This setting controls how product prices should be shown on listings such as the list of products in a particular category, brand or set of search results.<br /><br />Choose <strong>Including tax</strong> to show product prices on these listing pages inclusive of any tax charges.<br /><br />Choose <strong>Excluding tax</strong> to show prices excluding tax.<br /><br />Choosing <strong>Including and excluding tax</strong> will show both the inclusive and exclusive tax price for each product, using the <em>Tax Label</em> configured above."
+
+msgctxt "ShowPricesOnProductDetailPagesHelp"
+msgid "This setting controls how product prices should be shown on the product page when viewing a single product.<br /><br />Choose <strong>Including tax</strong> to show the product price inclusive of any tax charges.<br /><br />Choose <strong>Excluding tax</strong> to show the product price excluding tax.<br /><br />Choosing <strong>Including and excluding tax</strong> will show both the inclusive and exclusive tax price for the product, using the <em>Tax Label</em> configured above."
+msgstr "This setting controls how product prices should be shown on the product page when viewing a single product.<br /><br />Choose <strong>Including tax</strong> to show the product price inclusive of any tax charges.<br /><br />Choose <strong>Excluding tax</strong> to show the product price excluding tax.<br /><br />Choosing <strong>Including and excluding tax</strong> will show both the inclusive and exclusive tax price for the product, using the <em>Tax Label</em> configured above."
+
+msgctxt "ShowPricesOnOrdersInvoicesHelp"
+msgid "This setting controls how pricing should be shown on orders placed by customers, and their associated invoices.<br /><br />Choose <strong>Including tax</strong> to show all prices inclusive of any tax charges, and as tax included in the grand total.<br /><br />Choose <strong>Excluding tax</strong> to show all prices excluding tax."
+msgstr "This setting controls how pricing should be shown on orders placed by customers, and their associated invoices.<br /><br />Choose <strong>Including tax</strong> to show all prices inclusive of any tax charges, and as tax included in the grand total.<br /><br />Choose <strong>Excluding tax</strong> to show all prices excluding tax."
+
+msgctxt "ShowPricesInCart"
+msgid "Show Prices in Shopping Carts"
+msgstr "Show Prices in Shopping Carts"
+
+msgctxt "ShowPricesInCartHelp"
+msgid "This setting controls how pricing should be shown on the <em>View Cart</em> page.<br /><br />Choose <strong>Including tax</strong> to show all prices on the <em>View Cart</em> page inclusive of any tax charges, and tax as included in the grand total.<br /><br />Choose <strong>Excluding tax</strong> to show all prices excluding tax."
+msgstr "This setting controls how pricing should be shown on the <em>View Cart</em> page.<br /><br />Choose <strong>Including tax</strong> to show all prices on the <em>View Cart</em> page inclusive of any tax charges, and tax as included in the grand total.<br /><br />Choose <strong>Excluding tax</strong> to show all prices excluding tax."
+
+msgctxt "PricesShouldBeInclusive"
+msgid "Including tax"
+msgstr "Including tax"
+
+msgctxt "PricesShouldBeExclusive"
+msgid "Excluding tax"
+msgstr "Excluding tax"
+
+msgctxt "PricesShouldBeBoth"
+msgid "Including and excluding tax"
+msgstr "Including and excluding tax"
+
+msgctxt "ShowTaxChargesOnOrders"
+msgid "Show Tax Charges on Orders"
+msgstr "Show Tax Charges on Orders"
+
+msgctxt "ShowTaxChargesSummarized"
+msgid "As one summarized line item"
+msgstr "As one summarized line item"
+
+msgctxt "ShowTaxChargesBrokenDown"
+msgid "Broken down by tax rate"
+msgstr "Broken down by tax rate"
+
+msgctxt "CreateOrModifyTaxClasses"
+msgid "Create or Modify Tax Classes"
+msgstr "Create or Modify Tax Classes"
+
+msgctxt "CreateOrModifyTaxClassesIntro"
+msgid "Tax classes let you create different product groups (such as alcohol) which can optionally have their own tax rates as required by law."
+msgstr "Tax classes let you create different product groups (such as alcohol) which can optionally have their own tax rates as required by law."
+
+msgctxt "AddATaxZoneButton"
+msgid "Add a Tax Zone..."
+msgstr "Add a Tax Zone..."
+
+msgctxt "ZoneName"
+msgid "Zone Name"
+msgstr "Zone Name"
+
+msgctxt "ZoneType"
+msgid "Zone Type"
+msgstr "Zone Type"
+
+msgctxt "CustomerGroupOrGroups"
+msgid "Customer Group(s)"
+msgstr "Customer Group(s)"
+
+msgctxt "EverywhereElse"
+msgid "Everywhere Else"
+msgstr "Everywhere Else"
+
+msgctxt "WhatDoesThisMean"
+msgid "What does this mean?"
+msgstr "What does this mean?"
+
+msgctxt "TaxZoneTypeShortGlobal"
+msgid "Global"
+msgstr "Global"
+
+msgctxt "TaxZoneTypeShortCountry"
+msgid "Country Based"
+msgstr "Country Based"
+
+msgctxt "TaxZoneTypeShortState"
+msgid "State Based"
+msgstr "State Based"
+
+msgctxt "TaxZoneTypeShortZip"
+msgid "Zip/Postal Code Based"
+msgstr "Zip/Postal Code Based"
+
+msgctxt "EditSettings"
+msgid "Edit Settings"
+msgstr "Edit Settings"
+
+msgctxt "EditRates"
+msgid "Edit Rates"
+msgstr "Edit Rates"
+
+msgctxt "TaxZoneCopyName"
+msgid "Copy of :name"
+msgstr "Copy of :name"
+
+msgctxt "TaxRateCopyName"
+msgid "Copy of :name"
+msgstr "Copy of :name"
+
+msgctxt "EditTaxZone"
+msgid "Edit Tax Zone"
+msgstr "Edit Tax Zone"
+
+msgctxt "EditTaxzoneIntro"
+msgid "Edit the settings for this tax zone below. Tax zones let you specify different tax rates depending on your customer's location."
+msgstr "Edit the settings for this tax zone below. Tax zones let you specify different tax rates depending on your customer's location."
+
+msgctxt "ZoneSettings"
+msgid "Zone Settings"
+msgstr "Zone Settings"
+
+msgctxt "TaxRates"
+msgid "Tax Rates"
+msgstr "Tax Rates"
+
+msgctxt "AddTaxZoneStep1"
+msgid "Add a Tax Zone (Step 1 of 2)"
+msgstr "Add a Tax Zone (Step 1 of 2)"
+
+msgctxt "AddTaxZoneStep2"
+msgid "Add a Tax Zone (Step 2 of 2)"
+msgstr "Add a Tax Zone (Step 2 of 2)"
+
+msgctxt "AddTaxZoneIntro"
+msgid "Use the form below to create a new tax zone. Tax zones let you specify different tax rates depending on your customer's locations."
+msgstr "Use the form below to create a new tax zone. Tax zones let you specify different tax rates depending on your customer's locations."
+
+msgctxt "TaxZoneSettings"
+msgid "Tax Zone Settings"
+msgstr "Tax Zone Settings"
+
+msgctxt "TaxZoneName"
+msgid "Tax Zone Name"
+msgstr "Tax Zone Name"
+
+msgctxt "TaxZoneType"
+msgid "Tax Zone Type"
+msgstr "Tax Zone Type"
+
+msgctxt "TaxZoneTypeCountry"
+msgid "This tax zone is based on one or more countries"
+msgstr "This tax zone is based on one or more countries"
+
+msgctxt "TaxZoneTypeState"
+msgid "This tax zone is based on one or more states"
+msgstr "This tax zone is based on one or more states"
+
+msgctxt "ChooseCountriesBeforeStates"
+msgid "Please choose one or more countries first."
+msgstr "Please choose one or more countries first."
+
+msgctxt "TaxZoneTypeZip"
+msgid "This tax zone is based on one or more postal or ZIP codes"
+msgstr "This tax zone is based on one or more postal or ZIP codes"
+
+msgctxt "ZipCodes"
+msgid "ZIP/Postal Codes"
+msgstr "ZIP/Postal Codes"
+
+msgctxt "LearnMoreZipCodes"
+msgid "Learn more about using ZIP/postal codes"
+msgstr "Learn more about using ZIP/postal codes"
+
+msgctxt "Subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt "SubtotalAndShipping"
+msgid "Subtotal and Shipping"
+msgstr "Subtotal and Shipping"
+
+msgctxt "TaxZoneAppliesTo"
+msgid "Tax Zone Applies to"
+msgstr "Tax Zone Applies to"
+
+msgctxt "AllCustomersInStore"
+msgid "All customers in my store"
+msgstr "All customers in my store"
+
+msgctxt "OnlyTheseCustomerGroups"
+msgid "Only customers in these groups"
+msgstr "Only customers in these groups"
+
+msgctxt "NoCustomerGroupsCreate"
+msgid "To assign a tax zone to one or more customer groups, you first need to <a href='index.php?ToDo=createCustomerGroup'>create a customer group</a>."
+msgstr "To assign a tax zone to one or more customer groups, you first need to <a href='index.php?ToDo=createCustomerGroup'>create a customer group</a>."
+
+msgctxt "EnableTaxZone"
+msgid "Enable Tax Zone"
+msgstr "Enable Tax Zone"
+
+msgctxt "YesEnableTaxZone"
+msgid "Yes, enable this tax zone"
+msgstr "Yes, enable this tax zone"
+
+msgctxt "TaxRatesIntro"
+msgid "The tax rates for this zone are listed below. Add a new tax rate to this zone by clicking 'Add a Tax Rate'."
+msgstr "The tax rates for this zone are listed below. Add a new tax rate to this zone by clicking 'Add a Tax Rate'."
+
+msgctxt "NoTaxRatesCreateOne"
+msgid "No tax rates have been created for this tax zone. Please click 'Add a Tax Rate' to create a new tax rate."
+msgstr "No tax rates have been created for this tax zone. Please click 'Add a Tax Rate' to create a new tax rate."
+
+msgctxt "AddATaxRateButton"
+msgid "Add a Tax Rate..."
+msgstr "Add a Tax Rate..."
+
+msgctxt "Name"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "Rates"
+msgid "Rates"
+msgstr "Rates"
+
+msgctxt "CalculationPriority"
+msgid "Calculation Priority"
+msgstr "Calculation Priority"
+
+msgctxt "EditTaxRateTitle"
+msgid "Edit Tax Rate: :name in :zone"
+msgstr "Edit Tax Rate: :name in :zone"
+
+msgctxt "EditTaxRateIntro"
+msgid "Update this tax rate by filling in the form below."
+msgstr "Update this tax rate by filling in the form below."
+
+msgctxt "AddTaxRateTitle"
+msgid "Add a Tax Rate to :zone"
+msgstr "Add a Tax Rate to :zone"
+
+msgctxt "AddTaxRateIntro"
+msgid "Add a new tax rate for this zone using the form below."
+msgstr "Add a new tax rate for this zone using the form below."
+
+msgctxt "TaxRateSettings"
+msgid "Tax Rate Settings"
+msgstr "Tax Rate Settings"
+
+msgctxt "TaxRateName"
+msgid "Tax Rate Name"
+msgstr "Tax Rate Name"
+
+msgctxt "TaxClassRates"
+msgid "Tax Class Rates"
+msgstr "Tax Class Rates"
+
+msgctxt "ForProductsMarkedAsDefault"
+msgid "for products marked as Default Tax Class"
+msgstr "for products marked as Default Tax Class"
+
+msgctxt "ForProductsMarkedAsX"
+msgid "for products marked as :name"
+msgstr "for products marked as :name"
+
+msgctxt "AddMoreTaxClassesNote"
+msgid "(You can add more tax classes from Settings > Tax Settings > Tax Classes)"
+msgstr "(You can add more tax classes from Settings > Tax Settings > Tax Classes)"
+
+msgctxt "ReadThisArticleForMoreInformation"
+msgid "Read this article for more information"
+msgstr "Read this article for more information"
+
+msgctxt "ForYourReferenceExistingPriorities"
+msgid "For your reference, existing priorities are:"
+msgstr "For your reference, existing priorities are:"
+
+msgctxt "EnableTaxRate"
+msgid "Enable Tax Rate"
+msgstr "Enable Tax Rate"
+
+msgctxt "YesEnableTaxRate"
+msgid "Yes, enable this tax rate"
+msgstr "Yes, enable this tax rate"
+
+msgctxt "InvalidTaxSettingLabel"
+msgid "Please enter a tax label."
+msgstr "Please enter a tax label."
+
+msgctxt "InvalidTaxSettingCalculationBasedOn"
+msgid "Please choose which type of address tax calculations should be based on."
+msgstr "Please choose which type of address tax calculations should be based on."
+
+msgctxt "InvalidTaxSettingDefaultTaxDisplayCatalog"
+msgid "Please choose how tax should be displayed for product listings."
+msgstr "Please choose how tax should be displayed for product listings."
+
+msgctxt "InvalidTaxSettingDefaultTaxDisplayProducts"
+msgid "Please choose how tax should be displayed on product pages."
+msgstr "Please choose how tax should be displayed on product pages."
+
+msgctxt "InvalidTaxSettingDefaultTaxDisplayOrders"
+msgid "Please choose how tax should be displayed on orders."
+msgstr "Please choose how tax should be displayed on orders."
+
+msgctxt "InvalidTaxSettingTaxDefaultZone"
+msgid "Please choose a default tax zone"
+msgstr "Please choose a default tax zone"
+
+msgctxt "AddATaxZoneBreadcrumb"
+msgid "Add a Tax Zone"
+msgstr "Add a Tax Zone"
+
+msgctxt "ProblemSavingTaxZone"
+msgid "There was a problem saving your tax zone. Please try again."
+msgstr "There was a problem saving your tax zone. Please try again."
+
+msgctxt "TaxZoneCreated"
+msgid "The new tax zone was created successfully. You now need to create some tax rates."
+msgstr "The new tax zone was created successfully. You now need to create some tax rates."
+
+msgctxt "InvalidTaxZone"
+msgid "Please choose a valid tax zone."
+msgstr "Please choose a valid tax zone."
+
+msgctxt "TaxZoneUpdated"
+msgid "The updated tax zone has been saved successfully."
+msgstr "The updated tax zone has been saved successfully."
+
+msgctxt "SelectTaxZonesToDelete"
+msgid "Please select one or more tax zones to delete."
+msgstr "Please select one or more tax zones to delete."
+
+msgctxt "ProblemDeletingTaxZones"
+msgid "There was a problem deleting one or more tax zones. Please try again."
+msgstr "There was a problem deleting one or more tax zones. Please try again."
+
+msgctxt "TaxRatesDeleted"
+msgid "The selected tax rate(s) were deleted successfully."
+msgstr "The selected tax rate(s) were deleted successfully."
+
+msgctxt "AddTaxRateBreadcrumb"
+msgid "Add a Tax Rate"
+msgstr "Add a Tax Rate"
+
+msgctxt "TaxRateCreated"
+msgid "The new tax rate was saved successfully."
+msgstr "The new tax rate was saved successfully."
+
+msgctxt "InvalidTaxRate"
+msgid "Please choose a valid tax rate."
+msgstr "Please choose a valid tax rate."
+
+msgctxt "ProblemSavingTaxRate"
+msgid "There was a problem saving the tax rate. Please try again."
+msgstr "There was a problem saving the tax rate. Please try again."
+
+msgctxt "TaxRateUpdated"
+msgid "The tax rate was updated successfully."
+msgstr "The tax rate was updated successfully."
+
+msgctxt "TaxZoneCopied"
+msgid "The tax zone was copied successfully. You can edit the new tax zone below."
+msgstr "The tax zone was copied successfully. You can edit the new tax zone below."
+
+msgctxt "TaxRateCopied"
+msgid "The tax rate was copied successfully. You can edit the new tax rate below."
+msgstr "The tax rate was copied successfully. You can edit the new tax rate below."
+
+msgctxt "TaxZoneMissingName"
+msgid "Please enter a name for this tax zone."
+msgstr "Please enter a name for this tax zone."
+
+msgctxt "TaxZoneMissingBasedOn"
+msgid "Please select if tax calculations should be based on the subtotal or subtotal and shipping."
+msgstr "Please select if tax calculations should be based on the subtotal or subtotal and shipping."
+
+msgctxt "TaxZoneDuplicateName"
+msgid "There is already a tax zone with this name. Please choose another and try again."
+msgstr "There is already a tax zone with this name. Please choose another and try again."
+
+msgctxt "TaxZoneSelectType"
+msgid "Please select if this tax zone should be based on countries, states or ZIP codes."
+msgstr "Please select if this tax zone should be based on countries, states or ZIP codes."
+
+msgctxt "TaxZoneSelectOneMoreCountries"
+msgid "Please choose one or more countries."
+msgstr "Please choose one or more countries."
+
+msgctxt "TaxZoneDuplicateCountries"
+msgid "The following countries are already applied to another tax zone and cannot be applied to this tax zone: :countries"
+msgstr "The following countries are already applied to another tax zone and cannot be applied to this tax zone: :countries"
+
+msgctxt "TaxZoneSelectOneMoreStates"
+msgid "Please choose one or more states."
+msgstr "Please choose one or more states."
+
+msgctxt "TaxZoneDuplicateStates"
+msgid "The following states are already applied to another tax zone and cannot be applied to this tax zone: :states"
+msgstr "The following states are already applied to another tax zone and cannot be applied to this tax zone: :states"
+
+msgctxt "TaxZoneSelectCountry"
+msgid "Please choose a country."
+msgstr "Please choose a country."
+
+msgctxt "TaxZoneEnterOneMoreZipCodes"
+msgid "Please enter one or more ZIP/postal codes, separated by new lines."
+msgstr "Please enter one or more ZIP/postal codes, separated by new lines."
+
+msgctxt "TaxZoneDuplicateZipCodes"
+msgid "The following ZIP/postal codes are already applied to another tax zone and cannot be applied to this tax zone: :zipCodes"
+msgstr "The following ZIP/postal codes are already applied to another tax zone and cannot be applied to this tax zone: :zipCodes"
+
+msgctxt "TaxRateMissingZone"
+msgid "Please choose a valid tax zone for this tax rate."
+msgstr "Please choose a valid tax zone for this tax rate."
+
+msgctxt "TaxRateMissingName"
+msgid "Please enter a name for this tax rate."
+msgstr "Please enter a name for this tax rate."
+
+msgctxt "TaxRateDuplicateName"
+msgid "The name entered for this tax rate is already in use by another. Please choose another name and try again."
+msgstr "The name entered for this tax rate is already in use by another. Please choose another name and try again."
+
+msgctxt "InvalidTaxRateDefaultClass"
+msgid "Please enter a valid value for the default tax class rate."
+msgstr "Please enter a valid value for the default tax class rate."
+
+msgctxt "InvalidTaxRateXClass"
+msgid "Please enter a valid value for the :name tax class rate."
+msgstr "Please enter a valid value for the :name tax class rate."
+
+msgctxt "ConfirmDeleteTaxClass"
+msgid "Are you sure you wish to remove the selected tax class?\n\nClick OK to confirm."
+msgstr "Are you sure you wish to remove the selected tax class?\n\nClick OK to confirm."
+
+msgctxt "ConfirmDeleteTaxZones"
+msgid "Are you sure you want to delete the selected tax zone(s)?\n\nClick OK to confirm."
+msgstr "Are you sure you want to delete the selected tax zone(s)?\n\nClick OK to confirm."
+
+msgctxt "ConfirmDeleteTaxRates"
+msgid "Are you sure you want to delete the selected tax rate(s)?\n\nClick OK to confirm."
+msgstr "Are you sure you want to delete the selected tax rate(s)?\n\nClick OK to confirm."
+
+msgctxt "SelectTaxRatesToDelete"
+msgid "Please select one or more tax rates to delete."
+msgstr "Please select one or more tax rates to delete."
+
+msgctxt "TaxLabelHelp"
+msgid "Enter a general name that describes the type of tax applied to orders on your store. This will be shown throughout your store when prices are set to be shown as including and excluding tax, or when taxes on orders are shown as one summarized line item.<br /><br />Some suggested values include: Tax, Sales Tax, or GST."
+msgstr "Enter a general name that describes the type of tax applied to orders on your store. This will be shown throughout your store when prices are set to be shown as including and excluding tax, or when taxes on orders are shown as one summarized line item.<br /><br />Some suggested values include: Tax, Sales Tax, or GST."
+
+msgctxt "PricesEnteredWithTaxHelp"
+msgid "Choose <strong>Yes, I will enter prices inclusive of tax</strong> if you will be entering your product prices with the tax component already applied, or <strong>No, I will enter prices exclusive of tax</strong> if the product prices you will be entering do not already include tax."
+msgstr "Choose <strong>Yes, I will enter prices inclusive of tax</strong> if you will be entering your product prices with the tax component already applied, or <strong>No, I will enter prices exclusive of tax</strong> if the product prices you will be entering do not already include tax."
+
+msgctxt "CalculateTaxBasedOnHelp"
+msgid "This setting controls which address should be used to determine the tax zone that a customer falls under.<br /><br />Choose <strong>Billing Address</strong> to determine a customer's tax zone based on their order's billing address, or <strong>Shipping Address</strong> to base the applicable tax zone on a customer's shipping address.<br /><br />If tax zones should be determined by your store's address, choose <strong>Store Address</strong>."
+msgstr "This setting controls which address should be used to determine the tax zone that a customer falls under.<br /><br />Choose <strong>Billing Address</strong> to determine a customer's tax zone based on their order's billing address, or <strong>Shipping Address</strong> to base the applicable tax zone on a customer's shipping address.<br /><br />If tax zones should be determined by your store's address, choose <strong>Store Address</strong>."
+
+msgctxt "InStorePricesShouldBeHelp"
+msgid "Choose how prices should be shown on your store front, either including tax calculations, excluding tax calculations or on product detail pages, shown both including and excluding applied taxes."
+msgstr "Choose how prices should be shown on your store front, either including tax calculations, excluding tax calculations or on product detail pages, shown both including and excluding applied taxes."
+
+msgctxt "ShowTaxChargesOnOrdersHelp"
+msgid "This setting controls how the list of applied taxes on an order should be shown to customers on invoices, and in your store's control panel.<br /><br />Choose <strong>As one summarized line item</strong> to show a single combined tax total on an order with the 'Tax Label' specified above, or <strong>Broken down by tax rate</strong> to show a detailed tax summary of each tax rate and the amount that applied to an order."
+msgstr "This setting controls how the list of applied taxes on an order should be shown to customers on invoices, and in your store's control panel.<br /><br />Choose <strong>As one summarized line item</strong> to show a single combined tax total on an order with the 'Tax Label' specified above, or <strong>Broken down by tax rate</strong> to show a detailed tax summary of each tax rate and the amount that applied to an order."
+
+msgctxt "TaxZoneNameHelp"
+msgid "Enter a name that describes this tax zone (such as California, or Australia). This name is for your reference only and will not be shown to customers."
+msgstr "Enter a name that describes this tax zone (such as California, or Australia). This name is for your reference only and will not be shown to customers."
+
+msgctxt "CalculateTaxBasedOnZoneHelp"
+msgid "Choose <strong>Subtotal</strong> for taxes calculated within this zone to be based purely on the subtotal of an order.<br /><br />If the taxes calculated in this zone should be based on the subtotal of an order as well as the shipping cost, choose <strong>Subtotal and Shipping</strong>."
+msgstr "Choose <strong>Subtotal</strong> for taxes calculated within this zone to be based purely on the subtotal of an order.<br /><br />If the taxes calculated in this zone should be based on the subtotal of an order as well as the shipping cost, choose <strong>Subtotal and Shipping</strong>."
+
+msgctxt "TaxZoneAppliesToHelp"
+msgid "Choose if you'd like to apply this tax rate all customers in your store, or customers that are members of certain customer groups. (such as Wholesalers and Distributors)"
+msgstr "Choose if you'd like to apply this tax rate all customers in your store, or customers that are members of certain customer groups. (such as Wholesalers and Distributors)"
+
+msgctxt "TaxRateNameHelp"
+msgid "A name that describes this tax rate (such as GST, PST, etc). This will be shown on the order-summary breakdown."
+msgstr "A name that describes this tax rate (such as GST, PST, etc). This will be shown on the order-summary breakdown."
+
+msgctxt "CalculationPriorityHelp"
+msgid "Enter a number which represents the priority in which this tax rate should be calculated against other tax rates in this zone.<br /><br />For tax rates in this zone that share the same priority, tax calculations be added together.<br /><br />For tax rates in this zone with different priorities, the tax calculations will be compounded in order of the priority from the highest priority (lowest number), to the lowest priority (highest number)."
+msgstr "Enter a number which represents the priority in which this tax rate should be calculated against other tax rates in this zone.<br /><br />For tax rates in this zone that share the same priority, tax calculations be added together.<br /><br />For tax rates in this zone with different priorities, the tax calculations will be compounded in order of the priority from the highest priority (lowest number), to the lowest priority (highest number)."
+
+msgctxt "TaxZones"
+msgid "Tax Zones"
+msgstr "Tax Zones"
+
+msgctxt "TaxZoneTypeDefault"
+msgid "This tax zone applies to any other location not already assigned to another zone."
+msgstr "This tax zone applies to any other location not already assigned to another zone."
+
+msgctxt "ConfigureDefaultTaxAddress"
+msgid "Configure Default Tax Address"
+msgstr "Configure Default Tax Address"
+
+msgctxt "ZipCode"
+msgid "Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+msgctxt "ChooseACountry"
+msgid "-- Choose a Country --"
+msgstr "-- Choose a Country --"
+
+msgctxt "ChooseAState"
+msgid "-- Choose a State --"
+msgstr "-- Choose a State --"
+
+msgctxt "ApplyPendingTaxChanges"
+msgid "One or more tax settings have recently been changed that require your product prices to be rebuilt. Once you're finished making changes, <a href=# class=applyTaxChagesLink>rebuild your product prices</a>."
+msgstr "One or more tax settings have recently been changed that require your product prices to be rebuilt. Once you're finished making changes, <a href=# class=applyTaxChagesLink>rebuild your product prices</a>."
+
+msgctxt "TaxPricingRebuilt"
+msgid "Your product prices have been updated successfully to include recent tax changes."
+msgstr "Your product prices have been updated successfully to include recent tax changes."
+
+msgctxt "ErrorRebuildingTaxPrices"
+msgid "An error occurred while updating tax pricing. Please try again."
+msgstr "An error occurred while updating tax pricing. Please try again."
+
+msgctxt "RebuildingProductPrices"
+msgid "Rebuilding Product Prices..."
+msgstr "Rebuilding Product Prices..."
+
+msgctxt "RebuildingProductPricesIntro"
+msgid "Please wait while the prices for the products on your store are updated to include your recent tax changes."
+msgstr "Please wait while the prices for the products on your store are updated to include your recent tax changes."
+
+msgctxt "SoFar"
+msgid "So far:"
+msgstr "So far:"
+
+msgctxt "RebuildingProductPricesNumRemoved"
+msgid "unused prices have been removed"
+msgstr "unused prices have been removed"
+
+msgctxt "RebuildingProductPricesNumUpdated"
+msgid "prices have been updated"
+msgstr "prices have been updated"
+
+msgctxt "WizardTaxSettings"
+msgid "Tax Settings"
+msgstr "Tax Settings"
+
+msgctxt "WizardTaxSettingsDesc"
+msgid "During this step you will choose how tax should be applied to products in your store, configure different types taxable products (tax classes), and set up tax based on one or more countries, states, or post codes with tax zones."
+msgstr "During this step you will choose how tax should be applied to products in your store, configure different types taxable products (tax classes), and set up tax based on one or more countries, states, or post codes with tax zones."
+
+msgctxt "ConfigureTaxDisplaySettings"
+msgid "Configure Tax Display Settings"
+msgstr "Configure Tax Display Settings"
+
+msgctxt "ShippingTaxClass"
+msgid "Shipping Tax Class"
+msgstr "Shipping Tax Class"
+
+msgctxt "ShippingTaxClassHelp"
+msgid "Choose the tax class (configured using the <em>Tax Classes</em> tab above) that taxes for shipping costs should be calculated using.<br /><br />Charging shipping costs using a different tax class will allow you to tax shipping at a higher rate, or not at all."
+msgstr "Choose the tax class (configured using the <em>Tax Classes</em> tab above) that taxes for shipping costs should be calculated using.<br /><br />Charging shipping costs using a different tax class will allow you to tax shipping at a higher rate, or not at all."
+
+msgctxt "GiftWrappingTaxClass"
+msgid "Gift Wrapping Tax Class"
+msgstr "Gift Wrapping Tax Class"
+
+msgctxt "GiftWrappingTaxClassHelp"
+msgid "Choose the tax class (configured using the <em>Tax Classes</em> tab above) that taxes for gift wrapping applied to products should be calculated using.<br /><br />Charging gift wrapping using a different tax class will allow you to tax gift wrapping at a higher rate, or not at all."
+msgstr "Choose the tax class (configured using the <em>Tax Classes</em> tab above) that taxes for gift wrapping applied to products should be calculated using.<br /><br />Charging gift wrapping using a different tax class will allow you to tax gift wrapping at a higher rate, or not at all."
+
+msgctxt "ShowTaxChargesInCart"
+msgid "Show Tax Charges in Cart"
+msgstr "Show Tax Charges in Cart"
+
+msgctxt "ShowTaxChargesInCartHelp"
+msgid "This setting controls how the list of applied taxes on a customer's cart should be shown on the <em>View Cart</em> page.<br /><br />Choose <strong>As one summarized line item</strong> to show a single combined tax total in the cart with the 'Tax Label' specified above, or <strong>Broken down by tax rate</strong> to show a detailed tax summary of each tax rate and the amount that applies to the cart."
+msgstr "This setting controls how the list of applied taxes on a customer's cart should be shown on the <em>View Cart</em> page.<br /><br />Choose <strong>As one summarized line item</strong> to show a single combined tax total in the cart with the 'Tax Label' specified above, or <strong>Broken down by tax rate</strong> to show a detailed tax summary of each tax rate and the amount that applies to the cart."
+
+msgctxt "TaxZoneSelectOneMoreGroups"
+msgid "Please select one or more customer groups that this tax zone should apply to."
+msgstr "Please select one or more customer groups that this tax zone should apply to."
+
+msgctxt "TaxZoneInvalidGroupsSelected"
+msgid "One or more of the selected customer groups for this tax zone are invalid. Please make your selection again."
+msgstr "One or more of the selected customer groups for this tax zone are invalid. Please make your selection again."
+
+msgctxt "InvalidTaxRatePriority"
+msgid "Please enter a valid calculation priority, consisting only of numbers."
+msgstr "Please enter a valid calculation priority, consisting only of numbers."
+
+msgctxt "InvalidTaxRateClassRate"
+msgid "Please enter a valid tax rate, between 0 and 100."
+msgstr "Please enter a valid tax rate, between 0 and 100."
+
+msgctxt "DefaultZoneWhatDoesThisMean"
+msgid "The default zone applies to any locations that you haven't created tax zones for."
+msgstr "The default zone applies to any locations that you haven't created tax zones for."
+
+msgctxt "ConfigureDefaultTaxAddressHelp"
+msgid "This is the address that will be used to determine the tax zone to be used for all tax calculations throughout your store, until a customer checks out or estimates applied taxes on the <em>View Cart</em> page.<br /><br />If the majority of your customer's are from a specific location, this address will allow you to show your store inclusive of all taxes that apply to that location, and when the customer makes a purchase, applied taxes will then be calculated using their address rather than this default address.<br /><br />If you've selected <em>Yes, I will enter prices inclusive of tax</em> above, then it will be assumed that product prices entered inclusive of tax contain the tax component that this default address falls under."
+msgstr "This is the address that will be used to determine the tax zone to be used for all tax calculations throughout your store, until a customer checks out or estimates applied taxes on the <em>View Cart</em> page.<br /><br />If the majority of your customer's are from a specific location, this address will allow you to show your store inclusive of all taxes that apply to that location, and when the customer makes a purchase, applied taxes will then be calculated using their address rather than this default address.<br /><br />If you've selected <em>Yes, I will enter prices inclusive of tax</em> above, then it will be assumed that product prices entered inclusive of tax contain the tax component that this default address falls under."
+
+msgctxt "AllStates"
+msgid "-- All States & Provinces --"
+msgstr "-- All States & Provinces --"
+
+msgctxt "InvalidTaxSettingTaxDefaultState"
+msgid "Please select a state for the default tax address."
+msgstr "Please select a state for the default tax address."
+
+msgctxt "InvalidTaxSettingTaxDefaultCountry"
+msgid "Please select a country for the default tax address."
+msgstr "Please select a country for the default tax address."

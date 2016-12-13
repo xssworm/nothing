@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "AddonsIntro"
+msgid "Addons add extra functionality to your store. You can browse and access addons below, or configure them from the Addons -> Addon Settings page."
+msgstr "Addons add extra functionality to your store. You can browse and access addons below, or configure them from the Addons -> Addon Settings page."
+
+msgctxt "AddonsYouveDownloaded"
+msgid "Installed Addons"
+msgstr "Installed Addons"
+
+msgctxt "AddonsAvailableForDownload"
+msgid "Addons Available for Download"
+msgstr "Addons Available for Download"
+
+msgctxt "RunThisAddon"
+msgid "Run this Addon"
+msgstr "Run this Addon"
+
+msgctxt "AddonSettings"
+msgid "Addon Settings"
+msgstr "Addon Settings"
+
+msgctxt "AddonModuleMustBeEnabled"
+msgid "The %s addon must be enabled and configured before it can be accessed. Click OK to go to the addon settings page and enable it."
+msgstr "The %s addon must be enabled and configured before it can be accessed. Click OK to go to the addon settings page and enable it."
+
+msgctxt "NoAddons"
+msgid "<em>You haven't downloaded any addon packages yet. When you do they will appear here.</em>"
+msgstr "<em>You haven't downloaded any addon packages yet. When you do they will appear here.</em>"
+
+msgctxt "DownloadAddonPaid"
+msgid "Purchase ($%s)"
+msgstr "Purchase ($%s)"
+
+msgctxt "DownloadAddonFree"
+msgid "Download (Free)"
+msgstr "Download (Free)"
+
+msgctxt "AddonMoreInfo"
+msgid "More Information"
+msgstr "More Information"
+
+msgctxt "NoNewAddons"
+msgid "<em>There are no new addons available for download.</em>"
+msgstr "<em>There are no new addons available for download.</em>"
+
+msgctxt "WouldLikeToPurchaseAddon"
+msgid "I Would Like to Purchase this Addon"
+msgstr "I Would Like to Purchase this Addon"
+
+msgctxt "AddonPurchaseText"
+msgid "This addon can be purchased for $%s USD by clicking the purchase button below. When you've purchased you will be able to generate a license key which you should copy into the text box below."
+msgstr "This addon can be purchased for $%s USD by clicking the purchase button below. When you've purchased you will be able to generate a license key which you should copy into the text box below."
+
+msgctxt "PurchaseAddon"
+msgid "Purchase Addon"
+msgstr "Purchase Addon"
+
+msgctxt "AlreadyPaidAddon"
+msgid "I've Already Paid for this Addon"
+msgstr "I've Already Paid for this Addon"
+
+msgctxt "EnterAddonLicenseKey"
+msgid "Enter your license key for this addon in the text box below and click the download button."
+msgstr "Enter your license key for this addon in the text box below and click the download button."
+
+msgctxt "DownloadAddon"
+msgid "Download Addon"
+msgstr "Download Addon"
+
+msgctxt "AddonNoKey"
+msgid "You forgot to enter your license key."
+msgstr "You forgot to enter your license key."
+
+msgctxt "AddonInvalidKey"
+msgid "The license key you entered is invalid for the selected addon."
+msgstr "The license key you entered is invalid for the selected addon."
+
+msgctxt "DownloadingAddonPleaseWait"
+msgid "Downloading Addon. Please Wait..."
+msgstr "Downloading Addon. Please Wait..."
+
+msgctxt "AddonDownloadZipFailed"
+msgid "The addon couldn't be downloaded. Please make sure you entered a valid license key and try again."
+msgstr "The addon couldn't be downloaded. Please make sure you entered a valid license key and try again."
+
+msgctxt "AddonTempFolderNotWritable"
+msgid "The /cache folder isn't writable. Please CHMOD it to 777 and try again."
+msgstr "The /cache folder isn't writable. Please CHMOD it to 777 and try again."
+
+msgctxt "AddonFolderNotWritable"
+msgid "The /addons folder isn't writable. Please CHMOD it to 777 and try again."
+msgstr "The /addons folder isn't writable. Please CHMOD it to 777 and try again."
+
+msgctxt "AddonUnzipFailed"
+msgid "The addon couldn't be unzipped. Make sure your /addons folder is writable (CHMOD 777) and try again."
+msgstr "The addon couldn't be unzipped. Make sure your /addons folder is writable (CHMOD 777) and try again."
+
+msgctxt "NewAddonDownloaded"
+msgid "The selected addon has been downloaded and installed successfully."
+msgstr "The selected addon has been downloaded and installed successfully."
+
+msgctxt "AddonPackages"
+msgid "Addons"
+msgstr "Addons"
+
+msgctxt "CouldNotReachAddonServer"
+msgid "<em>The addon download server could not be contacted. Your web server may be restricted by a firewall. Please contact your hosting provider.</em>"
+msgstr "<em>The addon download server could not be contacted. Your web server may be restricted by a firewall. Please contact your hosting provider.</em>"

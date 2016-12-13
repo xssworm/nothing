@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "TypeTitle"
+msgid "Orders"
+msgstr "Orders"
+
+msgctxt "orderID"
+msgid "Order ID"
+msgstr "Order ID"
+
+msgctxt "orderStatus"
+msgid "Order Status"
+msgstr "Order Status"
+
+msgctxt "orderDate"
+msgid "Order Date"
+msgstr "Order Date"
+
+msgctxt "orderSubtotalInc"
+msgid "Subtotal (inc tax)"
+msgstr "Subtotal (inc tax)"
+
+msgctxt "orderSubtotalEx"
+msgid "Subtotal (ex tax)"
+msgstr "Subtotal (ex tax)"
+
+msgctxt "orderTaxtotal"
+msgid "Tax Total"
+msgstr "Tax Total"
+
+msgctxt "orderTaxRate"
+msgid "Tax Rate"
+msgstr "Tax Rate"
+
+msgctxt "orderTaxName"
+msgid "Tax Name"
+msgstr "Tax Name"
+
+msgctxt "orderShipCostInc"
+msgid "Shipping Cost (inc tax)"
+msgstr "Shipping Cost (inc tax)"
+
+msgctxt "orderShipCostEx"
+msgid "Shipping Cost (ex tax)"
+msgstr "Shipping Cost (ex tax)"
+
+msgctxt "orderHandlingCostInc"
+msgid "Handling Cost (inc tax)"
+msgstr "Handling Cost (inc tax)"
+
+msgctxt "orderHandlingCostEx"
+msgid "Handling Cost (ex tax)"
+msgstr "Handling Cost (ex tax)"
+
+msgctxt "orderTotalAmountInc"
+msgid "Order Total (inc tax)"
+msgstr "Order Total (inc tax)"
+
+msgctxt "orderTotalAmountEx"
+msgid "Order Total (ex tax)"
+msgstr "Order Total (ex tax)"
+
+msgctxt "orderCustomerID"
+msgid "Customer ID"
+msgstr "Customer ID"
+
+msgctxt "orderShipMethod"
+msgid "Ship Method"
+msgstr "Ship Method"
+
+msgctxt "orderPayMethod"
+msgid "Payment Method"
+msgstr "Payment Method"
+
+msgctxt "orderTotalQty"
+msgid "Total Quantity"
+msgstr "Total Quantity"
+
+msgctxt "orderTotalShipped"
+msgid "Total Shipped"
+msgstr "Total Shipped"
+
+msgctxt "orderDateShipped"
+msgid "Date Shipped"
+msgstr "Date Shipped"
+
+msgctxt "orderTrackingNo"
+msgid "Tracking No"
+msgstr "Tracking No"
+
+msgctxt "billName"
+msgid "Billing Name"
+msgstr "Billing Name"
+
+msgctxt "billFirstName"
+msgid "Billing First Name"
+msgstr "Billing First Name"
+
+msgctxt "billLastName"
+msgid "Billing Last Name"
+msgstr "Billing Last Name"
+
+msgctxt "billCompany"
+msgid "Billing Company"
+msgstr "Billing Company"
+
+msgctxt "billStreet1"
+msgid "Billing Street 1"
+msgstr "Billing Street 1"
+
+msgctxt "billStreet2"
+msgid "Billing Street 2"
+msgstr "Billing Street 2"
+
+msgctxt "billSuburb"
+msgid "Billing Suburb"
+msgstr "Billing Suburb"
+
+msgctxt "billState"
+msgid "Billing State"
+msgstr "Billing State"
+
+msgctxt "billStateAbbrv"
+msgid "Billing State Abbreviation"
+msgstr "Billing State Abbreviation"
+
+msgctxt "billZip"
+msgid "Billing Zip"
+msgstr "Billing Zip"
+
+msgctxt "billCountry"
+msgid "Billing Country"
+msgstr "Billing Country"
+
+msgctxt "billSSC"
+msgid "Billing Suburb + State + Zip"
+msgstr "Billing Suburb + State + Zip"
+
+msgctxt "billPhone"
+msgid "Billing Phone"
+msgstr "Billing Phone"
+
+msgctxt "billEmail"
+msgid "Billing Email"
+msgstr "Billing Email"
+
+msgctxt "billFormFields"
+msgid "Billing Form Fields"
+msgstr "Billing Form Fields"
+
+msgctxt "billFormFieldsFormat"
+msgid "Billing %s"
+msgstr "Billing %s"
+
+msgctxt "shipName"
+msgid "Shipping Name"
+msgstr "Shipping Name"
+
+msgctxt "shipFirstName"
+msgid "Shipping First Name"
+msgstr "Shipping First Name"
+
+msgctxt "shipLastName"
+msgid "Shipping Last Name"
+msgstr "Shipping Last Name"
+
+msgctxt "shipCompany"
+msgid "Shipping Company"
+msgstr "Shipping Company"
+
+msgctxt "shipStreet1"
+msgid "Shipping Street 1"
+msgstr "Shipping Street 1"
+
+msgctxt "shipStreet2"
+msgid "Shipping Street 2"
+msgstr "Shipping Street 2"
+
+msgctxt "shipSuburb"
+msgid "Shipping Suburb"
+msgstr "Shipping Suburb"
+
+msgctxt "shipState"
+msgid "Shipping State"
+msgstr "Shipping State"
+
+msgctxt "shipStateAbbrv"
+msgid "Shipping State Abbreviation"
+msgstr "Shipping State Abbreviation"
+
+msgctxt "shipZip"
+msgid "Shipping Zip"
+msgstr "Shipping Zip"
+
+msgctxt "shipCountry"
+msgid "Shipping Country"
+msgstr "Shipping Country"
+
+msgctxt "shipSSC"
+msgid "Shipping Suburb + State + Zip"
+msgstr "Shipping Suburb + State + Zip"
+
+msgctxt "shipPhone"
+msgid "Shipping Phone"
+msgstr "Shipping Phone"
+
+msgctxt "shipEmail"
+msgid "Shipping Email"
+msgstr "Shipping Email"
+
+msgctxt "shipFormFields"
+msgid "Shipping Form Fields"
+msgstr "Shipping Form Fields"
+
+msgctxt "shipFormFieldsFormat"
+msgid "Shipping %s"
+msgstr "Shipping %s"
+
+msgctxt "orderProdID"
+msgid "Product ID"
+msgstr "Product ID"
+
+msgctxt "orderProdDetails"
+msgid "Product Details"
+msgstr "Product Details"
+
+msgctxt "orderProdQty"
+msgid "Product Qty"
+msgstr "Product Qty"
+
+msgctxt "orderProdSKU"
+msgid "Product SKU"
+msgstr "Product SKU"
+
+msgctxt "orderProdName"
+msgid "Product Name"
+msgstr "Product Name"
+
+msgctxt "orderProdVariationDetails"
+msgid "Product Variation Details"
+msgstr "Product Variation Details"
+
+msgctxt "orderProdPrice"
+msgid "Product Unit Price"
+msgstr "Product Unit Price"
+
+msgctxt "orderProdTotalPrice"
+msgid "Product Total Price"
+msgstr "Product Total Price"
+
+msgctxt "orderProdIndex"
+msgid "Product Index"
+msgstr "Product Index"
+
+msgctxt "orderProdWeight"
+msgid "Product Weight"
+msgstr "Product Weight"
+
+msgctxt "orderPTTaxType"
+msgid "Peachtree Tax Type"
+msgstr "Peachtree Tax Type"
+
+msgctxt "orderNotes"
+msgid "Order Notes"
+msgstr "Order Notes"
+
+msgctxt "orderCurrency"
+msgid "Order Currency Code"
+msgstr "Order Currency Code"
+
+msgctxt "orderExchangeRate"
+msgid "Exchange Rate"
+msgstr "Exchange Rate"
+
+msgctxt "orderCustMessage"
+msgid "Customer Message"
+msgstr "Customer Message"
+
+msgctxt "orderTodaysDate"
+msgid "Todays Date"
+msgstr "Todays Date"
+
+msgctxt "orderAccountsReceivable"
+msgid "Peachtree Accounts Receivable Account"
+msgstr "Peachtree Accounts Receivable Account"
+
+msgctxt "orderGLAccount"
+msgid "Peachtree General Ledger Account"
+msgstr "Peachtree General Ledger Account"
+
+msgctxt "orderProductCount"
+msgid "# Unique Products in Order"
+msgstr "# Unique Products in Order"
+
+msgctxt "orderCustomerName"
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgctxt "orderCustomerEmail"
+msgid "Customer Email"
+msgstr "Customer Email"
+
+msgctxt "orderCustomerPhone"
+msgid "Customer Phone"
+msgstr "Customer Phone"

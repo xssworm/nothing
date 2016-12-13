@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "websiteUsingTemplateStart"
+msgid "Your store's is now using the"
+msgstr "Your store's is now using the"
+
+msgctxt "websiteUsingTemplateEnd"
+msgid "template."
+msgstr "template."
+
+msgctxt "anErrorOccurred"
+msgid "An Error has Occurred: "
+msgstr "An Error has Occurred: "
+
+msgctxt "confirmDownloadTemplates"
+msgid "Important Note: By downloading this new store design you will completely override your current store design files which will *not* be recoverable. If you have made any modifications to your current template then you should backup your current template before continuing.\n\nTo download this store design, click \'OK\'. To keep the current version, click the \'Cancel\' button."
+msgstr "Important Note: By downloading this new store design you will completely override your current store design files which will *not* be recoverable. If you have made any modifications to your current template then you should backup your current template before continuing.\n\nTo download this store design, click \'OK\'. To keep the current version, click the \'Cancel\' button."
+
+msgctxt "checkingVersion"
+msgid "Checking Version..."
+msgstr "Checking Version..."
+
+msgctxt "customisationGuideLink"
+msgid "Click here to read the template customization guide."
+msgstr "Click here to read the template customization guide."
+
+msgctxt "customisationGuideLinkIntro"
+msgid "It explains how the template system works and how you can customize the templates to your liking."
+msgstr "It explains how the template system works and how you can customize the templates to your liking."
+
+msgctxt "NoZLibInstalled"
+msgid "You needs PHP's ZLib extension enabled before you can install store designs. Please ask your web host to install ZLib and then refresh this page to install templates."
+msgstr "You needs PHP's ZLib extension enabled before you can install store designs. Please ask your web host to install ZLib and then refresh this page to install templates."
+
+msgctxt "TemplateDoesntExist"
+msgid "The selected store design does not exist or cannot be found."
+msgstr "The selected store design does not exist or cannot be found."
+
+msgctxt "ViewTemplates"
+msgid "View Templates"
+msgstr "View Templates"
+
+msgctxt "TemplateIntro"
+msgid "Your store's design is based on the template shown below. You can switch to a different store design, install a new store design or modify your existing store design below."
+msgstr "Your store's design is based on the template shown below. You can switch to a different store design, install a new store design or modify your existing store design below."
+
+msgctxt "TemplateFiles"
+msgid "Files"
+msgstr "Files"
+
+msgctxt "TemplateEdit"
+msgid "Edit this file"
+msgstr "Edit this file"
+
+msgctxt "TemplateRestore"
+msgid "Restore original version of this file"
+msgstr "Restore original version of this file"
+
+msgctxt "RestoreOriginal"
+msgid "Restore Original"
+msgstr "Restore Original"
+
+msgctxt "TemplateCancelMessage"
+msgid "Are you sure you want to cancel editing the current file? Click OK to confirm."
+msgstr "Are you sure you want to cancel editing the current file? Click OK to confirm."
+
+msgctxt "NoTemplateData"
+msgid "Please enter some file content."
+msgstr "Please enter some file content."
+
+msgctxt "EditTemplateTitle"
+msgid "Edit File"
+msgstr "Edit File"
+
+msgctxt "EditTemplateIntro"
+msgid "Edit this file and click &quot;Save&quot;, or click &quot;Cancel&quot; to keep the existing file."
+msgstr "Edit this file and click &quot;Save&quot;, or click &quot;Cancel&quot; to keep the existing file."
+
+msgctxt "TemplateContent"
+msgid "Contents of &quot;%s&quot;"
+msgstr "Contents of &quot;%s&quot;"
+
+msgctxt "TemplateUpdatedSuccessfully"
+msgid "The file &quot;%s&quot; has been saved successfully."
+msgstr "The file &quot;%s&quot; has been saved successfully."
+
+msgctxt "ConfirmRestoreTemplate"
+msgid "Are you sure you want to restore the selected file? Click OK to confirm."
+msgstr "Are you sure you want to restore the selected file? Click OK to confirm."
+
+msgctxt "TemplateRestoredSuccessfully"
+msgid "The file &quot;%s&quot; has been successfully restored."
+msgstr "The file &quot;%s&quot; has been successfully restored."
+
+msgctxt "TemplateNotSaved"
+msgid "An error occurred while trying to save the file &quot;%s&quot;. Is it writable?"
+msgstr "An error occurred while trying to save the file &quot;%s&quot;. Is it writable?"
+
+msgctxt "LayoutFiles"
+msgid "Layout Files"
+msgstr "Layout Files"
+
+msgctxt "FileType"
+msgid "File Type"
+msgstr "File Type"
+
+msgctxt "ExpandLayoutFiles"
+msgid "Click here to view layout files for this store design"
+msgstr "Click here to view layout files for this store design"
+
+msgctxt "PanelFiles"
+msgid "Panel Files"
+msgstr "Panel Files"
+
+msgctxt "ExpandPanelFiles"
+msgid "Click here to view panel files for this store design"
+msgstr "Click here to view panel files for this store design"
+
+msgctxt "HTMLTemplateFile"
+msgid "HTML Template File"
+msgstr "HTML Template File"
+
+msgctxt "HTMLPanelFile"
+msgid "HTML Panel File"
+msgstr "HTML Panel File"
+
+msgctxt "PHPPanelFile"
+msgid "PHP Panel File"
+msgstr "PHP Panel File"
+
+msgctxt "SnippetFiles"
+msgid "Snippet Files"
+msgstr "Snippet Files"
+
+msgctxt "ExpandSnippetFiles"
+msgid "Click here to view snippet files for this store design"
+msgstr "Click here to view snippet files for this store design"
+
+msgctxt "SelectThisTemplate"
+msgid "Select Template"
+msgstr "Select Template"
+
+msgctxt "PreviewLargeImage"
+msgid "Click here to see a preview of this template"
+msgstr "Click here to see a preview of this template"
+
+msgctxt "ApplyThisTemplate"
+msgid "Apply this Template"
+msgstr "Apply this Template"
+
+msgctxt "TemplateChoiceIntro"
+msgid "All available store designs for your site are shown below. Click on a store design to enable it."
+msgstr "All available store designs for your site are shown below. Click on a store design to enable it."
+
+msgctxt "ChooseTemplate"
+msgid "Choose a Store Design"
+msgstr "Choose a Store Design"
+
+msgctxt "TemplateHelp"
+msgid "Template Help"
+msgstr "Template Help"
+
+msgctxt "TplPerPage"
+msgid "Designs Per Page"
+msgstr "Designs Per Page"
+
+msgctxt "Template"
+msgid "Template"
+msgstr "Template"
+
+msgctxt "PurchaseThe"
+msgid "Purchase the"
+msgstr "Purchase the"
+
+msgctxt "EnterLicense"
+msgid "Enter your license key in the text box below to install this store design"
+msgstr "Enter your license key in the text box below to install this store design"
+
+msgctxt "WouldLikeToPurchase"
+msgid "I Would Like to Purchase this Template"
+msgstr "I Would Like to Purchase this Template"
+
+msgctxt "IAlreadyPurchased"
+msgid "I've Already Paid for this Template"
+msgstr "I've Already Paid for this Template"
+
+msgctxt "DownloadComplete"
+msgid "Installation Complete"
+msgstr "Installation Complete"
+
+msgctxt "NoKeyEntered"
+msgid "No Key Entered. Please insert your license key into the text box."
+msgstr "No Key Entered. Please insert your license key into the text box."
+
+msgctxt "CurrentTemplate"
+msgid "Current Store Design"
+msgstr "Current Store Design"
+
+msgctxt "CheckNewVersion"
+msgid "Check for New Version..."
+msgstr "Check for New Version..."
+
+msgctxt "BrowseTemplateFiles"
+msgid "Browse Template Files..."
+msgstr "Browse Template Files..."
+
+msgctxt "CurrentTemplateLatest"
+msgid "You already have the latest version of this store design."
+msgstr "You already have the latest version of this store design."
+
+msgctxt "NewVersionAvailable"
+msgid "A new version (%%VERSION%%) of this store design is available for download."
+msgstr "A new version (%%VERSION%%) of this store design is available for download."
+
+msgctxt "DownloadNewVersion"
+msgid "Install New Version"
+msgstr "Install New Version"
+
+msgctxt "TemplateFilesLocated"
+msgid "Files for this store design are located in: /templates/"
+msgstr "Files for this store design are located in: /templates/"
+
+msgctxt "TemplateErrorOccured1"
+msgid "An error occurred while trying to retrieve the list of store designs. Please try again."
+msgstr "An error occurred while trying to retrieve the list of store designs. Please try again."
+
+msgctxt "TemplatesDeletedSuccessfully"
+msgid "The selected store designs have been deleted successfully."
+msgstr "The selected store designs have been deleted successfully."
+
+msgctxt "DownloadPleaseWait"
+msgid "Installing the %s store design..."
+msgstr "Installing the %s store design..."
+
+msgctxt "TempDirWriteError"
+msgid "Your /cache folder is not writable. Please CHMOD this folder to 757 and try again."
+msgstr "Your /cache folder is not writable. Please CHMOD this folder to 757 and try again."
+
+msgctxt "TemplateUnlinkError"
+msgid "Your /templates/%s folder couldn't be deleted. It needs to be deleted before the new version of the store design can be installed. Please CHMOD this folder to 757 and try again."
+msgstr "Your /templates/%s folder couldn't be deleted. It needs to be deleted before the new version of the store design can be installed. Please CHMOD this folder to 757 and try again."
+
+msgctxt "TemplateDirWriteError"
+msgid "Your templates folder is not writable. Please CHMOD this folder to 757 and try again."
+msgstr "Your templates folder is not writable. Please CHMOD this folder to 757 and try again."
+
+msgctxt "TemplatesDownloadedOK"
+msgid "The selected store design has been installed and installed successfully!"
+msgstr "The selected store design has been installed and installed successfully!"
+
+msgctxt "TemplateDownloadError"
+msgid "An unknown error occurred while trying to install the selected store design. Please try again."
+msgstr "An unknown error occurred while trying to install the selected store design. Please try again."
+
+msgctxt "InvalidTemplateSelected"
+msgid "The store design that you attempted to install is not valid."
+msgstr "The store design that you attempted to install is not valid."
+
+msgctxt "PurchaseTemplate"
+msgid "Purchase for"
+msgstr "Purchase for"
+
+msgctxt "SkipTpl"
+msgid "Skip"
+msgstr "Skip"
+
+msgctxt "InsertLicense"
+msgid "Insert License Key"
+msgstr "Insert License Key"
+
+msgctxt "InvalidKey"
+msgid "Invalid License Key! Installation stopped."
+msgstr "Invalid License Key! Installation stopped."
+
+msgctxt "InvalidKeyDomain"
+msgid "Invalid License Key for this domain"
+msgstr "Invalid License Key for this domain"
+
+msgctxt "InvalidKeyTemplate"
+msgid "Invalid Template Selected"
+msgstr "Invalid Template Selected"
+
+msgctxt "InvalidKeyTemplate2"
+msgid "Invalid license key for selected store design"
+msgstr "Invalid license key for selected store design"
+
+msgctxt "CancelKey"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "MustPurchaseTemplate"
+msgid "This store design can be purchased for <strong>%s</strong> by clicking the &quot;Purchase Design&quot; button below. When you've purchased you will be able to generate a license key which you should copy into the text box below."
+msgstr "This store design can be purchased for <strong>%s</strong> by clicking the &quot;Purchase Design&quot; button below. When you've purchased you will be able to generate a license key which you should copy into the text box below."
+
+msgctxt "FREE"
+msgid "Free"
+msgstr "Free"
+
+msgctxt "USD"
+msgid "USD"
+msgstr "USD"
+
+msgctxt "OrderCustomTemplate"
+msgid "Order Custom Template..."
+msgstr "Order Custom Template..."
+
+msgctxt "ViewEmail"
+msgid "View Email"
+msgstr "View Email"
+
+msgctxt "ViewLog"
+msgid "View Details"
+msgstr "View Details"
+
+msgctxt "TemplateSettings"
+msgid "Store Design"
+msgstr "Store Design"
+
+msgctxt "EmailTemplates"
+msgid "Email Templates"
+msgstr "Email Templates"
+
+msgctxt "EmailTemplatesIntro"
+msgid "Email templates are used as the basis of messages that are sent to customers (such as invoices, order status updates, etc). You can edit them below."
+msgstr "Email templates are used as the basis of messages that are sent to customers (such as invoices, order status updates, etc). You can edit them below."
+
+msgctxt "ETFileName"
+msgid "File Name"
+msgstr "File Name"
+
+msgctxt "ETFileSize"
+msgid "File Size"
+msgstr "File Size"
+
+msgctxt "ETLastUpdated"
+msgid "Last Updated"
+msgstr "Last Updated"
+
+msgctxt "ETHideEdit"
+msgid "Are you sure? Any unsaved changes you\'ve made will be lost."
+msgstr "Are you sure? Any unsaved changes you\'ve made will be lost."
+
+msgctxt "EmailTemplateUpdated"
+msgid "The selected email template has been updated."
+msgstr "The selected email template has been updated."
+
+msgctxt "EmailTemplateUpdateFailed"
+msgid "An error occurred while trying to update the selected email template. Make sure the file is writable (in your store\'s templates/__emails/ folder) by CHMOD\'ing it to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to update the selected email template. Make sure the file is writable (in your store\'s templates/__emails/ folder) by CHMOD\'ing it to 646, 664 or 666 and try again."
+
+msgctxt "EnableDesignMode"
+msgid "Design Mode:"
+msgstr "Design Mode:"
+
+msgctxt "EnableDesignModeHelp"
+msgid "If design mode is enabled you will be able to rearrange the panels of your web site by dragging and dropping them after clicking the \'View Your Website\' link at the top of the page."
+msgstr "If design mode is enabled you will be able to rearrange the panels of your web site by dragging and dropping them after clicking the \'View Your Website\' link at the top of the page."
+
+msgctxt "YesEnableDesignMode"
+msgid "Yes, enable design mode"
+msgstr "Yes, enable design mode"
+
+msgctxt "DesignMode"
+msgid "Design Mode"
+msgstr "Design Mode"
+
+msgctxt "Layouts"
+msgid "Layouts"
+msgstr "Layouts"
+
+msgctxt "Panels"
+msgid "Panels"
+msgstr "Panels"
+
+msgctxt "Snippets"
+msgid "Snippets"
+msgstr "Snippets"
+
+msgctxt "SaveDesignMode"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "CancelDesignMode"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "SnippetsInPanel"
+msgid "This is a list of snippets in the selected panel. Double click on a snippet to edit it."
+msgstr "This is a list of snippets in the selected panel. Double click on a snippet to edit it."
+
+msgctxt "DesignModeChangeFile"
+msgid "All changes made to the current file will be lost unless you click save. Are you sure?"
+msgstr "All changes made to the current file will be lost unless you click save. Are you sure?"
+
+msgctxt "Editing"
+msgid "Editing"
+msgstr "Editing"
+
+msgctxt "DesignModeConfirmCancel"
+msgid "Are you sure? Any changes you've made won't be saved. Click OK to confirm."
+msgstr "Are you sure? Any changes you've made won't be saved. Click OK to confirm."
+
+msgctxt "FilesUsedByTemplate"
+msgid "Files used by this template"
+msgstr "Files used by this template"
+
+msgctxt "ContentsOfFile"
+msgid "File contents for"
+msgstr "File contents for"
+
+msgctxt "DesignModeFileSaved"
+msgid "The selected file has been updated."
+msgstr "The selected file has been updated."
+
+msgctxt "UpdateDesignMode"
+msgid "Update"
+msgstr "Update"
+
+msgctxt "Stylesheets"
+msgid "Style Sheets"
+msgstr "Style Sheets"
+
+msgctxt "DesignModeFileSavedFail"
+msgid "There was a problem saving your file."
+msgstr "There was a problem saving your file."
+
+msgctxt "DesignModeIntro"
+msgid "Design mode is a special feature that allows you to change the look and layout of your site without knowing HTML. More specifically, it allows you to:"
+msgstr "Design mode is a special feature that allows you to change the look and layout of your site without knowing HTML. More specifically, it allows you to:"
+
+msgctxt "DesignModeIntro2"
+msgid "Change display text on all pages of your web site"
+msgstr "Change display text on all pages of your web site"
+
+msgctxt "DesignModeIntro3"
+msgid "Rearrange the look of your site by dragging and dropping content panels"
+msgstr "Rearrange the look of your site by dragging and dropping content panels"
+
+msgctxt "DesignModeIntro4"
+msgid "Remove content panels using the right click button; without editing code"
+msgstr "Remove content panels using the right click button; without editing code"
+
+msgctxt "DesignModeIntro5"
+msgid "See a quick 60 second video on how to use design mode"
+msgstr "See a quick 60 second video on how to use design mode"
+
+msgctxt "DesignModeChangesSaved"
+msgid "Your design mode changes have been saved successfully."
+msgstr "Your design mode changes have been saved successfully."
+
+msgctxt "DesignModePermissionsError"
+msgid "The file %s isn't writable. Please CHMOD the file to 664 or 666 and try again."
+msgstr "The file %s isn't writable. Please CHMOD the file to 664 or 666 and try again."
+
+msgctxt "LogoEditor"
+msgid "Logo Editor"
+msgstr "Logo Editor"
+
+msgctxt "LogoOptions"
+msgid "Logo Options"
+msgstr "Logo Options"
+
+msgctxt "LogoSettings"
+msgid "Logo Settings"
+msgstr "Logo Settings"
+
+msgctxt "CommentReply"
+msgid "Reply to comment"
+msgstr "Reply to comment"
+
+msgctxt "FromWebsite"
+msgid "Website"
+msgstr "Website"
+
+msgctxt "LogoUpload"
+msgid "Logo Upload"
+msgstr "Logo Upload"
+
+msgctxt "LogoText"
+msgid "Logo Text"
+msgstr "Logo Text"
+
+msgctxt "LogoOptionsSaved"
+msgid "Your logo options have been saved."
+msgstr "Your logo options have been saved."
+
+msgctxt "ViewSite"
+msgid "View Site"
+msgstr "View Site"
+
+msgctxt "LogoIntro"
+msgid "Edit your website logo below, you can generate a logo, use your own image or just use text."
+msgstr "Edit your website logo below, you can generate a logo, use your own image or just use text."
+
+msgctxt "LogoOptionGenerate"
+msgid "Create a new logo image for my store based on my store design"
+msgstr "Create a new logo image for my store based on my store design"
+
+msgctxt "LogoOptionUpload"
+msgid "Upload a logo image from my computer"
+msgstr "Upload a logo image from my computer"
+
+msgctxt "LogoOptionText"
+msgid "Show text where my logo will be displayed"
+msgstr "Show text where my logo will be displayed"
+
+msgctxt "CurrentSiteLogo"
+msgid "Current Site Logo"
+msgstr "Current Site Logo"
+
+msgctxt "SelectLogoType"
+msgid "Select Logo Type"
+msgstr "Select Logo Type"
+
+msgctxt "SelectLogoUpload"
+msgid "Select File to Upload"
+msgstr "Select File to Upload"
+
+msgctxt "WebsiteLogoTitle"
+msgid "Website Title"
+msgstr "Website Title"
+
+msgctxt "LogoUploadSuccess"
+msgid "Your new logo has been successfully uploaded."
+msgstr "Your new logo has been successfully uploaded."
+
+msgctxt "UploadWorkedConfigError"
+msgid "The logo was uploaded successfully, however the config file was not written to, so your logo will not display. Please make sure your config file is writable: "
+msgstr "The logo was uploaded successfully, however the config file was not written to, so your logo will not display. Please make sure your config file is writable: "
+
+msgctxt "UploadErrorPath"
+msgid "Error uploading new logo. Unable to move logo to the image directory, please make sure %%PATH%% is writable."
+msgstr "Error uploading new logo. Unable to move logo to the image directory, please make sure %%PATH%% is writable."
+
+msgctxt "LogoUploadNoValidImage"
+msgid "Error uploading new logo. A valid image was not detected. Note: Your file must be smaller than"
+msgstr "Error uploading new logo. A valid image was not detected. Note: Your file must be smaller than"
+
+msgctxt "UploadLogoNoValidImage2"
+msgid "Error uploading new logo. Please select a valid image file."
+msgstr "Error uploading new logo. Please select a valid image file."
+
+msgctxt "IWantToLogo"
+msgid "I Want to"
+msgstr "I Want to"
+
+msgctxt "LogoUseTitle"
+msgid "Use the website title I've specified on my settings page"
+msgstr "Use the website title I've specified on my settings page"
+
+msgctxt "LogoUseAlternate"
+msgid "Use different text than my website title"
+msgstr "Use different text than my website title"
+
+msgctxt "SelectLogo"
+msgid "Select a Logo"
+msgstr "Select a Logo"
+
+msgctxt "LogoEditorNoTTF"
+msgid "To use the logo creator functionality, PHP must be compiled with GD and TTF font support. Please contact your web host to enable this."
+msgstr "To use the logo creator functionality, PHP must be compiled with GD and TTF font support. Please contact your web host to enable this."
+
+msgctxt "OtherTemplateFiles"
+msgid "Other Template Files"
+msgstr "Other Template Files"
+
+msgctxt "TemplateDownloadingSafeModeEnabled"
+msgid "PHP's safe_mode features is enabled which means files cannot be saved to a folder automatically.<br /><br />When you download a template you will receive the zip file, which you should unzip and upload to your /templates folder."
+msgstr "PHP's safe_mode features is enabled which means files cannot be saved to a folder automatically.<br /><br />When you download a template you will receive the zip file, which you should unzip and upload to your /templates folder."
+
+msgctxt "LogoDownloadingSafeModeEnabled"
+msgid "PHP's safe_mode features is enabled which means files cannot be saved to a folder automatically.<br /><br />When you download a logo you will receive the zip file, which you should unzip and upload to your /templates/__logos folder."
+msgstr "PHP's safe_mode features is enabled which means files cannot be saved to a folder automatically.<br /><br />When you download a logo you will receive the zip file, which you should unzip and upload to your /templates/__logos folder."
+
+msgctxt "SnippetsinTemplate"
+msgid "Snippets in Template"
+msgstr "Snippets in Template"
+
+msgctxt "PanelsinTemplate"
+msgid "Panels in Template"
+msgstr "Panels in Template"
+
+msgctxt "InvalidTemplate"
+msgid "The template you've selected is invalid or does not exist."
+msgstr "The template you've selected is invalid or does not exist."
+
+msgctxt "DirectoryContainsNoFiles"
+msgid "This directory does not contain any files."
+msgstr "This directory does not contain any files."
+
+msgctxt "DesignYourStore"
+msgid "Design Your Store"
+msgstr "Design Your Store"
+
+msgctxt "DesignYourStoreDesc"
+msgid "During this step you will choose a design for your store (over 50 to choose from) and can also create a logo using the built-in logo editor or upload your own."
+msgstr "During this step you will choose a design for your store (over 50 to choose from) and can also create a logo using the built-in logo editor or upload your own."
+
+msgctxt "FaviconImage"
+msgid "Favicon Image"
+msgstr "Favicon Image"
+
+msgctxt "FaviconIntro"
+msgid "Upload your own favicon image that will be shown in the address bar of your browser. Supported image types are ICO, JPG, GIF, PNG."
+msgstr "Upload your own favicon image that will be shown in the address bar of your browser. Supported image types are ICO, JPG, GIF, PNG."
+
+msgctxt "FaviconUpload"
+msgid "Favicon Upload"
+msgstr "Favicon Upload"
+
+msgctxt "UploadFavicon"
+msgid "Upload Favicon"
+msgstr "Upload Favicon"
+
+msgctxt "FaviconUploadNoValidImage"
+msgid "Error uploading new favicon. A valid image was not detected."
+msgstr "Error uploading new favicon. A valid image was not detected."
+
+msgctxt "UploadedFaviconNoValidImage2"
+msgid "The favicon you selected couldn't be uploaded because it was an unsupported image type. Please select an image of type ICO, JPG, GIF or PNG that is 16x16 px."
+msgstr "The favicon you selected couldn't be uploaded because it was an unsupported image type. Please select an image of type ICO, JPG, GIF or PNG that is 16x16 px."
+
+msgctxt "FaviconUploadWorkedConfigError"
+msgid "The favicon was uploaded successfully, however the config file was not written to, so your favicon will not display. Please make sure your config file is writable: "
+msgstr "The favicon was uploaded successfully, however the config file was not written to, so your favicon will not display. Please make sure your config file is writable: "
+
+msgctxt "FaviconUploadErrorPath"
+msgid "Error uploading new favicon. Unable to move favicon to the image directory, please make sure %%PATH%% is writable."
+msgstr "Error uploading new favicon. Unable to move favicon to the image directory, please make sure %%PATH%% is writable."
+
+msgctxt "FaviconUploadSuccess"
+msgid "Your new favicon has been successfully uploaded."
+msgstr "Your new favicon has been successfully uploaded."
+
+msgctxt "FaviconNoImageSelected"
+msgid "Please select an image file to upload."
+msgstr "Please select an image file to upload."
+
+msgctxt "HeaderImage"
+msgid "Header Image"
+msgstr "Header Image"
+
+msgctxt "LayoutHeaderImageGroupName"
+msgid "Header Image"
+msgstr "Header Image"
+
+msgctxt "LayoutHeaderImageNoImage"
+msgid "Please choose a head image to upload first."
+msgstr "Please choose a head image to upload first."
+
+msgctxt "LayoutHeaderImageIntro"
+msgid "Download your header image using one of the links below, make your modifications, then use the upload image field upload it back to your website."
+msgstr "Download your header image using one of the links below, make your modifications, then use the upload image field upload it back to your website."
+
+msgctxt "LayoutHeaderImageCurrentImage"
+msgid "Current Header Image"
+msgstr "Current Header Image"
+
+msgctxt "LayoutHeaderImageDownloadWithBG"
+msgid "Download blank header image"
+msgstr "Download blank header image"
+
+msgctxt "LayoutHeaderImageDownloadWithoutBG"
+msgid "Download original header image"
+msgstr "Download original header image"
+
+msgctxt "LayoutHeaderImageUploadImage"
+msgid "Upload Image"
+msgstr "Upload Image"
+
+msgctxt "LayoutHeaderImageUploadNoValidImage"
+msgid "Error uploading new logo. A valid image was not detected. Note: Your file must be smaller than "
+msgstr "Error uploading new logo. A valid image was not detected. Note: Your file must be smaller than "
+
+msgctxt "LayoutHeaderImageUploadNoValidImage2"
+msgid "The file you uploaded was not a valid image. Please upload only files ending in JPG or PNG."
+msgstr "The file you uploaded was not a valid image. Please upload only files ending in JPG or PNG."
+
+msgctxt "LayoutHeaderImageUploadErrorPath"
+msgid "An error occurred while uploading your header image: Unable to move header image to the image directory, please make sure %%PATH%% is writable."
+msgstr "An error occurred while uploading your header image: Unable to move header image to the image directory, please make sure %%PATH%% is writable."
+
+msgctxt "LayoutHeaderImageUploadSuccess"
+msgid "Your header image was successfully uploaded."
+msgstr "Your header image was successfully uploaded."
+
+msgctxt "LayoutHeaderDownloadIntro"
+msgid "Below are links to download the different versions of the header image for this template.<br />"
+msgstr "Below are links to download the different versions of the header image for this template.<br />"
+
+msgctxt "LayoutHeaderImageDownloadCurrentBG"
+msgid "Download current header image"
+msgstr "Download current header image"
+
+msgctxt "LayoutHeaderImageDelete"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "HeaderImageConfirmDelete"
+msgid "This will permanently delete the header image from the website. Click OK to confirm."
+msgstr "This will permanently delete the header image from the website. Click OK to confirm."
+
+msgctxt "HeaderImageCurrentDoesntExist"
+msgid "Your current template doesn't have a header image to delete."
+msgstr "Your current template doesn't have a header image to delete."
+
+msgctxt "HeaderImageDeleteSuccess"
+msgid "The header image was deleted successfully."
+msgstr "The header image was deleted successfully."
+
+msgctxt "HeaderImageDeleteFail"
+msgid "The header image could not be deleted. The image and/or containing folder may not have correct permissions. Attempted to delete: %s"
+msgstr "The header image could not be deleted. The image and/or containing folder may not have correct permissions. Attempted to delete: %s"
+
+msgctxt "LayoutHeaderImageUploadButton"
+msgid "Upload New Header Image"
+msgstr "Upload New Header Image"
+
+msgctxt "LayoutHeaderNoCurrentImage"
+msgid "Your current template does not have a header image."
+msgstr "Your current template does not have a header image."
+
+msgctxt "LaunchDesignMode"
+msgid "Open My Store in Design Mode"
+msgstr "Open My Store in Design Mode"
+
+msgctxt "CloseAndRefresh"
+msgid "Close &amp; Refresh"
+msgstr "Close &amp; Refresh"
+
+msgctxt "ToggleEditor"
+msgid "Toggle Editor"
+msgstr "Toggle Editor"
+
+msgctxt "RecentFiles"
+msgid "Recent Files"
+msgstr "Recent Files"
+
+msgctxt "RevertToOriginal"
+msgid "Revert to Original"
+msgstr "Revert to Original"
+
+msgctxt "TemplateDownloadColorsConfirm"
+msgid "Downloading the :templateName - :templateColor store design will also download and install the following additional color schemes:\n\n:colorList\nDo you wish to continue? Click OK to confirm."
+msgstr "Downloading the :templateName - :templateColor store design will also download and install the following additional color schemes:\n\n:colorList\nDo you wish to continue? Click OK to confirm."
+
+msgctxt "ShowAllTemplates"
+msgid "Show All Templates"
+msgstr "Show All Templates"
+
+msgctxt "ShowInstalledTemplates"
+msgid "Show Installed Templates Only"
+msgstr "Show Installed Templates Only"
+
+msgctxt "ShowNewTemplates"
+msgid "Show New Templates Only"
+msgstr "Show New Templates Only"
+
+msgctxt "NoTemplatesAvailableFilter"
+msgid "There are no templates available for the selected filter. Please choose another option and try again."
+msgstr "There are no templates available for the selected filter. Please choose another option and try again."
+
+msgctxt "Filter"
+msgid "Filter:"
+msgstr "Filter:"
+
+msgctxt "UnableRetrieveDownloadableTemplates"
+msgid "Your store was unable to retrieve the list of available store designs. Please check that remote connections are enabled and try again."
+msgstr "Your store was unable to retrieve the list of available store designs. Please check that remote connections are enabled and try again."
+
+msgctxt "MobileTemplate"
+msgid "Mobile Template"
+msgstr "Mobile Template"
+
+msgctxt "MobileTemplateSettings"
+msgid "Mobile Template Settings"
+msgstr "Mobile Template Settings"
+
+msgctxt "EnableMobileTemplate"
+msgid "Enable Mobile Template"
+msgstr "Enable Mobile Template"
+
+msgctxt "EnableOnTheseDevices"
+msgid "Enable on These Devices"
+msgstr "Enable on These Devices"
+
+msgctxt "YesEnableMobileTemplate"
+msgid "Yes, enable the mobile template"
+msgstr "Yes, enable the mobile template"
+
+msgctxt "MobileDeviceAppleiPhone"
+msgid "Apple iPhone"
+msgstr "Apple iPhone"
+
+msgctxt "MobileDeviceAppleiPodTouch"
+msgid "Apple iPod Touch"
+msgstr "Apple iPod Touch"
+
+msgctxt "MobileDevicePalmPre"
+msgid "Palm Pre"
+msgstr "Palm Pre"
+
+msgctxt "MobileDeviceAndroid"
+msgid "Android based devices (such as Google Nexus One, HTC Desire, etc)"
+msgstr "Android based devices (such as Google Nexus One, HTC Desire, etc)"
+
+msgctxt "MobileTemplateLogo"
+msgid "Mobile Template Logo"
+msgstr "Mobile Template Logo"
+
+msgctxt "RecommendedLogoDimensions"
+msgid "	(Recommended logo dimensions are :width x :height pixels)"
+msgstr "	(Recommended logo dimensions are :width x :height pixels)"
+
+msgctxt "MobileDeviceAppleiPad"
+msgid "Apple iPad"
+msgstr "Apple iPad"
+
+msgctxt "InvalidSettingenableMobileTemplateDevices"
+msgid "Please select at least one device to enable the mobile template for."
+msgstr "Please select at least one device to enable the mobile template for."
+
+msgctxt "UnableDeletemobileTemplateLogo"
+msgid "The current mobile template logo could not be deleted. Please try again."
+msgstr "The current mobile template logo could not be deleted. Please try again."
+
+msgctxt "MobileTemplateSettingsSaved"
+msgid "The mobile template settings were saved successfully."
+msgstr "The mobile template settings were saved successfully."
+
+msgctxt "MobileTemplateSettingsNotSaved"
+msgid "The mobile template settings could not be saved successfully. Please try again."
+msgstr "The mobile template settings could not be saved successfully. Please try again."
+
+msgctxt "UploadValidMobileLogo"
+msgid "Please upload a valid image for the mobile template."
+msgstr "Please upload a valid image for the mobile template."
+
+msgctxt "MobileTemplateIntro"
+msgid "Your store can automatically load a different store design for mobile devices such as the Apple iPhone. Configure this store design below."
+msgstr "Your store can automatically load a different store design for mobile devices such as the Apple iPhone. Configure this store design below."
+
+msgctxt "LowerCurrentLogo"
+msgid "current logo"
+msgstr "current logo"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "EnableMobileTemplateHelp"
+msgid "Enable this option to have your store automatically switch to a mobile-based template whenever a supported mobile or cell device accesses your store.<br /><br />You can also choose the devices for which the mobile template will automatically be enabled below."
+msgstr "Enable this option to have your store automatically switch to a mobile-based template whenever a supported mobile or cell device accesses your store.<br /><br />You can also choose the devices for which the mobile template will automatically be enabled below."
+
+msgctxt "MobileTemplateLogoHelp"
+msgid "The mobile template uses a smaller logo than that shown on your default store design.<br /><br />You can upload a smaller version of your logo to use on the mobile design, or 
+choose to not have a logo shown on the mobile design at all."
+msgstr "The mobile template uses a smaller logo than that shown on your default store design.<br /><br />You can upload a smaller version of your logo to use on the mobile design, or 
+choose to not have a logo shown on the mobile design at all."
+
+msgctxt "LayoutTabStoreDesign"
+msgid "Store Design"
+msgstr "Store Design"
+
+msgctxt "LayoutTabLogoSettings"
+msgid "Logo"
+msgstr "Logo"
+
+msgctxt "LayoutTabDesignMode"
+msgid "Design Mode"
+msgstr "Design Mode"
+
+msgctxt "LayoutTabMobile"
+msgid "Mobile"
+msgstr "Mobile"
+
+msgctxt "LayoutTabEmails"
+msgid "Emails"
+msgstr "Emails"
+
+msgctxt "LayoutTabGiftCertificates"
+msgid "Gift Certificates"
+msgstr "Gift Certificates"
+
+msgctxt "LayoutTabFavicon"
+msgid "Favicon"
+msgstr "Favicon"
+
+msgctxt "LayoutTabHeader"
+msgid "Header"
+msgstr "Header"
+
+msgctxt "GiftCertificatesIntro"
+msgid "Gift certificate templates are used as the basis of gift certificates which are sent via email as a HTML attachment when purchased."
+msgstr "Gift certificate templates are used as the basis of gift certificates which are sent via email as a HTML attachment when purchased."
+
+msgctxt "GiftCertificatePreview"
+msgid "Gift Certificate Preview"
+msgstr "Gift Certificate Preview"
+
+msgctxt "GiftCertificateRestoreConfirmation"
+msgid "Are you sure you want to restore this template to its original content? Any changes you've made will be deleted and cannot be restored. Click OK to confirm."
+msgstr "Are you sure you want to restore this template to its original content? Any changes you've made will be deleted and cannot be restored. Click OK to confirm."

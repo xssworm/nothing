@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "EmailIntegrationSettings"
+msgid "Email Integration Settings"
+msgstr "Email Integration Settings"
+
+msgctxt "EmailIntegrationSettingsIntro"
+msgid "To enable an email marketing integration, select it from the list below and click 'Save'. You will then see a tab to setup the integration below. <a href='#' class=EmailIntegration_LearnMoreLink>Learn more</a>."
+msgstr "To enable an email marketing integration, select it from the list below and click 'Save'. You will then see a tab to setup the integration below. <a href='#' class=EmailIntegration_LearnMoreLink>Learn more</a>."
+
+msgctxt "EmailIntegrationProviders"
+msgid "Email Integration Providers"
+msgstr "Email Integration Providers"
+
+msgctxt "EmailIntegrationNoProvidersNote"
+msgid "If no providers are enabled, newsletter subscriptions are still available for your store and can be found under the 'Export Only' tab."
+msgstr "If no providers are enabled, newsletter subscriptions are still available for your store and can be found under the 'Export Only' tab."
+
+msgctxt "EmailIntegrationSettingsSaved"
+msgid "The email marketing settings have been saved successfully. If you enabled a new integration you can configure it by clicking its tab below."
+msgstr "The email marketing settings have been saved successfully. If you enabled a new integration you can configure it by clicking its tab below."
+
+msgctxt "EmailIntegrationSettingsNotSaved"
+msgid "An error occurred while trying to save the email integration settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the email integration settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "EmailIntegrationProviderHasNoLists"
+msgid "There are no :provider lists available. Create some lists on :provider first and try again."
+msgstr "There are no :provider lists available. Create some lists on :provider first and try again."
+
+msgctxt "EmailIntegrationGetListsFailed"
+msgid "An error occurred while trying to get lists for this email provider. Please consult the store log for specific information."
+msgstr "An error occurred while trying to get lists for this email provider. Please consult the store log for specific information."
+
+msgctxt "EmailIntegrationGetListFieldsFailed"
+msgid "An error occurred while trying to get list fields for this email provider. Please consult the store log for specific information."
+msgstr "An error occurred while trying to get list fields for this email provider. Please consult the store log for specific information."
+
+msgctxt "EmailIntegrationUpdatedProviderLists"
+msgid "Successfully synced with :count lists from :provider."
+msgstr "Successfully synced with :count lists from :provider."
+
+msgctxt "EmailIntegrationUpdateProviderListsFailedDatabase"
+msgid "Unable to properly sync lists from :provider due to a database error."
+msgstr "Unable to properly sync lists from :provider due to a database error."
+
+msgctxt "EmailIntegrationUpdatedProviderListFields"
+msgid "Successfully synced with :count fields for :provider list :list."
+msgstr "Successfully synced with :count fields for :provider list :list."
+
+msgctxt "EmailIntegrationUpdateProviderListFieldsFailedDatabase"
+msgid "Unable to properly sync fields with a list from :provider due to a database error."
+msgstr "Unable to properly sync fields with a list from :provider due to a database error."
+
+msgctxt "SubscriptionRules"
+msgid "Subscription Rules"
+msgstr "Subscription Rules"
+
+msgctxt "NewsletterFields"
+msgid "Newsletter Fields"
+msgstr "Newsletter Fields"
+
+msgctxt "WhenSomeoneSubscribes"
+msgid "When someone subscribes"
+msgstr "When someone subscribes"
+
+msgctxt "ChooseAList"
+msgid "Choose a list"
+msgstr "Choose a list"
+
+msgctxt "SaveFirstNameTo"
+msgid "Save first name to"
+msgstr "Save first name to"
+
+msgctxt "AddToList"
+msgid "Add to list"
+msgstr "Add to list"
+
+msgctxt "RemoveFromList"
+msgid "Remove from list"
+msgstr "Remove from list"
+
+msgctxt "FirstChooseAList"
+msgid "First choose a list"
+msgstr "First choose a list"
+
+msgctxt "WhenSomeoneOrders"
+msgid "When someone orders"
+msgstr "When someone orders"
+
+msgctxt "ChooseCategoryBrandProduct"
+msgid "Choose a category/brand/product"
+msgstr "Choose a category/brand/product"
+
+msgctxt "TakeThisAction"
+msgid "Take this action"
+msgstr "Take this action"
+
+msgctxt "AnythingInMyStore"
+msgid "Anything in my store"
+msgstr "Anything in my store"
+
+msgctxt "FromThisCategory"
+msgid "From this category"
+msgstr "From this category"
+
+msgctxt "FromThisBrand"
+msgid "From this brand"
+msgstr "From this brand"
+
+msgctxt "ASpecificProduct"
+msgid "A specific product"
+msgstr "A specific product"
+
+msgctxt "NotRequired"
+msgid "(Not Required)"
+msgstr "(Not Required)"
+
+msgctxt "SyncOrderFields"
+msgid "Sync order fields..."
+msgstr "Sync order fields..."
+
+msgctxt "FieldSyncFormIntro"
+msgid "Choose how customer data should be synched to your :provider custom fields."
+msgstr "Choose how customer data should be synched to your :provider custom fields."
+
+msgctxt "FieldSyncFormGuessFieldsLabel"
+msgid "Yes, select the matching :provider field when I select a customer field."
+msgstr "Yes, select the matching :provider field when I select a customer field."
+
+msgctxt "FieldSyncFormDuplicateFieldsClientError"
+msgid "You can only map :provider fields once. Please correct the highlighted fields below."
+msgstr "You can only map :provider fields once. Please correct the highlighted fields below."
+
+msgctxt "FieldSyncFormEmailNoDelete"
+msgid "The email address field cannot be changed or removed."
+msgstr "The email address field cannot be changed or removed."
+
+msgctxt "FieldSyncFormMapThisCustomerData"
+msgid "Map this customer field"
+msgstr "Map this customer field"
+
+msgctxt "FieldSyncFormMapThisProviderField"
+msgid "To this :provider field"
+msgstr "To this :provider field"
+
+msgctxt "FieldSyncFormMapUnmatchedFields"
+msgid "Some fields below are not mapped correctly. Complete the mapping, or remove the unused fields by deleting them."
+msgstr "Some fields below are not mapped correctly. Complete the mapping, or remove the unused fields by deleting them."
+
+msgctxt "FieldSyncFormListNotFound_1"
+msgid "No fields were found for the selected list. The list may have been deleted while this page was open."
+msgstr "No fields were found for the selected list. The list may have been deleted while this page was open."
+
+msgctxt "FieldSyncFormListNotFound_2"
+msgid "Please try refreshing the page and try again."
+msgstr "Please try refreshing the page and try again."
+
+msgctxt "FieldSyncFormListNotFound_3"
+msgid "If the problem persists, please check our knowledge base for further information, or lodge a support ticket if you still have queries."
+msgstr "If the problem persists, please check our knowledge base for further information, or lodge a support ticket if you still have queries."
+
+msgctxt "FieldSyncFormChooseAField"
+msgid "(Choose a Field)"
+msgstr "(Choose a Field)"
+
+msgctxt "EmailIntegrationOrderSubscriptionAccountFields"
+msgid "Account Fields"
+msgstr "Account Fields"
+
+msgctxt "EmailIntegrationOrderSubscriptionBillingFields"
+msgid "Billing Details"
+msgstr "Billing Details"
+
+msgctxt "EmailIntegrationOrderSubscriptionOrderFields"
+msgid "Order Details"
+msgstr "Order Details"
+
+msgctxt "EmailIntegrationOrderSubscriptionFullAddress"
+msgid "Full Address"
+msgstr "Full Address"
+
+msgctxt "EmailIntegrationCustomerSubscriptionAccountFields"
+msgid "Customer Account Details"
+msgstr "Customer Account Details"
+
+msgctxt "EmailIntegrationCustomerSubscriptionBillingFields"
+msgid "Last-Used Billing Address"
+msgstr "Last-Used Billing Address"
+
+msgctxt "EmailIntegrationEmailSubject"
+msgid "There is an issue with your stores email integration"
+msgstr "There is an issue with your stores email integration"
+
+msgctxt "EmailIntegration_Subscription_Newsletter"
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgctxt "EmailIntegration_Subscription_Order"
+msgid "New Customer"
+msgstr "New Customer"
+
+msgctxt "EmailIntegration_Subscription_Customer"
+msgid "Customer"
+msgstr "Customer"
+
+msgctxt "EmailIntegrationNotice_Header"
+msgid "Store Email Integration"
+msgstr "Store Email Integration"
+
+msgctxt "EmailIntegrationNotice_Intro"
+msgid "An issue with your stores email integration setup prevented a subscription from being sent to :provider."
+msgstr "An issue with your stores email integration setup prevented a subscription from being sent to :provider."
+
+msgctxt "EmailIntegrationNotice_Error"
+msgid "The error message provided by :provider was:"
+msgstr "The error message provided by :provider was:"
+
+msgctxt "EmailIntegrationNotice_Time"
+msgid "This problem occurred at: :time"
+msgstr "This problem occurred at: :time"
+
+msgctxt "EmailIntegrationNotice_Details"
+msgid "The details of the failed subscription are:"
+msgstr "The details of the failed subscription are:"
+
+msgctxt "EmailIntegrationNotice_CommonCauses"
+msgid "Common causes of email integration issues are:"
+msgstr "Common causes of email integration issues are:"
+
+msgctxt "EmailIntegrationNotice_Cause1_Intro"
+msgid "Invalid Email Addresses:"
+msgstr "Invalid Email Addresses:"
+
+msgctxt "EmailIntegrationNotice_Cause1_Detail"
+msgid "Although standards exist to determine 'valid' email addresses, Email Marketing providers may deem some addresses invalid while others do not. Providers may check the address when you try and add a subscription, or they may check it when they attempt to send a campaign. If this error is due to an invalid email address it may indicate an issue with your customer or order data, rather than a problem with your Email Marketing provider."
+msgstr "Although standards exist to determine 'valid' email addresses, Email Marketing providers may deem some addresses invalid while others do not. Providers may check the address when you try and add a subscription, or they may check it when they attempt to send a campaign. If this error is due to an invalid email address it may indicate an issue with your customer or order data, rather than a problem with your Email Marketing provider."
+
+msgctxt "EmailIntegrationNotice_Cause2_Intro"
+msgid "Changed lists or list fields:"
+msgstr "Changed lists or list fields:"
+
+msgctxt "EmailIntegrationNotice_Cause2_Detail"
+msgid "You may have changed lists or fields on :provider, making your stores integration rules out of date. Check the rules in your store and update the lists and fields as needed."
+msgstr "You may have changed lists or fields on :provider, making your stores integration rules out of date. Check the rules in your store and update the lists and fields as needed."
+
+msgctxt "EmailIntegrationNotice_Cause3_Intro"
+msgid "Incompatible field sync:"
+msgstr "Incompatible field sync:"
+
+msgctxt "EmailIntegrationNotice_Cause3_Detail"
+msgid "Email providers may show an error if you have your store's rules configured to map fields which are not compatible (e.g. mapping an order total to a date field). Check the field settings for rules in your store to make sure fields are compatible - you may need to consult the documentation of your email provider."
+msgstr "Email providers may show an error if you have your store's rules configured to map fields which are not compatible (e.g. mapping an order total to a date field). Check the field settings for rules in your store to make sure fields are compatible - you may need to consult the documentation of your email provider."
+
+msgctxt "EmailIntegrationNotice_Cause4_Intro"
+msgid "Service interruptions:"
+msgstr "Service interruptions:"
+
+msgctxt "EmailIntegrationNotice_Cause4_Detail"
+msgid "This problem may be a temporary error caused by a service interruption which prevented your store from communicating with :provider."
+msgstr "This problem may be a temporary error caused by a service interruption which prevented your store from communicating with :provider."
+
+msgctxt "EmailIntegrationNotice_Cause5_Intro"
+msgid "Suspended or expired account:"
+msgstr "Suspended or expired account:"
+
+msgctxt "EmailIntegrationNotice_Cause5_Detail"
+msgid "If your account details are no longer valid, email integration will fail to work. Double check that your :provider details are still correct."
+msgstr "If your account details are no longer valid, email integration will fail to work. Double check that your :provider details are still correct."
+
+msgctxt "EmailIntegrationNotice_Closing"
+msgid "Note: This failed subscription will not be automatically re-attempted. If you wish to keep the above subcription, you will need to manually enter it into :provider."
+msgstr "Note: This failed subscription will not be automatically re-attempted. If you wish to keep the above subcription, you will need to manually enter it into :provider."
+
+msgctxt "EmailIntegrationNotice_Columns_Provider"
+msgid ":provider Field"
+msgstr ":provider Field"
+
+msgctxt "EmailIntegrationNotice_Columns_Subscription"
+msgid "Subscription Field"
+msgstr "Subscription Field"
+
+msgctxt "NewCustomerSubscriptionSettings"
+msgid "New Customer Subscription Settings"
+msgstr "New Customer Subscription Settings"
+
+msgctxt "EmailIntegrationDoubleOptInHelp"
+msgid "Should double opt-in confirmation be required for this type of subscription? Email marketing providers may differ in their support for double opt-ins; for some providers it may be optional, some may require it for all subscriptions and some may not support it at all. Unless you have specific reasons, we recommend leaving this option set to Yes, as it provides you with extra protection against incorrect email addresses and additional proof of a subscription if you are ever accused of spam."
+msgstr "Should double opt-in confirmation be required for this type of subscription? Email marketing providers may differ in their support for double opt-ins; for some providers it may be optional, some may require it for all subscriptions and some may not support it at all. Unless you have specific reasons, we recommend leaving this option set to Yes, as it provides you with extra protection against incorrect email addresses and additional proof of a subscription if you are ever accused of spam."
+
+msgctxt "EmailIntegrationOrderDoubleOptin"
+msgid "Order Double Opt-In"
+msgstr "Order Double Opt-In"
+
+msgctxt "EmailIntegrationOrderDoubleOptin_yes"
+msgid "Yes, require a double opt-in confirmation for new customer subscriptions"
+msgstr "Yes, require a double opt-in confirmation for new customer subscriptions"
+
+msgctxt "EmailIntegrationOrderDoubleOptin_no"
+msgid "No, double opt-in confirmation should be optional for new customer subscriptions"
+msgstr "No, double opt-in confirmation should be optional for new customer subscriptions"
+
+msgctxt "EmailIntegrationNewsletterDoubleOptin"
+msgid "Newsletter Double Opt-In"
+msgstr "Newsletter Double Opt-In"
+
+msgctxt "EmailIntegrationNewsletterDoubleOptin_yes"
+msgid "Yes, require a double opt-in confirmation for newsletter subscriptions"
+msgstr "Yes, require a double opt-in confirmation for newsletter subscriptions"
+
+msgctxt "EmailIntegrationNewsletterDoubleOptin_no"
+msgid "No, double opt-in confirmation should be optional for newsletter subscriptions"
+msgstr "No, double opt-in confirmation should be optional for newsletter subscriptions"
+
+msgctxt "EmailIntegrationAutomaticallyTickOrderDuringCheckout"
+msgid "Tick Subscription Checkbox"
+msgstr "Tick Subscription Checkbox"
+
+msgctxt "EmailIntegrationAutomaticallyTickOrderDuringCheckoutYes"
+msgid "Yes, tick the special offers newsletter subscription box by default"
+msgstr "Yes, tick the special offers newsletter subscription box by default"
+
+msgctxt "EmailIntegrationAutomaticallyTickOrderDuringCheckoutHelp"
+msgid "On the order confirmation page your customers will have the option to subscribe to your mailing lists. Should the checkbox that adds them to your mailing lists be ticked by default? If yes, and they don't untick it, then they will automatically be added to your mailing lists. If not, they have the option to choose whether or not they are added to your mailing lists."
+msgstr "On the order confirmation page your customers will have the option to subscribe to your mailing lists. Should the checkbox that adds them to your mailing lists be ticked by default? If yes, and they don't untick it, then they will automatically be added to your mailing lists. If not, they have the option to choose whether or not they are added to your mailing lists."
+
+msgctxt "CustomerIPAddress"
+msgid "Customer IP Address"
+msgstr "Customer IP Address"
+
+msgctxt "NoticeOfEmailIntegrationRulesUpdate"
+msgid "Notice of Automatic Email Integration Rules Update"
+msgstr "Notice of Automatic Email Integration Rules Update"
+
+msgctxt "NoticeOfEmailIntegrationRulesUpdate_1"
+msgid "You are receiving this email because your store has email integration rules configured for the :provider list ':list'."
+msgstr "You are receiving this email because your store has email integration rules configured for the :provider list ':list'."
+
+msgctxt "NoticeOfEmailIntegrationRulesUpdate_2"
+msgid "Recently, you, or another user of your :provider account, removed or renamed one or more fields for the ':list' list. However, the integration rules you have configured for this list made use of the fields that have changed or been removed. As a result, the rules affected by these changes were automatically updated to no longer map to these fields."
+msgstr "Recently, you, or another user of your :provider account, removed or renamed one or more fields for the ':list' list. However, the integration rules you have configured for this list made use of the fields that have changed or been removed. As a result, the rules affected by these changes were automatically updated to no longer map to these fields."
+
+msgctxt "NoticeOfEmailIntegrationRulesUpdate_3"
+msgid "It's highly recommended that you check the email integration rules you have configured for :provider to make sure they are still correct. These rules can be checked in your store control panel under Settings > Email Integration."
+msgstr "It's highly recommended that you check the email integration rules you have configured for :provider to make sure they are still correct. These rules can be checked in your store control panel under Settings > Email Integration."
+
+msgctxt "NoticeOfEmailIntegrationRulesUpdate_MergeFields"
+msgid "Below is a list of fields which were removed from or renamed on :provider:"
+msgstr "Below is a list of fields which were removed from or renamed on :provider:"
+
+msgctxt "NoticeOfEmailIntegrationRulesUpdate_4"
+msgid "To avoid this notice in future, you may remove the mapped fields from your stores email integration rules first, before removing them from :provider."
+msgstr "To avoid this notice in future, you may remove the mapped fields from your stores email integration rules first, before removing them from :provider."
+
+msgctxt "EmailIntegrationRuleDeletedByListDeletion"
+msgid "An email integration rule for :provider was removed because the list ':list' it was mapped to no longer exists."
+msgstr "An email integration rule for :provider was removed because the list ':list' it was mapped to no longer exists."
+
+msgctxt "NoticeOfEmailIntegrationRulesDeletion"
+msgid "Notice of Automatic Email Integration Rules Deletion"
+msgstr "Notice of Automatic Email Integration Rules Deletion"
+
+msgctxt "NoticeOfEmailIntegrationRulesDeletion_1"
+msgid "You are receiving this email because your store has email integration rules configured for :provider."
+msgstr "You are receiving this email because your store has email integration rules configured for :provider."
+
+msgctxt "NoticeOfEmailIntegrationRulesDeletion_2"
+msgid "Recently, you, or another user of your :provider account, removed one or more lists from :provider. However, the integration rules you have configured for this provider made use of the lists which were removed. As a result, the rules affected by these changes were automatically removed since the lists they pointed to no longer exist."
+msgstr "Recently, you, or another user of your :provider account, removed one or more lists from :provider. However, the integration rules you have configured for this provider made use of the lists which were removed. As a result, the rules affected by these changes were automatically removed since the lists they pointed to no longer exist."
+
+msgctxt "NoticeOfEmailIntegrationRulesDeletion_3"
+msgid "It's highly recommended that you check the email integration rules you have configured for :provider to make sure they are still correct. These rules can be checked in your store control panel under Settings > Email Integration."
+msgstr "It's highly recommended that you check the email integration rules you have configured for :provider to make sure they are still correct. These rules can be checked in your store control panel under Settings > Email Integration."
+
+msgctxt "NoticeOfEmailIntegrationRulesDeletion_Lists"
+msgid "Shown below are lists which were removed from :provider:"
+msgstr "Shown below are lists which were removed from :provider:"
+
+msgctxt "NoticeOfEmailIntegrationRulesDeletion_4"
+msgid "To avoid this notice in future, you may wish to remove the rules from your stores email integration settings first, before removing them from :provider."
+msgstr "To avoid this notice in future, you may wish to remove the rules from your stores email integration settings first, before removing them from :provider."
+
+msgctxt "EmailIntegration_ConfirmRefreshLists"
+msgid "Are you sure you want to update your :provider lists? Any unsaved changes you've made on this page will be lost.:nl:nlClick OK to confirm."
+msgstr "Are you sure you want to update your :provider lists? Any unsaved changes you've made on this page will be lost.:nl:nlClick OK to confirm."
+
+msgctxt "WhereCanIFindMyApiKey"
+msgid "Where can I find my API key?"
+msgstr "Where can I find my API key?"
+
+msgctxt "WhereCanIFindMyApiDetails"
+msgid "Where can I find my API details?"
+msgstr "Where can I find my API details?"
+
+msgctxt "VerifyApiDetailsFirst"
+msgid "Verify your API details first."
+msgstr "Verify your API details first."
+
+msgctxt "EmailIntegrationRulesFooterNote"
+msgid "(You can also use advanced search to filter <a href='index.php?ToDo=searchOrders' target='_blank'>orders</a> or <a href='index.php?ToDo=searchCustomers' target='_blank'>customers</a> and then export them to :provider using the export button on the View Orders/Customers pages)"
+msgstr "(You can also use advanced search to filter <a href='index.php?ToDo=searchOrders' target='_blank'>orders</a> or <a href='index.php?ToDo=searchCustomers' target='_blank'>customers</a> and then export them to :provider using the export button on the View Orders/Customers pages)"
+
+msgctxt "EmailIntegrationIncompleteRuleError"
+msgid "Incomplete rule specified. Complete or remove the rule before saving."
+msgstr "Incomplete rule specified. Complete or remove the rule before saving."
+
+msgctxt "EmailIntegrationChooseAListToSync"
+msgid "Choose a list to sync first."
+msgstr "Choose a list to sync first."
+
+msgctxt "EmailIntegrationFieldSyncNotRequired"
+msgid "Field syncing is not required when an email address is being unsubscribed."
+msgstr "Field syncing is not required when an email address is being unsubscribed."
+
+msgctxt "EmailIntegrationFieldSyncUpdated"
+msgid "Order field sync settings for this rule have been updated. Click the 'Save' button to make your changes permanent."
+msgstr "Order field sync settings for this rule have been updated. Click the 'Save' button to make your changes permanent."
+
+msgctxt "EmailIntegrationOrderSendWelcome"
+msgid "Order Welcome Emails"
+msgstr "Order Welcome Emails"
+
+msgctxt "EmailIntegrationOrderSendWelcome_yes"
+msgid "Yes, send a welcome email when a new customer is added to my email list"
+msgstr "Yes, send a welcome email when a new customer is added to my email list"
+
+msgctxt "EmailIntegrationOrderSendWelcome_no"
+msgid "No, don't send a welcome email when a new customer is added to my list"
+msgstr "No, don't send a welcome email when a new customer is added to my list"
+
+msgctxt "EmailIntegrationNewsletterSendWelcome"
+msgid "Newsletter Welcome Emails"
+msgstr "Newsletter Welcome Emails"
+
+msgctxt "EmailIntegrationNewsletterSendWelcome_yes"
+msgid "Yes, send a welcome email when someone subscribes"
+msgstr "Yes, send a welcome email when someone subscribes"
+
+msgctxt "EmailIntegrationNewsletterSendWelcome_no"
+msgid "No, don't send a welcome email when someone subscribes"
+msgstr "No, don't send a welcome email when someone subscribes"
+
+msgctxt "EmailIntegrationSendWelcomeHelp"
+msgid "If a provider supports it, should an automatic welcome email be sent for this type of subscription? Email marketing providers may differ in their support for welcome emails. Please check your account or list settings for your specific email providers to see if you can configure welcome emails."
+msgstr "If a provider supports it, should an automatic welcome email be sent for this type of subscription? Email marketing providers may differ in their support for welcome emails. Please check your account or list settings for your specific email providers to see if you can configure welcome emails."
+
+msgctxt "EmailIntegrationRefreshLists"
+msgid "Update Lists"
+msgstr "Update Lists"
+
+msgctxt "EmailIntegrationListsRefreshed"
+msgid ":provider lists were successfully updated."
+msgstr ":provider lists were successfully updated."
+
+msgctxt "EmailIntegration_Log_Prefix"
+msgid "Export job :id:"
+msgstr "Export job :id:"
+
+msgctxt "EmailIntegration_Log_BatchComplete"
+msgid "Export batch :start - :end complete with :success_count subscription(s) and :error_count error(s)."
+msgstr "Export batch :start - :end complete with :success_count subscription(s) and :error_count error(s)."
+
+msgctxt "EmailIntegration_Log_DoesNotExist"
+msgid "Export job does not exist (export may have been aborted)"
+msgstr "Export job does not exist (export may have been aborted)"
+
+msgctxt "EmailIntegration_Log_AbortFlag"
+msgid "Job is marked as aborted"
+msgstr "Job is marked as aborted"
+
+msgctxt "EmailIntegration_Log_InvalidExportType"
+msgid ":type is not a valid export type"
+msgstr ":type is not a valid export type"
+
+msgctxt "EmailIntegration_Log_ModuleNotFound"
+msgid "Module :module not found"
+msgstr "Module :module not found"
+
+msgctxt "EmailIntegration_Log_ModuleNotEnabled"
+msgid ":module module not enabled"
+msgstr ":module module not enabled"
+
+msgctxt "EmailIntegration_Log_ModuleNotConfigured"
+msgid ":module module enabled but not configured"
+msgstr ":module module enabled but not configured"
+
+msgctxt "EmailIntegration_Log_ListNotFound"
+msgid "List :list not found"
+msgstr "List :list not found"
+
+msgctxt "EmailIntegration_Log_JobInvalidFieldMapData"
+msgid "Invalid field map data specified in job"
+msgstr "Invalid field map data specified in job"
+
+msgctxt "EmailIntegration_Log_JobInvalidSearchParameters"
+msgid "Invalid search parameters data specified in job"
+msgstr "Invalid search parameters data specified in job"
+
+msgctxt "EmailIntegration_Log_JobCommencingCustomerExport"
+msgid "Commencing export of :count customer(s)"
+msgstr "Commencing export of :count customer(s)"
+
+msgctxt "EmailIntegration_Log_JobCommencingOrderExport"
+msgid "Commencing export of :count order(s)"
+msgstr "Commencing export of :count order(s)"
+
+msgctxt "EmailIntegration_Log_JobCustomerDatabaseError"
+msgid "Database error while trying to fetch customers for export"
+msgstr "Database error while trying to fetch customers for export"
+
+msgctxt "EmailIntegration_Log_JobOrderDatabaseError"
+msgid "Database error while trying to fetch orders for export"
+msgstr "Database error while trying to fetch orders for export"
+
+msgctxt "EmailIntegration_Log_JobCustomerBatchApiError"
+msgid "Email provider API error while trying to subscribe a batch of customers"
+msgstr "Email provider API error while trying to subscribe a batch of customers"
+
+msgctxt "EmailIntegration_Log_BatchSubscribeError"
+msgid ":errorcount error(s) occurred in the previous batch."
+msgstr ":errorcount error(s) occurred in the previous batch."
+
+msgctxt "EmailIntegration_Log_BatchSubscribeError_MessageTemplate"
+msgid ":email failed: :error"
+msgstr ":email failed: :error"
+
+msgctxt "EmailIntegration_Log_SearchNotFound"
+msgid "Export cannot continue because the custom view this export was based on no longer exists."
+msgstr "Export cannot continue because the custom view this export was based on no longer exists."
+
+msgctxt "EmailIntegration_Log_InvalidExportRule"
+msgid ":rule is not a valid email rule type"
+msgstr ":rule is not a valid email rule type"
+
+msgctxt "EmailIntegration_Log_UnableToTranslateField"
+msgid "Unable to properly translate subscription field ':subscription_field_name' to :provider field ':field_name', which is of type ':field_type', as the EmailIntegration_ProviderField class for it (:class_name) does not exist."
+msgstr "Unable to properly translate subscription field ':subscription_field_name' to :provider field ':field_name', which is of type ':field_type', as the EmailIntegration_ProviderField class for it (:class_name) does not exist."
+
+msgctxt "EmailIntegration_Export_Abort_Email_Subject"
+msgid ":type export to :module was cancelled"
+msgstr ":type export to :module was cancelled"
+
+msgctxt "EmailIntegration_Export_Abort_Email_Message_1"
+msgid "A bulk export of :type data to :module which was started by you was cancelled after processing :skip record(s)."
+msgstr "A bulk export of :type data to :module which was started by you was cancelled after processing :skip record(s)."
+
+msgctxt "EmailIntegration_Export_Abort_Email_Message_2"
+msgid "Any records already exported to :module will not be automatically unsubscribed."
+msgstr "Any records already exported to :module will not be automatically unsubscribed."
+
+msgctxt "EmailIntegration_Export_End_Email_Subject"
+msgid ":type export to :module has finished"
+msgstr ":type export to :module has finished"
+
+msgctxt "EmailIntegration_Export_End_Email_Message_1"
+msgid "A bulk export of :type data to :module which was started by you has finished successfully."
+msgstr "A bulk export of :type data to :module which was started by you has finished successfully."
+
+msgctxt "EmailIntegration_Export_End_Email_Message_2"
+msgid "This export was started on :start and finished on :end."
+msgstr "This export was started on :start and finished on :end."
+
+msgctxt "EmailIntegration_Export_End_Email_Message_3"
+msgid ":total subscription(s) were processed by this export."
+msgstr ":total subscription(s) were processed by this export."
+
+msgctxt "EmailIntegration_Export_End_Email_Message_4"
+msgid "Of those, :success_count subscription(s) were accepted by :module, while :error_count resulted in errors."
+msgstr "Of those, :success_count subscription(s) were accepted by :module, while :error_count resulted in errors."
+
+msgctxt "EmailIntegration_Export_End_Email_Errors_Heading"
+msgid "The following is a list of the first 100 email addresses and error messages provided by :module for those addresses that failed:"
+msgstr "The following is a list of the first 100 email addresses and error messages provided by :module for those addresses that failed:"
+
+msgctxt "EmailIntegration_Export_Error_Email_Subject"
+msgid ":type export to :module has failed"
+msgstr ":type export to :module has failed"
+
+msgctxt "EmailIntegration_Export_Error_Email_Message_1"
+msgid "A bulk export of :type data to :module which was started by you has failed due to an error."
+msgstr "A bulk export of :type data to :module which was started by you has failed due to an error."
+
+msgctxt "EmailIntegration_Export_Error_Email_Error_Heading"
+msgid "The error that stopped the export was:"
+msgstr "The error that stopped the export was:"
+
+msgctxt "EmailIntegration_Export_Error_Email_Error_Footer"
+msgid "More specific details may be available in the store system log. Any records already exported to :module will not be automatically unsubscribed."
+msgstr "More specific details may be available in the store system log. Any records already exported to :module will not be automatically unsubscribed."
+
+msgctxt "Interspire_EmailIntegration_Rule_NewsletterSubscribed_Name_Singular"
+msgid "Newsletter Subscription Rule"
+msgstr "Newsletter Subscription Rule"
+
+msgctxt "Interspire_EmailIntegration_Rule_NewsletterSubscribed_Name_Plural"
+msgid "Newsletter Subscription Rules"
+msgstr "Newsletter Subscription Rules"
+
+msgctxt "Interspire_EmailIntegration_Rule_OrderCompleted_Name_Singular"
+msgid "New Customer Subscription Rule"
+msgstr "New Customer Subscription Rule"
+
+msgctxt "Interspire_EmailIntegration_Rule_OrderCompleted_Name_Plural"
+msgid "New Customer Subscription Rules"
+msgstr "New Customer Subscription Rules"
+
+msgctxt "EmailIntegration_Export_Dialog_StepTemplate"
+msgid "Step :a of :b"
+msgstr "Step :a of :b"
+
+msgctxt "EmailIntegration_Export_Dialog_NoLists"
+msgid "You either have no lists set up for :module_name, or there was a problem connecting to :module_name to check your lists. If you are certain you have lists, please close this dialog and try again and if the issue persists you may check your store log for more specific information."
+msgstr "You either have no lists set up for :module_name, or there was a problem connecting to :module_name to check your lists. If you are certain you have lists, please close this dialog and try again and if the issue persists you may check your store log for more specific information."
+
+msgctxt "EmailIntegration_Export_Dialog_WhichList"
+msgid "Which :provider list would you like to export these :type to?"
+msgstr "Which :provider list would you like to export these :type to?"
+
+msgctxt "EmailIntegration_Export_Dialog_DontSeeList"
+msgid "<a href='#' class=HelpLink kb:id=895>The list I want to export to isn't shown here</a>"
+msgstr "<a href='#' class=HelpLink kb:id=895>The list I want to export to isn't shown here</a>"
+
+msgctxt "EmailIntegration_Export_Dialog_LoadingFields"
+msgid "Loading fields, please wait..."
+msgstr "Loading fields, please wait..."
+
+msgctxt "EmailIntegration_Export_Dialog_MappingValid"
+msgid "Field mapping is valid. Either click next, or map more fields as required."
+msgstr "Field mapping is valid. Either click next, or map more fields as required."
+
+msgctxt "EmailIntegration_Export_Dialog_MappingInvalid"
+msgid "Field mapping error. Check the highlighted fields below."
+msgstr "Field mapping error. Check the highlighted fields below."
+
+msgctxt "EmailIntegration_Export_Dialog_Confirmation"
+msgid "You're about to export :type to the :module list &quot;:list&quot;."
+msgstr "You're about to export :type to the :module list &quot;:list&quot;."
+
+msgctxt "EmailIntegration_Export_Dialog_DoubleOptin"
+msgid "Send an opt-in confirmation email for each new email address"
+msgstr "Send an opt-in confirmation email for each new email address"
+
+msgctxt "EmailIntegration_Export_Dialog_SendWelcome"
+msgid "Send a welcome email for each new subscription"
+msgstr "Send a welcome email for each new subscription"
+
+msgctxt "EmailIntegration_Export_Dialog_UpdateExisting"
+msgid "Update existing subscriber details if they are already subscribed"
+msgstr "Update existing subscriber details if they are already subscribed"
+
+msgctxt "EmailIntegration_Export_Dialog_UpdateExisting_Note"
+msgid "Note: if this option is not selected, existing email addresses may be reported as errors by your email integration providers during the export. However, these can be safely ignored."
+msgstr "Note: if this option is not selected, existing email addresses may be reported as errors by your email integration providers during the export. However, these can be safely ignored."
+
+msgctxt "EmailIntegration_Export_Dialog_UpdateExisting_Disabled"
+msgid "Note: :module does not support updating existing subscribers. If a subscriber already exists on this list, their current details will not be changed."
+msgstr "Note: :module does not support updating existing subscribers. If a subscriber already exists on this list, their current details will not be changed."
+
+msgctxt "EmailIntegration_Export_Dialog_ToBegin"
+msgid "To begin the export now, click the Finish button below."
+msgstr "To begin the export now, click the Finish button below."
+
+msgctxt "EmailIntegration_Export_Dialog_Commencing"
+msgid "Export is starting up, please wait..."
+msgstr "Export is starting up, please wait..."
+
+msgctxt "EmailIntegration_Export_Dialog_CommencError_1"
+msgid "An error prevented the export from commencing. The store log may contain more specific details."
+msgstr "An error prevented the export from commencing. The store log may contain more specific details."
+
+msgctxt "EmailIntegration_Export_Dialog_CommencError_2"
+msgid "You may either go back and try again or cancel. If the issue persists, please lodge a support ticket."
+msgstr "You may either go back and try again or cancel. If the issue persists, please lodge a support ticket."
+
+msgctxt "EmailIntegration_Export_Dialog_CommencedTitle"
+msgid "Your export is underway..."
+msgstr "Your export is underway..."
+
+msgctxt "EmailIntegration_Export_Dialog_Commenced"
+msgid "The selected customers are currently being exported to MailChimp. You will receive an email at <b>:useremail</b> when the export is complete. You can close this window now and you won't interrupt the export."
+msgstr "The selected customers are currently being exported to MailChimp. You will receive an email at <b>:useremail</b> when the export is complete. You can close this window now and you won't interrupt the export."
+
+msgctxt "NewsletterSubscriptionRulesHelp"
+msgid "Newsletter subscription rules control how a subscription is handled when a visitor to your store signs up using the 'Our Newsletter' form. Additionally, it also controls how their susbcription is handled when they reach the end of the checkout process and choose to sign up to the newsletter."
+msgstr "Newsletter subscription rules control how a subscription is handled when a visitor to your store signs up using the 'Our Newsletter' form. Additionally, it also controls how their susbcription is handled when they reach the end of the checkout process and choose to sign up to the newsletter."
+
+msgctxt "NewCustomerSubscriptionRulesHelp"
+msgid "New customer subscription rules control which mailing lists customers are subscribed to when they submit orders. You may choose to subscribe all orders, or orders from a particular category, brand or product, or a combination of all options."
+msgstr "New customer subscription rules control which mailing lists customers are subscribed to when they submit orders. You may choose to subscribe all orders, or orders from a particular category, brand or product, or a combination of all options."
+
+msgctxt "CountryIso2"
+msgid "Country Code (two-letter)"
+msgstr "Country Code (two-letter)"
+
+msgctxt "CountryIso3"
+msgid "Country Code (three-letter)"
+msgstr "Country Code (three-letter)"

@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "NewsBrand"
+msgid "Edit this brand"
+msgstr "Edit this brand"
+
+msgctxt "ManageBrands"
+msgid "Manage Brands"
+msgstr "Manage Brands"
+
+msgctxt "ManageBrandsIntro"
+msgid "Brands can be associated with products, allowing your customers to shop by browsing their favorite brands."
+msgstr "Brands can be associated with products, allowing your customers to shop by browsing their favorite brands."
+
+msgctxt "NoBrandResults"
+msgid "No brands were found matching your search criteria, please try again."
+msgstr "No brands were found matching your search criteria, please try again."
+
+msgctxt "NoBrands"
+msgid "No brands have been added. Please click the &quot;Add Brand&quot; button to add one."
+msgstr "No brands have been added. Please click the &quot;Add Brand&quot; button to add one."
+
+msgctxt "ConfirmDeleteBrands"
+msgid "WARNING: This will permanently remove the selected brand(s). Any products linked to this brand will no longer be linked but will still be visible on your site. Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected brand(s). Any products linked to this brand will no longer be linked but will still be visible on your site. Are you sure you wish to do this?"
+
+msgctxt "ChooseBrands"
+msgid "Please choose at least one news brand to delete."
+msgstr "Please choose at least one news brand to delete."
+
+msgctxt "AddBrand"
+msgid "Add a Brand..."
+msgstr "Add a Brand..."
+
+msgctxt "BrandEdit"
+msgid "Edit this brand"
+msgstr "Edit this brand"
+
+msgctxt "BrandName"
+msgid "Brand Name"
+msgstr "Brand Name"
+
+msgctxt "Products"
+msgid "Products"
+msgstr "Products"
+
+msgctxt "BrandSortAsc"
+msgid "Sort by Brand (ascending)"
+msgstr "Sort by Brand (ascending)"
+
+msgctxt "BrandSortDesc"
+msgid "Sort by Brand (descending)"
+msgstr "Sort by Brand (descending)"
+
+msgctxt "ProductsSortAsc"
+msgid "Sort by Products (ascending)"
+msgstr "Sort by Products (ascending)"
+
+msgctxt "ProductsSortDesc"
+msgid "Sort by Products (descending)"
+msgstr "Sort by Products (descending)"
+
+msgctxt "BrandsDeletedSuccessfully"
+msgid "The selected brands have been deleted successfully."
+msgstr "The selected brands have been deleted successfully."
+
+msgctxt "AddBrands"
+msgid "Add Brands"
+msgstr "Add Brands"
+
+msgctxt "AddBrandIntro"
+msgid "Brands can be associated with products, allowing your customers to shop by browsing their favorite brands. Add brands by typing them into the text box, one brand per line."
+msgstr "Brands can be associated with products, allowing your customers to shop by browsing their favorite brands. Add brands by typing them into the text box, one brand per line."
+
+msgctxt "BrandDetails"
+msgid "Brand Details"
+msgstr "Brand Details"
+
+msgctxt "BrandNames"
+msgid "Brand Names"
+msgstr "Brand Names"
+
+msgctxt "EnterBrands"
+msgid "Please type in one or more brands."
+msgstr "Please type in one or more brands."
+
+msgctxt "CancelCreateBrand"
+msgid "Are you sure you want to cancel add a new brand? Click OK to confirm."
+msgstr "Are you sure you want to cancel add a new brand? Click OK to confirm."
+
+msgctxt "BrandNamesHelp"
+msgid "Type the brand names you want to add into the text box. Enter one brand name per line, such as:<br /><br />Nike<br />ADIDAS<br />Apple<br />Microsoft"
+msgstr "Type the brand names you want to add into the text box. Enter one brand name per line, such as:<br /><br />Nike<br />ADIDAS<br />Apple<br />Microsoft"
+
+msgctxt "OneBrandAddedSuccessfully"
+msgid "1 brand was added successfully."
+msgstr "1 brand was added successfully."
+
+msgctxt "MultiBrandsAddedSuccessfully"
+msgid "%d brands were added successfully."
+msgstr "%d brands were added successfully."
+
+msgctxt "BrandAddError"
+msgid "An error occurred while trying to save the brand(s): %s"
+msgstr "An error occurred while trying to save the brand(s): %s"
+
+msgctxt "EditBrand"
+msgid "Edit Brand"
+msgstr "Edit Brand"
+
+msgctxt "EditBrandIntro"
+msgid "Modify the details of the brand below and click &quot;Save&quot;."
+msgstr "Modify the details of the brand below and click &quot;Save&quot;."
+
+msgctxt "CancelEditBrand"
+msgid "Are you sure you want to cancel editing this brand? Click OK to confirm."
+msgstr "Are you sure you want to cancel editing this brand? Click OK to confirm."
+
+msgctxt "EnterBrand"
+msgid "Please type in a brand name."
+msgstr "Please type in a brand name."
+
+msgctxt "DuplicateBrandName"
+msgid "The brand name '%s' already exists. Please type in another name."
+msgstr "The brand name '%s' already exists. Please type in another name."
+
+msgctxt "BrandUpdatedSuccessfully"
+msgid "The selected brand has been updated successfully."
+msgstr "The selected brand has been updated successfully."
+
+msgctxt "UpdateBrandError"
+msgid "An error occurred while trying to update the selected brand: %s"
+msgstr "An error occurred while trying to update the selected brand: %s"
+
+msgctxt "LoadingBrands"
+msgid "Loading brands. Please wait..."
+msgstr "Loading brands. Please wait..."
+
+msgctxt "BrandPageTitleHelp"
+msgid "Specify a page title, or leave blank to use the brand name as the page title."
+msgstr "Specify a page title, or leave blank to use the brand name as the page title."
+
+msgctxt "MetaKeywords"
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+msgctxt "MetaKeywordsHelp"
+msgid "Specify unique meta keywords, or leave blank to use default site wide keywords as defined in the <em>Settings</em> page."
+msgstr "Specify unique meta keywords, or leave blank to use default site wide keywords as defined in the <em>Settings</em> page."
+
+msgctxt "MetaDescription"
+msgid "Meta Description"
+msgstr "Meta Description"
+
+msgctxt "MetaDescriptionHelp"
+msgid "Specify unique meta description, or leave blank to use default site wide description as defined in the <em>Settings</em> page."
+msgstr "Specify unique meta description, or leave blank to use default site wide description as defined in the <em>Settings</em> page."
+
+msgctxt "SearchKeywords"
+msgid "Search Keywords"
+msgstr "Search Keywords"
+
+msgctxt "SearchKeywordsHelp"
+msgid "The search keywords are optional, but if entered will be used for two things.<br /><br />First, they will be used along with the brand name to create meta tags for search engines.<br /><br />Second, they will be used to assist people when searching your brands. Enter keywords separated by commas, such as: <em>widget, affordable, portable.</em>"
+msgstr "The search keywords are optional, but if entered will be used for two things.<br /><br />First, they will be used along with the brand name to create meta tags for search engines.<br /><br />Second, they will be used to assist people when searching your brands. Enter keywords separated by commas, such as: <em>widget, affordable, portable.</em>"

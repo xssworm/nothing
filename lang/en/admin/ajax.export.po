@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ExportCancelled"
+msgid "The :exportName export has been cancelled."
+msgstr "The :exportName export has been cancelled."
+
+msgctxt "ExportUnableCreate"
+msgid "Unable to create cache file. Please check that the /cache/ directory is writable."
+msgstr "Unable to create cache file. Please check that the /cache/ directory is writable."
+
+msgctxt "ExportInvalidFile"
+msgid "You have followed an outdated or invalid export link.. Please start a new :exportName export."
+msgstr "You have followed an outdated or invalid export link.. Please start a new :exportName export."
+
+msgctxt "ExportGeneratingIntro"
+msgid "Your :exportName is currently being exported. Once the export is complete you will be able to download the product list."
+msgstr "Your :exportName is currently being exported. Once the export is complete you will be able to download the product list."
+
+msgctxt "ExportGenerating"
+msgid "Generating :exportName..."
+msgstr "Generating :exportName..."
+
+msgctxt "ExportGeneratedIntro"
+msgid "Your :exportName export has been generated and is ready to download."
+msgstr "Your :exportName export has been generated and is ready to download."
+
+msgctxt "ExportDownload"
+msgid "Download my :exportName file"
+msgstr "Download my :exportName file"
+
+msgctxt "ExportNoData"
+msgid "There is no data available to export."
+msgstr "There is no data available to export."
+
+msgctxt "ExportStats"
+msgid ":failureNum of :totalNum products were not exported to the :exportName feed."
+msgstr ":failureNum of :totalNum products were not exported to the :exportName feed."
+
+msgctxt "ExportWarning"
+msgid "<strong>:failureNum</strong> of your <strong>:totalNum</strong> :descriptiveProduct were not exported to the :exportName."
+msgstr "<strong>:failureNum</strong> of your <strong>:totalNum</strong> :descriptiveProduct were not exported to the :exportName."
+
+msgctxt "ExportWarningAll"
+msgid "<strong>All</strong> of your :descriptiveProduct were not exported to the :exportName."
+msgstr "<strong>All</strong> of your :descriptiveProduct were not exported to the :exportName."
+
+msgctxt "ExportWarning_1"
+msgid "<p>To learn how to configure your products for :exportName, please <a href=\':link\' target=\'_blank\'>visit this article</a>.</p>"
+msgstr "<p>To learn how to configure your products for :exportName, please <a href=\':link\' target=\'_blank\'>visit this article</a>.</p>"
+
+msgctxt "DefaultDescriptiveProduct"
+msgid "products"
+msgstr "products"
+
+msgctxt "ExportSuccess"
+msgid "All :totalNum products have been successfully exported to the :exportName feed."
+msgstr "All :totalNum products have been successfully exported to the :exportName feed."

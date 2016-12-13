@@ -1,0 +1,1258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "StartImport"
+msgid "Start Import"
+msgstr "Start Import"
+
+msgctxt "ImportInProgress"
+msgid "Import in Progress"
+msgstr "Import in Progress"
+
+msgctxt "ImportInProgressDesc"
+msgid "Importing record %s..."
+msgstr "Importing record %s..."
+
+msgctxt "ImportReportDuplicates"
+msgid "Duplicate Records"
+msgstr "Duplicate Records"
+
+msgctxt "ImportReportDuplicatesIntro"
+msgid "The following records were not imported because they already exist."
+msgstr "The following records were not imported because they already exist."
+
+msgctxt "ImportReportFailures"
+msgid "Invalid Records"
+msgstr "Invalid Records"
+
+msgctxt "ImportReportFailuresIntro"
+msgid "The following lines were not imported because they contain invalid or missing data."
+msgstr "The following lines were not imported because they contain invalid or missing data."
+
+msgctxt "ImportReportWarnings"
+msgid "Import Warnings"
+msgstr "Import Warnings"
+
+msgctxt "ImportReportWarningsIntro"
+msgid "The following records were imported, however not all information was able to be imported successfully."
+msgstr "The following records were imported, however not all information was able to be imported successfully."
+
+msgctxt "ImportNoRequiredField"
+msgid "The '%s' field is not linked. We cannot proceed without this field being linked."
+msgstr "The '%s' field is not linked. We cannot proceed without this field being linked."
+
+msgctxt "ImportDetails"
+msgid "Import Details"
+msgstr "Import Details"
+
+msgctxt "ImportOverride"
+msgid "Override Existing Details?"
+msgstr "Override Existing Details?"
+
+msgctxt "ImportOverrideDesc"
+msgid "If checked, any existing items with the same name will be updated with the information from the CSV file."
+msgstr "If checked, any existing items with the same name will be updated with the information from the CSV file."
+
+msgctxt "YesImportOverride"
+msgid "Yes, override existing records"
+msgstr "Yes, override existing records"
+
+msgctxt "ImportFileDetails"
+msgid "File Details"
+msgstr "File Details"
+
+msgctxt "ImportFile"
+msgid "Import File"
+msgstr "Import File"
+
+msgctxt "ImportContainsHeaders"
+msgid "Contains Headers?"
+msgstr "Contains Headers?"
+
+msgctxt "ImportContainsHeadersDesc"
+msgid "Does the first line of your import file contain headers? If so, each header should be separated with a field separator."
+msgstr "Does the first line of your import file contain headers? If so, each header should be separated with a field separator."
+
+msgctxt "YesImportContainsHeaders"
+msgid "Yes, this file contains headers"
+msgstr "Yes, this file contains headers"
+
+msgctxt "ImportFieldSeparator"
+msgid "Field Separator"
+msgstr "Field Separator"
+
+msgctxt "ImportFieldSeparatorDesc"
+msgid "Enter in the character that is used in your CSV import file that separates each field or column. Make sure this character does not appear elsewhere in the CSV file. Usually in a CSV (Comma Separated Values) file this character is a \',\'. Make sure your columns themselves don\'t contain commas by searching and replacing all commas with just a blank value.<br/><br />If you wish to use the tab character enter the word &quot;TAB&quot; here.<br /><br />If you are unsure, leave this option as is."
+msgstr "Enter in the character that is used in your CSV import file that separates each field or column. Make sure this character does not appear elsewhere in the CSV file. Usually in a CSV (Comma Separated Values) file this character is a \',\'. Make sure your columns themselves don\'t contain commas by searching and replacing all commas with just a blank value.<br/><br />If you wish to use the tab character enter the word &quot;TAB&quot; here.<br /><br />If you are unsure, leave this option as is."
+
+msgctxt "ImportFieldEnclosure"
+msgid "Field Enclosure"
+msgstr "Field Enclosure"
+
+msgctxt "ImportFieldEnclosureDesc"
+msgid "Which character is each field enclosed by? All fields must have this character around them. For example, a record might look like this:<br /><br />&quot;test@test.com&quot;, &quot;21&quot;, &quot;Male&quot;"
+msgstr "Which character is each field enclosed by? All fields must have this character around them. For example, a record might look like this:<br /><br />&quot;test@test.com&quot;, &quot;21&quot;, &quot;Male&quot;"
+
+msgctxt "UnableOpenImportWindow"
+msgid "The import window was unable to be opened.\n\nIf you have a popup blocker enabled, try disabling it."
+msgstr "The import window was unable to be opened.\n\nIf you have a popup blocker enabled, try disabling it."
+
+msgctxt "ImportRunning"
+msgid "Importing"
+msgstr "Importing"
+
+msgctxt "ImportLinkFields"
+msgid "Link Import Fields"
+msgstr "Link Import Fields"
+
+msgctxt "ImportMatchOption"
+msgid "Match '%s' with"
+msgstr "Match '%s' with"
+
+msgctxt "ImportMatchOptionHelp"
+msgid "Which field in the CSV file should match the '%s' Field?"
+msgstr "Which field in the CSV file should match the '%s' Field?"
+
+msgctxt "NoImportFile"
+msgid "Please select a file to import."
+msgstr "Please select a file to import."
+
+msgctxt "NoSelectedImportFile"
+msgid "Please select a file from the server to import."
+msgstr "Please select a file from the server to import."
+
+msgctxt "NoImportFieldSeparator"
+msgid "Please enter a field separator value."
+msgstr "Please enter a field separator value."
+
+msgctxt "NoImportFieldEnclosure"
+msgid "Please enter a field enclosure value."
+msgstr "Please enter a field enclosure value."
+
+msgctxt "ConfirmCancelImport"
+msgid "Cancel the product import?\n\nNo data will be imported if you cancel the import process now."
+msgstr "Cancel the product import?\n\nNo data will be imported if you cancel the import process now."
+
+msgctxt "ImportInvalidServerFile"
+msgid "Please select a valid file from the server to import."
+msgstr "Please select a valid file from the server to import."
+
+msgctxt "ImportUploadErrorIniSize"
+msgid "The file upload failed as the import file exceeds the upload_max_filesize directive in php.ini."
+msgstr "The file upload failed as the import file exceeds the upload_max_filesize directive in php.ini."
+
+msgctxt "ImportUploadErrorFormSize"
+msgid "The file upload failed as the import file exceeds the MAX_FILE_SIZE directive specified by the form."
+msgstr "The file upload failed as the import file exceeds the MAX_FILE_SIZE directive specified by the form."
+
+msgctxt "ImportUploadErrorPartial"
+msgid "The file upload failed as the import file was only partially uploaded."
+msgstr "The file upload failed as the import file was only partially uploaded."
+
+msgctxt "ImportUploadErrorNoFile"
+msgid "The file upload failed as no import file was uploaded."
+msgstr "The file upload failed as no import file was uploaded."
+
+msgctxt "ImportUploadErrorNoTmp"
+msgid "The file upload failed as the PHP temporary directory does not exist."
+msgstr "The file upload failed as the PHP temporary directory does not exist."
+
+msgctxt "ImportUploadErrorCantWrite"
+msgid "The file upload failed as the import file cannot be written to the PHP temporary directory."
+msgstr "The file upload failed as the import file cannot be written to the PHP temporary directory."
+
+msgctxt "ImportUploadErrorExtension"
+msgid "The file upload failed a PHP extension caused the upload to stop."
+msgstr "The file upload failed a PHP extension caused the upload to stop."
+
+msgctxt "ImportUploadMoveFailed"
+msgid "The file was unable to be moved form the temporary directory. Is the cache directory writable?"
+msgstr "The file was unable to be moved form the temporary directory. Is the cache directory writable?"
+
+msgctxt "ImportUploadError"
+msgid "The file you tried to upload was larger than %s. To import a file of this size please upload it into your admin/import folder and choose the 'Use a file already on the server' option."
+msgstr "The file you tried to upload was larger than %s. To import a file of this size please upload it into your admin/import folder and choose the 'Use a file already on the server' option."
+
+msgctxt "ImportMaxSize"
+msgid "(:maxSize size limit)"
+msgstr "(:maxSize size limit)"
+
+msgctxt "ImportProductsStep2"
+msgid "Import Products"
+msgstr "Import Products"
+
+msgctxt "ImportProductsStep2Desc"
+msgid "Use the form below to define which import fields should map to which product fields."
+msgstr "Use the form below to define which import fields should map to which product fields."
+
+msgctxt "ImportProductsStep3"
+msgid "Import Products"
+msgstr "Import Products"
+
+msgctxt "ImportProductsStep3Desc"
+msgid "Your products are now ready to be imported into your store. Click the 'Start Import' button to continue."
+msgstr "Your products are now ready to be imported into your store. Click the 'Start Import' button to continue."
+
+msgctxt "ImportProductsStep5"
+msgid "Import Products: Import Complete"
+msgstr "Import Products: Import Complete"
+
+msgctxt "ImportProductsStep5Desc"
+msgid "The import process is now complete and the results are shown below."
+msgstr "The import process is now complete and the results are shown below."
+
+msgctxt "ImportProductsStep1"
+msgid "Import Products"
+msgstr "Import Products"
+
+msgctxt "ImportProductsStep1Desc"
+msgid "You can import products to your store from a CSV file on your computer or server."
+msgstr "You can import products to your store from a CSV file on your computer or server."
+
+msgctxt "ImportProductsProgress_SuccessCount_One"
+msgid "1 product has been imported so far"
+msgstr "1 product has been imported so far"
+
+msgctxt "ImportProductsProgress_SuccessCount_Many"
+msgid "%s products have been imported so far"
+msgstr "%s products have been imported so far"
+
+msgctxt "ImportProductsProgress_Updates_One"
+msgid "1 product has been updated so far"
+msgstr "1 product has been updated so far"
+
+msgctxt "ImportProductsProgress_Updates_Many"
+msgid "%s products have been updated so far"
+msgstr "%s products have been updated so far"
+
+msgctxt "ImportProductsProgress_Failures_One"
+msgid "1 product has not been imported so far"
+msgstr "1 product has not been imported so far"
+
+msgctxt "ImportProductsProgress_Failures_Many"
+msgid "%s products have not been imported so far"
+msgstr "%s products have not been imported so far"
+
+msgctxt "ImportProductsProgress_Duplicates_One"
+msgid "1 duplicate product has been found so far"
+msgstr "1 duplicate product has been found so far"
+
+msgctxt "ImportProductsProgress_Duplicates_Many"
+msgid "%s duplicate products have been found so far"
+msgstr "%s duplicate products have been found so far"
+
+msgctxt "ImportProductsProgress_Warnings_One"
+msgid "1 product was not able to be fully imported so far"
+msgstr "1 product was not able to be fully imported so far"
+
+msgctxt "ImportProductsProgress_Warnings_Many"
+msgid "%s products were not able to be fully imported so far"
+msgstr "%s products were not able to be fully imported so far"
+
+msgctxt "ImportProductsSuccessCount_One"
+msgid "1 product was imported successfully"
+msgstr "1 product was imported successfully"
+
+msgctxt "ImportProductsSuccessCount_Many"
+msgid "%s products were imported successfully"
+msgstr "%s products were imported successfully"
+
+msgctxt "ImportProductsUpdates_One"
+msgid "1 product was updated successfully"
+msgstr "1 product was updated successfully"
+
+msgctxt "ImportProductsUpdates_Many"
+msgid "%s products were updated successfully"
+msgstr "%s products were updated successfully"
+
+msgctxt "ImportProductsFailures_One_Link"
+msgid "1 product failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 product failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductsFailures_Many_Link"
+msgid "%s products failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s products failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductsFailures_Many"
+msgid "%s products failed to be imported"
+msgstr "%s products failed to be imported"
+
+msgctxt "ImportProductsDuplicates_One_Link"
+msgid "1 duplicate product was not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 duplicate product was not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductsDuplicates_Many"
+msgid "%s duplicate products were not imported"
+msgstr "%s duplicate products were not imported"
+
+msgctxt "ImportProductsDuplicates_Many_Link"
+msgid "%s duplicate products were not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s duplicate products were not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductsWarnings_One_Link"
+msgid "1 product was not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 product was not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductsWarnings_Many"
+msgid "%s products were not able to be fully imported"
+msgstr "%s products were not able to be fully imported"
+
+msgctxt "ImportProductsWarnings_Many_Link"
+msgid "%s products were not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s products were not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductsCategory"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "ImportProductsCategory2"
+msgid "Category #2"
+msgstr "Category #2"
+
+msgctxt "ImportProductsCategory3"
+msgid "Category #3"
+msgstr "Category #3"
+
+msgctxt "ImportProductsCategoryDesc"
+msgid "Select the category that newly imported products should be added to."
+msgstr "Select the category that newly imported products should be added to."
+
+msgctxt "ImportInvalidCategory"
+msgid "Please select a valid category to add items to"
+msgstr "Please select a valid category to add items to"
+
+msgctxt "ImportProductsSuccessful"
+msgid "The product import was completed successfully."
+msgstr "The product import was completed successfully."
+
+msgctxt "ImportProductsMissingName"
+msgid "<-- Missing product name"
+msgstr "<-- Missing product name"
+
+msgctxt "ImportProductsMissingCategory"
+msgid "<-- Missing product category"
+msgstr "<-- Missing product category"
+
+msgctxt "NoMatchProductName"
+msgid "The \'Product Name\' field is not linked. You must link this field to continue."
+msgstr "The \'Product Name\' field is not linked. You must link this field to continue."
+
+msgctxt "NoMatchCategory"
+msgid "The \'Category\' field is not linked. You must link this field to continue."
+msgstr "The \'Category\' field is not linked. You must link this field to continue."
+
+msgctxt "ImportCreateCategory"
+msgid "Create a Category"
+msgstr "Create a Category"
+
+msgctxt "ImportProductsCategoryCreateDesc"
+msgid "Because no categories exist, you need to create a new category into which the products will be added during the import process. Enter the name of the new category here. You can always re-arrange products into different categories later."
+msgstr "Because no categories exist, you need to create a new category into which the products will be added during the import process. Enter the name of the new category here. You can always re-arrange products into different categories later."
+
+msgctxt "AutoDetectCategories"
+msgid "Detect category names from CSV file"
+msgstr "Detect category names from CSV file"
+
+msgctxt "ImportProductImageUnableToMove"
+msgid "<-- Unable to move product image to the product images directory"
+msgstr "<-- Unable to move product image to the product images directory"
+
+msgctxt "ImportProductImageDoesntExist"
+msgid "<-- The product image does not exist"
+msgstr "<-- The product image does not exist"
+
+msgctxt "LearnMoreAboutImportingImages"
+msgid "Learn more about importing product images"
+msgstr "Learn more about importing product images"
+
+msgctxt "LearnMoreAboutImportingFiles"
+msgid "Learn more about importing downloadable products"
+msgstr "Learn more about importing downloadable products"
+
+msgctxt "ImportProductFileUnableToMove"
+msgid "<-- Unable to move product file to the product files directory"
+msgstr "<-- Unable to move product file to the product files directory"
+
+msgctxt "ImportProductFileDoesntExist"
+msgid "<-- The product file does not exist"
+msgstr "<-- The product file does not exist"
+
+msgctxt "ImportProductCategories1"
+msgid "My category information is in one column in my CSV file"
+msgstr "My category information is in one column in my CSV file"
+
+msgctxt "ImportProductCategories2"
+msgid "My category information is in more than one column in my CSV file"
+msgstr "My category information is in more than one column in my CSV file"
+
+msgctxt "ImportCategoriesRoot"
+msgid "Root Category"
+msgstr "Root Category"
+
+msgctxt "ImportCategoriesChild"
+msgid "Child Category"
+msgstr "Child Category"
+
+msgctxt "ImportCategoriesGrandChild"
+msgid "Grandchild Category"
+msgstr "Grandchild Category"
+
+msgctxt "ImportNoPermissionCreateCategory"
+msgid "<-- You don't have permission to create categories"
+msgstr "<-- You don't have permission to create categories"
+
+msgctxt "ImportNoPermissionCreateBrand"
+msgid "<-- You don't have permission to create brands"
+msgstr "<-- You don't have permission to create brands"
+
+msgctxt "ImportNoPermissionImportToCategory"
+msgid "<-- You don't have permission to import to the category '%s'"
+msgstr "<-- You don't have permission to import to the category '%s'"
+
+msgctxt "ImportNoPermissionImportAllCategories"
+msgid "<-- You don't have permission to import to any of the specified categories"
+msgstr "<-- You don't have permission to import to any of the specified categories"
+
+msgctxt "ImportNoCategories"
+msgid "<-- No categories available to be imported to"
+msgstr "<-- No categories available to be imported to"
+
+msgctxt "ProductImageID"
+msgid "Product Image ID"
+msgstr "Product Image ID"
+
+msgctxt "ProductImageFile"
+msgid "Product Image File"
+msgstr "Product Image File"
+
+msgctxt "ProductImageIsThumb"
+msgid "Product Image Is Thumbnail"
+msgstr "Product Image Is Thumbnail"
+
+msgctxt "ProductImageDescription"
+msgid "Product Image Description"
+msgstr "Product Image Description"
+
+msgctxt "ProductImageSort"
+msgid "Product Image Sort"
+msgstr "Product Image Sort"
+
+msgctxt "ProductAllowPurchases"
+msgid "Allow Purchases?"
+msgstr "Allow Purchases?"
+
+msgctxt "ProductVisible"
+msgid "Product Visible?"
+msgstr "Product Visible?"
+
+msgctxt "ProductFile"
+msgid "Product File"
+msgstr "Product File"
+
+msgctxt "ProductFileDescription"
+msgid "Product File Description"
+msgstr "Product File Description"
+
+msgctxt "ProductFileMaxDownloads"
+msgid "Product File Max Downloads"
+msgstr "Product File Max Downloads"
+
+msgctxt "ProductFileExpiresAfter"
+msgid "Product File Expires After"
+msgstr "Product File Expires After"
+
+msgctxt "ProductShowCondition"
+msgid "Show Product Condition?"
+msgstr "Show Product Condition?"
+
+msgctxt "DeleteExistingImages"
+msgid "Delete existing images"
+msgstr "Delete existing images"
+
+msgctxt "DeleteExistingDownloads"
+msgid "Delete existing downloads"
+msgstr "Delete existing downloads"
+
+msgctxt "ProductEventDateRequired"
+msgid "Event Date Required?"
+msgstr "Event Date Required?"
+
+msgctxt "ProductEventDateName"
+msgid "Event Date Name"
+msgstr "Event Date Name"
+
+msgctxt "ProductEventDateLimited"
+msgid "Event Date Is Limited?"
+msgstr "Event Date Is Limited?"
+
+msgctxt "ProductEventDateStartDate"
+msgid "Event Date Start Date"
+msgstr "Event Date Start Date"
+
+msgctxt "ProductEventDateEndDate"
+msgid "Event Date End Date"
+msgstr "Event Date End Date"
+
+msgctxt "ImportNoEventDateName"
+msgid "<-- An event name is required to use an event date"
+msgstr "<-- An event name is required to use an event date"
+
+msgctxt "ImportEventDateInvalid"
+msgid "<-- An invalid event date limit was specified"
+msgstr "<-- An invalid event date limit was specified"
+
+msgctxt "ProductID"
+msgid "Product ID"
+msgstr "Product ID"
+
+msgctxt "ImportProductNotFound"
+msgid "<-- A product with the specified ID was not found"
+msgstr "<-- A product with the specified ID was not found"
+
+msgctxt "gpsGlobalTradeItemNumber"
+msgid "GPS Global Trade Item Number"
+msgstr "GPS Global Trade Item Number"
+
+msgctxt "gpsManufacturerPartNumber"
+msgid "GPS Manufacturer Part Number"
+msgstr "GPS Manufacturer Part Number"
+
+msgctxt "gpsGender"
+msgid "GPS Gender"
+msgstr "GPS Gender"
+
+msgctxt "gpsAgeGroup"
+msgid "GPS Age Group"
+msgstr "GPS Age Group"
+
+msgctxt "gpsColor"
+msgid "GPS Color"
+msgstr "GPS Color"
+
+msgctxt "gpsSize"
+msgid "GPS Size"
+msgstr "GPS Size"
+
+msgctxt "gpsMaterial"
+msgid "GPS Material"
+msgstr "GPS Material"
+
+msgctxt "gpsPattern"
+msgid "GPS Pattern"
+msgstr "GPS Pattern"
+
+msgctxt "gpsItemGroupId"
+msgid "GPS Item Group ID"
+msgstr "GPS Item Group ID"
+
+msgctxt "gpsCategory"
+msgid "GPS Category"
+msgstr "GPS Category"
+
+msgctxt "gpsGooglePsEnabled"
+msgid "GPS Enabled"
+msgstr "GPS Enabled"
+
+msgctxt "gpsNoSave"
+msgid "Could not save Google Product Search fields"
+msgstr "Could not save Google Product Search fields"
+
+msgctxt "gpsGenderInvalid"
+msgid "Invalid Gender ':gender'"
+msgstr "Invalid Gender ':gender'"
+
+msgctxt "gpsAgeGroupInvalid"
+msgid "Invalid Age Group ':ageGroup'"
+msgstr "Invalid Age Group ':ageGroup'"
+
+msgctxt "gpsCategoryNotFound"
+msgid "There must be a category linked with this product, one could not be found for ':categoryString'"
+msgstr "There must be a category linked with this product, one could not be found for ':categoryString'"
+
+msgctxt "gpsCategoryNotValid"
+msgid "The supplied category ':categoryString' is not valid for this product, it must be the same as on of the main product categories."
+msgstr "The supplied category ':categoryString' is not valid for this product, it must be the same as on of the main product categories."
+
+msgctxt "ImportCustomersStep2"
+msgid "Import Customers"
+msgstr "Import Customers"
+
+msgctxt "ImportCustomersStep2Desc"
+msgid "Use the form below to define which import fields should map to which customer fields."
+msgstr "Use the form below to define which import fields should map to which customer fields."
+
+msgctxt "ImportCustomersStep3"
+msgid "Import Customers"
+msgstr "Import Customers"
+
+msgctxt "ImportCustomersStep3Desc"
+msgid "Your customers are now ready to be imported into your store. Click the 'Start Import' button to continue."
+msgstr "Your customers are now ready to be imported into your store. Click the 'Start Import' button to continue."
+
+msgctxt "ImportCustomersStep5"
+msgid "Import Customers"
+msgstr "Import Customers"
+
+msgctxt "ImportCustomersStep5Desc"
+msgid "The import process is now complete and the results are shown below."
+msgstr "The import process is now complete and the results are shown below."
+
+msgctxt "ImportCustomersStep1"
+msgid "Import Customers"
+msgstr "Import Customers"
+
+msgctxt "ImportCustomersStep1Desc"
+msgid "You can import customers to your store from a CSV file on your computer or server."
+msgstr "You can import customers to your store from a CSV file on your computer or server."
+
+msgctxt "ImportCustomersProgress_SuccessCount_One"
+msgid "1 customer has been imported so far"
+msgstr "1 customer has been imported so far"
+
+msgctxt "ImportCustomersProgress_SuccessCount_Many"
+msgid "%s customers have been imported so far"
+msgstr "%s customers have been imported so far"
+
+msgctxt "ImportCustomersProgress_Updates_One"
+msgid "1 customer has been updated so far"
+msgstr "1 customer has been updated so far"
+
+msgctxt "ImportCustomersProgress_Updates_Many"
+msgid "%s customers have been updated so far"
+msgstr "%s customers have been updated so far"
+
+msgctxt "ImportCustomersProgress_Failures_One"
+msgid "1 customer has not been imported so far"
+msgstr "1 customer has not been imported so far"
+
+msgctxt "ImportCustomersProgress_Failures_Many"
+msgid "%s customers have not been imported so far"
+msgstr "%s customers have not been imported so far"
+
+msgctxt "ImportCustomersProgress_Duplicates_One"
+msgid "1 duplicate customer has been found so far"
+msgstr "1 duplicate customer has been found so far"
+
+msgctxt "ImportCustomersProgress_Duplicates_Many"
+msgid "%s duplicate customers have been found so far"
+msgstr "%s duplicate customers have been found so far"
+
+msgctxt "ImportCustomersProgress_Warnings_One"
+msgid "1 warning was generated so far"
+msgstr "1 warning was generated so far"
+
+msgctxt "ImportCustomersProgress_Warnings_Many"
+msgid "%s warnings were generated so far"
+msgstr "%s warnings were generated so far"
+
+msgctxt "ImportCustomersSuccessCount_One"
+msgid "1 customer was imported successfully"
+msgstr "1 customer was imported successfully"
+
+msgctxt "ImportCustomersSuccessCount_Many"
+msgid "%s customers were imported successfully"
+msgstr "%s customers were imported successfully"
+
+msgctxt "ImportCustomersUpdates_One"
+msgid "1 customer was updated successfully"
+msgstr "1 customer was updated successfully"
+
+msgctxt "ImportCustomersUpdates_Many"
+msgid "%s customers were updated successfully"
+msgstr "%s customers were updated successfully"
+
+msgctxt "ImportCustomersFailures_One_Link"
+msgid "1 customer failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 customer failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportCustomersFailures_Many_Link"
+msgid "%s customers failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s customers failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportCustomersFailures_Many"
+msgid "%s customers failed to be imported"
+msgstr "%s customers failed to be imported"
+
+msgctxt "ImportCustomersDuplicates_One_Link"
+msgid "1 duplicate customer was not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 duplicate customer was not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportCustomersDuplicates_Many"
+msgid "%s duplicate customers were not imported"
+msgstr "%s duplicate customers were not imported"
+
+msgctxt "ImportCustomersDuplicates_Many_Link"
+msgid "%s duplicate customers were not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s duplicate customers were not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportCustomersWarnings_Many"
+msgid "%s customers were not able to be fully imported"
+msgstr "%s customers were not able to be fully imported"
+
+msgctxt "ImportCustomersCategory"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "ImportCustomersCategoryDesc"
+msgid "Select the category that newly imported customers should be added to."
+msgstr "Select the category that newly imported customers should be added to."
+
+msgctxt "ImportCustomersSuccessful"
+msgid "The customer import has been successfully completed"
+msgstr "The customer import has been successfully completed"
+
+msgctxt "ImportCustomersInvalidEmail"
+msgid "<-- Invalid email address"
+msgstr "<-- Invalid email address"
+
+msgctxt "ImportCustomersMissingEmail"
+msgid "<-- Missing email address"
+msgstr "<-- Missing email address"
+
+msgctxt "ImportCustomersWarnings_One_Link"
+msgid "1 customer was not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 customer was not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportCustomersWarnings_Many_Link"
+msgid "%s customers were not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s customers were not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "CustomerAddressID"
+msgid "Address ID"
+msgstr "Address ID"
+
+msgctxt "CustomerAddressFirstName"
+msgid "Address First Name"
+msgstr "Address First Name"
+
+msgctxt "CustomerAddressLastName"
+msgid "Address Last Name"
+msgstr "Address Last Name"
+
+msgctxt "CustomerAddressCompany"
+msgid "Address Company"
+msgstr "Address Company"
+
+msgctxt "CustomerAddressLine1"
+msgid "Address Line 1"
+msgstr "Address Line 1"
+
+msgctxt "CustomerAddressLine2"
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+msgctxt "CustomerAddressCity"
+msgid "Address City"
+msgstr "Address City"
+
+msgctxt "CustomerAddressState"
+msgid "Address State"
+msgstr "Address State"
+
+msgctxt "CustomerAddressZip"
+msgid "Address Zip"
+msgstr "Address Zip"
+
+msgctxt "CustomerAddressCountry"
+msgid "Address Country"
+msgstr "Address Country"
+
+msgctxt "CustomerAddressPhone"
+msgid "Address Phone"
+msgstr "Address Phone"
+
+msgctxt "CustomerNotes"
+msgid "Notes"
+msgstr "Notes"
+
+msgctxt "ImportOrdertrackingnumbersStep2"
+msgid "Import Tracking Numbers"
+msgstr "Import Tracking Numbers"
+
+msgctxt "ImportOrdertrackingnumbersStep2Desc"
+msgid "Use the form below to define which import fields should map to which tracking number fields."
+msgstr "Use the form below to define which import fields should map to which tracking number fields."
+
+msgctxt "ImportOrdertrackingnumbersStep3"
+msgid "Import Tracking Numbers"
+msgstr "Import Tracking Numbers"
+
+msgctxt "ImportOrdertrackingnumbersStep3Desc"
+msgid "Your tracking numbers are now ready to be imported into your store. Click the 'Start Import' button to continue."
+msgstr "Your tracking numbers are now ready to be imported into your store. Click the 'Start Import' button to continue."
+
+msgctxt "ImportOrdertrackingnumbersStep5"
+msgid "Import Tracking Numbers"
+msgstr "Import Tracking Numbers"
+
+msgctxt "ImportOrdertrackingnumbersStep5Desc"
+msgid "The import process is now complete and the results are shown below."
+msgstr "The import process is now complete and the results are shown below."
+
+msgctxt "ImportOrdertrackingnumbersStep1"
+msgid "Import Tracking Numbers"
+msgstr "Import Tracking Numbers"
+
+msgctxt "ImportOrdertrackingnumbersStep1Desc"
+msgid "You can import tracking numbers to your store from a CSV file on your computer or server."
+msgstr "You can import tracking numbers to your store from a CSV file on your computer or server."
+
+msgctxt "ImportOrdertrackingnumbersProgress_SuccessCount_One"
+msgid "1 tracking number has been imported so far"
+msgstr "1 tracking number has been imported so far"
+
+msgctxt "ImportOrdertrackingnumbersProgress_SuccessCount_Many"
+msgid "%s tracking numbers have been imported so far"
+msgstr "%s tracking numbers have been imported so far"
+
+msgctxt "ImportOrdertrackingnumbersProgress_Updates_One"
+msgid "1 tracking number has been updated so far"
+msgstr "1 tracking number has been updated so far"
+
+msgctxt "ImportOrdertrackingnumbersProgress_Updates_Many"
+msgid "%s tracking numbers have been updated so far"
+msgstr "%s tracking numbers have been updated so far"
+
+msgctxt "ImportOrdertrackingnumbersProgress_Failures_One"
+msgid "1 tracking number has not been imported so far"
+msgstr "1 tracking number has not been imported so far"
+
+msgctxt "ImportOrdertrackingnumbersProgress_Failures_Many"
+msgid "%s tracking numbers have not been imported so far"
+msgstr "%s tracking numbers have not been imported so far"
+
+msgctxt "ImportOrdertrackingnumbersProgress_Duplicates_One"
+msgid "1 duplicate tracking number has been found so far"
+msgstr "1 duplicate tracking number has been found so far"
+
+msgctxt "ImportOrdertrackingnumbersProgress_Duplicates_Many"
+msgid "%s duplicate tracking numbers have been found so far"
+msgstr "%s duplicate tracking numbers have been found so far"
+
+msgctxt "ImportOrdertrackingnumbersSuccessCount_One"
+msgid "1 tracking number was imported successfully"
+msgstr "1 tracking number was imported successfully"
+
+msgctxt "ImportOrdertrackingnumbersSuccessCount_Many"
+msgid "%s tracking numbers were imported successfully"
+msgstr "%s tracking numbers were imported successfully"
+
+msgctxt "ImportOrdertrackingnumbersUpdates_One"
+msgid "1 tracking number was updated successfully"
+msgstr "1 tracking number was updated successfully"
+
+msgctxt "ImportOrdertrackingnumbersUpdates_Many"
+msgid "%s tracking numbers were updated successfully"
+msgstr "%s tracking numbers were updated successfully"
+
+msgctxt "ImportOrdertrackingnumbersFailures_One_Link"
+msgid "1 tracking number failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 tracking number failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportOrdertrackingnumbersFailures_Many_Link"
+msgid "%s tracking numbers failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s tracking numbers failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportOrdertrackingnumbersFailures_Many"
+msgid "%s tracking numbers failed to be imported"
+msgstr "%s tracking numbers failed to be imported"
+
+msgctxt "ImportOrdertrackingnumbersDuplicates_One_Link"
+msgid "1 duplicate tracking number was not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 duplicate tracking number was not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportOrdertrackingnumbersDuplicates_Many"
+msgid "%s duplicate tracking numbers were not imported"
+msgstr "%s duplicate tracking numbers were not imported"
+
+msgctxt "ImportOrdertrackingnumbersDuplicates_Many_Link"
+msgid "%s duplicate tracking numbers were not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s duplicate tracking numbers were not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportOrdertrackingnumbersSuccessful"
+msgid "The order tracking number import has completed successfully"
+msgstr "The order tracking number import has completed successfully"
+
+msgctxt "ImportInvalidOrderNumber"
+msgid "<-- Invalid order number or order is digital only"
+msgstr "<-- Invalid order number or order is digital only"
+
+msgctxt "ImportMissingOrderNumber"
+msgid "<-- Missing order number"
+msgstr "<-- Missing order number"
+
+msgctxt "ImportInvalidTrackingNumber"
+msgid "<-- Invalid tracking number"
+msgstr "<-- Invalid tracking number"
+
+msgctxt "ImportMissingTrackingNumber"
+msgid "<-- Missing tracking number"
+msgstr "<-- Missing tracking number"
+
+msgctxt "ImportTrackingNumberTooLong"
+msgid "<-- Tracking number is too long (greater than 50 characters)"
+msgstr "<-- Tracking number is too long (greater than 50 characters)"
+
+msgctxt "ImportOrdertrackingnumbersWarnings_One_Link"
+msgid "1 tracking number was not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 tracking number was not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportOrdertrackingnumbersWarnings_Many"
+msgid "%s tracking numbers were not able to be fully imported"
+msgstr "%s tracking numbers were not able to be fully imported"
+
+msgctxt "ImportOrdertrackingnumbersWarnings_Many_Link"
+msgid "%s tracking numbers were not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s tracking numbers were not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "NoMatchOrderNumber"
+msgid "The \'Order Number\' field is not linked. You must link this field to continue."
+msgstr "The \'Order Number\' field is not linked. You must link this field to continue."
+
+msgctxt "NoMatchOrdertrackingnumber"
+msgid "The \'Tracking Number\' field is not linked. You must link this field to continue."
+msgstr "The \'Tracking Number\' field is not linked. You must link this field to continue."
+
+msgctxt "OrderNumber"
+msgid "Order Number"
+msgstr "Order Number"
+
+msgctxt "NoMatchCustomerEmail"
+msgid "The \'Customer Email\' field is not linked. You must link this field to continue."
+msgstr "The \'Customer Email\' field is not linked. You must link this field to continue."
+
+msgctxt "OrderStatusDetails"
+msgid "Order Status Details"
+msgstr "Order Status Details"
+
+msgctxt "UpdateOrderStatusTo"
+msgid "Update Order Status to:"
+msgstr "Update Order Status to:"
+
+msgctxt "UpdateOrderStatus"
+msgid "Update Order Status"
+msgstr "Update Order Status"
+
+msgctxt "UpdateOrderStatusDesc"
+msgid "The status of the orders for the tracking numbers you import can be updated at the same time. Simply choose a status from the list, or choose \'Do Not Update\' to keep the current order status."
+msgstr "The status of the orders for the tracking numbers you import can be updated at the same time. Simply choose a status from the list, or choose \'Do Not Update\' to keep the current order status."
+
+msgctxt "DoNotUpdate"
+msgid "-- Do Not Update --"
+msgstr "-- Do Not Update --"
+
+msgctxt "AwaitingPayment"
+msgid "Awaiting Payment"
+msgstr "Awaiting Payment"
+
+msgctxt "AwaitingFulfillment"
+msgid "Awaiting Fulfillment"
+msgstr "Awaiting Fulfillment"
+
+msgctxt "AwaitingShipment"
+msgid "Awaiting Shipment"
+msgstr "Awaiting Shipment"
+
+msgctxt "AwaitingPickup"
+msgid "Awaiting Pickup"
+msgstr "Awaiting Pickup"
+
+msgctxt "PartiallyShipped"
+msgid "Partially Shipped"
+msgstr "Partially Shipped"
+
+msgctxt "Completed"
+msgid "Completed"
+msgstr "Completed"
+
+msgctxt "Declined"
+msgid "Declined"
+msgstr "Declined"
+
+msgctxt "ImportProductInvalidVendor"
+msgid "<-- Product name is already in use by another vendor"
+msgstr "<-- Product name is already in use by another vendor"
+
+msgctxt "CustShippingFirstName"
+msgid "Shipping: First Name"
+msgstr "Shipping: First Name"
+
+msgctxt "CustShippingLastName"
+msgid "Shipping: Last Name"
+msgstr "Shipping: Last Name"
+
+msgctxt "ImportProductImageInvalidFile"
+msgid "<-- Product image does not exist or is not a valid image"
+msgstr "<-- Product image does not exist or is not a valid image"
+
+msgctxt "ImportMatchOptionDateHelp"
+msgid "Which field in the CSV file should match the '%s' Field? Below are the possible formats that the date value should be:<br /><ul><li>2000-12-31 (Year, month then day)</li><li>12-31-00 (Month, day then year)</li></ul>You can also use &quot;/&quot; as the separator instead of &quot;-&quot;"
+msgstr "Which field in the CSV file should match the '%s' Field? Below are the possible formats that the date value should be:<br /><ul><li>2000-12-31 (Year, month then day)</li><li>12-31-00 (Month, day then year)</li></ul>You can also use &quot;/&quot; as the separator instead of &quot;-&quot;"
+
+msgctxt "UpdateExistingVariations"
+msgid "Update Existing Variations?"
+msgstr "Update Existing Variations?"
+
+msgctxt "YesUpdateExistingVariations"
+msgid "Yes, update existing variations if possible"
+msgstr "Yes, update existing variations if possible"
+
+msgctxt "UpdateExistingVariationsHelp"
+msgid "If enabled then existing variations will be updated if possible. If disabled then an entirely new variation will always be created."
+msgstr "If enabled then existing variations will be updated if possible. If disabled then an entirely new variation will always be created."
+
+msgctxt "DefaultForEmptyValues"
+msgid "Set Defaults For Missing Values?"
+msgstr "Set Defaults For Missing Values?"
+
+msgctxt "YesDefaultForEmptyValues"
+msgid "Yes, replace missing values with defaults"
+msgstr "Yes, replace missing values with defaults"
+
+msgctxt "DefaultForEmptyValuesHelp"
+msgid "If this option is enabled, then if a field has no value supplied then they it be replaced with default values (such as 0 for price). If unticked, then existing values won\'t be overwritten when updating."
+msgstr "If this option is enabled, then if a field has no value supplied then they it be replaced with default values (such as 0 for price). If unticked, then existing values won\'t be overwritten when updating."
+
+msgctxt "CreateAllCombinations"
+msgid "Create All Combinations?"
+msgstr "Create All Combinations?"
+
+msgctxt "YesCreateAllCombinations"
+msgid "Yes, create all possible combinations using the options specified."
+msgstr "Yes, create all possible combinations using the options specified."
+
+msgctxt "CreateAllCombinationsHelp"
+msgid "If this option is enabled, all the possible combinations from all the options will be created for the product even if those particular combinations aren\'t specified in the file. The other options will be assigned default values. If this is disabled, only the specific combinations in your file will be created and the other possible combinations will not be available for purchase."
+msgstr "If this option is enabled, all the possible combinations from all the options will be created for the product even if those particular combinations aren\'t specified in the file. The other options will be assigned default values. If this is disabled, only the specific combinations in your file will be created and the other possible combinations will not be available for purchase."
+
+msgctxt "ProductVarSKU"
+msgid "Variation SKU"
+msgstr "Variation SKU"
+
+msgctxt "ProductVarPrice"
+msgid "Variation Price"
+msgstr "Variation Price"
+
+msgctxt "ProductVarWeight"
+msgid "Variation Weight"
+msgstr "Variation Weight"
+
+msgctxt "ProductVarImage"
+msgid "Variation Image"
+msgstr "Variation Image"
+
+msgctxt "ProductVarStock"
+msgid "Variation Stock Level"
+msgstr "Variation Stock Level"
+
+msgctxt "ProductVarLowStock"
+msgid "Variation Low Stock Level"
+msgstr "Variation Low Stock Level"
+
+msgctxt "NoIdentField"
+msgid "The required field :identField is empty"
+msgstr "The required field :identField is empty"
+
+msgctxt "AssociatedProductNotFound"
+msgid "Associated product could not be found (:identField: :identValue)"
+msgstr "Associated product could not be found (:identField: :identValue)"
+
+msgctxt "CantExtractData"
+msgid "Could not extract variation data in field: :dataField"
+msgstr "Could not extract variation data in field: :dataField"
+
+msgctxt "NoVariationData"
+msgid "The record has no variation data to import (Row: :rowNum)"
+msgstr "The record has no variation data to import (Row: :rowNum)"
+
+msgctxt "ImportProductVariationsStep1"
+msgid "Import Product Variations"
+msgstr "Import Product Variations"
+
+msgctxt "ImportProductVariationsStep1Desc"
+msgid "You can import product variations to your store from a CSV file on your computer or server. Please see <a href='javascript:LaunchHelp(870);'>this article</a> for details on importing variations and how to format the data."
+msgstr "You can import product variations to your store from a CSV file on your computer or server. Please see <a href='javascript:LaunchHelp(870);'>this article</a> for details on importing variations and how to format the data."
+
+msgctxt "ImportProductVariationsStep2"
+msgid "Import Product Variations"
+msgstr "Import Product Variations"
+
+msgctxt "ImportProductVariationsStep2Desc"
+msgid "Use the form below to define which import fields should map to which product variation fields."
+msgstr "Use the form below to define which import fields should map to which product variation fields."
+
+msgctxt "ImportProductVariationsStep3"
+msgid "Import Product Variations"
+msgstr "Import Product Variations"
+
+msgctxt "ImportProductVariationsStep3Desc"
+msgid "Your variations are now ready to be imported into your store. Click the 'Start Import' button to continue."
+msgstr "Your variations are now ready to be imported into your store. Click the 'Start Import' button to continue."
+
+msgctxt "ImportProductVariationsStep5"
+msgid "Import Product Variations"
+msgstr "Import Product Variations"
+
+msgctxt "ImportProductVariationsStep5Desc"
+msgid "The import process is now complete and the results are shown below."
+msgstr "The import process is now complete and the results are shown below."
+
+msgctxt "ImportProductvariationsProgress_SuccessCount_One"
+msgid "1 variation has been imported so far"
+msgstr "1 variation has been imported so far"
+
+msgctxt "ImportProductvariationsProgress_SuccessCount_Many"
+msgid "%s variations have been imported so far"
+msgstr "%s variations have been imported so far"
+
+msgctxt "ImportProductvariationsProgress_Updates_One"
+msgid "1 variation has been updated so far"
+msgstr "1 variation has been updated so far"
+
+msgctxt "ImportProductvariationsProgress_Updates_Many"
+msgid "%s variations have been updated so far"
+msgstr "%s variations have been updated so far"
+
+msgctxt "ImportProductvariationsProgress_Failures_One"
+msgid "1 variation has not been imported so far"
+msgstr "1 variation has not been imported so far"
+
+msgctxt "ImportProductvariationsProgress_Failures_Many"
+msgid "%s variations have not been imported so far"
+msgstr "%s variations have not been imported so far"
+
+msgctxt "ImportProductvariationsProgress_Duplicates_One"
+msgid "1 duplicate variation has been found so far"
+msgstr "1 duplicate variation has been found so far"
+
+msgctxt "ImportProductvariationsProgress_Duplicates_Many"
+msgid "%s duplicate variations have been found so far"
+msgstr "%s duplicate variations have been found so far"
+
+msgctxt "ImportProductvariationsSuccessCount_One"
+msgid "1 variation was imported successfully"
+msgstr "1 variation was imported successfully"
+
+msgctxt "ImportProductvariationsSuccessCount_Many"
+msgid "%s variations were imported successfully"
+msgstr "%s variations were imported successfully"
+
+msgctxt "ImportProductvariationsUpdates_One"
+msgid "1 variation was updated successfully"
+msgstr "1 variation was updated successfully"
+
+msgctxt "ImportProductvariationsUpdates_Many"
+msgid "%s variations were updated successfully"
+msgstr "%s variations were updated successfully"
+
+msgctxt "ImportProductvariationsFailures_One_Link"
+msgid "1 variation failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 variation failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductvariationsFailures_Many_Link"
+msgid "%s variations failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s variations failed to be imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductvariationsFailures_Many"
+msgid "%s variations failed to be imported"
+msgstr "%s variations failed to be imported"
+
+msgctxt "ImportProductvariationsDuplicates_One_Link"
+msgid "1 duplicate variation was not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 duplicate variation was not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductvariationsDuplicates_Many"
+msgid "%s duplicate variations were not imported"
+msgstr "%s duplicate variations were not imported"
+
+msgctxt "ImportProductvariationsDuplicates_Many_Link"
+msgid "%s duplicate variations were not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s duplicate variations were not imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductvariationsWarnings_One_Link"
+msgid "1 variation was not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "1 variation was not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductvariationsWarnings_Many"
+msgid "%s variations were not able to be fully imported"
+msgstr "%s variations were not able to be fully imported"
+
+msgctxt "ImportProductvariationsWarnings_Many_Link"
+msgid "%s variations were not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+msgstr "%s variations were not able to be fully imported [<a href='#' onclick='ShowReport(%s); return false'>More Information</a>]"
+
+msgctxt "ImportProductvariationsSuccessful"
+msgid "The product variation import has completed successfully"
+msgstr "The product variation import has completed successfully"
+
+msgctxt "ImportBulkEditCSV"
+msgid "Bulk Edit Re-Import?"
+msgstr "Bulk Edit Re-Import?"
+
+msgctxt "ImportBulkEditCSVYes"
+msgid "Yes, I exported this file using the 'Bulk Edit' template"
+msgstr "Yes, I exported this file using the 'Bulk Edit' template"
+
+msgctxt "ImportProductInvalidPrice"
+msgid "<-- Product price is invalid"
+msgstr "<-- Product price is invalid"
+
+msgctxt "ImportOrderHasNoUnshippedItems"
+msgid "<-- Order has no unshipped items"
+msgstr "<-- Order has no unshipped items"
+
+msgctxt "ImportCreateShipmentFailed"
+msgid "<-- Failed to create shipment"
+msgstr "<-- Failed to create shipment"
+
+msgctxt "ImportUpdateShipmentsFailed"
+msgid "<-- Failed to update all existing shipments"
+msgstr "<-- Failed to update all existing shipments"
+
+msgctxt "ImportIgnoreBlanks"
+msgid "Ignore Blanks?"
+msgstr "Ignore Blanks?"
+
+msgctxt "ImportIgnoreBlankFields"
+msgid "Yes, ignore blank field values during import"
+msgstr "Yes, ignore blank field values during import"
+
+msgctxt "ImportIgnoreBlankFieldsHelpTitle"
+msgid "Ignore Blank Field Values During Import?"
+msgstr "Ignore Blank Field Values During Import?"
+
+msgctxt "ImportIgnoreBlankFieldsHelp"
+msgid "If checked, any field values which are empty during the import (i.e. contain no text, numbers, etc) will be ignored and the existing value will not be changed or updated."
+msgstr "If checked, any field values which are empty during the import (i.e. contain no text, numbers, etc) will be ignored and the existing value will not be changed or updated."
+
+msgctxt "ImportProductTrackInventoryInvalid"
+msgid "<-- Invalid track inventory value ignored."
+msgstr "<-- Invalid track inventory value ignored."
+
+msgctxt "ImportProductTrackInventoryNoVariations"
+msgid "<-- Unable to track inventory by variation. Product has no variations."
+msgstr "<-- Unable to track inventory by variation. Product has no variations."
+
+msgctxt "ImportResultMessage"
+msgid "Line :line: :message"
+msgstr "Line :line: :message"
+
+msgctxt "ImportProductViewImportedProductsLink"
+msgid "<a class='viewImportLink' href=':link'>View Imported Products</a>"
+msgstr "<a class='viewImportLink' href=':link'>View Imported Products</a>"
+
+msgctxt "ImportDatabaseError"
+msgid "An unexpected database error prevented the import. More information may be available in the store log (Tools > Store Logs)."
+msgstr "An unexpected database error prevented the import. More information may be available in the store log (Tools > Store Logs)."
+
+msgctxt "ImportProductImageFilePermissionIssue"
+msgid "File or directory permission issue on server"
+msgstr "File or directory permission issue on server"

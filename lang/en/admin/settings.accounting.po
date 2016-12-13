@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "AccountingPermCustomerAdd"
+msgid "Create a customer"
+msgstr "Create a customer"
+
+msgctxt "AccountingPermCustomerEdit"
+msgid "Edit a customer"
+msgstr "Edit a customer"
+
+msgctxt "AccountingPermCustomerDelete"
+msgid "Delete (deactivate) a customer"
+msgstr "Delete (deactivate) a customer"
+
+msgctxt "AccountingPermProductAdd"
+msgid "Create a product"
+msgstr "Create a product"
+
+msgctxt "AccountingPermProductEdit"
+msgid "Edit a product"
+msgstr "Edit a product"
+
+msgctxt "AccountingPermProductDelete"
+msgid "Delete (deactivate) a product"
+msgstr "Delete (deactivate) a product"
+
+msgctxt "AccountingPermOrderAdd"
+msgid "Create an order"
+msgstr "Create an order"
+
+msgctxt "AccountingPermOrderEdit"
+msgid "Edit an order"
+msgstr "Edit an order"
+
+msgctxt "AccountingPermOrderDelete"
+msgid "Delete (deactivate) an order"
+msgstr "Delete (deactivate) an order"
+
+msgctxt "AccountingShowSpoolList"
+msgid "Pending Jobs"
+msgstr "Pending Jobs"
+
+msgctxt "AccountingShowSpoolListIntro"
+msgid "This list will display all the pending jobs that will be imported over."
+msgstr "This list will display all the pending jobs that will be imported over."
+
+msgctxt "AccountingShowSpoolListHelp"
+msgid "This list will display all the pending jobs that will be imported over.<br /><br /><b>Description</b> is a short description on what the job is. This will also link to related admin page.<br /><br /><b>Status</b> is the current status of the job. Below are the different job status types:<ul><li><u>Pending</u> means that the job is ready and is waiting to be imported over</li><li><u>Failed</u> means that this job failed when trying to import</li></ul><b>Action</b> are the different actions that can be preformed on a job. The different actions are:<ul><li><u>Disable</u> will disable a pending job and will NOT be imported over</li><li><u>Re-Enable</u> will re-enable a disabled job to be imported over on the next import</li><li><u>Delete</u> will delete a pending job. This action is IRREVERSIBLE</li></ul>"
+msgstr "This list will display all the pending jobs that will be imported over.<br /><br /><b>Description</b> is a short description on what the job is. This will also link to related admin page.<br /><br /><b>Status</b> is the current status of the job. Below are the different job status types:<ul><li><u>Pending</u> means that the job is ready and is waiting to be imported over</li><li><u>Failed</u> means that this job failed when trying to import</li></ul><b>Action</b> are the different actions that can be preformed on a job. The different actions are:<ul><li><u>Disable</u> will disable a pending job and will NOT be imported over</li><li><u>Re-Enable</u> will re-enable a disabled job to be imported over on the next import</li><li><u>Delete</u> will delete a pending job. This action is IRREVERSIBLE</li></ul>"
+
+msgctxt "AccountingSpoolListDesc"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "AccountingSpoolListStatus"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "AccountingSpoolListAction"
+msgid "Action"
+msgstr "Action"
+
+msgctxt "AccountingSpoolListReenable"
+msgid "Enable Selected"
+msgstr "Enable Selected"
+
+msgctxt "AccountingSpoolListDisable"
+msgid "Disable Selected"
+msgstr "Disable Selected"
+
+msgctxt "AccountingSpoolListDelete"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+msgctxt "AccountingSpoolListConfirmDisable"
+msgid "Are you sure you want to disable the selected spools?"
+msgstr "Are you sure you want to disable the selected spools?"
+
+msgctxt "AccountingSpoolListConfirmDisableSingle"
+msgid "Are you sure you want to disable the selected spool?"
+msgstr "Are you sure you want to disable the selected spool?"
+
+msgctxt "AccountingSpoolListChooseDisable"
+msgid "You must choose at least one spool to disable."
+msgstr "You must choose at least one spool to disable."
+
+msgctxt "AccountingSpoolListConfirmReenable"
+msgid "Are you sure you want to enable the selected spools?"
+msgstr "Are you sure you want to enable the selected spools?"
+
+msgctxt "AccountingSpoolListConfirmReenableSingle"
+msgid "Are you sure you want to enable the selected spool?"
+msgstr "Are you sure you want to enable the selected spool?"
+
+msgctxt "AccountingSpoolListChooseReenable"
+msgid "You must choose at least one spool to enable."
+msgstr "You must choose at least one spool to enable."
+
+msgctxt "AccountingSpoolListConfirmDelete"
+msgid "Are you sure you want to delete the selected spools? This action is irreversible."
+msgstr "Are you sure you want to delete the selected spools? This action is irreversible."
+
+msgctxt "AccountingSpoolListConfirmDeleteSingle"
+msgid "Are you sure you want to delete the selected spool? This action is irreversible."
+msgstr "Are you sure you want to delete the selected spool? This action is irreversible."
+
+msgctxt "AccountingSpoolListChooseDelete"
+msgid "You must choose at least one job to delete."
+msgstr "You must choose at least one job to delete."
+
+msgctxt "AccountingSpoolListSuccessfulReenable"
+msgid "The selected spool(s) have been successfully enabled."
+msgstr "The selected spool(s) have been successfully enabled."
+
+msgctxt "AccountingSpoolListSuccessfulDisable"
+msgid "The selected spool(s) have been successfully disabled."
+msgstr "The selected spool(s) have been successfully disabled."
+
+msgctxt "AccountingSpoolListSuccessfulDelete"
+msgid "The selected spool(s) have been successfully deleted."
+msgstr "The selected spool(s) have been successfully deleted."
+
+msgctxt "AccountingSpoolListError"
+msgid "An unknown error has occurred. Please try again later."
+msgstr "An unknown error has occurred. Please try again later."
+
+msgctxt "AccountingActionAdd"
+msgid "adding"
+msgstr "adding"
+
+msgctxt "AccountingActionEdit"
+msgid "editing"
+msgstr "editing"
+
+msgctxt "AccountingActionQuery"
+msgid "querying"
+msgstr "querying"
+
+msgctxt "AccountingTypeCustomer"
+msgid "customer"
+msgstr "customer"
+
+msgctxt "AccountingTypeCustomergroup"
+msgid "customer group"
+msgstr "customer group"
+
+msgctxt "AccountingTypeProduct"
+msgid "product"
+msgstr "product"
+
+msgctxt "AccountingTypeSalestaxcode"
+msgid "sales tax code"
+msgstr "sales tax code"
+
+msgctxt "AccountingTypeAccount"
+msgid "account"
+msgstr "account"
+
+msgctxt "AccountingSpoolDesc"
+msgid "%s the %s &quot;%s&quot;"
+msgstr "%s the %s &quot;%s&quot;"

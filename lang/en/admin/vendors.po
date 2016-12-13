@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "InvalidVendor"
+msgid "You have selected an invalid vendor. Please select a valid vendor to continue"
+msgstr "You have selected an invalid vendor. Please select a valid vendor to continue"
+
+msgctxt "VendorPagesDeleted"
+msgid "The select page(s) have been deleted successfully."
+msgstr "The select page(s) have been deleted successfully."
+
+msgctxt "xNone"
+msgid "None"
+msgstr "None"
+
+msgctxt "NoVendors"
+msgid "Your store does not have any vendors. To create a vendor, click the 'Create a Vendor' button below."
+msgstr "Your store does not have any vendors. To create a vendor, click the 'Create a Vendor' button below."
+
+msgctxt "AddVendor"
+msgid "Create a Vendor"
+msgstr "Create a Vendor"
+
+msgctxt "AddVendorIntro"
+msgid "Fill in the form below to create a new vendor. Users accounts will then be able to be assigned to this vendor."
+msgstr "Fill in the form below to create a new vendor. Users accounts will then be able to be assigned to this vendor."
+
+msgctxt "ProblemSavingVendor"
+msgid "There was a problem saving your vendor: `"
+msgstr "There was a problem saving your vendor: `"
+
+msgctxt "EnterVendorName"
+msgid "Please enter a name for this vendor."
+msgstr "Please enter a name for this vendor."
+
+msgctxt "EnterVendorPhoneNumber"
+msgid "Please enter a phone number."
+msgstr "Please enter a phone number."
+
+msgctxt "EnterVendorBio"
+msgid "Please enter a biography/description for this vendor."
+msgstr "Please enter a biography/description for this vendor."
+
+msgctxt "EnterVendorAddress"
+msgid "Please enter an address for this vendor."
+msgstr "Please enter an address for this vendor."
+
+msgctxt "EnterVendorCountry"
+msgid "Please select a country for this vendor."
+msgstr "Please select a country for this vendor."
+
+msgctxt "EnterVendorCity"
+msgid "Please enter the city for this vendor."
+msgstr "Please enter the city for this vendor."
+
+msgctxt "EnterVendorZipCode"
+msgid "Please enter the ZIP/post code for this vendor."
+msgstr "Please enter the ZIP/post code for this vendor."
+
+msgctxt "VendorCreated"
+msgid "The vendor profile has been created successfully."
+msgstr "The vendor profile has been created successfully."
+
+msgctxt "DuplicateVendorName"
+msgid "A vendor already exists with this name. Please enter another one."
+msgstr "A vendor already exists with this name. Please enter another one."
+
+msgctxt "EditVendor"
+msgid "Edit Vendor"
+msgstr "Edit Vendor"
+
+msgctxt "EditVendorIntro"
+msgid "Update the profile for this vendor below. User accounts associated with this vendor can be managed from the 'User Accounts' link above."
+msgstr "Update the profile for this vendor below. User accounts associated with this vendor can be managed from the 'User Accounts' link above."
+
+msgctxt "VendorUpdated"
+msgid "The vendor profile has been updated successfully."
+msgstr "The vendor profile has been updated successfully."
+
+msgctxt "VendorsDeleted"
+msgid "The selected vendor(s) have been deleted successfully."
+msgstr "The selected vendor(s) have been deleted successfully."
+
+msgctxt "SelectOneMoreVendorsDelete"
+msgid "Please select one or more vendors to delete."
+msgstr "Please select one or more vendors to delete."
+
+msgctxt "ConfirmDeleteVendors"
+msgid "Are you sure you want to delete the selected vendors?"
+msgstr "Are you sure you want to delete the selected vendors?"
+
+msgctxt "VendorsIntro"
+msgid "The vendor accounts on your store are shown below."
+msgstr "The vendor accounts on your store are shown below."
+
+msgctxt "VendorProfile"
+msgid "Vendor Profile"
+msgstr "Vendor Profile"
+
+msgctxt "VendorName"
+msgid "Vendor Name"
+msgstr "Vendor Name"
+
+msgctxt "VendorNameHelp"
+msgid "Please enter the name for this vendor."
+msgstr "Please enter the name for this vendor."
+
+msgctxt "VendorAddress"
+msgid "Vendor Address"
+msgstr "Vendor Address"
+
+msgctxt "VendorAddressHelp"
+msgid "Please enter the address for this vendor."
+msgstr "Please enter the address for this vendor."
+
+msgctxt "VendorCity"
+msgid "Vendor City"
+msgstr "Vendor City"
+
+msgctxt "VendorCityHelp"
+msgid "Please enter the city for this vendor."
+msgstr "Please enter the city for this vendor."
+
+msgctxt "VendorCountry"
+msgid "Vendor Country"
+msgstr "Vendor Country"
+
+msgctxt "VendorCountryHelp"
+msgid "Please select the country that this vendor is based in."
+msgstr "Please select the country that this vendor is based in."
+
+msgctxt "VendorState"
+msgid "Vendor State"
+msgstr "Vendor State"
+
+msgctxt "VendorStateHelp"
+msgid "Please select or enter the state that this vendor is based in."
+msgstr "Please select or enter the state that this vendor is based in."
+
+msgctxt "VendorZip"
+msgid "Vendor Zip Code"
+msgstr "Vendor Zip Code"
+
+msgctxt "VendorZipHelp"
+msgid "Please enter the Zip or Post code that this vendor is based in."
+msgstr "Please enter the Zip or Post code that this vendor is based in."
+
+msgctxt "VendorPhone"
+msgid "Vendor Phone No."
+msgstr "Vendor Phone No."
+
+msgctxt "VendorPhoneHelp"
+msgid "Please enter the phone number for this vendor."
+msgstr "Please enter the phone number for this vendor."
+
+msgctxt "VendorBio"
+msgid "Vendor Bio/Description"
+msgstr "Vendor Bio/Description"
+
+msgctxt "EnterVendorPhone"
+msgid "Please enter the phone number for this vendor."
+msgstr "Please enter the phone number for this vendor."
+
+msgctxt "EnterVendorZip"
+msgid "Please enter the zip/post code for this vendor."
+msgstr "Please enter the zip/post code for this vendor."
+
+msgctxt "VendorUsers"
+msgid "Vendor Accounts"
+msgstr "Vendor Accounts"
+
+msgctxt "ManageVendors"
+msgid "Manage Vendors"
+msgstr "Manage Vendors"
+
+msgctxt "ManageUsers"
+msgid "Manage Users"
+msgstr "Manage Users"
+
+msgctxt "EnterVendorState"
+msgid "Please select a state for this vendor."
+msgstr "Please select a state for this vendor."
+
+msgctxt "CompanyAddressHelp"
+msgid "Enter the address for this vendor. This is used for real-time shipping quotes."
+msgstr "Enter the address for this vendor. This is used for real-time shipping quotes."
+
+msgctxt "CompanyAddress"
+msgid "Vendor Address"
+msgstr "Vendor Address"
+
+msgctxt "ForwardInvoiceEmails"
+msgid "Forward Order Invoices"
+msgstr "Forward Order Invoices"
+
+msgctxt "ForwardInvoiceEmailsHelp"
+msgid "To forward copies of order confirmation messages sent to your customers after they place an order to one or more additional addresses of your own, check this box and enter a comma separated list of email addresses below."
+msgstr "To forward copies of order confirmation messages sent to your customers after they place an order to one or more additional addresses of your own, check this box and enter a comma separated list of email addresses below."
+
+msgctxt "YesEnableForwardInvoiceEmails"
+msgid "Yes, forward order invoice emails to:"
+msgstr "Yes, forward order invoice emails to:"
+
+msgctxt "ForwardOrderInvoicesDesc"
+msgid "Type the email addresses above, separated by commas."
+msgstr "Type the email addresses above, separated by commas."
+
+msgctxt "VendorInformation"
+msgid "Vendor Information"
+msgstr "Vendor Information"
+
+msgctxt "VendorShipping"
+msgid "Vendor Shipping"
+msgstr "Vendor Shipping"
+
+msgctxt "VendorShippingStoreDefault"
+msgid "I want to use the default shipping settings for the store"
+msgstr "I want to use the default shipping settings for the store"
+
+msgctxt "VendorShippingCustom"
+msgid "I want to configure my own shipping settings"
+msgstr "I want to configure my own shipping settings"
+
+msgctxt "VendorShippingCustomIntro"
+msgid "To configure your own shipping settings, simply click 'Save' button below. You will then be able to configure custom shipping zones."
+msgstr "To configure your own shipping settings, simply click 'Save' button below. You will then be able to configure custom shipping zones."
+
+msgctxt "VendorEmail"
+msgid "Vendor Contact Email"
+msgstr "Vendor Contact Email"
+
+msgctxt "VendorEmailHelp"
+msgid "Enter the contact email address of this vendor. This email address will be sent vendor payment receipts and other store emails corresponding to this vendor."
+msgstr "Enter the contact email address of this vendor. This email address will be sent vendor payment receipts and other store emails corresponding to this vendor."
+
+msgctxt "EnterVendorEmail"
+msgid "Please enter the email address for this vendor."
+msgstr "Please enter the email address for this vendor."
+
+msgctxt "NoVendorsConfigured"
+msgid "Your store does not have any vendor profiles configured. Once a vendor profile is configured, you will be able to vendor payments."
+msgstr "Your store does not have any vendor profiles configured. Once a vendor profile is configured, you will be able to vendor payments."
+
+msgctxt "VendorLogo"
+msgid "Vendor Logo"
+msgstr "Vendor Logo"
+
+msgctxt "VendorLogoHelp"
+msgid "Please choose an image (GIF, JPEG or PNG) to show as the logo for this vendor. Large images are automatically resized."
+msgstr "Please choose an image (GIF, JPEG or PNG) to show as the logo for this vendor. Large images are automatically resized."
+
+msgctxt "VendorPhoto"
+msgid "Vendor Photo"
+msgstr "Vendor Photo"
+
+msgctxt "VendorPhotoHelp"
+msgid "Please choose an image (GIF, JPEG or PNG) to show as the photo for this vendor. Large images are automatically resized."
+msgstr "Please choose an image (GIF, JPEG or PNG) to show as the photo for this vendor. Large images are automatically resized."
+
+msgctxt "DeleteCurrentImage"
+msgid "Delete current image?"
+msgstr "Delete current image?"
+
+msgctxt "VendorAccessAllAccess"
+msgid "This vendor can add products to all categories in the store"
+msgstr "This vendor can add products to all categories in the store"
+
+msgctxt "VendorPermissions"
+msgid "Vendor Permissions"
+msgstr "Vendor Permissions"
+
+msgctxt "CategoryPermissions"
+msgid "Category Permissions"
+msgstr "Category Permissions"
+
+msgctxt "VendorProfitMargin"
+msgid "Vendor Profit Margin"
+msgstr "Vendor Profit Margin"
+
+msgctxt "VendorProfitMarginHelp"
+msgid "Please enter the percentage cut from vendor orders that your store takes. The vendor profit margin is used to calculate the outstanding balance from orders when logging new vendor payments."
+msgstr "Please enter the percentage cut from vendor orders that your store takes. The vendor profit margin is used to calculate the outstanding balance from orders when logging new vendor payments."
+
+msgctxt "EnterVendorProfitMargin"
+msgid "Please enter a valid profit margin for this vendor."
+msgstr "Please enter a valid profit margin for this vendor."
+
+msgctxt "CategoryPermissionsHelp"
+msgid "If this vendor should only be allowed to create products in certain categories, untick this box and tick the categories that the vendor should be able to access."
+msgstr "If this vendor should only be allowed to create products in certain categories, untick this box and tick the categories that the vendor should be able to access."
+
+msgctxt "ChooseValidVendorLogo"
+msgid "Please choose a valid image to upload for this logo. Vendor logos must end in GIF, PNG or JPEG"
+msgstr "Please choose a valid image to upload for this logo. Vendor logos must end in GIF, PNG or JPEG"
+
+msgctxt "ChooseValidVendorPhoto"
+msgid "Please choose a valid image to upload for this photo. Vendor photos must end in GIF, PNG or JPEG"
+msgstr "Please choose a valid image to upload for this photo. Vendor photos must end in GIF, PNG or JPEG"

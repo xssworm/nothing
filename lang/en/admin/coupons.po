@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ManageCouponIntro"
+msgid "Coupon codes allow you to provide customers with discounts on products available for purchase from your store."
+msgstr "Coupon codes allow you to provide customers with discounts on products available for purchase from your store."
+
+msgctxt "NoCoupons"
+msgid "No coupons have been created. Please click the &quot;Create Coupon&quot; button to add one."
+msgstr "No coupons have been created. Please click the &quot;Create Coupon&quot; button to add one."
+
+msgctxt "CreateCoupon"
+msgid "Create a Coupon Code"
+msgstr "Create a Coupon Code"
+
+msgctxt "CouponSortAsc"
+msgid "Sort by Coupon Code (ascending)"
+msgstr "Sort by Coupon Code (ascending)"
+
+msgctxt "CouponSortDesc"
+msgid "Sort by Coupon Code (descending)"
+msgstr "Sort by Coupon Code (descending)"
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr "Discount"
+
+msgctxt "DiscountSortAsc"
+msgid "Sort by Discount (ascending)"
+msgstr "Sort by Discount (ascending)"
+
+msgctxt "DiscountSortDesc"
+msgid "Sort by Discount (descending)"
+msgstr "Sort by Discount (descending)"
+
+msgctxt "Enabled"
+msgid "Enabled"
+msgstr "Enabled"
+
+msgctxt "EnabledSortAsc"
+msgid "Sort by enabled (ascending)"
+msgstr "Sort by enabled (ascending)"
+
+msgctxt "EnabledSortDesc"
+msgid "Sort by enabled (descending)"
+msgstr "Sort by enabled (descending)"
+
+msgctxt "ConfirmDeleteCoupons"
+msgid "WARNING: This will permanently remove the selected coupon(s). Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected coupon(s). Are you sure you wish to do this?"
+
+msgctxt "ChooseCoupons"
+msgid "Please choose at least one coupon to delete."
+msgstr "Please choose at least one coupon to delete."
+
+msgctxt "CouponCode"
+msgid "Coupon Code"
+msgstr "Coupon Code"
+
+msgctxt "ExpiryDate"
+msgid "Expiry Date"
+msgstr "Expiry Date"
+
+msgctxt "ExpirySortAsc"
+msgid "Sort by Expiry Date (ascending)"
+msgstr "Sort by Expiry Date (ascending)"
+
+msgctxt "ExpirySortDesc"
+msgid "Sort by Expiry Date (descending)"
+msgstr "Sort by Expiry Date (descending)"
+
+msgctxt "ClickToDisableCoupon"
+msgid "Click here to disable this coupon code"
+msgstr "Click here to disable this coupon code"
+
+msgctxt "ClickToEnableCoupon"
+msgid "Click here to enable this coupon code"
+msgstr "Click here to enable this coupon code"
+
+msgctxt "CopyCouponClip"
+msgid "Copy this coupon to the clipboard"
+msgstr "Copy this coupon to the clipboard"
+
+msgctxt "CopyToClipboard"
+msgid "Copy to Clipboard"
+msgstr "Copy to Clipboard"
+
+msgctxt "CouponEdit"
+msgid "Edit coupon details"
+msgstr "Edit coupon details"
+
+msgctxt "CouponsDeletedSuccessfully"
+msgid "The selected coupons have been deleted successfully."
+msgstr "The selected coupons have been deleted successfully."
+
+msgctxt "ConfirmCancelCoupon"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "NewCouponDetails"
+msgid "Coupon Details"
+msgstr "Coupon Details"
+
+msgctxt "CreateCouponIntro"
+msgid "Coupon codes allow you to provide customers with discounts on products available for purchase from your store. Fill out the form below to create a unique coupon code."
+msgstr "Coupon codes allow you to provide customers with discounts on products available for purchase from your store. Fill out the form below to create a unique coupon code."
+
+msgctxt "CouponDiscountHelp"
+msgid "Enter the discount amount to be applied to the customers order. Do not include any currency or percentage symbols, such as 25."
+msgstr "Enter the discount amount to be applied to the customers order. Do not include any currency or percentage symbols, such as 25."
+
+msgctxt "DiscountType"
+msgid "Discount Type"
+msgstr "Discount Type"
+
+msgctxt "DiscountTypeHelp"
+msgid "Choose whether this coupon code should offer a percentage, dollar-based or shipping total discount."
+msgstr "Choose whether this coupon code should offer a percentage, dollar-based or shipping total discount."
+
+msgctxt "PercentDiscount"
+msgid "Percentage Discount"
+msgstr "Percentage Discount"
+
+msgctxt "DollarDiscount"
+msgid "Dollar Discount"
+msgstr "Dollar Discount"
+
+msgctxt "DiscountAmount"
+msgid "Discount Amount"
+msgstr "Discount Amount"
+
+msgctxt "DiscountAmountHelp"
+msgid "The total amount this coupon will deduct from each item in the order or shipping. Type in a value whether it\'s a percentage or dollar-based discount."
+msgstr "The total amount this coupon will deduct from each item in the order or shipping. Type in a value whether it\'s a percentage or dollar-based discount."
+
+msgctxt "MinimumPurchase"
+msgid "Minimum Purchase"
+msgstr "Minimum Purchase"
+
+msgctxt "MinimumPurchaseHelp"
+msgid "The minimum amount that a customer must spend in one order for them to be able to apply the coupon code discount to their order."
+msgstr "The minimum amount that a customer must spend in one order for them to be able to apply the coupon code discount to their order."
+
+msgctxt "ExpiryDateHelp"
+msgid "An optional expiry date after which time this coupon code can no longer be used to receive a discount."
+msgstr "An optional expiry date after which time this coupon code can no longer be used to receive a discount."
+
+msgctxt "YesCouponEnabled"
+msgid "Yes, this coupon code is enabled and can be used."
+msgstr "Yes, this coupon code is enabled and can be used."
+
+msgctxt "EnterValidAmount"
+msgid "Please enter a valid discount amount."
+msgstr "Please enter a valid discount amount."
+
+msgctxt "EnterValidMinPrice"
+msgid "Please enter a valid minimum purchase amount."
+msgstr "Please enter a valid minimum purchase amount."
+
+msgctxt "CouponCreatedSuccessfully"
+msgid "The new coupon code has been created successfully."
+msgstr "The new coupon code has been created successfully."
+
+msgctxt "ErrCouponNotAdded"
+msgid "An error occurred while trying to create this coupon code: '%s'"
+msgstr "An error occurred while trying to create this coupon code: '%s'"
+
+msgctxt "CouponDoesntExist"
+msgid "The selected coupon doesn't exist or has been removed."
+msgstr "The selected coupon doesn't exist or has been removed."
+
+msgctxt "EditCoupon"
+msgid "Edit a Coupon Code"
+msgstr "Edit a Coupon Code"
+
+msgctxt "EditCouponIntro"
+msgid "Edit the details of the coupon in the form below."
+msgstr "Edit the details of the coupon in the form below."
+
+msgctxt "CouponUpdatedSuccessfully"
+msgid "The selected coupon has been updated successfully."
+msgstr "The selected coupon has been updated successfully."
+
+msgctxt "ErrCouponNotUpdated"
+msgid "An error occurred while trying to update this coupon: '%s'"
+msgstr "An error occurred while trying to update this coupon: '%s'"
+
+msgctxt "CouponEnabledSuccessfully"
+msgid "The status of this coupon has been changed successfully."
+msgstr "The status of this coupon has been changed successfully."
+
+msgctxt "ErrCouponEnabledNotChanged"
+msgid "An error occurred while trying to change the status of this coupon: %s"
+msgstr "An error occurred while trying to change the status of this coupon: %s"
+
+msgctxt "ChooseCategories"
+msgid "Choose Categories"
+msgstr "Choose Categories"
+
+msgctxt "ChooseCategoriesHelp"
+msgid "Choose which categories you\'d like this coupon code to work with."
+msgstr "Choose which categories you\'d like this coupon code to work with."
+
+msgctxt "ProductIds"
+msgid "Product Ids"
+msgstr "Product Ids"
+
+msgctxt "ProductIdsHelp"
+msgid "Which products should this coupon code work with? You can find the ID of a product in the \'ID\' column on the products page. Enter the product ID\'s separated with a comma, such as:<br /><br />2145,2203,4038"
+msgstr "Which products should this coupon code work with? You can find the ID of a product in the \'ID\' column on the products page. Enter the product ID\'s separated with a comma, such as:<br /><br />2145,2203,4038"
+
+msgctxt "LoadingCoupons"
+msgid "Loading coupons. Please wait..."
+msgstr "Loading coupons. Please wait..."
+
+msgctxt "CouponAppliesTo"
+msgid "Coupon Applies to"
+msgstr "Coupon Applies to"
+
+msgctxt "CouponAppliesToCategories"
+msgid "This coupon code can be used with these categories:"
+msgstr "This coupon code can be used with these categories:"
+
+msgctxt "CouponAppliesToProducts"
+msgid "This coupon code can be used with these products:"
+msgstr "This coupon code can be used with these products:"
+
+msgctxt "CouponAddProduct"
+msgid "Add a Product..."
+msgstr "Add a Product..."
+
+msgctxt "CouponRemoveSelected"
+msgid "Remove Selected"
+msgstr "Remove Selected"
+
+msgctxt "NumUses"
+msgid "No. Uses"
+msgstr "No. Uses"
+
+msgctxt "NumUsesSortAsc"
+msgid "Sort by number of times used (ascending)"
+msgstr "Sort by number of times used (ascending)"
+
+msgctxt "NumUsesSortDesc"
+msgid "Sort by number of times used (descending)"
+msgstr "Sort by number of times used (descending)"
+
+msgctxt "ViewOrdersWithCoupon"
+msgid "View a list of orders to which this coupon code has been applied"
+msgstr "View a list of orders to which this coupon code has been applied"
+
+msgctxt "ViewOrders"
+msgid "View Orders"
+msgstr "View Orders"
+
+msgctxt "CouponMaxUsesTitle"
+msgid "Number of Uses"
+msgstr "Number of Uses"
+
+msgctxt "CouponMaxUses"
+msgid "Limit total number of uses"
+msgstr "Limit total number of uses"
+
+msgctxt "CouponMaxUsesHelp"
+msgid "Enter the number of times that this coupon code can be used before it automatically expires. Set to 0 to have this coupon never expire based on the number of times it is used."
+msgstr "Enter the number of times that this coupon code can be used before it automatically expires. Set to 0 to have this coupon never expire based on the number of times it is used."
+
+msgctxt "CouponMaxUsesPerCustomer"
+msgid "Limit number of uses per customer"
+msgstr "Limit number of uses per customer"
+
+msgctxt "CouponMaxUsesPerCustomerHelp"
+msgid "Enter the number of times that this coupon code can be used by a particular customer. Set to 0 to disable this limitation."
+msgstr "Enter the number of times that this coupon code can be used by a particular customer. Set to 0 to disable this limitation."
+
+msgctxt "ChooseCouponCategory"
+msgid "Please choose at least one category to which this coupon can be applied."
+msgstr "Please choose at least one category to which this coupon can be applied."
+
+msgctxt "EnterCouponProductId"
+msgid "Please enter at least one product ID. You can find the ID of a product on the 'View Products' page."
+msgstr "Please enter at least one product ID. You can find the ID of a product on the 'View Products' page."
+
+msgctxt "CouponName"
+msgid "Coupon Name"
+msgstr "Coupon Name"
+
+msgctxt "CouponNameHelp"
+msgid "A name for the coupon code. This will only be visible in the control panel by you and will never be displayed to your customers."
+msgstr "A name for the coupon code. This will only be visible in the control panel by you and will never be displayed to your customers."
+
+msgctxt "EnterCouponName"
+msgid "Please enter a name for this coupon code."
+msgstr "Please enter a name for this coupon code."
+
+msgctxt "AppliesTo"
+msgid "Applies To"
+msgstr "Applies To"
+
+msgctxt "EnterCouponCode"
+msgid "Please enter a code for this coupon."
+msgstr "Please enter a code for this coupon."
+
+msgctxt "CouponCodeHelp"
+msgid "The code that customers will use to apply this coupon to their cart when checking out."
+msgstr "The code that customers will use to apply this coupon to their cart when checking out."
+
+msgctxt "CouponCodeExists"
+msgid "A coupon with the code '%s' already exists."
+msgstr "A coupon with the code '%s' already exists."
+
+msgctxt "CouponNameExists"
+msgid "A coupon with the name '%s' already exists."
+msgstr "A coupon with the name '%s' already exists."
+
+msgctxt "EnterValidMaxUses"
+msgid "Please enter a valid maximum number of total uses."
+msgstr "Please enter a valid maximum number of total uses."
+
+msgctxt "EnterValidMaxUsesPerCus"
+msgid "Please enter a valid maximum number of per customer uses."
+msgstr "Please enter a valid maximum number of per customer uses."
+
+msgctxt "OffEachItem"
+msgid "off each item"
+msgstr "off each item"
+
+msgctxt "OffTheTotal"
+msgid "off the order total"
+msgstr "off the order total"
+
+msgctxt "OffTheShipping"
+msgid "off the shipping total"
+msgstr "off the shipping total"
+
+msgctxt "DollarOffTotalOrder"
+msgid "Dollar amount off the order total"
+msgstr "Dollar amount off the order total"
+
+msgctxt "DollarOffEachItem"
+msgid "Dollar amount off each item in the order"
+msgstr "Dollar amount off each item in the order"
+
+msgctxt "PercentageOffEachItem"
+msgid "Percentage off each item in the order"
+msgstr "Percentage off each item in the order"
+
+msgctxt "DollarOffShippingTotal"
+msgid "Dollar amount off the shipping total"
+msgstr "Dollar amount off the shipping total"
+
+msgctxt "FreeShipping"
+msgid "Free shipping"
+msgstr "Free shipping"
+
+msgctxt "EnterCouponType"
+msgid "Please choose a discount type."
+msgstr "Please choose a discount type."
+
+msgctxt "General"
+msgid "General"
+msgstr "General"
+
+msgctxt "Advanced"
+msgid "Advanced"
+msgstr "Advanced"
+
+msgctxt "LocationRestrictionSettings"
+msgid "Location Restriction Settings"
+msgstr "Location Restriction Settings"
+
+msgctxt "LimitByLocation"
+msgid "Limit By Location"
+msgstr "Limit By Location"
+
+msgctxt "LimitByLocation_Help"
+msgid "Tick this box if you would like to limit the use of this coupon code by location of the shipping address. You can setup country, state/province or portal/zip code restrictions."
+msgstr "Tick this box if you would like to limit the use of this coupon code by location of the shipping address. You can setup country, state/province or portal/zip code restrictions."
+
+msgctxt "YesLimitByLocation"
+msgid "Yes, restrict coupon use based on location of shipping address"
+msgstr "Yes, restrict coupon use based on location of shipping address"
+
+msgctxt "LocationTypeCountry"
+msgid "Limit use based on one or more countries"
+msgstr "Limit use based on one or more countries"
+
+msgctxt "LocationTypeState"
+msgid "Limit use based on one or more states or provinces"
+msgstr "Limit use based on one or more states or provinces"
+
+msgctxt "LocationTypeZip"
+msgid "Limit use based on one or more postal or ZIP codes"
+msgstr "Limit use based on one or more postal or ZIP codes"
+
+msgctxt "SelectOneOrMoreCountriesFirst"
+msgid "Select one or more countries first"
+msgstr "Select one or more countries first"
+
+msgctxt "ZipPostCodes"
+msgid "ZIP/Post Codes"
+msgstr "ZIP/Post Codes"
+
+msgctxt "ZipPostCodesPerLine"
+msgid "Enter one post code per line. Wild cards are supported."
+msgstr "Enter one post code per line. Wild cards are supported."
+
+msgctxt "LearnMoreAboutEnteringPostCodes"
+msgid "Learn more about entering post codes"
+msgstr "Learn more about entering post codes"
+
+msgctxt "ShippingMethodRestrictionSettings"
+msgid "Shipping Method Restriction Settings"
+msgstr "Shipping Method Restriction Settings"
+
+msgctxt "LimitByShipping"
+msgid "Limit By Shipping"
+msgstr "Limit By Shipping"
+
+msgctxt "YesLimitByShipping"
+msgid "Yes, restrict coupon use based on the selected shipping method"
+msgstr "Yes, restrict coupon use based on the selected shipping method"
+
+msgctxt "LimitByShipping_Help"
+msgid "Tick this box if you would like to limit the use of this coupon code by shipping method selected during checkout."
+msgstr "Tick this box if you would like to limit the use of this coupon code by shipping method selected during checkout."
+
+msgctxt "UnknownErrorDisplayFormEdit"
+msgid "An unknown error has occurred while displaying coupon form for editing."
+msgstr "An unknown error has occurred while displaying coupon form for editing."
+
+msgctxt "AllStatesProvinces"
+msgid "All States/Provinces"
+msgstr "All States/Provinces"
+
+msgctxt "EnterLocationOption"
+msgid "Please select the type of this location restriction."
+msgstr "Please select the type of this location restriction."
+
+msgctxt "EnterLocationTypeCountries"
+msgid "Please select one or more countries to assign to this location restriction."
+msgstr "Please select one or more countries to assign to this location restriction."
+
+msgctxt "EnterLocationTypeStatesCountries"
+msgid "Please select one or more countries to assign to this location restriction."
+msgstr "Please select one or more countries to assign to this location restriction."
+
+msgctxt "EnterLocationTypeStatesSelect"
+msgid "Please select one or more states to assign to this location restriction."
+msgstr "Please select one or more states to assign to this location restriction."
+
+msgctxt "EnterLocationTypeZipCountry"
+msgid "Please select a country that the ZIP or post codes for this location restriction."
+msgstr "Please select a country that the ZIP or post codes for this location restriction."
+
+msgctxt "EnterLocationTypeZipPostCodes"
+msgid "Please enter one or more ZIP or post codes to assign to this location restriction."
+msgstr "Please enter one or more ZIP or post codes to assign to this location restriction."
+
+msgctxt "EnterLocationTypeShipping"
+msgid "Please select one or more shipping methods to assign to this shipping method restriction."
+msgstr "Please select one or more shipping methods to assign to this shipping method restriction."

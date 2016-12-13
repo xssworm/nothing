@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ProblemSavingShipment"
+msgid "There was a problem saving this shipment: "
+msgstr "There was a problem saving this shipment: "
+
+msgctxt "ShipmentXCreated"
+msgid "Shipment #%s Created"
+msgstr "Shipment #%s Created"
+
+msgctxt "ShipmentXCreatedMessage"
+msgid "The selected items have been marked as shipped successfully."
+msgstr "The selected items have been marked as shipped successfully."
+
+msgctxt "BillTo"
+msgid "Billing Details"
+msgstr "Billing Details"
+
+msgctxt "ShipTo"
+msgid "Shipping Details"
+msgstr "Shipping Details"
+
+msgctxt "OrderItems"
+msgid "Order Items"
+msgstr "Order Items"
+
+msgctxt "Shipment"
+msgid "Shipment"
+msgstr "Shipment"
+
+msgctxt "PackingSlipTitleShipment"
+msgid "Packing Slip for Shipment #%s"
+msgstr "Packing Slip for Shipment #%s"
+
+msgctxt "PackingSlipTitleOrder"
+msgid "Packing Slip for Order #%s"
+msgstr "Packing Slip for Order #%s"
+
+msgctxt "SearchShipments"
+msgid "Search Shipments"
+msgstr "Search Shipments"
+
+msgctxt "AllShipments"
+msgid "All Shipments"
+msgstr "All Shipments"
+
+msgctxt "ShipmentSearchResultsBelow1"
+msgid "1 shipment matched your search criteria and is shown below."
+msgstr "1 shipment matched your search criteria and is shown below."
+
+msgctxt "ShipmentSearchResultsBelowX"
+msgid "%s shipments matched your search criteria and are shown below."
+msgstr "%s shipments matched your search criteria and are shown below."
+
+msgctxt "NoShipmentResults"
+msgid "No shipments matched your search criteria."
+msgstr "No shipments matched your search criteria."
+
+msgctxt "NoShipments"
+msgid "No shipments have been created on your store. Once a shipment is created it will be shown here."
+msgstr "No shipments have been created on your store. Once a shipment is created it will be shown here."
+
+msgctxt "Shipments"
+msgid "Shipments"
+msgstr "Shipments"
+
+msgctxt "ShipmentsIntro"
+msgid "Shipments created from your orders are shown below. Click the plus icon next to a shipment to see its complete details."
+msgstr "Shipments created from your orders are shown below. Click the plus icon next to a shipment to see its complete details."
+
+msgctxt "ShipmentId"
+msgid "Shipment ID"
+msgstr "Shipment ID"
+
+msgctxt "ShippedTo"
+msgid "Shipped To"
+msgstr "Shipped To"
+
+msgctxt "DateShipped"
+msgid "Date Shipped"
+msgstr "Date Shipped"
+
+msgctxt "ShipmentOrderId"
+msgid "Order ID"
+msgstr "Order ID"
+
+msgctxt "ShipmentOrderDate"
+msgid "Order Date"
+msgstr "Order Date"
+
+msgctxt "Of"
+msgid "of"
+msgstr "of"
+
+msgctxt "OrderIdSortAsc"
+msgid "Sort by order ID (ascending)"
+msgstr "Sort by order ID (ascending)"
+
+msgctxt "OrderIdSortDesc"
+msgid "Sort by order ID (descending)"
+msgstr "Sort by order ID (descending)"
+
+msgctxt "OrderDateSortAsc"
+msgid "Sort by order date (ascending)"
+msgstr "Sort by order date (ascending)"
+
+msgctxt "OrderDateSortDesc"
+msgid "Sort by order date (descending)"
+msgstr "Sort by order date (descending)"
+
+msgctxt "ExpandQuickView"
+msgid "Click to Expand"
+msgstr "Click to Expand"
+
+msgctxt "PrintPackingSlipTitle"
+msgid "Click here to print a packing slip for this shipment"
+msgstr "Click here to print a packing slip for this shipment"
+
+msgctxt "PrintPackingSlip"
+msgid "Print Packing Slip"
+msgstr "Print Packing Slip"
+
+msgctxt "ShippedItems"
+msgid "Shipped Items"
+msgstr "Shipped Items"
+
+msgctxt "SearchShipmentsIntro"
+msgid "Search for specific shipments using the advanced search options below."
+msgstr "Search for specific shipments using the advanced search options below."
+
+msgctxt "SearchKeywordsShipmentHelp"
+msgid "The search keywords that you enter in this box will be used to search the following fields for all shipments: shipment ID, tracking number, billing name, shipping name, shipping method, shipping comments and shipping country."
+msgstr "The search keywords that you enter in this box will be used to search the following fields for all shipments: shipment ID, tracking number, billing name, shipping name, shipping method, shipping comments and shipping country."
+
+msgctxt "ShipDateRange"
+msgid "Shipping Date"
+msgstr "Shipping Date"
+
+msgctxt "OrderDateRange"
+msgid "Order Date"
+msgstr "Order Date"
+
+msgctxt "ChooseOrderDate"
+msgid "-- Choose an order date --"
+msgstr "-- Choose an order date --"
+
+msgctxt "ChooseShipDate"
+msgid "-- Choose a shipping date --"
+msgstr "-- Choose a shipping date --"
+
+msgctxt "SearchEnterValidShipmentId"
+msgid "Please enter a valid shipment ID"
+msgstr "Please enter a valid shipment ID"
+
+msgctxt "SearchEnterValidOrderId"
+msgid "Please enter a valid order ID"
+msgstr "Please enter a valid order ID"
+
+msgctxt "ExportTheseShipments"
+msgid "Export These Shipments..."
+msgstr "Export These Shipments..."
+
+msgctxt "CreateNewShipmentsView"
+msgid "Create a New View for Shipments"
+msgstr "Create a New View for Shipments"
+
+msgctxt "ShipmentViewIntro"
+msgid "A view lets you filter shipments based on attributes such as search keywords and date ranges. Fill out the form below to create a new view."
+msgstr "A view lets you filter shipments based on attributes such as search keywords and date ranges. Fill out the form below to create a new view."
+
+msgctxt "NameThisShipmentsViewHelp"
+msgid "Type a name for your view here, such as &quot;Outgoing Shipments for the Past Day&quot;. This name is only visible from the control panel and you can switch to this view from the main shipments page."
+msgstr "Type a name for your view here, such as &quot;Outgoing Shipments for the Past Day&quot;. This name is only visible from the control panel and you can switch to this view from the main shipments page."
+
+msgctxt "EnterViewName"
+msgid "Please enter a name for this view."
+msgstr "Please enter a name for this view."
+
+msgctxt "CreateShipmentView"
+msgid "Create Shipment View"
+msgstr "Create Shipment View"
+
+msgctxt "ConfirmDeleteShipments"
+msgid "Are you sure you wish to delete the selected shipments?"
+msgstr "Are you sure you wish to delete the selected shipments?"
+
+msgctxt "SelectOneMoreShipmentsDelete"
+msgid "Please select one or more shipments to delete."
+msgstr "Please select one or more shipments to delete."
+
+msgctxt "OneMoreOrderItemsDontExist"
+msgid "One or more of the selected items does not exist in this order."
+msgstr "One or more of the selected items does not exist in this order."
+
+msgctxt "ShipmentQuantityTooLarge"
+msgid "The shipment quantity for one or more of the items to ship exceeds the number of remaining unshipped items in this order."
+msgstr "The shipment quantity for one or more of the items to ship exceeds the number of remaining unshipped items in this order."
+
+msgctxt "CreateShipmentFromOrder"
+msgid "Create Shipment from Order"
+msgstr "Create Shipment from Order"
+
+msgctxt "CreateShipmentIntro"
+msgid "Please choose the items to create this shipment from below."
+msgstr "Please choose the items to create this shipment from below."
+
+msgctxt "ShipmentProduct"
+msgid "Product"
+msgstr "Product"
+
+msgctxt "QtyToShip"
+msgid "Qty. to Ship"
+msgstr "Qty. to Ship"
+
+msgctxt "ShipmentOptions"
+msgid "Shipment Options"
+msgstr "Shipment Options"
+
+msgctxt "ShippingMethod"
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+msgctxt "TrackingNumber"
+msgid "Tracking Number"
+msgstr "Tracking Number"
+
+msgctxt "ShipmentComments"
+msgid "Shipment Comments"
+msgstr "Shipment Comments"
+
+msgctxt "OrderStatus"
+msgid "Order Status"
+msgstr "Order Status"
+
+msgctxt "UpdateOrderStatus"
+msgid "Update the status of this order to partially shipped/shipped"
+msgstr "Update the status of this order to partially shipped/shipped"
+
+msgctxt "CreateShipment"
+msgid "Create Shipment"
+msgstr "Create Shipment"
+
+msgctxt "PackingSlipForOrder"
+msgid "Packing Slip for Order"
+msgstr "Packing Slip for Order"
+
+msgctxt "AllShipmentPackingSlipsForOrder"
+msgid "All Packing Slips for Order"
+msgstr "All Packing Slips for Order"
+
+msgctxt "PackingSlipsForOrder"
+msgid "Packing Slips for Order"
+msgstr "Packing Slips for Order"
+
+msgctxt "Comments"
+msgid "Comments"
+msgstr "Comments"
+
+msgctxt "Orders"
+msgid "Orders"
+msgstr "Orders"
+
+msgctxt "NoShipmentsForOrdersFound"
+msgid "No shipments were found for the selected order(s).\n\nTo print a packing slip for an order, first use the \'Ship Items\' link in the \'Action\' drop down to generate a shipment for the order."
+msgstr "No shipments were found for the selected order(s).\n\nTo print a packing slip for an order, first use the \'Ship Items\' link in the \'Action\' drop down to generate a shipment for the order."
+
+msgctxt "ShipmentsForOrderX"
+msgid "Shipments for Order #:orderId"
+msgstr "Shipments for Order #:orderId"
+
+msgctxt "ShipmentsForOrderBelow"
+msgid "The shipments created for this order are shown below. You can also <a href='index.php?ToDo=viewShipments&amp;orderId=:orderId' target='_blank'>manage these shipments</a> to export or delete them."
+msgstr "The shipments created for this order are shown below. You can also <a href='index.php?ToDo=viewShipments&amp;orderId=:orderId' target='_blank'>manage these shipments</a> to export or delete them."
+
+msgctxt "ManageTheseShipments"
+msgid "Manage These Shipments"
+msgstr "Manage These Shipments"
+
+msgctxt "TrackingNo"
+msgid "Tracking No."
+msgstr "Tracking No."
+
+msgctxt "ErrorSavingTrackingNo"
+msgid "There was a problem saving the tracking number for this shipment. Please try again."
+msgstr "There was a problem saving the tracking number for this shipment. Please try again."
+
+msgctxt "Saving"
+msgid "Saving..."
+msgstr "Saving..."

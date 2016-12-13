@@ -1,0 +1,4706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ComputersTemplateIntro"
+msgid "For all your PC requirements"
+msgstr "For all your PC requirements"
+
+msgctxt "StoreWelcome"
+msgid "Welcome to"
+msgstr "Welcome to"
+
+msgctxt "StoreIntro"
+msgid "Browse around our store to find the products you're looking for. We have a fast and secure online checkout, which makes ordering a breeze! You can also compare and review products in just a few clicks."
+msgstr "Browse around our store to find the products you're looking for. We have a fast and secure online checkout, which makes ordering a breeze! You can also compare and review products in just a few clicks."
+
+msgctxt "zNone"
+msgid "None"
+msgstr "None"
+
+msgctxt "Search"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "AdvancedSearch"
+msgid "Advanced Search"
+msgstr "Advanced Search"
+
+msgctxt "QuickSearchProducts"
+msgid "Products"
+msgstr "Products"
+
+msgctxt "QuickSearchNoImage"
+msgid "NO IMAGE"
+msgstr "NO IMAGE"
+
+msgctxt "QuickSearchViewAll"
+msgid "View all results"
+msgstr "View all results"
+
+msgctxt "OurNewsletter"
+msgid "Our Newsletter"
+msgstr "Our Newsletter"
+
+msgctxt "YourFirstName"
+msgid "Your First Name"
+msgstr "Your First Name"
+
+msgctxt "YourEmailAddress"
+msgid "Your Email Address"
+msgstr "Your Email Address"
+
+msgctxt "RespectYourPrivacy"
+msgid "We respect your privacy"
+msgstr "We respect your privacy"
+
+msgctxt "CurrentTopSellers"
+msgid "Current Top Sellers"
+msgstr "Current Top Sellers"
+
+msgctxt "NewProducts"
+msgid "New Products"
+msgstr "New Products"
+
+msgctxt "PopularProducts"
+msgid "Popular Products"
+msgstr "Popular Products"
+
+msgctxt "AddToCartAlt"
+msgid "Click here to add this product to your cart"
+msgstr "Click here to add this product to your cart"
+
+msgctxt "Home"
+msgid "Home"
+msgstr "Home"
+
+msgctxt "PopularBrands"
+msgid "Popular Brands"
+msgstr "Popular Brands"
+
+msgctxt "Added"
+msgid "Added"
+msgstr "Added"
+
+msgctxt "SeeAllBrands"
+msgid "See all brands"
+msgstr "See all brands"
+
+msgctxt "QuestionMark"
+msgid "?"
+msgstr "?"
+
+msgctxt "HideThisMessage"
+msgid "Hide this message"
+msgstr "Hide this message"
+
+msgctxt "FeaturedItems"
+msgid "Featured Items"
+msgstr "Featured Items"
+
+msgctxt "Bestselling"
+msgid "Bestselling"
+msgstr "Bestselling"
+
+msgctxt "AlphaAsc"
+msgid "Alphabetical: A to Z"
+msgstr "Alphabetical: A to Z"
+
+msgctxt "AlphaDesc"
+msgid "Alphabetical: Z to A"
+msgstr "Alphabetical: Z to A"
+
+msgctxt "AvgCustomerReview"
+msgid "Avg. Customer Review"
+msgstr "Avg. Customer Review"
+
+msgctxt "PriceAsc"
+msgid "Price: Low to High"
+msgstr "Price: Low to High"
+
+msgctxt "PriceDesc"
+msgid "Price: High to Low"
+msgstr "Price: High to Low"
+
+msgctxt "SortBy"
+msgid "Sort by"
+msgstr "Sort by"
+
+msgctxt "NewestItems"
+msgid "Newest Items"
+msgstr "Newest Items"
+
+msgctxt "To"
+msgid "to"
+msgstr "to"
+
+msgctxt "Of"
+msgid "of"
+msgstr "of"
+
+msgctxt "CompareSelected"
+msgid "Compare Selected"
+msgstr "Compare Selected"
+
+msgctxt "CompareSelectMessage"
+msgid "Please choose at least 2 products to compare."
+msgstr "Please choose at least 2 products to compare."
+
+msgctxt "Compare"
+msgid "Compare"
+msgstr "Compare"
+
+msgctxt "NA"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "DesignMode"
+msgid "Design Mode"
+msgstr "Design Mode"
+
+msgctxt "RemovePanel"
+msgid "Remove Panel"
+msgstr "Remove Panel"
+
+msgctxt "SaveDesignMode"
+msgid "Save your design changes"
+msgstr "Save your design changes"
+
+msgctxt "CancelDesignMode"
+msgid "Cancel any changes"
+msgstr "Cancel any changes"
+
+msgctxt "DisableDesignMode"
+msgid "Disable design mode so links are clickable and you can navigate to other pages"
+msgstr "Disable design mode so links are clickable and you can navigate to other pages"
+
+msgctxt "EditPanel"
+msgid "Edit Panel"
+msgstr "Edit Panel"
+
+msgctxt "EditLayout"
+msgid "Edit Layout File"
+msgstr "Edit Layout File"
+
+msgctxt "EditStylesheet"
+msgid "Edit Stylesheet"
+msgstr "Edit Stylesheet"
+
+msgctxt "MainPage"
+msgid "Home"
+msgstr "Home"
+
+msgctxt "ViewCart"
+msgid "View Cart"
+msgstr "View Cart"
+
+msgctxt "Checkout"
+msgid "Checkout"
+msgstr "Checkout"
+
+msgctxt "OrderStatus"
+msgid "Order Status"
+msgstr "Order Status"
+
+msgctxt "YourWishList"
+msgid "Wish Lists"
+msgstr "Wish Lists"
+
+msgctxt "Optional"
+msgid "Optional"
+msgstr "Optional"
+
+msgctxt "Preview"
+msgid "Preview"
+msgstr "Preview"
+
+msgctxt "CharactersRemaining"
+msgid "characters remaining"
+msgstr "characters remaining"
+
+msgctxt "SendStudioErrorNewsletter"
+msgid "Unable to subscribe to Interspire Email Marketer newsletter"
+msgstr "Unable to subscribe to Interspire Email Marketer newsletter"
+
+msgctxt "SendStudioSuccessNewsletter"
+msgid "Subscribed to Interspire Email Marketer newsletter successfully"
+msgstr "Subscribed to Interspire Email Marketer newsletter successfully"
+
+msgctxt "SendStudioErrorOrderList"
+msgid "Unable to subscribe to Interspire Email Marketer orders list"
+msgstr "Unable to subscribe to Interspire Email Marketer orders list"
+
+msgctxt "SendStudioSuccessOrderList"
+msgid "Subscribed to Interspire Email Marketer orders list successfully"
+msgstr "Subscribed to Interspire Email Marketer orders list successfully"
+
+msgctxt "CapitalFor"
+msgid "For"
+msgstr "For"
+
+msgctxt "ClickHereCloseWindow"
+msgid "Click here to close this window"
+msgstr "Click here to close this window"
+
+msgctxt "NewsletterSpammerVerification"
+msgid "Please enter your name and email address before submitting this form."
+msgstr "Please enter your name and email address before submitting this form."
+
+msgctxt "CouponCode1"
+msgid "Code"
+msgstr "Code"
+
+msgctxt "Coupon"
+msgid "Coupon"
+msgstr "Coupon"
+
+msgctxt "SideCartYouHaveXItems"
+msgid "You have <strong>%s</strong> items in your cart."
+msgstr "You have <strong>%s</strong> items in your cart."
+
+msgctxt "SideCartYouHave1Item"
+msgid "You have <strong>1</strong> item in your cart."
+msgstr "You have <strong>1</strong> item in your cart."
+
+msgctxt "SideCartTotalCost"
+msgid "Your sub total is <strong>%s</strong>."
+msgstr "Your sub total is <strong>%s</strong>."
+
+msgctxt "xOn"
+msgid "on"
+msgstr "on"
+
+msgctxt "Hi"
+msgid "Hi"
+msgstr "Hi"
+
+msgctxt "Thanks"
+msgid "Thanks"
+msgstr "Thanks"
+
+msgctxt "StoreUnavailable"
+msgid "This store is temporarily unavailable. We apologize for any inconvenience caused."
+msgstr "This store is temporarily unavailable. We apologize for any inconvenience caused."
+
+msgctxt "RSS20"
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+msgctxt "Atom03"
+msgid "Atom 0.3"
+msgstr "Atom 0.3"
+
+msgctxt "RSSPopularProducts"
+msgid "%s: Popular Products"
+msgstr "%s: Popular Products"
+
+msgctxt "RSSPopularProductsDesc"
+msgid "A list of the popular products at %s."
+msgstr "A list of the popular products at %s."
+
+msgctxt "RSSNewProducts"
+msgid "%s: New Products"
+msgstr "%s: New Products"
+
+msgctxt "RSSNewProductsDesc"
+msgid "A list of the new products at %s."
+msgstr "A list of the new products at %s."
+
+msgctxt "RSSFeaturedProducts"
+msgid "%s: Featured Products"
+msgstr "%s: Featured Products"
+
+msgctxt "RSSFeaturedProductsDesc"
+msgid "A list of the featured products at %s."
+msgstr "A list of the featured products at %s."
+
+msgctxt "RSSSearchProducts"
+msgid "%s: Product Search"
+msgstr "%s: Product Search"
+
+msgctxt "RSSSearchProductsDesc"
+msgid "A custom search for products at %s."
+msgstr "A custom search for products at %s."
+
+msgctxt "RSSLatestNews"
+msgid "%s: Latest News"
+msgstr "%s: Latest News"
+
+msgctxt "RSSLatestNewsDesc"
+msgid "The latest news from %s."
+msgstr "The latest news from %s."
+
+msgctxt "HeadRSSNewProducts"
+msgid "New Products"
+msgstr "New Products"
+
+msgctxt "HeadRSSNewProductsCategory"
+msgid "New Products in %s"
+msgstr "New Products in %s"
+
+msgctxt "HeadRSSPopularProducts"
+msgid "Popular Products"
+msgstr "Popular Products"
+
+msgctxt "HeadRSSPopularProductsCategory"
+msgid "Popular Products in %s"
+msgstr "Popular Products in %s"
+
+msgctxt "HeadRSSLatestNews"
+msgid "Latest News"
+msgstr "Latest News"
+
+msgctxt "HeadRSSProductSearchFeeds"
+msgid "Product Search"
+msgstr "Product Search"
+
+msgctxt "ErrLoadingRSSFeed"
+msgid "The RSS feed for this page couldn't be displayed. Are you sure it's a valid RSS file and that you specified the right link? You entered <strong><em>%s</em></strong> as the link to your RSS file."
+msgstr "The RSS feed for this page couldn't be displayed. Are you sure it's a valid RSS file and that you specified the right link? You entered <strong><em>%s</em></strong> as the link to your RSS file."
+
+msgctxt "errCouldntLoadTemplate"
+msgid "The template file '%s' couldn't be loaded."
+msgstr "The template file '%s' couldn't be loaded."
+
+msgctxt "FeaturedProducts"
+msgid "Featured Products"
+msgstr "Featured Products"
+
+msgctxt "RecentNews"
+msgid "Recent News"
+msgstr "Recent News"
+
+msgctxt "ProductsByCategory"
+msgid "Categories"
+msgstr "Categories"
+
+msgctxt "OurProducts"
+msgid "Our Products"
+msgstr "Our Products"
+
+msgctxt "ShopByPrice"
+msgid "Shop by Price"
+msgstr "Shop by Price"
+
+msgctxt "Previous"
+msgid "Previous"
+msgstr "Previous"
+
+msgctxt "Next"
+msgid "Next"
+msgstr "Next"
+
+msgctxt "NoProductsInCategory"
+msgid "There are no products in this category."
+msgstr "There are no products in this category."
+
+msgctxt "NoTopSellers"
+msgid "There are currently no top selling products."
+msgstr "There are currently no top selling products."
+
+msgctxt "NoPopularProductsCat"
+msgid "There are currently no popular products."
+msgstr "There are currently no popular products."
+
+msgctxt "NoNewProductsCat"
+msgid "There are currently no new products."
+msgstr "There are currently no new products."
+
+msgctxt "OtherProductsIn"
+msgid "Other Items in %s"
+msgstr "Other Items in %s"
+
+msgctxt "Brands"
+msgid "Brands"
+msgstr "Brands"
+
+msgctxt "AllBrands"
+msgid "All Brands"
+msgstr "All Brands"
+
+msgctxt "BrandsTagCloud"
+msgid "Brands Tag Cloud"
+msgstr "Brands Tag Cloud"
+
+msgctxt "BrandTagCloudHelp"
+msgid "The <em>brands tag cloud</em> shows all of the brands available for purchase.<br /><br />The bigger the brand appears, the more products it contains.<br /><br />Click on a brand below to see all products listed under that brand.<br /><br />"
+msgstr "The <em>brands tag cloud</em> shows all of the brands available for purchase.<br /><br />The bigger the brand appears, the more products it contains.<br /><br />Click on a brand below to see all products listed under that brand.<br /><br />"
+
+msgctxt "Products"
+msgid "Products"
+msgstr "Products"
+
+msgctxt "NoProductsInBrand"
+msgid "There are no products listed under this brand."
+msgstr "There are no products listed under this brand."
+
+msgctxt "ChooseBrandFromList"
+msgid "Choose a brand from the list on the %s to get started."
+msgstr "Choose a brand from the list on the %s to get started."
+
+msgctxt "Left"
+msgid "left"
+msgstr "left"
+
+msgctxt "Right"
+msgid "right"
+msgstr "right"
+
+msgctxt "ViewAllBrandsInstructions"
+msgid "To see all products in our store for a particular brand, simply click on that brand in the list on the right."
+msgstr "To see all products in our store for a particular brand, simply click on that brand in the list on the right."
+
+msgctxt "Summary"
+msgid "Summary"
+msgstr "Summary"
+
+msgctxt "SKU"
+msgid "SKU"
+msgstr "SKU"
+
+msgctxt "MorePictures1"
+msgid "See %d more picture"
+msgstr "See %d more picture"
+
+msgctxt "MorePictures2"
+msgid "See %d more pictures"
+msgstr "See %d more pictures"
+
+msgctxt "SeeLargerImage"
+msgid "Click to enlarge"
+msgstr "Click to enlarge"
+
+msgctxt "CloseWindow"
+msgid "Close Window"
+msgstr "Close Window"
+
+msgctxt "PreviousImage"
+msgid "Previous"
+msgstr "Previous"
+
+msgctxt "NextImage"
+msgid "Next"
+msgstr "Next"
+
+msgctxt "FixedShippingCost"
+msgid "(Fixed shipping cost)"
+msgstr "(Fixed shipping cost)"
+
+msgctxt "FreeShipping"
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+msgctxt "CalculatedAtCheckout"
+msgid "Calculated at checkout"
+msgstr "Calculated at checkout"
+
+msgctxt "Price"
+msgid "Price"
+msgstr "Price"
+
+msgctxt "Brand"
+msgid "Brand"
+msgstr "Brand"
+
+msgctxt "Weight"
+msgid "Weight"
+msgstr "Weight"
+
+msgctxt "Rating"
+msgid "Rating"
+msgstr "Rating"
+
+msgctxt "Shipping"
+msgid "Shipping"
+msgstr "Shipping"
+
+msgctxt "RRP"
+msgid "RRP"
+msgstr "RRP"
+
+msgctxt "BuyThisItem"
+msgid "Buy This Item"
+msgstr "Buy This Item"
+
+msgctxt "BuyButtonTitle"
+msgid "Click here to add this item to your shopping cart"
+msgstr "Click here to add this item to your shopping cart"
+
+msgctxt "RemoveItLater"
+msgid "(You can remove it later)"
+msgstr "(You can remove it later)"
+
+msgctxt "ChooseA"
+msgid "Choose a"
+msgstr "Choose a"
+
+msgctxt "PleaseChooseA"
+msgid "Please choose a"
+msgstr "Please choose a"
+
+msgctxt "AddToCart1"
+msgid "Click the button below to add the"
+msgstr "Click the button below to add the"
+
+msgctxt "AddToCart2"
+msgid "to your shopping cart for"
+msgstr "to your shopping cart for"
+
+msgctxt "ItemUnavailable"
+msgid "Item Unavailable"
+msgstr "Item Unavailable"
+
+msgctxt "OptionSoldOut"
+msgid "<span class='SoldOut'> (Sold Out)</span>"
+msgstr "<span class='SoldOut'> (Sold Out)</span>"
+
+msgctxt "Unavailable1"
+msgid "Sorry but this item is currently unavailable."
+msgstr "Sorry but this item is currently unavailable."
+
+msgctxt "Unavailable2"
+msgid "Please check back at a later date."
+msgstr "Please check back at a later date."
+
+msgctxt "ReviewLinkText1"
+msgid "1 product review"
+msgstr "1 product review"
+
+msgctxt "NoReviews"
+msgid "This product hasn't received any reviews yet. Be the first to review this product!"
+msgstr "This product hasn't received any reviews yet. Be the first to review this product!"
+
+msgctxt "ReviewLinkText2"
+msgid "%d product reviews"
+msgstr "%d product reviews"
+
+msgctxt "Availability"
+msgid "Availability"
+msgstr "Availability"
+
+msgctxt "ProductAvailability"
+msgid "Availability"
+msgstr "Availability"
+
+msgctxt "ProductDescription"
+msgid "Product Description"
+msgstr "Product Description"
+
+msgctxt "ProductReviews"
+msgid "Product Reviews"
+msgstr "Product Reviews"
+
+msgctxt "PostedBy"
+msgid "Posted by"
+msgstr "Posted by"
+
+msgctxt "AverageRating"
+msgid "Average Rating"
+msgstr "Average Rating"
+
+msgctxt "NumberOfReviews"
+msgid "Number of Reviews"
+msgstr "Number of Reviews"
+
+msgctxt "ShowingReviews"
+msgid "Showing reviews"
+msgstr "Showing reviews"
+
+msgctxt "WriteYourOwnProductReview"
+msgid "Write your own product review"
+msgstr "Write your own product review"
+
+msgctxt "ShareItWithOthers"
+msgid "and share your thoughts with others."
+msgstr "and share your thoughts with others."
+
+msgctxt "OtherDetails"
+msgid "Other Details"
+msgstr "Other Details"
+
+msgctxt "RelatedProducts"
+msgid "Related Products"
+msgstr "Related Products"
+
+msgctxt "YouRecentlyViewed"
+msgid "You Recently Viewed..."
+msgstr "You Recently Viewed..."
+
+msgctxt "WriteYourOwnReview"
+msgid "Write Your Own Review"
+msgstr "Write Your Own Review"
+
+msgctxt "HowRateProduct"
+msgid "1. How do you rate this product?"
+msgstr "1. How do you rate this product?"
+
+msgctxt "Rate5Stars"
+msgid "5 stars (best)"
+msgstr "5 stars (best)"
+
+msgctxt "Rate4Stars"
+msgid "4 stars"
+msgstr "4 stars"
+
+msgctxt "Rate3Stars"
+msgid "3 stars (average)"
+msgstr "3 stars (average)"
+
+msgctxt "Rate2Stars"
+msgid "2 stars"
+msgstr "2 stars"
+
+msgctxt "Rate1Star"
+msgid "1 star (worst)"
+msgstr "1 star (worst)"
+
+msgctxt "WriteAHeadline"
+msgid "2. Write a headline for your review here:"
+msgstr "2. Write a headline for your review here:"
+
+msgctxt "WriteYourReview"
+msgid "3. Write your review here:"
+msgstr "3. Write your review here:"
+
+msgctxt "ReviewEnterYourName"
+msgid "Email Address:"
+msgstr "Email Address:"
+
+msgctxt "SaveMyReview"
+msgid "Submit"
+msgstr "Submit"
+
+msgctxt "EnterTheCodeBelow"
+msgid "Security Code:"
+msgstr "Security Code:"
+
+msgctxt "ReviewNoRating"
+msgid "Please select your question category."
+msgstr "Please select your question category."
+
+msgctxt "ReviewNoTitle"
+msgid "Please enter a title for your review."
+msgstr "Please enter a title for your review."
+
+msgctxt "ReviewNoText"
+msgid "Please enter some text for your review."
+msgstr "Please enter some text for your review."
+
+msgctxt "NoCaptcha"
+msgid "Please enter the code shown."
+msgstr "Please enter the code shown."
+
+msgctxt "ReviewBadCaptcha"
+msgid "The code you entered is incorrect. Please type it again."
+msgstr "The code you entered is incorrect. Please type it again."
+
+msgctxt "ReviewInternalError"
+msgid "An internal error occurred while trying to save your review."
+msgstr "An internal error occurred while trying to save your review."
+
+msgctxt "ReviewSavedApproved"
+msgid "Your review was saved and is shown below."
+msgstr "Your review was saved and is shown below."
+
+msgctxt "ReviewSavedPending"
+msgid "Your review was saved and is pending approval."
+msgstr "Your review was saved and is pending approval."
+
+msgctxt "Unknown"
+msgid "Anonymous customer"
+msgstr "Anonymous customer"
+
+msgctxt "FindByCategory"
+msgid "Find Similar Products by Category"
+msgstr "Find Similar Products by Category"
+
+msgctxt "AddToWishList"
+msgid "Add to Wish List"
+msgstr "Add to Wish List"
+
+msgctxt "ToYourWishList"
+msgid "to your wish list."
+msgstr "to your wish list."
+
+msgctxt "ImageXOfY"
+msgid "Image %s of %s"
+msgstr "Image %s of %s"
+
+msgctxt "CurrentlySoldOut1"
+msgid "Sorry but this item is currently unavailable."
+msgstr "Sorry but this item is currently unavailable."
+
+msgctxt "CurrentlySoldOut2"
+msgid "Please check back at a later stage."
+msgstr "Please check back at a later stage."
+
+msgctxt "InvalidProductError"
+msgid "This product does not exist at %s."
+msgstr "This product does not exist at %s."
+
+msgctxt "InvalidProductErrorDetails"
+msgid "Possible reasons:<ul><li>This product may have been removed from our store.</li><li>You may have mistyped the URL to the page you were looking for.</li><li>You may have followed an outdated or broken link from another website.</li></ul>"
+msgstr "Possible reasons:<ul><li>This product may have been removed from our store.</li><li>You may have mistyped the URL to the page you were looking for.</li><li>You may have followed an outdated or broken link from another website.</li></ul>"
+
+msgctxt "CurrentStock"
+msgid "Current Stock"
+msgstr "Current Stock"
+
+msgctxt "SoldOut"
+msgid "Sold Out"
+msgstr "Sold Out"
+
+msgctxt "ChooseAnOption"
+msgid "Please choose an option to add this product to your cart."
+msgstr "Please choose an option to add this product to your cart."
+
+msgctxt "ChooseOneOrMoreOptions"
+msgid "Please choose one or more options to add this product to your cart."
+msgstr "Please choose one or more options to add this product to your cart."
+
+msgctxt "VariationSoldOutMessage"
+msgid "The selected product combination is currently unavailable."
+msgstr "The selected product combination is currently unavailable."
+
+msgctxt "PreviousPage"
+msgid "Previous Page"
+msgstr "Previous Page"
+
+msgctxt "ProductComparison"
+msgid "Product Comparison"
+msgstr "Product Comparison"
+
+msgctxt "Remove"
+msgid "Remove"
+msgstr "Remove"
+
+msgctxt "Product"
+msgid "Product"
+msgstr "Product"
+
+msgctxt "Image"
+msgid "Image"
+msgstr "Image"
+
+msgctxt "Description"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "VS"
+msgid "VS"
+msgstr "VS"
+
+msgctxt "CompareTwoProducts"
+msgid "At least 2 products are needed to make a valid comparison."
+msgstr "At least 2 products are needed to make a valid comparison."
+
+msgctxt "ReadReviews"
+msgid "Read Reviews"
+msgstr "Read Reviews"
+
+msgctxt "SortByProductName"
+msgid "Sort products by name"
+msgstr "Sort products by name"
+
+msgctxt "SortByProductPrice"
+msgid "Sort products by price"
+msgstr "Sort products by price"
+
+msgctxt "SortByProductRating"
+msgid "Sort products by average rating"
+msgstr "Sort products by average rating"
+
+msgctxt "SortByProductBrand"
+msgid "Sort products by brand"
+msgstr "Sort products by brand"
+
+msgctxt "Other"
+msgid "Other"
+msgstr "Other"
+
+msgctxt "Options"
+msgid "Options"
+msgstr "Options"
+
+msgctxt "ProductDetails"
+msgid "Product Details"
+msgstr "Product Details"
+
+msgctxt "ProductComparisonIntro"
+msgid "Your product comparison is shown below. Click a product attribute in the left column to sort by that attribute."
+msgstr "Your product comparison is shown below. Click a product attribute in the left column to sort by that attribute."
+
+msgctxt "TooManyProducts1"
+msgid "You can only compare %d products at a time. %d product was removed from the comparison."
+msgstr "You can only compare %d products at a time. %d product was removed from the comparison."
+
+msgctxt "TooManyProductsX"
+msgid "You can only compare %d products at a time. %d products were removed from the comparison."
+msgstr "You can only compare %d products at a time. %d products were removed from the comparison."
+
+msgctxt "YourShoppingCart"
+msgid "Your Shopping Cart"
+msgstr "Your Shopping Cart"
+
+msgctxt "ShoppingCart"
+msgid "Shopping Cart"
+msgstr "Shopping Cart"
+
+msgctxt "YouMayAlsoLike"
+msgid "You May Also Like..."
+msgstr "You May Also Like..."
+
+msgctxt "CheckoutButtonTitle"
+msgid "Click here to proceed to checkout"
+msgstr "Click here to proceed to checkout"
+
+msgctxt "YouJustAddedToCart"
+msgid "You just added this product to your cart"
+msgstr "You just added this product to your cart"
+
+msgctxt "OtherItemsInCart"
+msgid "Other Products in Your Shopping Cart"
+msgstr "Other Products in Your Shopping Cart"
+
+msgctxt "Quantity"
+msgid "Qty"
+msgstr "Qty"
+
+msgctxt "ViewEntireCart"
+msgid "View your entire cart"
+msgstr "View your entire cart"
+
+msgctxt "Subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt "CartRemoveConfirm"
+msgid "Are you sure you want to remove this item from your cart?"
+msgstr "Are you sure you want to remove this item from your cart?"
+
+msgctxt "Or"
+msgid "or"
+msgstr "or"
+
+msgctxt "ContinueShopping"
+msgid "Continue Shopping"
+msgstr "Continue Shopping"
+
+msgctxt "NoItemsInCart"
+msgid "There are no products in your cart."
+msgstr "There are no products in your cart."
+
+msgctxt "EmptyCartInfo"
+msgid "To add a product to your cart, first browse for it or use the search box and then click its &quot;Add to Cart&quot; button."
+msgstr "To add a product to your cart, first browse for it or use the search box and then click its &quot;Add to Cart&quot; button."
+
+msgctxt "OnThe"
+msgid "on the"
+msgstr "on the"
+
+msgctxt "EmptyHomePage"
+msgid "home page."
+msgstr "home page."
+
+msgctxt "ChooseACountry"
+msgid "Choose a Country"
+msgstr "Choose a Country"
+
+msgctxt "ChooseAState"
+msgid "Choose a State"
+msgstr "Choose a State"
+
+msgctxt "SpendXMoreFreeShipping"
+msgid "Spend an additional <strong>%s</strong> to qualify for free shipping on your order."
+msgstr "Spend an additional <strong>%s</strong> to qualify for free shipping on your order."
+
+msgctxt "SpendXMoreXShipping"
+msgid "Spend an additional <strong>%s</strong> to qualify for %s shipping on your order."
+msgstr "Spend an additional <strong>%s</strong> to qualify for %s shipping on your order."
+
+msgctxt "OrderQualifiesForFreeShipping"
+msgid "<strong>Congratulations!</strong> Your order qualifies for free shipping."
+msgstr "<strong>Congratulations!</strong> Your order qualifies for free shipping."
+
+msgctxt "OrderQualifiesForXShipping"
+msgid "<strong>Congratulations!</strong> Your order qualifies for %s shipping."
+msgstr "<strong>Congratulations!</strong> Your order qualifies for %s shipping."
+
+msgctxt "ShippingWord"
+msgid "shipping"
+msgstr "shipping"
+
+msgctxt "OneItem"
+msgid "1 item"
+msgstr "1 item"
+
+msgctxt "XItems"
+msgid ":count items"
+msgstr ":count items"
+
+msgctxt "CouponCode"
+msgid "Coupon Code"
+msgstr "Coupon Code"
+
+msgctxt "CouponCodeIntro"
+msgid "If you have a coupon code, enter it in the box below and click 'Go'."
+msgstr "If you have a coupon code, enter it in the box below and click 'Go'."
+
+msgctxt "GiftCertificateCode"
+msgid "Redeem Gift Certificate"
+msgstr "Redeem Gift Certificate"
+
+msgctxt "EnterGiftCertificateCode"
+msgid "Please enter your gift certificate code."
+msgstr "Please enter your gift certificate code."
+
+msgctxt "GiftCertificateCodeIntro"
+msgid "To pay for this order using a gift certificate, enter the gift certificate code in the box below and click 'Go'."
+msgstr "To pay for this order using a gift certificate, enter the gift certificate code in the box below and click 'Go'."
+
+msgctxt "Go"
+msgid "Go"
+msgstr "Go"
+
+msgctxt "EnterCouponCode"
+msgid "Please enter your coupon code."
+msgstr "Please enter your coupon code."
+
+msgctxt "CouponAppliedToCart"
+msgid "The coupon that you entered has been applied to your cart."
+msgstr "The coupon that you entered has been applied to your cart."
+
+msgctxt "CouponRemovedFromCart"
+msgid "The coupon has been removed from your cart."
+msgstr "The coupon has been removed from your cart."
+
+msgctxt "ClickHereToKeepShopping"
+msgid "Click here to keep shopping"
+msgstr "Click here to keep shopping"
+
+msgctxt "ClickHereToKeepShoppingCat"
+msgid "Click here to keep shopping in %s"
+msgstr "Click here to keep shopping in %s"
+
+msgctxt "CartProductUnavailable"
+msgid "This product cannot be added to your cart as it is currently unavailable."
+msgstr "This product cannot be added to your cart as it is currently unavailable."
+
+msgctxt "SuggestiveCartIntro"
+msgid "We found some products that you might also be interested in."
+msgstr "We found some products that you might also be interested in."
+
+msgctxt "SuggestiveCartViewCart"
+msgid "view your shopping cart."
+msgstr "view your shopping cart."
+
+msgctxt "InvalidQuantity"
+msgid "Please enter a valid product quantity."
+msgstr "Please enter a valid product quantity."
+
+msgctxt "Update"
+msgid "Update"
+msgstr "Update"
+
+msgctxt "IncludedInTotal"
+msgid "Included in Total"
+msgstr "Included in Total"
+
+msgctxt "ProductIncludingTax1"
+msgid "(including %s)"
+msgstr "(including %s)"
+
+msgctxt "ProductIncludingTax2"
+msgid "(including tax)"
+msgstr "(including tax)"
+
+msgctxt "ProductExcludingTax1"
+msgid "(excluding %s)"
+msgstr "(excluding %s)"
+
+msgctxt "ProductExcludingTax2"
+msgid "(excluding tax)"
+msgstr "(excluding tax)"
+
+msgctxt "CheckoutTitleStep1"
+msgid "Checkout (Shipping Details)"
+msgstr "Checkout (Shipping Details)"
+
+msgctxt "Login"
+msgid "Sign in"
+msgstr "Sign in"
+
+msgctxt "CreateANewAccount"
+msgid "Create a New Account"
+msgstr "Create a New Account"
+
+msgctxt "NewCustomer"
+msgid "New Customer"
+msgstr "New Customer"
+
+msgctxt "ReturningCustomer"
+msgid "Returning Customer"
+msgstr "Returning Customer"
+
+msgctxt "NewCustomerIntro1"
+msgid "If this is your first purchase from"
+msgstr "If this is your first purchase from"
+
+msgctxt "NewCustomerIntro2"
+msgid "please click the &quot;Continue.&quot; button to get started."
+msgstr "please click the &quot;Continue.&quot; button to get started."
+
+msgctxt "CreateAccountLoginIntro"
+msgid "<p>Create an account with us and you'll be able to:</p><ul><li>Check out faster</li><li>Save multiple shipping addresses</li><li>Access your order history</li><li>Track new orders</li><li>Save items to your wish list</li></ul>"
+msgstr "<p>Create an account with us and you'll be able to:</p><ul><li>Check out faster</li><li>Save multiple shipping addresses</li><li>Access your order history</li><li>Track new orders</li><li>Save items to your wish list</li></ul>"
+
+msgctxt "ClickToCreateAnAccount"
+msgid "Click here to create a new account."
+msgstr "Click here to create a new account."
+
+msgctxt "CreateAnAccount"
+msgid "Create an Account"
+msgstr "Create an Account"
+
+msgctxt "LoginToYourAccount"
+msgid "Sign in to Your Account"
+msgstr "Sign in to Your Account"
+
+msgctxt "LoginWord"
+msgid "Sign In"
+msgstr "Sign In"
+
+msgctxt "ForgotYourPassword"
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+msgctxt "CreateAccount"
+msgid "Create Account"
+msgstr "Create Account"
+
+msgctxt "EmailAddress"
+msgid "Email Address"
+msgstr "Email Address"
+
+msgctxt "Password"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "CreateAccountIntro1"
+msgid "Checkout faster"
+msgstr "Checkout faster"
+
+msgctxt "ContinueRaquo"
+msgid "Continue &raquo;"
+msgstr "Continue &raquo;"
+
+msgctxt "CreateAccountIntro2"
+msgid "Save multiple addresses in your address book"
+msgstr "Save multiple addresses in your address book"
+
+msgctxt "PasswordConfirm"
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+msgctxt "FirstName"
+msgid "First Name"
+msgstr "First Name"
+
+msgctxt "LastName"
+msgid "Last Name"
+msgstr "Last Name"
+
+msgctxt "CompanyName"
+msgid "Company Name"
+msgstr "Company Name"
+
+msgctxt "CreateMyAccount"
+msgid "Create My Account"
+msgstr "Create My Account"
+
+msgctxt "AccountEnterValidEmail"
+msgid "Please type in a valid email address, such as joe@aol.com"
+msgstr "Please type in a valid email address, such as joe@aol.com"
+
+msgctxt "AccountEnterPassword"
+msgid "Please type in a password."
+msgstr "Please type in a password."
+
+msgctxt "AccountPasswordsDontMatch"
+msgid "Your passwords don't match."
+msgstr "Your passwords don't match."
+
+msgctxt "AccountEnterFirstName"
+msgid "Please type in your first name."
+msgstr "Please type in your first name."
+
+msgctxt "AccountEnterLastName"
+msgid "Please type in your last name."
+msgstr "Please type in your last name."
+
+msgctxt "AccountEmailTaken"
+msgid "The email address %s is already in use. Please enter a different one."
+msgstr "The email address %s is already in use. Please enter a different one."
+
+msgctxt "AccountEnterValidPhone"
+msgid "Please type in a valid phone number containing at least 3 numbers."
+msgstr "Please type in a valid phone number containing at least 3 numbers."
+
+msgctxt "AccountInternalError"
+msgid "An internal error occurred while trying to create your account. Please try again."
+msgstr "An internal error occurred while trying to create your account. Please try again."
+
+msgctxt "PhoneNumber"
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgctxt "AccountEnterPhoneNumber"
+msgid "Please type in your phone number."
+msgstr "Please type in your phone number."
+
+msgctxt "ChooseShippingProvider"
+msgid "Choose a Shipping Method"
+msgstr "Choose a Shipping Method"
+
+msgctxt "CheckoutShippingProviderIntro"
+msgid "Please choose a shipping method to deliver your order from those shown below:"
+msgstr "Please choose a shipping method to deliver your order from those shown below:"
+
+msgctxt "Continue"
+msgid "Continue"
+msgstr "Continue"
+
+msgctxt "Today"
+msgid "today"
+msgstr "today"
+
+msgctxt "Tomorrow"
+msgid "tomorrow"
+msgstr "tomorrow"
+
+msgctxt "SameDay"
+msgid "Same day delivery*"
+msgstr "Same day delivery*"
+
+msgctxt "NextDay"
+msgid "Next day delivery*"
+msgstr "Next day delivery*"
+
+msgctxt "Days"
+msgid "Delivery in %s days*"
+msgstr "Delivery in %s days*"
+
+msgctxt "DeliveryDisclaimer"
+msgid "*Delivery time is approximate from date of shipment"
+msgstr "*Delivery time is approximate from date of shipment"
+
+msgctxt "Oops"
+msgid "Oops..."
+msgstr "Oops..."
+
+msgctxt "NoShippingProvidersError"
+msgid "Unfortunately, one or more items in your cart can't be shipped to your location. Please choose a different delivery address."
+msgstr "Unfortunately, one or more items in your cart can't be shipped to your location. Please choose a different delivery address."
+
+msgctxt "NoShippingProviders"
+msgid "No shipping providers have been configured. An email has been sent to the store administrator to notify him."
+msgstr "No shipping providers have been configured. An email has been sent to the store administrator to notify him."
+
+msgctxt "NoShippingProvidersSubject"
+msgid "Urgent - Your store has no shipping providers setup"
+msgstr "Urgent - Your store has no shipping providers setup"
+
+msgctxt "NoCheckoutProvidersSubject"
+msgid "Urgent - Your store has no checkout providers setup"
+msgstr "Urgent - Your store has no checkout providers setup"
+
+msgctxt "NoShippingProvidersErrorLong"
+msgid "No one can order from your store because you haven't configured any shipping providers. Here's how to enable and configure shipping providers for your store:<br /><br /><ul><li>Login to your store's control panel <a rel='nofollow' href='%s/admin' target='_blank'>here</a></li><li>Click the <strong>Settings</strong> link at the top right of the page after you login</li><li>Choose the <strong>Shipping Settings</strong> menu option</li><li>Tick the shipping providers you want to enable in the <strong>Shipping Methods</strong> list</li><li>Click <strong>Save</strong> to enable the selected shipping providers</strong><li>Half way down the page you'll now see a tab for each shipping provider</li><li>Click on each tab and follow the instructions to setup each shipping provider</li><li>Click <strong>Save</strong> when you're done</li><li>Your shipping provider(s) will now be setup and you wont receive this email again</li></ul>"
+msgstr "No one can order from your store because you haven't configured any shipping providers. Here's how to enable and configure shipping providers for your store:<br /><br /><ul><li>Login to your store's control panel <a rel='nofollow' href='%s/admin' target='_blank'>here</a></li><li>Click the <strong>Settings</strong> link at the top right of the page after you login</li><li>Choose the <strong>Shipping Settings</strong> menu option</li><li>Tick the shipping providers you want to enable in the <strong>Shipping Methods</strong> list</li><li>Click <strong>Save</strong> to enable the selected shipping providers</strong><li>Half way down the page you'll now see a tab for each shipping provider</li><li>Click on each tab and follow the instructions to setup each shipping provider</li><li>Click <strong>Save</strong> when you're done</li><li>Your shipping provider(s) will now be setup and you wont receive this email again</li></ul>"
+
+msgctxt "NoCheckoutProvidersErrorLong"
+msgid "No one can order from your store because you haven't configured any checkout providers. Here's how to enable and configure checkout providers for your store:<br /><br /><ul><li>Login to your store's control panel <a rel='nofollow' href='%s/admin' target='_blank'>here</a></li><li>Click the <strong>Settings</strong> link at the top right of the page after you login</li><li>Choose the <strong>Checkout Settings</strong> menu option</li><li>Tick the checkout providers you want to enable in the <strong>Checkout Methods</strong> list</li><li>Click <strong>Save</strong> to enable the selected checkout providers</strong><li>Half way down the page you'll now see a tab for each checkout provider</li><li>Click on each tab and follow the instructions to setup each checkout provider</li><li>Click <strong>Save</strong> when you're done</li><li>Your checkout provider(s) will now be setup and you wont receive this email again</li></ul>"
+msgstr "No one can order from your store because you haven't configured any checkout providers. Here's how to enable and configure checkout providers for your store:<br /><br /><ul><li>Login to your store's control panel <a rel='nofollow' href='%s/admin' target='_blank'>here</a></li><li>Click the <strong>Settings</strong> link at the top right of the page after you login</li><li>Choose the <strong>Checkout Settings</strong> menu option</li><li>Tick the checkout providers you want to enable in the <strong>Checkout Methods</strong> list</li><li>Click <strong>Save</strong> to enable the selected checkout providers</strong><li>Half way down the page you'll now see a tab for each checkout provider</li><li>Click on each tab and follow the instructions to setup each checkout provider</li><li>Click <strong>Save</strong> when you're done</li><li>Your checkout provider(s) will now be setup and you wont receive this email again</li></ul>"
+
+msgctxt "TryAgain"
+msgid "Try again."
+msgstr "Try again."
+
+msgctxt "PleaseChooseShippingProvider"
+msgid "Please choose a shipping method."
+msgstr "Please choose a shipping method."
+
+msgctxt "ConfirmYourOrder"
+msgid "Please Review Your Order Before Continuing"
+msgstr "Please Review Your Order Before Continuing"
+
+msgctxt "ChooseBillingAddress"
+msgid "Choose a Billing Address"
+msgstr "Choose a Billing Address"
+
+msgctxt "ChooseBillingAddressIntro1"
+msgid "Please choose a billing address from those shown below, or you can"
+msgstr "Please choose a billing address from those shown below, or you can"
+
+msgctxt "ChooseBillingAddressIntro2"
+msgid "Add a New Billing Address."
+msgstr "Add a New Billing Address."
+
+msgctxt "Edit"
+msgid "Edit"
+msgstr "Edit"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "BillToThisAddress"
+msgid "Bill to this address"
+msgstr "Bill to this address"
+
+msgctxt "NotRequiredForDigitalDownloads"
+msgid "No shipping address is required for this order."
+msgstr "No shipping address is required for this order."
+
+msgctxt "PaymentButtonTitle"
+msgid "Click here to pay for your order"
+msgstr "Click here to pay for your order"
+
+msgctxt "HowWouldYouLikeToPay"
+msgid "How Would You Like to Pay?"
+msgstr "How Would You Like to Pay?"
+
+msgctxt "PleaseChooseAPaymentMethod"
+msgid "Please choose a payment method."
+msgstr "Please choose a payment method."
+
+msgctxt "NoCheckoutProviders"
+msgid "No checkout providers have been configured. An email has been sent to the store administrator to notify him."
+msgstr "No checkout providers have been configured. An email has been sent to the store administrator to notify him."
+
+msgctxt "OrderError"
+msgid "Something Went Wrong With Your Order"
+msgstr "Something Went Wrong With Your Order"
+
+msgctxt "BadOrderDetailsFromProvider"
+msgid "Your order details are incomplete or invalid. Please email <a rel='nofollow' href='mailto:%s'>%s</a> for assistance."
+msgstr "Your order details are incomplete or invalid. Please email <a rel='nofollow' href='mailto:%s'>%s</a> for assistance."
+
+msgctxt "SomethingWentWrong"
+msgid "Something Went Wrong..."
+msgstr "Something Went Wrong..."
+
+msgctxt "YourPaymentWasDeclined"
+msgid "Your Payment Was Declined..."
+msgstr "Your Payment Was Declined..."
+
+msgctxt "JustSentAnEmailConfirmation"
+msgid "We've just sent you an email confirming your order."
+msgstr "We've just sent you an email confirming your order."
+
+msgctxt "ViewYourOrder"
+msgid "View Your Order"
+msgstr "View Your Order"
+
+msgctxt "PhysicalOrderConfirmation"
+msgid "We've received your order and will begin processing it right away. You can track the status of your order and view past orders by clicking &quot;View Your Order&quot; below."
+msgstr "We've received your order and will begin processing it right away. You can track the status of your order and view past orders by clicking &quot;View Your Order&quot; below."
+
+msgctxt "DigitalOrderConfirmation"
+msgid "We've received your order and you can download the items you purchased right away by clicking on the &quot;Download the items you ordered&quot; link below."
+msgstr "We've received your order and you can download the items you purchased right away by clicking on the &quot;Download the items you ordered&quot; link below."
+
+msgctxt "DownloadTheItemsYouOrdered"
+msgid "Download the items you ordered"
+msgstr "Download the items you ordered"
+
+msgctxt "OrderNumber"
+msgid "Order Number"
+msgstr "Order Number"
+
+msgctxt "ErroSendingInvoiceEmail"
+msgid "Your order was completed successfully. However, we couldn't send a copy of the invoice to your email address."
+msgstr "Your order was completed successfully. However, we couldn't send a copy of the invoice to your email address."
+
+msgctxt "HeresHowtoPayforYourOrder"
+msgid "Your order was sent to us but requires payment before it can be completed."
+msgstr "Your order was sent to us but requires payment before it can be completed."
+
+msgctxt "HeresHowtoPayforYourOrderUC"
+msgid "Here's How to Pay for Your Order..."
+msgstr "Here's How to Pay for Your Order..."
+
+msgctxt "YourOrderTotalIs"
+msgid "The outstanding balance of your order is"
+msgstr "The outstanding balance of your order is"
+
+msgctxt "PayForYourOrderHelp"
+msgid "Once you've provided payment, your order will be completed."
+msgstr "Once you've provided payment, your order will be completed."
+
+msgctxt "InstructionsForPaymentBelow"
+msgid "Instructions on how to pay for your order are shown below:"
+msgstr "Instructions on how to pay for your order are shown below:"
+
+msgctxt "InvoicePendingPaymentText"
+msgid "Your order requires payment before it can be finalized. Details on how to pay are shown below."
+msgstr "Your order requires payment before it can be finalized. Details on how to pay are shown below."
+
+msgctxt "OrderAwaitingPayment"
+msgid "Your order was sent to us but is currently awaiting payment. Once we receive the payment for your order, it will be completed. If you've already provided payment details then we will process your order manually and send you an email when it's completed."
+msgstr "Your order was sent to us but is currently awaiting payment. Once we receive the payment for your order, it will be completed. If you've already provided payment details then we will process your order manually and send you an email when it's completed."
+
+msgctxt "ErroOrderDeclined"
+msgid "Your payment was declined by our payment processor. Please email <a rel='nofollow' href='mailto:%s'>%s</a> for assistance."
+msgstr "Your payment was declined by our payment processor. Please email <a rel='nofollow' href='mailto:%s'>%s</a> for assistance."
+
+msgctxt "CheckoutUseStoreCredit"
+msgid "Pay using my store credit"
+msgstr "Pay using my store credit"
+
+msgctxt "CheckoutStoreCreditWarning"
+msgid "You do not have enough store credit to pay for this order. Please select a payment method to pay the remaining %%GLOBAL_Remaining%%."
+msgstr "You do not have enough store credit to pay for this order. Please select a payment method to pay the remaining %%GLOBAL_Remaining%%."
+
+msgctxt "CheckoutStoreCreditWarning2"
+msgid "You do not have enough store credit to pay for this order. The remaining %s will be paid by %s."
+msgstr "You do not have enough store credit to pay for this order. The remaining %s will be paid by %s."
+
+msgctxt "StoreCreditBalance"
+msgid "Your store credit balance:"
+msgstr "Your store credit balance:"
+
+msgctxt "YourOrderTotal"
+msgid "Your order total cost:"
+msgstr "Your order total cost:"
+
+msgctxt "OutstandingOrderTotal"
+msgid "Your outstanding order total:"
+msgstr "Your outstanding order total:"
+
+msgctxt "CreditPaymentMethod"
+msgid "Pay the remaining %s via:"
+msgstr "Pay the remaining %s via:"
+
+msgctxt "CheckoutCreditAlt"
+msgid "Pay using an alternative payment method"
+msgstr "Pay using an alternative payment method"
+
+msgctxt "CheckoutCreditAltOneMethod"
+msgid "Pay using %s"
+msgstr "Pay using %s"
+
+msgctxt "OrderCreditDeducted"
+msgid "%s has been deducted from your store credit."
+msgstr "%s has been deducted from your store credit."
+
+msgctxt "RemainingStoreCredit"
+msgid "Remaining store credit:"
+msgstr "Remaining store credit:"
+
+msgctxt "PleaseEnterGiftCertificateOrCouponCode"
+msgid "Please enter a gift certificate or coupon code to redeem."
+msgstr "Please enter a gift certificate or coupon code to redeem."
+
+msgctxt "RedeemGiftCertificateOrCoupon"
+msgid "Redeem a Gift Certificate or Coupon"
+msgstr "Redeem a Gift Certificate or Coupon"
+
+msgctxt "RedeemGiftCertificateorCouponIntro"
+msgid "To apply a gift certificate or coupon code to this order, please enter the code below and click 'Apply'."
+msgstr "To apply a gift certificate or coupon code to this order, please enter the code below and click 'Apply'."
+
+msgctxt "RedeemCouponCode"
+msgid "Redeem a Coupon"
+msgstr "Redeem a Coupon"
+
+msgctxt "RedeemCouponCodeIntro"
+msgid "To apply a coupon code to this order, please enter the code below and click 'Apply'."
+msgstr "To apply a coupon code to this order, please enter the code below and click 'Apply'."
+
+msgctxt "PersonalDetails"
+msgid "Personal Details"
+msgstr "Personal Details"
+
+msgctxt "ShippingDetails"
+msgid "Shipping Details"
+msgstr "Shipping Details"
+
+msgctxt "CreateAccountPersonalIntro"
+msgid "Enter your email address and password to create your account."
+msgstr "Enter your email address and password to create your account."
+
+msgctxt "CreateAccountShippingIntro"
+msgid "Enter the name and address you'd like us to ship your order to."
+msgstr "Enter the name and address you'd like us to ship your order to."
+
+msgctxt "ViewOrderStatus"
+msgid "Click here to view the status of your order"
+msgstr "Click here to view the status of your order"
+
+msgctxt "LoginEnterValidEmail"
+msgid "Please type in a valid email address, such as joe@aol.com"
+msgstr "Please type in a valid email address, such as joe@aol.com"
+
+msgctxt "LoginEnterPassword"
+msgid "Please type in your password."
+msgstr "Please type in your password."
+
+msgctxt "BadLoginDetails"
+msgid "Your email address or password is incorrect. Please try again. If you've forgotten your sign in details, just click the 'Forgot your password?' link below."
+msgstr "Your email address or password is incorrect. Please try again. If you've forgotten your sign in details, just click the 'Forgot your password?' link below."
+
+msgctxt "LoginToAccessThatPage"
+msgid "You need to sign in to access this page."
+msgstr "You need to sign in to access this page."
+
+msgctxt "ForgotPassword"
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+msgctxt "CurrentPassword"
+msgid "Current Password"
+msgstr "Current Password"
+
+msgctxt "NewPassword"
+msgid "New Password"
+msgstr "New Password"
+
+msgctxt "ConfirmNewPassword"
+msgid "Confirm New Password"
+msgstr "Confirm New Password"
+
+msgctxt "ChangePassword"
+msgid "Change Password"
+msgstr "Change Password"
+
+msgctxt "ChangeYourPassword"
+msgid "Change Your Password"
+msgstr "Change Your Password"
+
+msgctxt "ForgotPasswordBadEmail"
+msgid "No account was found with the email address <strong><em>%s</em></strong>. Double check your email address and try again."
+msgstr "No account was found with the email address <strong><em>%s</em></strong>. Double check your email address and try again."
+
+msgctxt "ForgotPasswordBadPassword"
+msgid "No account was found with those details. Double check your email address and password and try again."
+msgstr "No account was found with those details. Double check your email address and password and try again."
+
+msgctxt "ForgotPasswordInternalErrror"
+msgid "An internal error occurred while trying to change your password. Please try again."
+msgstr "An internal error occurred while trying to change your password. Please try again."
+
+msgctxt "ForgotPassEmailMessage"
+msgid "To change your customer account password at %s please click this link or copy and paste it into your browser:<br /><br /><a rel='nofollow' href='%s'>%s</a>"
+msgstr "To change your customer account password at %s please click this link or copy and paste it into your browser:<br /><br /><a rel='nofollow' href='%s'>%s</a>"
+
+msgctxt "ForgotPassEmailSent"
+msgid "An email was sent to your inbox. It contains a link which you must click to confirm your password change.<p/>"
+msgstr "An email was sent to your inbox. It contains a link which you must click to confirm your password change.<p/>"
+
+msgctxt "ForgotPassEmailSubject"
+msgid "Password change request for %s"
+msgstr "Password change request for %s"
+
+msgctxt "Logout"
+msgid "Sign out"
+msgstr "Sign out"
+
+msgctxt "LogoutLink"
+msgid "<a rel='nofollow' href='%s/login.php?action=logout'>Sign out</a>"
+msgstr "<a rel='nofollow' href='%s/login.php?action=logout'>Sign out</a>"
+
+msgctxt "SignInOrCreateAccount"
+msgid "<a rel='nofollow' href='%s/login.php' onclick='%s'>Sign in</a> or <a rel='nofollow' href='%s/login.php?action=create_account' onclick='%s'>Create an account</a>"
+msgstr "<a rel='nofollow' href='%s/login.php' onclick='%s'>Sign in</a> or <a rel='nofollow' href='%s/login.php?action=create_account' onclick='%s'>Create an account</a>"
+
+msgctxt "LoggedOutSuccessfully"
+msgid "You've been logged out of your account successfully."
+msgstr "You've been logged out of your account successfully."
+
+msgctxt "YourAccountHelpIntro"
+msgid "From this page you can view your orders, update your account details and more. Choose an option from the menu on the right or learn more about each option below:"
+msgstr "From this page you can view your orders, update your account details and more. Choose an option from the menu on the right or learn more about each option below:"
+
+msgctxt "AddShippingAddress"
+msgid "Add New Address"
+msgstr "Add New Address"
+
+msgctxt "YourAccount"
+msgid "My Account"
+msgstr "My Account"
+
+msgctxt "AddShippingAddressIntro"
+msgid "Fill in the form below to create a new address in your address book. Click the &quot;Save Address&quot; button when you're done."
+msgstr "Fill in the form below to create a new address in your address book. Click the &quot;Save Address&quot; button when you're done."
+
+msgctxt "SaveAddress"
+msgid "Save Address"
+msgstr "Save Address"
+
+msgctxt "FullName"
+msgid "Full Name"
+msgstr "Full Name"
+
+msgctxt "AddressLine1"
+msgid "Address Line 1"
+msgstr "Address Line 1"
+
+msgctxt "AddressLine2"
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+msgctxt "City"
+msgid "Suburb/City"
+msgstr "Suburb/City"
+
+msgctxt "Country"
+msgid "Country"
+msgstr "Country"
+
+msgctxt "StateProvince"
+msgid "State/Province"
+msgstr "State/Province"
+
+msgctxt "ZipPostcode"
+msgid "Zip/Postcode"
+msgstr "Zip/Postcode"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "ChooseState"
+msgid "Choose a State"
+msgstr "Choose a State"
+
+msgctxt "EnterShippingFullName"
+msgid "Please type in your full name."
+msgstr "Please type in your full name."
+
+msgctxt "EnterShippingAddress"
+msgid "Please type in an address."
+msgstr "Please type in an address."
+
+msgctxt "EnterShippingCity"
+msgid "Please type in your suburb/city."
+msgstr "Please type in your suburb/city."
+
+msgctxt "ChooseShippingCountry"
+msgid "Please choose your country."
+msgstr "Please choose your country."
+
+msgctxt "ChooseShippingState"
+msgid "Please choose a state/province."
+msgstr "Please choose a state/province."
+
+msgctxt "EnterShippingState"
+msgid "Please type in your state/province."
+msgstr "Please type in your state/province."
+
+msgctxt "EnterShippingZip"
+msgid "Please type in your zip/postcode."
+msgstr "Please type in your zip/postcode."
+
+msgctxt "ChooseShippingAddress"
+msgid "Choose a Shipping Address"
+msgstr "Choose a Shipping Address"
+
+msgctxt "ChooseShippingAddressIntro1"
+msgid "Please choose a shipping address from those shown below, or you can"
+msgstr "Please choose a shipping address from those shown below, or you can"
+
+msgctxt "ChooseShippingAddressIntro2"
+msgid "Add a New Shipping Address."
+msgstr "Add a New Shipping Address."
+
+msgctxt "EditShippingAddress"
+msgid "Edit Shipping Address"
+msgstr "Edit Shipping Address"
+
+msgctxt "EditShippingAddressIntro"
+msgid "Use the form below to change any/all details of your shipping address. Click the &quot;Save Address&quot; button when you're done."
+msgstr "Use the form below to change any/all details of your shipping address. Click the &quot;Save Address&quot; button when you're done."
+
+msgctxt "ConfirmDeleteShippingAddress"
+msgid "Are you sure you want to delete this shipping address?"
+msgstr "Are you sure you want to delete this shipping address?"
+
+msgctxt "ShipToThisAddress"
+msgid "Ship to this address"
+msgstr "Ship to this address"
+
+msgctxt "BuildingType"
+msgid "Building Type"
+msgstr "Building Type"
+
+msgctxt "House"
+msgid "House"
+msgstr "House"
+
+msgctxt "Office"
+msgid "Office"
+msgstr "Office"
+
+msgctxt "ManageYourAccount"
+msgid "Manage Your Account"
+msgstr "Manage Your Account"
+
+msgctxt "ViewYourOrderStatus"
+msgid "View Order Status"
+msgstr "View Order Status"
+
+msgctxt "YourAddressBook"
+msgid "Your Address Book"
+msgstr "Your Address Book"
+
+msgctxt "YourAccountDetails"
+msgid "Your Account Details"
+msgstr "Your Account Details"
+
+msgctxt "RecentlyViewedItems"
+msgid "Your Recent Items"
+msgstr "Your Recent Items"
+
+msgctxt "YourAccountIntro"
+msgid "View your orders, change your preferences"
+msgstr "View your orders, change your preferences"
+
+msgctxt "ViewMessages"
+msgid "View Messages"
+msgstr "View Messages"
+
+msgctxt "SendAMessage"
+msgid "Send a Message"
+msgstr "Send a Message"
+
+msgctxt "Inbox"
+msgid "Inbox"
+msgstr "Inbox"
+
+msgctxt "MessageSaid"
+msgid "Said"
+msgstr "Said"
+
+msgctxt "MessageYou"
+msgid "You"
+msgstr "You"
+
+msgctxt "SendMessage"
+msgid "Send Message"
+msgstr "Send Message"
+
+msgctxt "AccountInboxIntro1"
+msgid "Messages from %s are shown below. Click &quot;Send Message&quot; to reply."
+msgstr "Messages from %s are shown below. Click &quot;Send Message&quot; to reply."
+
+msgctxt "AccountInboxIntro2"
+msgid "There are no messages from %s regarding your order. To ask a question about your order, fill out the form below."
+msgstr "There are no messages from %s regarding your order. To ask a question about your order, fill out the form below."
+
+msgctxt "AccountInboxIntroNoOrders"
+msgid "Once you place an order you'll have full access to your inbox from this page."
+msgstr "Once you place an order you'll have full access to your inbox from this page."
+
+msgctxt "MessageEnterSubject"
+msgid "Please enter a subject."
+msgstr "Please enter a subject."
+
+msgctxt "MessageEnterContent"
+msgid "Please enter a message."
+msgstr "Please enter a message."
+
+msgctxt "MessageOrder"
+msgid "Order"
+msgstr "Order"
+
+msgctxt "MessageSubject"
+msgid "Subject"
+msgstr "Subject"
+
+msgctxt "MessageContent"
+msgid "Message"
+msgstr "Message"
+
+msgctxt "OrderItemMessage"
+msgid "Order #%d - Placed on %s for %s"
+msgstr "Order #%d - Placed on %s for %s"
+
+msgctxt "MessageSendSuccess"
+msgid "Your message was sent and you will receive a response via email shortly."
+msgstr "Your message was sent and you will receive a response via email shortly."
+
+msgctxt "MessageSendError"
+msgid "Something went wrong when trying to send your message. Please try again."
+msgstr "Something went wrong when trying to send your message. Please try again."
+
+msgctxt "AccountOrderStatusIntro"
+msgid "The status of your recent orders is shown below. Click 'View Order' to see complete details."
+msgstr "The status of your recent orders is shown below. Click 'View Order' to see complete details."
+
+msgctxt "AccountOrderStatusNone"
+msgid "You haven't placed any orders with us. When you do, their status will appear on this page."
+msgstr "You haven't placed any orders with us. When you do, their status will appear on this page."
+
+msgctxt "Order"
+msgid "Order"
+msgstr "Order"
+
+msgctxt "OrderDate"
+msgid "Order Date"
+msgstr "Order Date"
+
+msgctxt "Recipient"
+msgid "Recipient"
+msgstr "Recipient"
+
+msgctxt "ViewOrder"
+msgid "View Order Details"
+msgstr "View Order Details"
+
+msgctxt "ThisOrderIsMarkedAs"
+msgid "This order is marked as"
+msgstr "This order is marked as"
+
+msgctxt "ShippedWith"
+msgid "You chose to ship this order with"
+msgstr "You chose to ship this order with"
+
+msgctxt "ShippedDigitalDownload"
+msgid "Click the 'View Order' button to download the items you ordered."
+msgstr "Click the 'View Order' button to download the items you ordered."
+
+msgctxt "OrderTrackingNoIs"
+msgid "The tracking number for this order is"
+msgstr "The tracking number for this order is"
+
+msgctxt "ClickHereToTrackYourOrder"
+msgid "Track the status of your order"
+msgstr "Track the status of your order"
+
+msgctxt "HeresHowToPayForYourOrder"
+msgid "Here's how to pay for your order"
+msgstr "Here's how to pay for your order"
+
+msgctxt "YourOrders"
+msgid "Your Completed Orders"
+msgstr "Your Completed Orders"
+
+msgctxt "CompletedOrders"
+msgid "Completed Orders"
+msgstr "Completed Orders"
+
+msgctxt "AccountOrdersIntro"
+msgid "Your completed orders with us are shown below. Click 'View Order' to view an orders details."
+msgstr "Your completed orders with us are shown below. Click 'View Order' to view an orders details."
+
+msgctxt "ShipDate"
+msgid "Ship Date"
+msgstr "Ship Date"
+
+msgctxt "DownloadLink"
+msgid "Download Files"
+msgstr "Download Files"
+
+msgctxt "DownloadItemErrorMessage"
+msgid "You have requested an invalid product download. Please try again."
+msgstr "You have requested an invalid product download. Please try again."
+
+msgctxt "OrderIdHash"
+msgid "Order #"
+msgstr "Order #"
+
+msgctxt "YourOrderDetailsBelow"
+msgid "Your order details are shown below."
+msgstr "Your order details are shown below."
+
+msgctxt "ClickToPrintInvoice"
+msgid "Print Invoice"
+msgstr "Print Invoice"
+
+msgctxt "YourOrder"
+msgid "Your Order"
+msgstr "Your Order"
+
+msgctxt "OrderRecipient"
+msgid "Order Recipient"
+msgstr "Order Recipient"
+
+msgctxt "OrderTotal"
+msgid "Order Total"
+msgstr "Order Total"
+
+msgctxt "BillingDetails"
+msgid "Billing Details"
+msgstr "Billing Details"
+
+msgctxt "ContainsTheFollowingItems"
+msgid "Contained the Following Items"
+msgstr "Contained the Following Items"
+
+msgctxt "ItemDetails"
+msgid "Item Details"
+msgstr "Item Details"
+
+msgctxt "SalesTax"
+msgid "Sales Tax"
+msgstr "Sales Tax"
+
+msgctxt "OrderedItemRemovedFromStore"
+msgid "That item was removed from our store and is no longer available for order."
+msgstr "That item was removed from our store and is no longer available for order."
+
+msgctxt "InvoiceTitle"
+msgid "Invoice for Order #%s"
+msgstr "Invoice for Order #%s"
+
+msgctxt "BillTo"
+msgid "Billing Details"
+msgstr "Billing Details"
+
+msgctxt "ShipTo"
+msgid "Shipping Details"
+msgstr "Shipping Details"
+
+msgctxt "OrderItems"
+msgid "Order Items"
+msgstr "Order Items"
+
+msgctxt "Code"
+msgid "Code/SKU"
+msgstr "Code/SKU"
+
+msgctxt "ProdName"
+msgid "Product Name"
+msgstr "Product Name"
+
+msgctxt "InvoiceItems"
+msgid "Items"
+msgstr "Items"
+
+msgctxt "InvoiceShipping"
+msgid "Shipping"
+msgstr "Shipping"
+
+msgctxt "InvoiceHandling"
+msgid "Handling"
+msgstr "Handling"
+
+msgctxt "InvoiceSalesTax"
+msgid "Sales Tax"
+msgstr "Sales Tax"
+
+msgctxt "InvoiceTotalCost"
+msgid "Total Cost"
+msgstr "Total Cost"
+
+msgctxt "EditThisAddress"
+msgid "Edit this Address"
+msgstr "Edit this Address"
+
+msgctxt "AddressBookIntro1"
+msgid "All addresses in your address book are shown below. You can also"
+msgstr "All addresses in your address book are shown below. You can also"
+
+msgctxt "AddressBookIntro2"
+msgid "add a new address."
+msgstr "add a new address."
+
+msgctxt "EditAccountIntro"
+msgid "Make changes to your account details below. Click 'Update My Details' when you're done."
+msgstr "Make changes to your account details below. Click 'Update My Details' when you're done."
+
+msgctxt "UpdateMyDetails"
+msgid "Update My Details"
+msgstr "Update My Details"
+
+msgctxt "AccountLeavePasswords"
+msgid "Leave password fields blank to keep current password"
+msgstr "Leave password fields blank to keep current password"
+
+msgctxt "AccountDetailsUpdatedFailed"
+msgid "Something went wrong trying to update your details. Please try again."
+msgstr "Something went wrong trying to update your details. Please try again."
+
+msgctxt "AccountDetailsUpdatedSuccess"
+msgid "Your account details have been updated."
+msgstr "Your account details have been updated."
+
+msgctxt "AccountUpdateEmailTaken"
+msgid "The email address '%s' is already in use by another customer. Please enter a different one."
+msgstr "The email address '%s' is already in use by another customer. Please enter a different one."
+
+msgctxt "AccountNoRecentItems"
+msgid "You haven't looked at any items on our site. When you do, they will appear here."
+msgstr "You haven't looked at any items on our site. When you do, they will appear here."
+
+msgctxt "AccountRecentItemsIntro"
+msgid "The items you've recently looked at on our site are shown below."
+msgstr "The items you've recently looked at on our site are shown below."
+
+msgctxt "DownloadExpiresInXTimes"
+msgid "%s more times"
+msgstr "%s more times"
+
+msgctxt "DownloadExpiresInXTime"
+msgid "%s more time"
+msgstr "%s more time"
+
+msgctxt "DownloadExpiresInXDownloads"
+msgid "%s more downloads"
+msgstr "%s more downloads"
+
+msgctxt "DownloadExpiresInXDownload"
+msgid "%s more download"
+msgstr "%s more download"
+
+msgctxt "DownloadExpiresInXDays"
+msgid "%s days"
+msgstr "%s days"
+
+msgctxt "DownloadExpiresInXDay"
+msgid "%s day"
+msgstr "%s day"
+
+msgctxt "DownloadExpires"
+msgid "You can download this file %s before it expires."
+msgstr "You can download this file %s before it expires."
+
+msgctxt "DownloadExpiresTime"
+msgid "Your download of this file expires in %s."
+msgstr "Your download of this file expires in %s."
+
+msgctxt "DownloadExpiresTimeToday"
+msgid "Your download of this file expires at the end of the day."
+msgstr "Your download of this file expires at the end of the day."
+
+msgctxt "DownloadExpiresBoth"
+msgid "Your download of this file expires in %s or %s."
+msgstr "Your download of this file expires in %s or %s."
+
+msgctxt "DownloadItems"
+msgid "Product Downloads"
+msgstr "Product Downloads"
+
+msgctxt "DownloadItemExpired"
+msgid "This download has expired."
+msgstr "This download has expired."
+
+msgctxt "YearsLower"
+msgid "years"
+msgstr "years"
+
+msgctxt "YearLower"
+msgid "year"
+msgstr "year"
+
+msgctxt "MonthsLower"
+msgid "months"
+msgstr "months"
+
+msgctxt "MonthLower"
+msgid "month"
+msgstr "month"
+
+msgctxt "WeeksLower"
+msgid "weeks"
+msgstr "weeks"
+
+msgctxt "WeekLower"
+msgid "week"
+msgstr "week"
+
+msgctxt "DaysLower"
+msgid "days"
+msgstr "days"
+
+msgctxt "DayLower"
+msgid "day"
+msgstr "day"
+
+msgctxt "TodayLower"
+msgid "today"
+msgstr "today"
+
+msgctxt "OrderId"
+msgid "Order #%s"
+msgstr "Order #%s"
+
+msgctxt "OrderDownloads"
+msgid "Files"
+msgstr "Files"
+
+msgctxt "ProductDownloads"
+msgid "Files for %s"
+msgstr "Files for %s"
+
+msgctxt "ProductDownloadsIntro"
+msgid "The files available for %s are listed below."
+msgstr "The files available for %s are listed below."
+
+msgctxt "ReturnRequests"
+msgid "Return Requests"
+msgstr "Return Requests"
+
+msgctxt "YourReturns"
+msgid "Your Return Requests"
+msgstr "Your Return Requests"
+
+msgctxt "AccountReturnsIntro"
+msgid "To return an item from one of your previous orders, please <a rel='nofollow' href='account.php?action=view_orders'>click here</a>."
+msgstr "To return an item from one of your previous orders, please <a rel='nofollow' href='account.php?action=view_orders'>click here</a>."
+
+msgctxt "AccountReturnsNone"
+msgid "You do not have any outstanding return requests with us at the moment."
+msgstr "You do not have any outstanding return requests with us at the moment."
+
+msgctxt "SubmitReturn"
+msgid "Submit Return Request"
+msgstr "Submit Return Request"
+
+msgctxt "ReturnOrderItems"
+msgid "Return Item(s)"
+msgstr "Return Item(s)"
+
+msgctxt "NewReturn"
+msgid "New Return Request"
+msgstr "New Return Request"
+
+msgctxt "Return"
+msgid "Return"
+msgstr "Return"
+
+msgctxt "ReturnedItem"
+msgid "Returned Item"
+msgstr "Returned Item"
+
+msgctxt "DateRequested"
+msgid "Date Requested"
+msgstr "Date Requested"
+
+msgctxt "ReturnReason"
+msgid "Return Reason"
+msgstr "Return Reason"
+
+msgctxt "ReturnAction"
+msgid "Return Action"
+msgstr "Return Action"
+
+msgctxt "SubmitNewReturn"
+msgid "Return Item(s) from Order #%s"
+msgstr "Return Item(s) from Order #%s"
+
+msgctxt "ReturnNoItems"
+msgid "This order contains no products that can be returned. Have you already returned all of the items within this order?"
+msgstr "This order contains no products that can be returned. Have you already returned all of the items within this order?"
+
+msgctxt "ReturnComments"
+msgid "Comments"
+msgstr "Comments"
+
+msgctxt "ReturnQty"
+msgid "Qty. to Return"
+msgstr "Qty. to Return"
+
+msgctxt "ReturnRequestSubmitted"
+msgid "Your return request has been submitted successfully."
+msgstr "Your return request has been submitted successfully."
+
+msgctxt "ReturnInstructions"
+msgid "Return Instructions"
+msgstr "Return Instructions"
+
+msgctxt "ReturnStatusPending"
+msgid "Pending"
+msgstr "Pending"
+
+msgctxt "ReturnStatusReceived"
+msgid "Received"
+msgstr "Received"
+
+msgctxt "ReturnStatusAuthorized"
+msgid "Authorized"
+msgstr "Authorized"
+
+msgctxt "ReturnStatusRepaired"
+msgid "Repaired"
+msgstr "Repaired"
+
+msgctxt "ReturnStatusRefunded"
+msgid "Refunded"
+msgstr "Refunded"
+
+msgctxt "YourComments"
+msgid "Your Comments"
+msgstr "Your Comments"
+
+msgctxt "SelectOneMoreItemsReturn"
+msgid "Please select one or more items to return."
+msgstr "Please select one or more items to return."
+
+msgctxt "SelectReturnReason"
+msgid "Please enter the reason you are returning these item(s)."
+msgstr "Please enter the reason you are returning these item(s)."
+
+msgctxt "ErrorSavingReturn"
+msgid "There was an error saving your return request. Please try again."
+msgstr "There was an error saving your return request. Please try again."
+
+msgctxt "ChooseReturnReason"
+msgid "-- Please Choose a Reason --"
+msgstr "-- Please Choose a Reason --"
+
+msgctxt "ChooseReturnAction"
+msgid "-- Please Choose an Action (Optional) --"
+msgstr "-- Please Choose an Action (Optional) --"
+
+msgctxt "WhyReturningItems"
+msgid "Why are you returning these items?"
+msgstr "Why are you returning these items?"
+
+msgctxt "SelectItemsToReturn"
+msgid "Which items do you want to return?"
+msgstr "Which items do you want to return?"
+
+msgctxt "ReturnItems"
+msgid "Return Items"
+msgstr "Return Items"
+
+msgctxt "NotificationYourReturnOn"
+msgid "Your Return Request on %s"
+msgstr "Your Return Request on %s"
+
+msgctxt "NotificationNewReturnRequestOn"
+msgid "New Return Request on %s"
+msgstr "New Return Request on %s"
+
+msgctxt "NotificationConfirmationForReturn"
+msgid "Confirmation for Return Request"
+msgstr "Confirmation for Return Request"
+
+msgctxt "NotificationYourReturnIDIs"
+msgid "Your Return number is"
+msgstr "Your Return number is"
+
+msgctxt "NotificationAReturnSummaryIsShownBelow"
+msgid "A summary of your return is shown below. To view the status of this return"
+msgstr "A summary of your return is shown below. To view the status of this return"
+
+msgctxt "NotificationYourReturnContainsTheFollowingItems"
+msgid "Your Return Request Contains the Following Items..."
+msgstr "Your Return Request Contains the Following Items..."
+
+msgctxt "NotificationTheReturnContainsTheFollowingItems"
+msgid "The Return Request Contains the Following Items..."
+msgstr "The Return Request Contains the Following Items..."
+
+msgctxt "NotificationNewReturnRequest"
+msgid "New Return Request"
+msgstr "New Return Request"
+
+msgctxt "NotificationClickHereViewReturn"
+msgid "View details for return #"
+msgstr "View details for return #"
+
+msgctxt "NotificationReturnRequestSubmitted"
+msgid "A new return request has been submitted on"
+msgstr "A new return request has been submitted on"
+
+msgctxt "NotificationCustomerDetails"
+msgid "Customer Details"
+msgstr "Customer Details"
+
+msgctxt "OrderProductRefunded"
+msgid "(Refunded)"
+msgstr "(Refunded)"
+
+msgctxt "OrderProductsRefundedX"
+msgid "(%s Refunded)"
+msgstr "(%s Refunded)"
+
+msgctxt "ReturnSubmittedInfo"
+msgid "Your return request was submitted to %s for processing. When it has been processed you will receive an email with more details."
+msgstr "Your return request was submitted to %s for processing. When it has been processed you will receive an email with more details."
+
+msgctxt "ViewMessagesDescription"
+msgid "You can receive and send messages to %s about your order. When a message is sent regarding one of your orders, you will receive an email notification."
+msgstr "You can receive and send messages to %s about your order. When a message is sent regarding one of your orders, you will receive an email notification."
+
+msgctxt "ViewOrderStatusDescription"
+msgid "See the status of every order you've placed at %s, including whether it has been shipped, and if so an optional tracking number."
+msgstr "See the status of every order you've placed at %s, including whether it has been shipped, and if so an optional tracking number."
+
+msgctxt "CompletedOrdersDescription"
+msgid "See all completed orders you've placed at %s. You can also print invoices from this page."
+msgstr "See all completed orders you've placed at %s. You can also print invoices from this page."
+
+msgctxt "ReturnRequestsDescription"
+msgid "View any outstanding return requests you've made for products you ordered from %s."
+msgstr "View any outstanding return requests you've made for products you ordered from %s."
+
+msgctxt "AddressBookDescription"
+msgid "Add, edit and remove shipping and billing destinations from your address book."
+msgstr "Add, edit and remove shipping and billing destinations from your address book."
+
+msgctxt "WishListDescription"
+msgid "See a list of items in your wish list and optionally add each item to your shopping cart for purchase."
+msgstr "See a list of items in your wish list and optionally add each item to your shopping cart for purchase."
+
+msgctxt "AccountDetailsDescription"
+msgid "Update your contact details, email address and/or change your password."
+msgstr "Update your contact details, email address and/or change your password."
+
+msgctxt "RecentlyViewedItemsDescription"
+msgid "See a list of items you've recently viewed at %s."
+msgstr "See a list of items you've recently viewed at %s."
+
+msgctxt "ClickHereToContinue"
+msgid "Click here to continue."
+msgstr "Click here to continue."
+
+msgctxt "ClickHereContinueShopping"
+msgid "Click here to continue shopping"
+msgstr "Click here to continue shopping"
+
+msgctxt "CreateAccountThanks"
+msgid "Your Account Has Been Created"
+msgstr "Your Account Has Been Created"
+
+msgctxt "CreateAccountThanksIntro"
+msgid "Thank you for creating your account at %s. Your account details have been emailed to %s."
+msgstr "Thank you for creating your account at %s. Your account details have been emailed to %s."
+
+msgctxt "ShippedWithFreeShipping"
+msgid "This order qualified for free shipping"
+msgstr "This order qualified for free shipping"
+
+msgctxt "StoreCredit"
+msgid "Store Credit"
+msgstr "Store Credit"
+
+msgctxt "SearchOurStoreHere"
+msgid "Search our store here"
+msgstr "Search our store here"
+
+msgctxt "TypeSearchKeywords"
+msgid "Type your search keywords here..."
+msgstr "Type your search keywords here..."
+
+msgctxt "EmptySmallSearch"
+msgid "You forgot to enter some search keywords."
+msgstr "You forgot to enter some search keywords."
+
+msgctxt "SearchResultsFor"
+msgid "Search Results for &quot;%s&quot;"
+msgstr "Search Results for &quot;%s&quot;"
+
+msgctxt "SearchXStore"
+msgid "Search %s"
+msgstr "Search %s"
+
+msgctxt "SearchAdvancedTitle"
+msgid "%s - Advanced Search"
+msgstr "%s - Advanced Search"
+
+msgctxt "SearchSimpleTitle"
+msgid "%s - %s"
+msgstr "%s - %s"
+
+msgctxt "DidYouMean"
+msgid "Did you mean"
+msgstr "Did you mean"
+
+msgctxt "SearchYourSearch"
+msgid " Your search for"
+msgstr " Your search for"
+
+msgctxt "SearchDidNotMatch"
+msgid "did not match any products."
+msgstr "did not match any products."
+
+msgctxt "SearchSuggestions"
+msgid "Suggestions"
+msgstr "Suggestions"
+
+msgctxt "SearchSuggestion1"
+msgid "Make sure all words are spelled correctly."
+msgstr "Make sure all words are spelled correctly."
+
+msgctxt "SearchSuggestion2"
+msgid "Try different keywords."
+msgstr "Try different keywords."
+
+msgctxt "SearchSuggestion3"
+msgid "Try more general keywords."
+msgstr "Try more general keywords."
+
+msgctxt "RelatedSearches"
+msgid "Related Searches"
+msgstr "Related Searches"
+
+msgctxt "SearchKeyword"
+msgid "Search Keyword"
+msgstr "Search Keyword"
+
+msgctxt "BrandName"
+msgid "Brand Name"
+msgstr "Brand Name"
+
+msgctxt "Categories"
+msgid "Categories"
+msgstr "Categories"
+
+msgctxt "AutoSearchSubCats"
+msgid "Automatically search sub categories"
+msgstr "Automatically search sub categories"
+
+msgctxt "SearchByPrice"
+msgid "Search by Price"
+msgstr "Search by Price"
+
+msgctxt "PriceRange"
+msgid "Price Range"
+msgstr "Price Range"
+
+msgctxt "From"
+msgid "From"
+msgstr "From"
+
+msgctxt "SearchBySetting"
+msgid "Search by Setting"
+msgstr "Search by Setting"
+
+msgctxt "FeaturedProduct"
+msgid "Featured Product"
+msgstr "Featured Product"
+
+msgctxt "NoPreference"
+msgid "No Preference"
+msgstr "No Preference"
+
+msgctxt "OnlyFeaturedProducts"
+msgid "Only Featured Products"
+msgstr "Only Featured Products"
+
+msgctxt "OnlyNonFeaturedProducts"
+msgid "Only Non-Featured Products"
+msgstr "Only Non-Featured Products"
+
+msgctxt "OnlyFreeShipping"
+msgid "Only Free Shipping"
+msgstr "Only Free Shipping"
+
+msgctxt "OnlyPaidShipping"
+msgid "Only Paid Shipping"
+msgstr "Only Paid Shipping"
+
+msgctxt "HideSearchForm"
+msgid "Hide Search Form"
+msgstr "Hide Search Form"
+
+msgctxt "ShowSearchForm"
+msgid "Show Search Form"
+msgstr "Show Search Form"
+
+msgctxt "EnterValidFromPrice"
+msgid "Please enter a valid \'from\' price containing numbers only."
+msgstr "Please enter a valid \'from\' price containing numbers only."
+
+msgctxt "EnterValidToPrice"
+msgid "Please enter a valid \'to\' price containing numbers only."
+msgstr "Please enter a valid \'to\' price containing numbers only."
+
+msgctxt "SearchLangPrice"
+msgid "price"
+msgstr "price"
+
+msgctxt "SearchLangRating"
+msgid "rating"
+msgstr "rating"
+
+msgctxt "SearchLangInStock"
+msgid "instock"
+msgstr "instock"
+
+msgctxt "SearchLangFeatured"
+msgid "featured"
+msgstr "featured"
+
+msgctxt "SearchLangFreeShipping"
+msgid "freeshipping"
+msgstr "freeshipping"
+
+msgctxt "SearchLangYes"
+msgid "yes"
+msgstr "yes"
+
+msgctxt "SearchLangNo"
+msgid "no"
+msgstr "no"
+
+msgctxt "SearchTips"
+msgid "Search Tips"
+msgstr "Search Tips"
+
+msgctxt "BasicSearching"
+msgid "Basic Searching"
+msgstr "Basic Searching"
+
+msgctxt "BasicSearchingFields"
+msgid "All search terms are matched against product names, descriptions and the product code."
+msgstr "All search terms are matched against product names, descriptions and the product code."
+
+msgctxt "BasicSearchingShort"
+msgid "Try to keep search terms short and to the point."
+msgstr "Try to keep search terms short and to the point."
+
+msgctxt "BasicSearchingMultiple"
+msgid "Multiple search words are supported. Results containing all of your search terms are ranked higher than those which don't."
+msgstr "Multiple search words are supported. Results containing all of your search terms are ranked higher than those which don't."
+
+msgctxt "BasicSearchingCommon"
+msgid "Common words such as 'are' and 'is' as well as words below 3 characters are automatically removed from your search terms."
+msgstr "Common words such as 'are' and 'is' as well as words below 3 characters are automatically removed from your search terms."
+
+msgctxt "SearchExamples"
+msgid "Examples:"
+msgstr "Examples:"
+
+msgctxt "BasicExample1"
+msgid "ipod touch"
+msgstr "ipod touch"
+
+msgctxt "BasicExample2"
+msgid "mp3 player"
+msgstr "mp3 player"
+
+msgctxt "AdvancedSearching"
+msgid "Advanced Searching"
+msgstr "Advanced Searching"
+
+msgctxt "AdvancedSearchingPhrases"
+msgid "If you wish to search for a phrase, enclose it within <em>&quot;double quotes&quot;</em>"
+msgstr "If you wish to search for a phrase, enclose it within <em>&quot;double quotes&quot;</em>"
+
+msgctxt "AdvancedSearchingKeywords"
+msgid "The words 'and', 'or' and 'not' are special keywords used to join words."
+msgstr "The words 'and', 'or' and 'not' are special keywords used to join words."
+
+msgctxt "AdvancedSearchingAnd"
+msgid "<em>and</em> specifies that both terms must be present in the results."
+msgstr "<em>and</em> specifies that both terms must be present in the results."
+
+msgctxt "AdvancedSearchingOr"
+msgid "<em>or</em> specifies that either of the terms must be present in the results."
+msgstr "<em>or</em> specifies that either of the terms must be present in the results."
+
+msgctxt "AdvancedSearchingNot"
+msgid "<em>not</em> specifies that the term must not be present in the search results."
+msgstr "<em>not</em> specifies that the term must not be present in the search results."
+
+msgctxt "AdvancedExample1"
+msgid "ipod <em>or</em> creative"
+msgstr "ipod <em>or</em> creative"
+
+msgctxt "AdvancedExample2"
+msgid "music <em>not</em> creative"
+msgstr "music <em>not</em> creative"
+
+msgctxt "SearchFilters"
+msgid "Search Filters"
+msgstr "Search Filters"
+
+msgctxt "SearchFilters1"
+msgid "Search filters allow you to specify custom conditions in your search terms. It's similar to performing an advanced search however you do not have to visit the advanced search page first."
+msgstr "Search filters allow you to specify custom conditions in your search terms. It's similar to performing an advanced search however you do not have to visit the advanced search page first."
+
+msgctxt "SearchFilters2"
+msgid "Search filters should be appended to the end of your search terms. Multiple search filters can be separated by a space."
+msgstr "Search filters should be appended to the end of your search terms. Multiple search filters can be separated by a space."
+
+msgctxt "SearchFilters3"
+msgid "Supported search filters are listed below."
+msgstr "Supported search filters are listed below."
+
+msgctxt "SearchFiltersPrice"
+msgid "Allows search results to be filtered by price."
+msgstr "Allows search results to be filtered by price."
+
+msgctxt "SearchFiltersRating"
+msgid "Allows search results to be filtered by rating."
+msgstr "Allows search results to be filtered by rating."
+
+msgctxt "SearchFiltersFeatured"
+msgid "Return featured products only."
+msgstr "Return featured products only."
+
+msgctxt "SearchFiltersInStock"
+msgid "Return products that are currently in stock."
+msgstr "Return products that are currently in stock."
+
+msgctxt "SearchFiltersFreeShipping"
+msgid "Return products with free shipping."
+msgstr "Return products with free shipping."
+
+msgctxt "ErrorAddingItemToWishList"
+msgid "Something went wrong trying to add that item to your wishlist. Please <a rel='nofollow' href='%s'>try again</a>."
+msgstr "Something went wrong trying to add that item to your wishlist. Please <a rel='nofollow' href='%s'>try again</a>."
+
+msgctxt "EmptyWishListMessage"
+msgid "Your wish list is empty. When you add items to your wish list they will appear here."
+msgstr "Your wish list is empty. When you add items to your wish list they will appear here."
+
+msgctxt "1ItemInWishListMessage"
+msgid "Your wish list contains 1 item and is shown below."
+msgstr "Your wish list contains 1 item and is shown below."
+
+msgctxt "XItemsInWishListMessage"
+msgid "Your wish list contains %d items and is shown below."
+msgstr "Your wish list contains %d items and is shown below."
+
+msgctxt "RemoveFromWishList"
+msgid "Remove Item"
+msgstr "Remove Item"
+
+msgctxt "ErrorRemovingItemFromWishList"
+msgid "Something went wrong trying to remove that item from your wishlist. Please <a rel='nofollow' href='%s'>try again</a>."
+msgstr "Something went wrong trying to remove that item from your wishlist. Please <a rel='nofollow' href='%s'>try again</a>."
+
+msgctxt "SyndicateIntro"
+msgid "RSS feeds are used for syndicating regularly changing content on a web site, including this one. You can open an RSS feed using an <a rel='nofollow' href='http://en.wikipedia.org/wiki/Aggregator'>RSS reader</a> and use it to see if there is any new content on this site or you can set up a server-side script to parse the feed and display it on your web site."
+msgstr "RSS feeds are used for syndicating regularly changing content on a web site, including this one. You can open an RSS feed using an <a rel='nofollow' href='http://en.wikipedia.org/wiki/Aggregator'>RSS reader</a> and use it to see if there is any new content on this site or you can set up a server-side script to parse the feed and display it on your web site."
+
+msgctxt "SyndicateNews"
+msgid "Recent News"
+msgstr "Recent News"
+
+msgctxt "SyndicateNewsIntro"
+msgid "The recent news feed contains the latest %s news items published on %s."
+msgstr "The recent news feed contains the latest %s news items published on %s."
+
+msgctxt "SyndicateNewsRSS"
+msgid "Latest %s News Items (RSS)"
+msgstr "Latest %s News Items (RSS)"
+
+msgctxt "SyndicateNewsAtom"
+msgid "Latest %s News items (Atom)"
+msgstr "Latest %s News items (Atom)"
+
+msgctxt "SyndicateNewProducts"
+msgid "New Products"
+msgstr "New Products"
+
+msgctxt "SyndicateNewProductsIntro"
+msgid "The latest products feed contains the latest %s products added to %s."
+msgstr "The latest products feed contains the latest %s products added to %s."
+
+msgctxt "SyndicateNewProductsRSS"
+msgid "Latest %s New Products (RSS)"
+msgstr "Latest %s New Products (RSS)"
+
+msgctxt "SyndicateNewProductsAtom"
+msgid "Latest %s New Products (Atom)"
+msgstr "Latest %s New Products (Atom)"
+
+msgctxt "SyndicatePopularProducts"
+msgid "Popular Products"
+msgstr "Popular Products"
+
+msgctxt "SyndicatePopularProductsIntro"
+msgid "The popular products feed contains the top %s most popular products on %s as rated by users."
+msgstr "The popular products feed contains the top %s most popular products on %s as rated by users."
+
+msgctxt "SyndicatePopularProductsRSS"
+msgid "Latest %s Popular Products (RSS)"
+msgstr "Latest %s Popular Products (RSS)"
+
+msgctxt "SyndicatePopularProductsAtom"
+msgid "Latest %s Popular Products (Atom)"
+msgstr "Latest %s Popular Products (Atom)"
+
+msgctxt "SyndicateFeaturedProducts"
+msgid "Featured Products"
+msgstr "Featured Products"
+
+msgctxt "SyndicateFeaturedProductsIntro"
+msgid "The featured products feed contains the latest %s featured products."
+msgstr "The featured products feed contains the latest %s featured products."
+
+msgctxt "SyndicateFeaturedProductsRSS"
+msgid "Latest %s Featured Products (RSS)"
+msgstr "Latest %s Featured Products (RSS)"
+
+msgctxt "SyndicateFeaturedProductsAtom"
+msgid "Latest %s Featured Products (Atom)"
+msgstr "Latest %s Featured Products (Atom)"
+
+msgctxt "SyndicateSearches"
+msgid "Product Searches"
+msgstr "Product Searches"
+
+msgctxt "SyndicateSearchesIntro"
+msgid "Product search feeds allow you to save your custom product searches as syndication feed that will always update when there are new results."
+msgstr "Product search feeds allow you to save your custom product searches as syndication feed that will always update when there are new results."
+
+msgctxt "SyndicateSearchesIntro2"
+msgid "To create a product search feed, perform a standard search on %s and at the bottom of the page click on one of the syndication options."
+msgstr "To create a product search feed, perform a standard search on %s and at the bottom of the page click on one of the syndication options."
+
+msgctxt "RecentBlogsFeed"
+msgid "Recent News RSS Feed"
+msgstr "Recent News RSS Feed"
+
+msgctxt "NewProductsFeed"
+msgid "New Products RSS Feed"
+msgstr "New Products RSS Feed"
+
+msgctxt "PopularProductsFeed"
+msgid "Popular Products RSS Feed"
+msgstr "Popular Products RSS Feed"
+
+msgctxt "FeaturedProductsFeed"
+msgid "Featured Products RSS Feed"
+msgstr "Featured Products RSS Feed"
+
+msgctxt "CategoryNewProductsFeed"
+msgid "New Products RSS Feed for %s"
+msgstr "New Products RSS Feed for %s"
+
+msgctxt "CategoryPopularProductsFeed"
+msgid "Popular Products RSS Feed for %s"
+msgstr "Popular Products RSS Feed for %s"
+
+msgctxt "CategoryFeaturedProductsFeed"
+msgid "Featured Products RSS Feed for %s"
+msgstr "Featured Products RSS Feed for %s"
+
+msgctxt "SearchFeed"
+msgid "View Results as RSS Feed"
+msgstr "View Results as RSS Feed"
+
+msgctxt "NewsletterSubscription"
+msgid "Newsletter Subscription"
+msgstr "Newsletter Subscription"
+
+msgctxt "NewsletterEnterFirstName"
+msgid "You forgot to type in your first name."
+msgstr "You forgot to type in your first name."
+
+msgctxt "NewsletterEnterEmail"
+msgid "You forgot to type in your email address."
+msgstr "You forgot to type in your email address."
+
+msgctxt "NewsletterEnterValidEmail"
+msgid "Please enter a valid email address, such as john@example.com."
+msgstr "Please enter a valid email address, such as john@example.com."
+
+msgctxt "NewsletterAlreadySubscribed"
+msgid "The email address %s is already subscribed to receive our newsletter."
+msgstr "The email address %s is already subscribed to receive our newsletter."
+
+msgctxt "NewsletterSubscribeError"
+msgid "An internal error occurred while trying to add you to our mailing list. <a href='javascript:document.location.reload()'>Try again.</a>"
+msgstr "An internal error occurred while trying to add you to our mailing list. <a href='javascript:document.location.reload()'>Try again.</a>"
+
+msgctxt "NewsletterSubscribedSuccessfully"
+msgid "Thank you for joining our mailing list. You'll be sent the next issue of our newsletter shortly."
+msgstr "Thank you for joining our mailing list. You'll be sent the next issue of our newsletter shortly."
+
+msgctxt "NewsletterThanksForSubscribing"
+msgid "Thanks for Subscribing!"
+msgstr "Thanks for Subscribing!"
+
+msgctxt "JoinOurMailingList"
+msgid "Join Our Mailing List"
+msgstr "Join Our Mailing List"
+
+msgctxt "NewsletterCheckBoxText1"
+msgid "I would like to receive the"
+msgstr "I would like to receive the"
+
+msgctxt "NewsletterCheckBoxText2"
+msgid "email newsletter"
+msgstr "email newsletter"
+
+msgctxt "NewsletterSpecialOffersText"
+msgid "I'd like to receive special offers"
+msgstr "I'd like to receive special offers"
+
+msgctxt "Subscribe"
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgctxt "NewsletterSubscribeErrorIEM"
+msgid "An error occurred while trying to add you to our mailing list: %s"
+msgstr "An error occurred while trying to add you to our mailing list: %s"
+
+msgctxt "ContactEmail"
+msgid "Email Address"
+msgstr "Email Address"
+
+msgctxt "ContactQuestion"
+msgid "Details"
+msgstr "Details"
+
+msgctxt "ContactName"
+msgid "Full Name"
+msgstr "Full Name"
+
+msgctxt "ContactCompanyName"
+msgid "Company Name"
+msgstr "Company Name"
+
+msgctxt "ContactPhone"
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgctxt "ContactOrderNo"
+msgid "Order Number"
+msgstr "Order Number"
+
+msgctxt "ContactRMANo"
+msgid "RMA Number"
+msgstr "RMA Number"
+
+msgctxt "ContactFormEnterEmail"
+msgid "Please enter a valid email address, such as john@example.com."
+msgstr "Please enter a valid email address, such as john@example.com."
+
+msgctxt "ContactFormEnterQuestion"
+msgid "You forgot to enter your question/comment."
+msgstr "You forgot to enter your question/comment."
+
+msgctxt "CaptchaVerification"
+msgid "Captcha Check"
+msgstr "Captcha Check"
+
+msgctxt "EnterCaptchaCode"
+msgid "Please copy the characters from the image into the \'Captcha Check\' text box."
+msgstr "Please copy the characters from the image into the \'Captcha Check\' text box."
+
+msgctxt "CaptchaIntro"
+msgid "Please copy the characters from the image into the text field below. Doing this helps us prevent automated submissions."
+msgstr "Please copy the characters from the image into the text field below. Doing this helps us prevent automated submissions."
+
+msgctxt "BadContactFormCaptcha"
+msgid "The characters you copied from the image are incorrect. Please try again."
+msgstr "The characters you copied from the image are incorrect. Please try again."
+
+msgctxt "ContactPageFormSubmitted"
+msgid "Someone submitted the form from your '%s' page"
+msgstr "Someone submitted the form from your '%s' page"
+
+msgctxt "PageFormSent"
+msgid "We've received your feedback and will respond shortly if required. <a href='%s'>Continue.</a>"
+msgstr "We've received your feedback and will respond shortly if required. <a href='%s'>Continue.</a>"
+
+msgctxt "PageFormNotSent"
+msgid "Something went wrong when trying to send your feedback. <a href='javascript:document.location.reload()'>Try again.</a>"
+msgstr "Something went wrong when trying to send your feedback. <a href='javascript:document.location.reload()'>Try again.</a>"
+
+msgctxt "ContactFormEmail"
+msgid "A visitor from your site filled out the form on your '%%GLOBAL_PageTitle%%' page. You can reply directly to the person who filled out the form by clicking the 'Reply' button in your email client."
+msgstr "A visitor from your site filled out the form on your '%%GLOBAL_PageTitle%%' page. You can reply directly to the person who filled out the form by clicking the 'Reply' button in your email client."
+
+msgctxt "ContactFormDetails"
+msgid "Here are their details"
+msgstr "Here are their details"
+
+msgctxt "ForbiddenToAccessPage"
+msgid "You must be <a rel='nofollow' href='%s/login.php'>logged in</a> to access this page."
+msgstr "You must be <a rel='nofollow' href='%s/login.php'>logged in</a> to access this page."
+
+msgctxt "ThisIsAnAutomatedMessage"
+msgid "*** This is an automated message, please do not reply ***"
+msgstr "*** This is an automated message, please do not reply ***"
+
+msgctxt "ContactFormEmail1"
+msgid "A user has submitted the contact form on your store."
+msgstr "A user has submitted the contact form on your store."
+
+msgctxt "GiftCertificates"
+msgid "Gift Certificates"
+msgstr "Gift Certificates"
+
+msgctxt "NoGiftCertificateThemes"
+msgid "No gift certificate themes are currently enabled."
+msgstr "No gift certificate themes are currently enabled."
+
+msgctxt "PurchaseGiftCertificate"
+msgid "Purchase a Gift Certificate"
+msgstr "Purchase a Gift Certificate"
+
+msgctxt "RedeemAGiftCertificate"
+msgid "Redeem a Gift Certificate"
+msgstr "Redeem a Gift Certificate"
+
+msgctxt "CheckCertificateBalance"
+msgid "Check Remaining Balance"
+msgstr "Check Remaining Balance"
+
+msgctxt "RedeemGiftCertificate"
+msgid "Redeem a Gift Certificate"
+msgstr "Redeem a Gift Certificate"
+
+msgctxt "RedeemGiftCertificateIntro"
+msgid "To redeem a gift certificate at %s, follow the simple steps below."
+msgstr "To redeem a gift certificate at %s, follow the simple steps below."
+
+msgctxt "RedeemGiftCertificate1"
+msgid "You need your unique gift certificate code, which is part of the gift certificate that was emailed to you as an attachment. It will look something like Z50-Y6K-COS-402."
+msgstr "You need your unique gift certificate code, which is part of the gift certificate that was emailed to you as an attachment. It will look something like Z50-Y6K-COS-402."
+
+msgctxt "RedeemGiftCertificate2"
+msgid "Browse the store and add items to your cart as you normally would."
+msgstr "Browse the store and add items to your cart as you normally would."
+
+msgctxt "RedeemGiftCertificate3"
+msgid "Click the '<a rel='nofollow' href='cart.php'>View Cart</a>' link to view the contents of your shopping cart."
+msgstr "Click the '<a rel='nofollow' href='cart.php'>View Cart</a>' link to view the contents of your shopping cart."
+
+msgctxt "RedeemGiftCertificate4"
+msgid "Type your gift certificate code in to the 'Redeem Gift Certificate' box and click 'Go'."
+msgstr "Type your gift certificate code in to the 'Redeem Gift Certificate' box and click 'Go'."
+
+msgctxt "RedeemGiftCertificate5"
+msgid "Any available credit on your gift certificate will be applied to your order."
+msgstr "Any available credit on your gift certificate will be applied to your order."
+
+msgctxt "PurchaseAGiftCertificate"
+msgid "Purchase a Gift Certificate"
+msgstr "Purchase a Gift Certificate"
+
+msgctxt "PurchaseAGiftCertificateIntro"
+msgid "To purchase and send a gift certificate, please complete the form below."
+msgstr "To purchase and send a gift certificate, please complete the form below."
+
+msgctxt "SelectValidGiftCertificateAmount"
+msgid "Please choose a valid amount for this gift certificate."
+msgstr "Please choose a valid amount for this gift certificate."
+
+msgctxt "EnterValidGiftCertificateAmount"
+msgid "Please enter a valid amount for this gift certificate."
+msgstr "Please enter a valid amount for this gift certificate."
+
+msgctxt "EnterGiftCertificateValueBetween"
+msgid "Please enter an amount between the minimum and maximum gift certificate value."
+msgstr "Please enter an amount between the minimum and maximum gift certificate value."
+
+msgctxt "GiftCertificateValueBetween"
+msgid "Value must be between %s and %s"
+msgstr "Value must be between %s and %s"
+
+msgctxt "GiftCertificateValueGreaterThan"
+msgid "Value must be more than %s"
+msgstr "Value must be more than %s"
+
+msgctxt "GiftCertificateValueLessThan"
+msgid "Value must be less than %s"
+msgstr "Value must be less than %s"
+
+msgctxt "EnterValidCertificateToName"
+msgid "Please enter the name of the person you wish to send this gift certificate to."
+msgstr "Please enter the name of the person you wish to send this gift certificate to."
+
+msgctxt "EnterValidCertificateToEmail"
+msgid "Please enter a valid email address for the person you wish to send this gift certificate to."
+msgstr "Please enter a valid email address for the person you wish to send this gift certificate to."
+
+msgctxt "EnterValidCertificateFromName"
+msgid "Please enter your name."
+msgstr "Please enter your name."
+
+msgctxt "EnterValidCertificateFromEmail"
+msgid "Please enter your email address."
+msgstr "Please enter your email address."
+
+msgctxt "GiftCertificateMessageTooLong"
+msgid "Please enter a shorter message for your gift certificate."
+msgstr "Please enter a shorter message for your gift certificate."
+
+msgctxt "SelectValidGiftCertificateTheme"
+msgid "Please select a theme for your gift certificate."
+msgstr "Please select a theme for your gift certificate."
+
+msgctxt "GiftCertificateAddedToCart"
+msgid "Your gift certificate has been generated and saved in your cart."
+msgstr "Your gift certificate has been generated and saved in your cart."
+
+msgctxt "GiftCertificateUpdated"
+msgid "Your gift certificate has been updated successfully."
+msgstr "Your gift certificate has been updated successfully."
+
+msgctxt "GiftCertificateAmount"
+msgid "Amount"
+msgstr "Amount"
+
+msgctxt "GiftCertificateTo"
+msgid "Recipient's Name"
+msgstr "Recipient's Name"
+
+msgctxt "GiftCertificateToEmail"
+msgid "Recipient's Email"
+msgstr "Recipient's Email"
+
+msgctxt "GiftCertificateFrom"
+msgid "Your Name"
+msgstr "Your Name"
+
+msgctxt "GiftCertificateFromEmail"
+msgid "Your Email"
+msgstr "Your Email"
+
+msgctxt "GiftCertificateMessage"
+msgid "Your Message"
+msgstr "Your Message"
+
+msgctxt "GiftCertificateTheme"
+msgid "Gift Certificate Theme"
+msgstr "Gift Certificate Theme"
+
+msgctxt "AddCertificateCart"
+msgid "Add Gift Certificate to Cart"
+msgstr "Add Gift Certificate to Cart"
+
+msgctxt "UpdateCertificateCart"
+msgid "Update Gift Certificate"
+msgstr "Update Gift Certificate"
+
+msgctxt "GiftCertificateTerms2"
+msgid "I understand that gift certificates are non-refundable"
+msgstr "I understand that gift certificates are non-refundable"
+
+msgctxt "GiftCertificateTermsExpires"
+msgid "I understand that gift certificates expire after %s"
+msgstr "I understand that gift certificates expire after %s"
+
+msgctxt "UpdateGiftCertificate"
+msgid "Update Gift Certificate"
+msgstr "Update Gift Certificate"
+
+msgctxt "GiftCertificateAppliedToCart"
+msgid "The gift certificate code has been applied to your cart."
+msgstr "The gift certificate code has been applied to your cart."
+
+msgctxt "AdjustedSubtotal"
+msgid "Adjusted Sub Total"
+msgstr "Adjusted Sub Total"
+
+msgctxt "AdjustedTotalCost"
+msgid "Adjusted Total Cost"
+msgstr "Adjusted Total Cost"
+
+msgctxt "GiftCertificate"
+msgid "Gift Certificate"
+msgstr "Gift Certificate"
+
+msgctxt "GiftCertificateRemaining"
+msgid "remaining"
+msgstr "remaining"
+
+msgctxt "GiftCertificateRemovedFromCart"
+msgid "The gift certificate has been removed from your cart."
+msgstr "The gift certificate has been removed from your cart."
+
+msgctxt "OrderContainedInvalidGiftCertificates"
+msgid "The gift certificate you entered couldn't be applied to any items in your cart."
+msgstr "The gift certificate you entered couldn't be applied to any items in your cart."
+
+msgctxt "BadGiftCertificates"
+msgid "Invalid Gift Certificates:"
+msgstr "Invalid Gift Certificates:"
+
+msgctxt "OrderTotalStillRemainingCertificates"
+msgid "After applying all of your entered gift certificates, there was still an outstanding amount for this order. Click back and try again."
+msgstr "After applying all of your entered gift certificates, there was still an outstanding amount for this order. Click back and try again."
+
+msgctxt "RedeemGiftCertificateAt"
+msgid "Redeem your gift certificate at"
+msgstr "Redeem your gift certificate at"
+
+msgctxt "CertificateTo"
+msgid "To"
+msgstr "To"
+
+msgctxt "CertificateFrom"
+msgid "From"
+msgstr "From"
+
+msgctxt "CertificateCode"
+msgid "Code"
+msgstr "Code"
+
+msgctxt "GiftCertificateBalanceIntro"
+msgid "You can check the balance of a gift certificate by typing the code in to the box below."
+msgstr "You can check the balance of a gift certificate by typing the code in to the box below."
+
+msgctxt "GiftCertificateBalanceCode"
+msgid "Gift Certificate Code"
+msgstr "Gift Certificate Code"
+
+msgctxt "CheckBalance"
+msgid "Check Balance"
+msgstr "Check Balance"
+
+msgctxt "EnterValidCertificateCode"
+msgid "Please enter a gift certificate code."
+msgstr "Please enter a gift certificate code."
+
+msgctxt "PleaseAgreeGiftCertificateTerms"
+msgid "Please agree to the gift certificate terms."
+msgstr "Please agree to the gift certificate terms."
+
+msgctxt "CheckBalanceOfGiftCertificate"
+msgid "Check Gift Certificate Balance"
+msgstr "Check Gift Certificate Balance"
+
+msgctxt "GiftCertificateBalanceFor"
+msgid "Gift Certificate Balance for"
+msgstr "Gift Certificate Balance for"
+
+msgctxt "RemainingGiftCertificateBalance"
+msgid "The remaining balance of this gift certificate is <strong><em>%s</em></strong>. <a rel='nofollow' href='giftcertificates.php?action=redeem'>Redeem this gift certificate</a>."
+msgstr "The remaining balance of this gift certificate is <strong><em>%s</em></strong>. <a rel='nofollow' href='giftcertificates.php?action=redeem'>Redeem this gift certificate</a>."
+
+msgctxt "GiftCertificateExpired"
+msgid "This gift certificate expired on %s."
+msgstr "This gift certificate expired on %s."
+
+msgctxt "InvalidGiftCertificateCode"
+msgid "The gift certificate code you entered does not exist."
+msgstr "The gift certificate code you entered does not exist."
+
+msgctxt "GiftCertificateExpiresOn"
+msgid "Expires on %s"
+msgstr "Expires on %s"
+
+msgctxt "GiftCertificateEmailedAfterPurchase"
+msgid "This gift certificate will be emailed to the recipient after your order has been paid for."
+msgstr "This gift certificate will be emailed to the recipient after your order has been paid for."
+
+msgctxt "GiftCertificatePreviewModalTitle"
+msgid "Preview Gift Certificate"
+msgstr "Preview Gift Certificate"
+
+msgctxt "NotFound"
+msgid "Not Found"
+msgstr "Not Found"
+
+msgctxt "NotFoundError"
+msgid "The page you were looking for appears to have been moved, deleted or does not exist."
+msgstr "The page you were looking for appears to have been moved, deleted or does not exist."
+
+msgctxt "NotFoundReasonTitle"
+msgid "This is most likely due to:"
+msgstr "This is most likely due to:"
+
+msgctxt "NotFoundReason1"
+msgid "An outdated link on another site"
+msgstr "An outdated link on another site"
+
+msgctxt "NotFoundReason2"
+msgid "A typo in the address / URL"
+msgstr "A typo in the address / URL"
+
+msgctxt "CurrencyConverter"
+msgid "Currency Converter"
+msgstr "Currency Converter"
+
+msgctxt "ChooseCurrency"
+msgid "Choose Currency"
+msgstr "Choose Currency"
+
+msgctxt "ChooseCurrencyInfo"
+msgid "Choose a currency below to display product prices in the selected currency."
+msgstr "Choose a currency below to display product prices in the selected currency."
+
+msgctxt "AllPricesAreInCurrency"
+msgid "All prices are in <span title='%s'>%s</span>."
+msgstr "All prices are in <span title='%s'>%s</span>."
+
+msgctxt "ForbiddenAccessPage"
+msgid "You Do Not Have Permission To Access This Page"
+msgstr "You Do Not Have Permission To Access This Page"
+
+msgctxt "NoPermissionToAccessThisPage"
+msgid "You don't have the necessary permissions to view this page."
+msgstr "You don't have the necessary permissions to view this page."
+
+msgctxt "NoPermissionContact"
+msgid "If you believe this is an error, please contact us at <a rel='nofollow' href='mailto:%s'>%s</a>."
+msgstr "If you believe this is an error, please contact us at <a rel='nofollow' href='mailto:%s'>%s</a>."
+
+msgctxt "ReturnToHomepage"
+msgid "Return to the home page"
+msgstr "Return to the home page"
+
+msgctxt "CartChangedSinceCheckout"
+msgid "The contents of your shopping has changed since you last started the checkout process. Please complete the checkout process again."
+msgstr "The contents of your shopping has changed since you last started the checkout process. Please complete the checkout process again."
+
+msgctxt "AccountOrdersNone"
+msgid "You don't have any completed orders with us. When you do, they will appear on this page."
+msgstr "You don't have any completed orders with us. When you do, they will appear on this page."
+
+msgctxt "OrderInvoiceEmail"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "OrderInvoicePhone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "YouSave"
+msgid " (You save %s)"
+msgstr " (You save %s)"
+
+msgctxt "YourPrice"
+msgid "Your Price"
+msgstr "Your Price"
+
+msgctxt "Calculating"
+msgid "Estimating..."
+msgstr "Estimating..."
+
+msgctxt "CalculateShipping"
+msgid "Estimate Shipping &amp; Tax"
+msgstr "Estimate Shipping &amp; Tax"
+
+msgctxt "ChooseShippingMethod"
+msgid "Please choose a shipping method."
+msgstr "Please choose a shipping method."
+
+msgctxt "CalculateShippingHandling"
+msgid "Estimate Shipping &amp; Tax"
+msgstr "Estimate Shipping &amp; Tax"
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "or"
+msgid "or"
+msgstr "or"
+
+msgctxt "UnableEstimateShipping"
+msgid "<p><strong>Unfortunately we can't ship to your location.</strong><br />Please select another location and try again.</p>"
+msgstr "<p><strong>Unfortunately we can't ship to your location.</strong><br />Please select another location and try again.</p>"
+
+msgctxt "WishLists"
+msgid "Wish Lists"
+msgstr "Wish Lists"
+
+msgctxt "WishListsIntro"
+msgid "The wish lists you've created are shown below. Click <em>Create a New Wishlist...</em> to add one."
+msgstr "The wish lists you've created are shown below. Click <em>Create a New Wishlist...</em> to add one."
+
+msgctxt "WishListName"
+msgid "Wish List Name"
+msgstr "Wish List Name"
+
+msgctxt "CreateANewWishList"
+msgid "Create a New Wish List..."
+msgstr "Create a New Wish List..."
+
+msgctxt "WishListDelete"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+msgctxt "Action"
+msgid "Action"
+msgstr "Action"
+
+msgctxt "PublicWishList"
+msgid "Make This Wish List Public?"
+msgstr "Make This Wish List Public?"
+
+msgctxt "YesShareWishList"
+msgid "I want to be able to share this wish list"
+msgstr "I want to be able to share this wish list"
+
+msgctxt "SaveWishList"
+msgid "Save Wish List"
+msgstr "Save Wish List"
+
+msgctxt "NoWishListsMessage"
+msgid "You haven't created any wish lists yet. <a rel='nofollow' href='wishlist.php?action=addwishlist'>Click here</a> to create one now."
+msgstr "You haven't created any wish lists yet. <a rel='nofollow' href='wishlist.php?action=addwishlist'>Click here</a> to create one now."
+
+msgctxt "ErrorDeleteWishList"
+msgid "Something went wrong trying to delete your wishlists."
+msgstr "Something went wrong trying to delete your wishlists."
+
+msgctxt "SuccessDeleteWishList"
+msgid "The selected wish lists have been deleted successfully."
+msgstr "The selected wish lists have been deleted successfully."
+
+msgctxt "AddWishList"
+msgid "Add a Wish List"
+msgstr "Add a Wish List"
+
+msgctxt "EnterWishListName"
+msgid "Please enter a wishlist name."
+msgstr "Please enter a wishlist name."
+
+msgctxt "ErrorAddWishList"
+msgid "Something went wrong trying to add a wishlist."
+msgstr "Something went wrong trying to add a wishlist."
+
+msgctxt "SuccessAddWishList"
+msgid "The wish list has been added successfully."
+msgstr "The wish list has been added successfully."
+
+msgctxt "InvalideCustID"
+msgid "Invalide Customer ID detected."
+msgstr "Invalide Customer ID detected."
+
+msgctxt "InvalidPublicWishlistValue"
+msgid "Invalid public wish list value detected"
+msgstr "Invalid public wish list value detected"
+
+msgctxt "AddWishListIntro"
+msgid "Fill in the form below to create a wish list. Click the &quot;Save&quot; button when you're done."
+msgstr "Fill in the form below to create a wish list. Click the &quot;Save&quot; button when you're done."
+
+msgctxt "EditWishListIntro"
+msgid "Fill in the form below to modify the wish list. Click the &quot;Save&quot; button when you're done."
+msgstr "Fill in the form below to modify the wish list. Click the &quot;Save&quot; button when you're done."
+
+msgctxt "ErrorEditWishList"
+msgid "Something went wrong trying to edit a wishlist."
+msgstr "Something went wrong trying to edit a wishlist."
+
+msgctxt "SuccessEditWishList"
+msgid "The wish list has been updated successfully."
+msgstr "The wish list has been updated successfully."
+
+msgctxt "CannotShareWishList"
+msgid "Sorry, you cannot share this wish list with other people, it\'s not a public wish list."
+msgstr "Sorry, you cannot share this wish list with other people, it\'s not a public wish list."
+
+msgctxt "NotPublicWishList"
+msgid "The wish list you've selected isn't set to public, so it can't be shared."
+msgstr "The wish list you've selected isn't set to public, so it can't be shared."
+
+msgctxt "WishListsDescription"
+msgid "Add, edit and remove wish lists, see items in your wish lists and optionally add each item to your shopping cart for purchase."
+msgstr "Add, edit and remove wish lists, see items in your wish lists and optionally add each item to your shopping cart for purchase."
+
+msgctxt "WishListNotFound"
+msgid "Sorry, the wish list that you requested doesn't exist or has been deleted."
+msgstr "Sorry, the wish list that you requested doesn't exist or has been deleted."
+
+msgctxt "ConfirmDeleteWishLists"
+msgid "Are you sure you want to delete the selected wish list(s)? This action cannot be undone."
+msgstr "Are you sure you want to delete the selected wish list(s)? This action cannot be undone."
+
+msgctxt "NoDeleteWishListPermission"
+msgid "You don't have the permission to delete the wish lists."
+msgstr "You don't have the permission to delete the wish lists."
+
+msgctxt "NoRemoveItemFromWishListPermission"
+msgid "You don't have the permission to remove items from this wish list."
+msgstr "You don't have the permission to remove items from this wish list."
+
+msgctxt "ShareWishList"
+msgid "Share this wish list with friends:"
+msgstr "Share this wish list with friends:"
+
+msgctxt "CustomersAlsoBought"
+msgid "Customers Also Purchased"
+msgstr "Customers Also Purchased"
+
+msgctxt "WishListCancel"
+msgid "Are you sure you want to cancel? Any unsaved changes will be lost."
+msgstr "Are you sure you want to cancel? Any unsaved changes will be lost."
+
+msgctxt "WishListNotPublicTitle"
+msgid "That Wish List Isn't Public"
+msgstr "That Wish List Isn't Public"
+
+msgctxt "InvalidWishList"
+msgid "Invalid Wish List"
+msgstr "Invalid Wish List"
+
+msgctxt "SelectAWishListToDelete"
+msgid "Please choose at least one wish list to delete."
+msgstr "Please choose at least one wish list to delete."
+
+msgctxt "EditWishList"
+msgid "Edit Wish List"
+msgstr "Edit Wish List"
+
+msgctxt "NoEditWishListPermission"
+msgid "You don't have the permission to edit this wish list."
+msgstr "You don't have the permission to edit this wish list."
+
+msgctxt "CantViewWishList"
+msgid "Can't View Wish List."
+msgstr "Can't View Wish List."
+
+msgctxt "NoViewWishListPermission"
+msgid "You don't have the permission to view this wish list."
+msgstr "You don't have the permission to view this wish list."
+
+msgctxt "Share"
+msgid "Share"
+msgstr "Share"
+
+msgctxt "ShareAWishList"
+msgid "Share A Wish List"
+msgstr "Share A Wish List"
+
+msgctxt "ItemAddedToWishList"
+msgid "The item has been added to your wish list."
+msgstr "The item has been added to your wish list."
+
+msgctxt "Shared"
+msgid "Shared"
+msgstr "Shared"
+
+msgctxt "MyWishList"
+msgid "My Wish List"
+msgstr "My Wish List"
+
+msgctxt "ExpressCheckout"
+msgid "Express Checkout"
+msgstr "Express Checkout"
+
+msgctxt "Modify"
+msgid "Modify"
+msgstr "Modify"
+
+msgctxt "ExpressCheckoutStep"
+msgid "Step"
+msgstr "Step"
+
+msgctxt "ExpressCheckoutStepAccountDetails"
+msgid "Account Details"
+msgstr "Account Details"
+
+msgctxt "ExpressCheckoutStepBillingAddress"
+msgid "Billing Details"
+msgstr "Billing Details"
+
+msgctxt "ExpressCheckoutStepBillingAccountDetails"
+msgid "Billing &amp; Account Details"
+msgstr "Billing &amp; Account Details"
+
+msgctxt "ExpressCheckoutStepShippingAddress"
+msgid "Shipping Details"
+msgstr "Shipping Details"
+
+msgctxt "ExpressCheckoutStepShippingMethod"
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+msgctxt "ExpressCheckoutStepOrderConfirmation"
+msgid "Order Confirmation"
+msgstr "Order Confirmation"
+
+msgctxt "ExpressCheckoutStepPaymentDetails"
+msgid "Payment Details"
+msgstr "Payment Details"
+
+msgctxt "ProceedToPayment"
+msgid "Proceed to Payment"
+msgstr "Proceed to Payment"
+
+msgctxt "ProceedToPaymentContinue"
+msgid "Continue"
+msgstr "Continue"
+
+msgctxt "ReviewTheContentsOfYourOrder"
+msgid "Please review the contents of your order below and then choose how you'd like to pay for your order."
+msgstr "Please review the contents of your order below and then choose how you'd like to pay for your order."
+
+msgctxt "ExpressCheckoutLoadError"
+msgid "There was an error loading this step of the checkout. Please try again."
+msgstr "There was an error loading this step of the checkout. Please try again."
+
+msgctxt "ExpressCheckoutCheckingOutAsGuest"
+msgid "Checking out as a guest"
+msgstr "Checking out as a guest"
+
+msgctxt "ExpressCheckoutCreatingAnAccount"
+msgid "Creating an account"
+msgstr "Creating an account"
+
+msgctxt "ExpressCheckoutChooseBilling"
+msgid "Please select the address you'd like to use as your billing address for this order."
+msgstr "Please select the address you'd like to use as your billing address for this order."
+
+msgctxt "ExpressCheckoutChooseShipping"
+msgid "Please select the address you'd like to use as your shipping address for this order."
+msgstr "Please select the address you'd like to use as your shipping address for this order."
+
+msgctxt "ExpressCheckoutChooseShipper"
+msgid "Please select the shipping method you'd like to use for your order."
+msgstr "Please select the shipping method you'd like to use for your order."
+
+msgctxt "ExpressCheckoutFor"
+msgid "for"
+msgstr "for"
+
+msgctxt "ExpressCheckoutLoading"
+msgid "Loading..."
+msgstr "Loading..."
+
+msgctxt "CheckoutAsAGuest"
+msgid "Checkout as a guest"
+msgstr "Checkout as a guest"
+
+msgctxt "RegisterAnAccount"
+msgid "Register an account"
+msgstr "Register an account"
+
+msgctxt "CheckoutGuestIntro"
+msgid "Register with us for a faster checkout, to track the status of your order and more. You can also checkout as a guest."
+msgstr "Register with us for a faster checkout, to track the status of your order and more. You can also checkout as a guest."
+
+msgctxt "NotAnExistingCustomer"
+msgid "I'm A New Customer"
+msgstr "I'm A New Customer"
+
+msgctxt "CreateAccountIntroTitle"
+msgid "Create an account with us and you'll be able to:"
+msgstr "Create an account with us and you'll be able to:"
+
+msgctxt "CreateAccountIntro3"
+msgid "Access order history and track your orders"
+msgstr "Access order history and track your orders"
+
+msgctxt "AlreadyHaveAnAccount"
+msgid "I'm A Returning Customer"
+msgstr "I'm A Returning Customer"
+
+msgctxt "AlreadyHaveAnAccountIntro"
+msgid "To continue, please enter your email address and password that you use for your account."
+msgstr "To continue, please enter your email address and password that you use for your account."
+
+msgctxt "ExpressCheckoutSelectShippingProvider"
+msgid "Please choose the shipping method for your order:"
+msgstr "Please choose the shipping method for your order:"
+
+msgctxt "AlsoWantToShipToThisAddress"
+msgid "I also want to ship to this address"
+msgstr "I also want to ship to this address"
+
+msgctxt "SaveAddressInAddressBook"
+msgid "Save this address in my address book"
+msgstr "Save this address in my address book"
+
+msgctxt "BillAndShipToAddress"
+msgid "Bill & Ship to this Address"
+msgstr "Bill & Ship to this Address"
+
+msgctxt "ProblemCreatingOrder"
+msgid "There was a problem creating your order. Please try again."
+msgstr "There was a problem creating your order. Please try again."
+
+msgctxt "GuestCheckoutDisabledError"
+msgid "Please choose to create an account or login with your existing account."
+msgstr "Please choose to create an account or login with your existing account."
+
+msgctxt "UnableSaveOrderBillingAddress"
+msgid "There was a problem saving the billing address for your order. Please try again."
+msgstr "There was a problem saving the billing address for your order. Please try again."
+
+msgctxt "UnableSaveOrderShippingAddress"
+msgid "There was a problem saving the shipping address for your order. Please try again."
+msgstr "There was a problem saving the shipping address for your order. Please try again."
+
+msgctxt "UnableSaveOrderShippingMethod"
+msgid "There was a problem saving the shipping method for your order. Please try again."
+msgstr "There was a problem saving the shipping method for your order. Please try again."
+
+msgctxt "UnableToShipToAddress"
+msgid "Unfortunately one or more items in your cart can't be shipped to your location. Please choose a different delivery address."
+msgstr "Unfortunately one or more items in your cart can't be shipped to your location. Please choose a different delivery address."
+
+msgctxt "CheckoutAccountCreatedIntro"
+msgid "For your convenience, we've created you an account on %s so you can check the status of your order and checkout quicker in the future.<br /><br />Your account details are as follows:"
+msgstr "For your convenience, we've created you an account on %s so you can check the status of your order and checkout quicker in the future.<br /><br />Your account details are as follows:"
+
+msgctxt "CheckoutAccountCreatedSubject"
+msgid "Welcome to "
+msgstr "Welcome to "
+
+msgctxt "EnterShippingPhone"
+msgid "Please enter your phone number."
+msgstr "Please enter your phone number."
+
+msgctxt "EnterShippingAddressBelow"
+msgid "Please enter the address you'd like this order to be shipped to below."
+msgstr "Please enter the address you'd like this order to be shipped to below."
+
+msgctxt "ShippingAddress"
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+msgctxt "EnterBillingAddressBelow"
+msgid "Please enter the address you'd like to use as the billing address for this order."
+msgstr "Please enter the address you'd like to use as the billing address for this order."
+
+msgctxt "CheckoutEmailAddressInUse"
+msgid "This email address is already in use by another customer. Please enter another address, or <a rel='nofollow' href='%s'>login to your account</a>."
+msgstr "This email address is already in use by another customer. Please enter another address, or <a rel='nofollow' href='%s'>login to your account</a>."
+
+msgctxt "UseExistingBillingAddress"
+msgid "I want to use an existing billing address"
+msgstr "I want to use an existing billing address"
+
+msgctxt "UseExistingShippingAddress"
+msgid "I want to use an existing shipping address"
+msgstr "I want to use an existing shipping address"
+
+msgctxt "UseNewBillingAddress"
+msgid "I want to use a new billing address"
+msgstr "I want to use a new billing address"
+
+msgctxt "UseNewShippingAddress"
+msgid "I want to use a new shipping address"
+msgstr "I want to use a new shipping address"
+
+msgctxt "CheckoutBadLoginDetails"
+msgid "Your email address or password is incorrect. Please try again. If you've forgotten your sign in details, just click the 'Forgot your password?' link below or <a rel='nofollow' href='%s' onclick='%s'>click here to create a new account</a>."
+msgstr "Your email address or password is incorrect. Please try again. If you've forgotten your sign in details, just click the 'Forgot your password?' link below or <a rel='nofollow' href='%s' onclick='%s'>click here to create a new account</a>."
+
+msgctxt "Pages"
+msgid "Pages"
+msgstr "Pages"
+
+msgctxt "SignInForFastCheckout"
+msgid "Sign in for fast and easy checkout."
+msgstr "Sign in for fast and easy checkout."
+
+msgctxt "ProductUnavailableText"
+msgid "(Unavailable for purchase)"
+msgstr "(Unavailable for purchase)"
+
+msgctxt "ProductWarranty"
+msgid "Warranty Information"
+msgstr "Warranty Information"
+
+msgctxt "Guest"
+msgid "Guest"
+msgstr "Guest"
+
+msgctxt "SaleProducts"
+msgid "Products On Sale"
+msgstr "Products On Sale"
+
+msgctxt "Was"
+msgid "Was"
+msgstr "Was"
+
+msgctxt "Now"
+msgid "Now"
+msgstr "Now"
+
+msgctxt "EnterOrderComments"
+msgid "Order Instructions/Comments (Optional)"
+msgstr "Order Instructions/Comments (Optional)"
+
+msgctxt "OrderComments"
+msgid "Order Instructions/Comments"
+msgstr "Order Instructions/Comments"
+
+msgctxt "QuantityFull"
+msgid "Quantity"
+msgstr "Quantity"
+
+msgctxt "ProductAddToCartLink"
+msgid "Add To Cart"
+msgstr "Add To Cart"
+
+msgctxt "ProductChooseOptionLink"
+msgid "Choose Options"
+msgstr "Choose Options"
+
+msgctxt "PostedOn"
+msgid "Posted on"
+msgstr "Posted on"
+
+msgctxt "EnterShippingCountry"
+msgid "Please select the country to ship your items to."
+msgstr "Please select the country to ship your items to."
+
+msgctxt "EnterShippingFirstName"
+msgid "Please type in your first name."
+msgstr "Please type in your first name."
+
+msgctxt "EnterShippingLastName"
+msgid "Please type in your last name."
+msgstr "Please type in your last name."
+
+msgctxt "ErrorRemovingInvalidIdItemFromWishList"
+msgid "That item does not exist in your wishlist"
+msgstr "That item does not exist in your wishlist"
+
+msgctxt "AccountUpdateValidPhone"
+msgid "The phone number '%s' is invalid. Please enter a correct phone number"
+msgstr "The phone number '%s' is invalid. Please enter a correct phone number"
+
+msgctxt "Vendor"
+msgid "Vendor"
+msgstr "Vendor"
+
+msgctxt "ProductsTaggedWith"
+msgid "Products Tagged with '%s'"
+msgstr "Products Tagged with '%s'"
+
+msgctxt "ProductTagCloud"
+msgid "Browse by Tag"
+msgstr "Browse by Tag"
+
+msgctxt "ProductTagCloudIntro"
+msgid "The product tag cloud shows the different tags (keywords) associated with products. The bigger the tag appears, the more products it contains. Click on a tag to see all products listed under that tag."
+msgstr "The product tag cloud shows the different tags (keywords) associated with products. The bigger the tag appears, the more products it contains. Click on a tag to see all products listed under that tag."
+
+msgctxt "XProductsTaggedWith"
+msgid "%s product(s) tagged with %s"
+msgstr "%s product(s) tagged with %s"
+
+msgctxt "FindProductsByTag"
+msgid "Find Similar Products by Tag"
+msgstr "Find Similar Products by Tag"
+
+msgctxt "GiftWrappingAvailable"
+msgid "Gift wrapping available"
+msgstr "Gift wrapping available"
+
+msgctxt "VendorsOtherProducts"
+msgid "Vendors Other Products"
+msgstr "Vendors Other Products"
+
+msgctxt "ViewAllProducts"
+msgid "View All Products"
+msgstr "View All Products"
+
+msgctxt "PopularVendors"
+msgid "Popular Vendors"
+msgstr "Popular Vendors"
+
+msgctxt "SeeAllVendors"
+msgid "See all Vendors"
+msgstr "See all Vendors"
+
+msgctxt "ProductsFromVendorX"
+msgid "Products from %s"
+msgstr "Products from %s"
+
+msgctxt "Vendors"
+msgid "Vendors"
+msgstr "Vendors"
+
+msgctxt "VendorOverview"
+msgid "Vendor Profile"
+msgstr "Vendor Profile"
+
+msgctxt "VendorProducts"
+msgid "Vendor Products"
+msgstr "Vendor Products"
+
+msgctxt "GiftWrappingForX"
+msgid "Gift Wrapping for '%s'"
+msgstr "Gift Wrapping for '%s'"
+
+msgctxt "GiftWrappingApplied"
+msgid "Gift wrapping has been applied to the selected items in your cart successfully."
+msgstr "Gift wrapping has been applied to the selected items in your cart successfully."
+
+msgctxt "GiftWrapping"
+msgid "Gift Wrapping"
+msgstr "Gift Wrapping"
+
+msgctxt "GiftWrappingOptionsAvailable"
+msgid "Options available"
+msgstr "Options available"
+
+msgctxt "ChooseGiftWrappingOption"
+msgid "-- Please choose a type of gift wrapping --"
+msgstr "-- Please choose a type of gift wrapping --"
+
+msgctxt "GiftMessage"
+msgid "Gift Message"
+msgstr "Gift Message"
+
+msgctxt "ChooseHowToWrapItems"
+msgid "Please choose how you'd like to have this item gift wrapped."
+msgstr "Please choose how you'd like to have this item gift wrapped."
+
+msgctxt "WrapItemsTheSame"
+msgid "I'd like to wrap each of this item using the same wrapping options"
+msgstr "I'd like to wrap each of this item using the same wrapping options"
+
+msgctxt "WrapItemsDifferently"
+msgid "I'd like to gift wrap each item separately"
+msgstr "I'd like to gift wrap each item separately"
+
+msgctxt "ConfirmRemoveGiftWrapping"
+msgid "Are you sure you want to remove the gift wrapping from this item?"
+msgstr "Are you sure you want to remove the gift wrapping from this item?"
+
+msgctxt "GiftWrappingRemoved"
+msgid "The selected item(s) in your cart will no longer be gift wrapped."
+msgstr "The selected item(s) in your cart will no longer be gift wrapped."
+
+msgctxt "Change"
+msgid "Change"
+msgstr "Change"
+
+msgctxt "Add"
+msgid "Add"
+msgstr "Add"
+
+msgctxt "Save"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "DigitalOrderConfirmationGuestCheckout"
+msgid "We've received your order and will send you an email containing links to download your purchased products once payment has been processed."
+msgstr "We've received your order and will send you an email containing links to download your purchased products once payment has been processed."
+
+msgctxt "PhysicalOrderConfirmationGuestCheckout"
+msgid "We've received your order and will begin processing it right away."
+msgstr "We've received your order and will begin processing it right away."
+
+msgctxt "ShippingMethodCombined"
+msgid "Multiple Shipping Methods"
+msgstr "Multiple Shipping Methods"
+
+msgctxt "AjaxUnableToShipToAddress"
+msgid "Unfortunately one or more items in your cart can't be shipped to your location. Please choose a different delivery address. Item(s) that can't be shipped to your address:"
+msgstr "Unfortunately one or more items in your cart can't be shipped to your location. Please choose a different delivery address. Item(s) that can't be shipped to your address:"
+
+msgctxt "ShippingProvider"
+msgid "Choose a Shipping Method"
+msgstr "Choose a Shipping Method"
+
+msgctxt "Items"
+msgid "Items"
+msgstr "Items"
+
+msgctxt "ProductsFrom"
+msgid "Products from"
+msgstr "Products from"
+
+msgctxt "CouldNotShipFollowingItems"
+msgid "The following item(s) could not be shipped to your shipping address:"
+msgstr "The following item(s) could not be shipped to your shipping address:"
+
+msgctxt "ChooseMultiShippingAddressIntro1"
+msgid "Please choose a shipping address for each of the items listed below, or you can"
+msgstr "Please choose a shipping address for each of the items listed below, or you can"
+
+msgctxt "ChooseMultiShippingAddressIntro2"
+msgid "Add a New Shipping Address."
+msgstr "Add a New Shipping Address."
+
+msgctxt "Item"
+msgid "Item"
+msgstr "Item"
+
+msgctxt "ShipAllItemsToOneAddress"
+msgid "Ship all items to the same address"
+msgstr "Ship all items to the same address"
+
+msgctxt "ShipAllItemsToDifferentAddresses"
+msgid "Ship items to different addresses"
+msgstr "Ship items to different addresses"
+
+msgctxt "ShipToTheseAddresses"
+msgid "Ship to These Addresses"
+msgstr "Ship to These Addresses"
+
+msgctxt "ShippedTo"
+msgid "Shipped to"
+msgstr "Shipped to"
+
+msgctxt "CheckoutWithMultipleAddresses"
+msgid "Checkout with multiple addresses"
+msgstr "Checkout with multiple addresses"
+
+msgctxt "BulkDiscountLink"
+msgid "Buy in bulk and save"
+msgstr "Buy in bulk and save"
+
+msgctxt "BulkDiscountThickBoxTitle"
+msgid "Bulk Discounts for %s"
+msgstr "Bulk Discounts for %s"
+
+msgctxt "BulkDiscountThickBoxIntro"
+msgid "Below are the available bulk discount rates for each individual item when you purchase a certain amount"
+msgstr "Below are the available bulk discount rates for each individual item when you purchase a certain amount"
+
+msgctxt "BulkDiscountThickBoxDiscountPrice"
+msgid "Buy %s and get %s off"
+msgstr "Buy %s and get %s off"
+
+msgctxt "BulkDiscountThickBoxDiscountPercent"
+msgid "Buy %s and get %s off"
+msgstr "Buy %s and get %s off"
+
+msgctxt "BulkDiscountThickBoxDiscountFixed"
+msgid "Buy %s and pay only %s each"
+msgstr "Buy %s and pay only %s each"
+
+msgctxt "BulkDiscountThickBoxDiscountOrAbove"
+msgid "%s or above"
+msgstr "%s or above"
+
+msgctxt "CanNotCreateDirectory"
+msgid "The directory could not be created to store the uploaded files."
+msgstr "The directory could not be created to store the uploaded files."
+
+msgctxt "ConfigurableOptions"
+msgid "Configurable Options"
+msgstr "Configurable Options"
+
+msgctxt "Checked"
+msgid "Checked"
+msgstr "Checked"
+
+msgctxt "InvalidFileTypeJS"
+msgid "The file type of the file you are trying to upload is not allowed for this field."
+msgstr "The file type of the file you are trying to upload is not allowed for this field."
+
+msgctxt "CouldntProductFieldsUpdate"
+msgid "The configurable product options couldn't be update."
+msgstr "The configurable product options couldn't be update."
+
+msgctxt "DeleteProductFieldFileConfirmation"
+msgid "Are you sure you want to delete the uploaded file?"
+msgstr "Are you sure you want to delete the uploaded file?"
+
+msgctxt "RequestNewPassword"
+msgid "Request New Password"
+msgstr "Request New Password"
+
+msgctxt "ForgotPasswordIntro"
+msgid "Fill in your email below to request a new password. An email will be sent to the address below containing a link to verify your email address. When you click on that link your email address will be verified and you will then be emailed a new password."
+msgstr "Fill in your email below to request a new password. An email will be sent to the address below containing a link to verify your email address. When you click on that link your email address will be verified and you will then be emailed a new password."
+
+msgctxt "ForgotPasswordInvalidLink"
+msgid "The link you were given in the Request Password email is invalid. Please request another new password to receive a new link."
+msgstr "The link you were given in the Request Password email is invalid. Please request another new password to receive a new link."
+
+msgctxt "ForgotPasswordChanged"
+msgid "Your password has been changed. An email will be sent to %s which will contain your new password."
+msgstr "Your password has been changed. An email will be sent to %s which will contain your new password."
+
+msgctxt "ForgotPasswordEmailConfirmed"
+msgid "Your new customer account password at %s is <b>%s</b>"
+msgstr "Your new customer account password at %s is <b>%s</b>"
+
+msgctxt "ForgotPasswordEmailConfirmedSubject"
+msgid "Password change request confirmed for %s"
+msgstr "Password change request confirmed for %s"
+
+msgctxt "NewsletterInvalidEmail"
+msgid "Please enter a valid email address, such as john@example.com."
+msgstr "Please enter a valid email address, such as john@example.com."
+
+msgctxt "UnableToShipToAddressSingle"
+msgid "Unfortunately one or more items in your cart can't be shipped to your location. Please choose a different delivery address."
+msgstr "Unfortunately one or more items in your cart can't be shipped to your location. Please choose a different delivery address."
+
+msgctxt "Size"
+msgid "Maximum Size"
+msgstr "Maximum Size"
+
+msgctxt "Type"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "Currently"
+msgid "Currently"
+msgstr "Currently"
+
+msgctxt "TermsAndConditions"
+msgid "Terms And Conditions"
+msgstr "Terms And Conditions"
+
+msgctxt "AgreeTermsAndConditions"
+msgid "Yes, I agree with the above terms and conditions."
+msgstr "Yes, I agree with the above terms and conditions."
+
+msgctxt "YesIAgree"
+msgid "Yes, I agree with the"
+msgstr "Yes, I agree with the"
+
+msgctxt "TickArgeeTermsAndConditions"
+msgid "Please agree to the terms and conditions by ticking the check box to place your order."
+msgstr "Please agree to the terms and conditions by ticking the check box to place your order."
+
+msgctxt "OrderDiscount"
+msgid "Order Discounts:"
+msgstr "Order Discounts:"
+
+msgctxt "DiscountMessageJoin"
+msgid " <br> "
+msgstr " <br> "
+
+msgctxt "DiscountMessageFinalJoin"
+msgid " and "
+msgstr " and "
+
+msgctxt "DiscountCongratulations"
+msgid "<b>Congratulations!</b>"
+msgstr "<b>Congratulations!</b>"
+
+msgctxt "EventDateLimitations1"
+msgid "(Must be between %s and %s)"
+msgstr "(Must be between %s and %s)"
+
+msgctxt "EventDateLimitations2"
+msgid "(Must be after %s)"
+msgstr "(Must be after %s)"
+
+msgctxt "EventDateLimitations3"
+msgid "(Must be before %s)"
+msgstr "(Must be before %s)"
+
+msgctxt "EventDateLimitationsLong1"
+msgid "The %s must be on or after %s and on or before %s."
+msgstr "The %s must be on or after %s and on or before %s."
+
+msgctxt "EventDateLimitationsLong2"
+msgid "The %s must be on or after %s."
+msgstr "The %s must be on or after %s."
+
+msgctxt "EventDateLimitationsLong3"
+msgid "The %s must be on or before %s."
+msgstr "The %s must be on or before %s."
+
+msgctxt "EventDateInvalid"
+msgid "Please choose a valid %s first."
+msgstr "Please choose a valid %s first."
+
+msgctxt "Warranty"
+msgid "Warranty"
+msgstr "Warranty"
+
+msgctxt "Reviews"
+msgid "Reviews"
+msgstr "Reviews"
+
+msgctxt "SimilarProducts"
+msgid "Similar Products"
+msgstr "Similar Products"
+
+msgctxt "Tags"
+msgid "Tags"
+msgstr "Tags"
+
+msgctxt "PleaseSelectAProduct"
+msgid "Please select at least one product to add to your cart."
+msgstr "Please select at least one product to add to your cart."
+
+msgctxt "SelectedProductsAddedToCart"
+msgid "The following products were added to your cart:"
+msgstr "The following products were added to your cart:"
+
+msgctxt "NoPermissionAddProduct"
+msgid "You don't have permission to add this product to your cart. (%s)"
+msgstr "You don't have permission to add this product to your cart. (%s)"
+
+msgctxt "AddressType"
+msgid "Address Type"
+msgstr "Address Type"
+
+msgctxt "AddressTypeShipping"
+msgid "Shipping"
+msgstr "Shipping"
+
+msgctxt "AddressTypeBilling"
+msgid "Billing"
+msgstr "Billing"
+
+msgctxt "Reorder"
+msgid "Reorder"
+msgstr "Reorder"
+
+msgctxt "VariationCombinationChanged"
+msgid "This product cannot be reordered because the options you selected last time are no longer available."
+msgstr "This product cannot be reordered because the options you selected last time are no longer available."
+
+msgctxt "ConfigurableFieldsChanged"
+msgid "This product cannot be reordered because the configurable fields for this product has changed."
+msgstr "This product cannot be reordered because the configurable fields for this product has changed."
+
+msgctxt "ConfigurableFileCantBeMoved"
+msgid "Product configurable field file can't be moved"
+msgstr "Product configurable field file can't be moved"
+
+msgctxt "ProductNotExist"
+msgid "Unfortunately this product is no longer for sale so it cannot be reordered."
+msgstr "Unfortunately this product is no longer for sale so it cannot be reordered."
+
+msgctxt "GiftWrappingChanged"
+msgid "This product cannot be reordered because the gift wrapping option you selected last time is no longer available."
+msgstr "This product cannot be reordered because the gift wrapping option you selected last time is no longer available."
+
+msgctxt "ProductOutOfStock"
+msgid "This product cannot be reordered because it's out of stock."
+msgstr "This product cannot be reordered because it's out of stock."
+
+msgctxt "EventDateChanged"
+msgid "This product cannot be reordered because the event date you entered last time is no longer valid."
+msgstr "This product cannot be reordered because the event date you entered last time is no longer valid."
+
+msgctxt "ItemsCantBeReordered"
+msgid "Oops, some of the items below can't be reordered."
+msgstr "Oops, some of the items below can't be reordered."
+
+msgctxt "MustBeLoggedInToReorder"
+msgid "You must be logged in to perform a reorder."
+msgstr "You must be logged in to perform a reorder."
+
+msgctxt "OrderWasntPlacedByYou"
+msgid "You can't reorder items in this order, the order wasn't placed by you."
+msgstr "You can't reorder items in this order, the order wasn't placed by you."
+
+msgctxt "InvalidOrderId"
+msgid "You can't reorder items in this order, the order id is invalid."
+msgstr "You can't reorder items in this order, the order id is invalid."
+
+msgctxt "SelectItemsToReorder"
+msgid "Please select one or more items to reorder."
+msgstr "Please select one or more items to reorder."
+
+msgctxt "CantReorderItems"
+msgid "One or more selected items can\'t be reordered."
+msgstr "One or more selected items can\'t be reordered."
+
+msgctxt "ItemsFrom"
+msgid "Items from"
+msgstr "Items from"
+
+msgctxt "ShippingQuotesListNote"
+msgid "Your order will be shipped from multiple vendors. Please choose a suitable shipping method for each vendor below."
+msgstr "Your order will be shipped from multiple vendors. Please choose a suitable shipping method for each vendor below."
+
+msgctxt "ShippingForYourOrder"
+msgid "Shipping Information"
+msgstr "Shipping Information"
+
+msgctxt "ShippingMethod"
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+msgctxt "ReturnStatusRejected"
+msgid "Request Rejected"
+msgstr "Request Rejected"
+
+msgctxt "ReturnStatusCancelled"
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgctxt "OtherProducts"
+msgid "Other Products"
+msgstr "Other Products"
+
+msgctxt "UpdateShippingCost"
+msgid "Update Shipping Cost"
+msgstr "Update Shipping Cost"
+
+msgctxt "CheckingOutAs"
+msgid "Checking Out As"
+msgstr "Checking Out As"
+
+msgctxt "Apply"
+msgid "Apply"
+msgstr "Apply"
+
+msgctxt "SendForm"
+msgid "Send Form"
+msgstr "Send Form"
+
+msgctxt "ProductVideos"
+msgid "Product Videos"
+msgstr "Product Videos"
+
+msgctxt "Close"
+msgid "Close"
+msgstr "Close"
+
+msgctxt "Loading"
+msgid "Loading"
+msgstr "Loading"
+
+msgctxt "Total"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "CreateAccountIntro4"
+msgid "Checkout faster at"
+msgstr "Checkout faster at"
+
+msgctxt "CreateAccountIntro5"
+msgid "and save multiple addresses in your address book."
+msgstr "and save multiple addresses in your address book."
+
+msgctxt "Sitemap"
+msgid "Sitemap"
+msgstr "Sitemap"
+
+msgctxt "SitemapIntroduction"
+msgid "A sitemap lists all pages available on a website. The sitemap for web pages on %%GLOBAL_StoreName%% is shown below:"
+msgstr "A sitemap lists all pages available on a website. The sitemap for web pages on %%GLOBAL_StoreName%% is shown below:"
+
+msgctxt "SitemapHomePage"
+msgid "Home Page"
+msgstr "Home Page"
+
+msgctxt "SitemapHeadingWebPages"
+msgid "Web Pages"
+msgstr "Web Pages"
+
+msgctxt "SitemapHeadingBrands"
+msgid "Brands"
+msgstr "Brands"
+
+msgctxt "SitemapHeadingVendors"
+msgid "Vendors"
+msgstr "Vendors"
+
+msgctxt "SitemapSeeAll"
+msgid "See All"
+msgstr "See All"
+
+msgctxt "SearchResultsTabProduct"
+msgid "Products"
+msgstr "Products"
+
+msgctxt "SearchResultsTabContent"
+msgid "News &amp; Information"
+msgstr "News &amp; Information"
+
+msgctxt "SearchDidNotMatchProduct"
+msgid "did not match any products."
+msgstr "did not match any products."
+
+msgctxt "SearchDidNotMatchContent"
+msgid "did not match any news or information."
+msgstr "did not match any news or information."
+
+msgctxt "SearchDefaultSortRelevance"
+msgid "Relevance"
+msgstr "Relevance"
+
+msgctxt "SearchDefaultSortAlphaasc"
+msgid "Alphabetical: A to Z"
+msgstr "Alphabetical: A to Z"
+
+msgctxt "SearchDefaultSortAlphadesc"
+msgid "Alphabetical: Z to A"
+msgstr "Alphabetical: Z to A"
+
+msgctxt "SearchDefaultSortFeatured"
+msgid "Featured Items"
+msgstr "Featured Items"
+
+msgctxt "SearchDefaultSortNewest"
+msgid "Newest Items"
+msgstr "Newest Items"
+
+msgctxt "SearchDefaultSortBestselling"
+msgid "Bestselling"
+msgstr "Bestselling"
+
+msgctxt "SearchDefaultSortAvgcustomerreview"
+msgid "Avg. Customer Review"
+msgstr "Avg. Customer Review"
+
+msgctxt "SearchDefaultSortPriceasc"
+msgid "Price: Low to High"
+msgstr "Price: Low to High"
+
+msgctxt "SearchDefaultSortPricedesc"
+msgid "Price: High to Low"
+msgstr "Price: High to Low"
+
+msgctxt "SearchTypeWebPage"
+msgid "Web Page"
+msgstr "Web Page"
+
+msgctxt "SearchTypeNewsItem"
+msgid "News Item"
+msgstr "News Item"
+
+msgctxt "SearchedForCategories"
+msgid "Did you mean to browse one of the following categories instead?"
+msgstr "Did you mean to browse one of the following categories instead?"
+
+msgctxt "SearchedForBrands"
+msgid "Did you mean to browse one of the following brands instead?"
+msgstr "Did you mean to browse one of the following brands instead?"
+
+msgctxt "DesignModeSave"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "DesignModeUndo"
+msgid "Undo"
+msgstr "Undo"
+
+msgctxt "DesignModeToggle"
+msgid "Toggle"
+msgstr "Toggle"
+
+msgctxt "DesignModeDisable"
+msgid "Disable"
+msgstr "Disable"
+
+msgctxt "DesignModeLangSaving"
+msgid "Saving..."
+msgstr "Saving..."
+
+msgctxt "DesignModeMenuEditPanel"
+msgid "Edit Panel..."
+msgstr "Edit Panel..."
+
+msgctxt "DesignModeMenuRemovePanel"
+msgid "Remove Panel"
+msgstr "Remove Panel"
+
+msgctxt "DesignModeMenuEditLayout"
+msgid "Edit Layout..."
+msgstr "Edit Layout..."
+
+msgctxt "DesignModeMenuEditStylesheet"
+msgid "Edit Stylesheet..."
+msgstr "Edit Stylesheet..."
+
+msgctxt "DesignModeConfirmPanelRemove"
+msgid "Are you sure you want to remove the panel ':panel' from the page? It may still appear on other pages. Click OK to confirm."
+msgstr "Are you sure you want to remove the panel ':panel' from the page? It may still appear on other pages. Click OK to confirm."
+
+msgctxt "DesignModeConfirmDisable"
+msgid "Are you sure you want to disable design mode? Any changes you've made won't be saved.\n\nYou can re-enable design mode at any time by logging in to your store's control panel, visiting the 'Store Design' page and clicking the 'Design Mode' tab.\n\nClick OK to confirm."
+msgstr "Are you sure you want to disable design mode? Any changes you've made won't be saved.\n\nYou can re-enable design mode at any time by logging in to your store's control panel, visiting the 'Store Design' page and clicking the 'Design Mode' tab.\n\nClick OK to confirm."
+
+msgctxt "DesignModeRemoveLastPanel"
+msgid "This is the last panel in this column.\n\nIf you wish to move this panel please move another panel in to this column first."
+msgstr "This is the last panel in this column.\n\nIf you wish to move this panel please move another panel in to this column first."
+
+msgctxt "DesignModeChangesSaved"
+msgid "Your design mode changes have been saved successfully."
+msgstr "Your design mode changes have been saved successfully."
+
+msgctxt "DesignModeConfirmUndo"
+msgid "Are you sure? Any changes you've made wont be saved. Click OK to confirm."
+msgstr "Are you sure? Any changes you've made wont be saved. Click OK to confirm."
+
+msgctxt "DesignModeCancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "AddressBookIntro1NoAddresses"
+msgid "You do not currently have any addresses saved in your address book. Would you like to"
+msgstr "You do not currently have any addresses saved in your address book. Would you like to"
+
+msgctxt "AddressBookIntro2NoAddresses"
+msgid "add a new address?"
+msgstr "add a new address?"
+
+msgctxt "DateOfOrder"
+msgid "Order Date"
+msgstr "Order Date"
+
+msgctxt "PaymentMethod"
+msgid "Payment Method"
+msgstr "Payment Method"
+
+msgctxt "Comments"
+msgid "Comments"
+msgstr "Comments"
+
+msgctxt "CantReorderGiftCertificate"
+msgid "Unfortunately gift certificates can not be reordered. Would you like to <a rel='nofollow' href='%s'>purchase a new gift certificate?</a>"
+msgstr "Unfortunately gift certificates can not be reordered. Would you like to <a rel='nofollow' href='%s'>purchase a new gift certificate?</a>"
+
+msgctxt "CantReorderGiftCertificateAlert"
+msgid "Unfortunately gift certificates can not be reordered. Click on the 'Gift Certificates' link to purchase a new one."
+msgstr "Unfortunately gift certificates can not be reordered. Click on the 'Gift Certificates' link to purchase a new one."
+
+msgctxt "DownForMaintenanceMessage"
+msgid "This store is currently unavailable due to maintenance. It should be available again shortly. <br /><br /> We apologize for any inconvenience caused."
+msgstr "This store is currently unavailable due to maintenance. It should be available again shortly. <br /><br /> We apologize for any inconvenience caused."
+
+msgctxt "DownForMaintenance"
+msgid "Down for Maintenance"
+msgstr "Down for Maintenance"
+
+msgctxt "AdminMaintenanceMessage"
+msgid "<br /><br /><p><i><b>It looks like you're an administrator...</b></i></p><p><a href='?showStore=yes'>Click here to see your store</a></p>"
+msgstr "<br /><br /><p><i><b>It looks like you're an administrator...</b></i></p><p><a href='?showStore=yes'>Click here to see your store</a></p>"
+
+msgctxt "AdminMaintenanceNoticeHeader"
+msgid "Your store is down for maintenance."
+msgstr "Your store is down for maintenance."
+
+msgctxt "AdminMaintenanceNotice"
+msgid "<br />Only administrators can view the store at the moment. Visit your control panel settings page to disable maintenance mode.<br /><br /><a href='?showStore=no'>Click here to see what your visitors will see.</a>"
+msgstr "<br />Only administrators can view the store at the moment. Visit your control panel settings page to disable maintenance mode.<br /><br /><a href='?showStore=no'>Click here to see what your visitors will see.</a>"
+
+msgctxt "ReleaseDate"
+msgid "Release Date"
+msgstr "Release Date"
+
+msgctxt "PreOrderStock"
+msgid "Pre-Order Stock"
+msgstr "Pre-Order Stock"
+
+msgctxt "ProductPreOrderCartLink"
+msgid "Pre-Order Now"
+msgstr "Pre-Order Now"
+
+msgctxt "ProductListReleaseDate"
+msgid "Available: :releasedate"
+msgstr "Available: :releasedate"
+
+msgctxt "PreOrderProduct"
+msgid "This product is available for pre-order only"
+msgstr "This product is available for pre-order only"
+
+msgctxt "CustomersWhoViewedThisProductAlsoViewed"
+msgid "Customers Who Viewed This Product Also Viewed"
+msgstr "Customers Who Viewed This Product Also Viewed"
+
+msgctxt "SimilarProductsByCustomerViews"
+msgid "Also Viewed"
+msgstr "Also Viewed"
+
+msgctxt "PleaseChooseAnOption"
+msgid "-- Please Choose an Option --"
+msgstr "-- Please Choose an Option --"
+
+msgctxt "CatalogPriceIncTaxLabel"
+msgid " (inc :label)"
+msgstr " (inc :label)"
+
+msgctxt "CatalogPriceExTaxLabel"
+msgid " (ex :label)"
+msgstr " (ex :label)"
+
+msgctxt "ProductDetailsPriceIncTaxLabel"
+msgid " (inc :label)"
+msgstr " (inc :label)"
+
+msgctxt "ProductDetailsPriceExTaxLabel"
+msgid " (exc :label)"
+msgstr " (exc :label)"
+
+msgctxt "GrandTotal"
+msgid "Grand Total"
+msgstr "Grand Total"
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr "Discount"
+
+msgctxt "DefaultTaxClass"
+msgid "Default Tax Class"
+msgstr "Default Tax Class"
+
+msgctxt "CheckoutEmailAddressInUseAjax"
+msgid "The email address entered is already in use by another customer. Please choose another."
+msgstr "The email address entered is already in use by another customer. Please choose another."
+
+msgctxt "SearchForAProduct"
+msgid "Search for a Product"
+msgstr "Search for a Product"
+
+msgctxt "ShipmentsForOrder"
+msgid "Shipments for Order #:order"
+msgstr "Shipments for Order #:order"
+
+msgctxt "TrackingLink"
+msgid "Tracking Link"
+msgstr "Tracking Link"
+
+msgctxt "DateShipped"
+msgid "Date Shipped"
+msgstr "Date Shipped"
+
+msgctxt "FullSite"
+msgid "Switch to Standard View"
+msgstr "Switch to Standard View"
+
+msgctxt "NotOptimizedForMobiles"
+msgid "(not optimized for mobile browsing)"
+msgstr "(not optimized for mobile browsing)"
+
+msgctxt "Top"
+msgid "Top"
+msgstr "Top"
+
+msgctxt "Cart"
+msgid "Cart"
+msgstr "Cart"
+
+msgctxt "WishList"
+msgid "Wish List"
+msgstr "Wish List"
+
+msgctxt "MyAccount"
+msgid "My Account"
+msgstr "My Account"
+
+msgctxt "Category"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "ConfirmYourOrderShort"
+msgid "Confirm Your Order..."
+msgstr "Confirm Your Order..."
+
+msgctxt "MobileSite"
+msgid "Mobile Site"
+msgstr "Mobile Site"
+
+msgctxt "SearchResults"
+msgid "Search Results"
+msgstr "Search Results"
+
+msgctxt "AdvancedSearchOptions"
+msgid "Advanced Search Options"
+msgstr "Advanced Search Options"
+
+msgctxt "OnlyProductsWithFreeShipping"
+msgid "Only Products with Free Shipping"
+msgstr "Only Products with Free Shipping"
+
+msgctxt "Shop"
+msgid "Shop"
+msgstr "Shop"
+
+msgctxt "MorePhotos"
+msgid "Larger / More Photos"
+msgstr "Larger / More Photos"
+
+msgctxt "CartUpdated"
+msgid "The contents of your shopping cart have been updated."
+msgstr "The contents of your shopping cart have been updated."
+
+msgctxt "UpdateQuantities"
+msgid "Update Quantities"
+msgstr "Update Quantities"
+
+msgctxt "Choose"
+msgid "Choose"
+msgstr "Choose"
+
+msgctxt "LogInAndCheckout"
+msgid "Login and Checkout"
+msgstr "Login and Checkout"
+
+msgctxt "SecureCheckout"
+msgid "Secure Checkout"
+msgstr "Secure Checkout"
+
+msgctxt "ForgotPasswordIntroShort"
+msgid "Enter your email address below and we'll send you instructions on how to reset your password."
+msgstr "Enter your email address below and we'll send you instructions on how to reset your password."
+
+msgctxt "HearFromUsViaEmail"
+msgid "Hear From Us Via Email?"
+msgstr "Hear From Us Via Email?"
+
+msgctxt "WouldLikeToReceiveNewsletter"
+msgid "I'd like to receive your newsletter"
+msgstr "I'd like to receive your newsletter"
+
+msgctxt "CreditCardCVV2Help"
+msgid "The last three or four digits on your signature strip. Required for Visa, Mastercard, and American Express cards."
+msgstr "The last three or four digits on your signature strip. Required for Visa, Mastercard, and American Express cards."
+
+msgctxt "WhatsThis"
+msgid "What's This?"
+msgstr "What's This?"
+
+msgctxt "LowerCreateNewAddress"
+msgid "create a new address"
+msgstr "create a new address"
+
+msgctxt "CompleteOrderRequirePayment"
+msgid "To finalize and process your order we require a payment of"
+msgstr "To finalize and process your order we require a payment of"
+
+msgctxt "HowToPayForYourOrder"
+msgid "How To Pay For Your Order"
+msgstr "How To Pay For Your Order"
+
+msgctxt "NoWishListsMessageShort"
+msgid "You haven't created any wish lists yet."
+msgstr "You haven't created any wish lists yet."
+
+msgctxt "WishlistDetails"
+msgid "Wish List Details"
+msgstr "Wish List Details"
+
+msgctxt "OutstandingBalance"
+msgid "Outstanding Balance"
+msgstr "Outstanding Balance"
+
+msgctxt "AmountOwing"
+msgid "Amount Owing"
+msgstr "Amount Owing"
+
+msgctxt "ReorderSelected"
+msgid "Reorder Selected"
+msgstr "Reorder Selected"
+
+msgctxt "ClickHereToReturnItems"
+msgid "Submit a return request"
+msgstr "Submit a return request"
+
+msgctxt "SubmitNewReturnShort"
+msgid "Submit a Return Request"
+msgstr "Submit a Return Request"
+
+msgctxt "OneItemAdded"
+msgid "OK, 1 item was added to your cart. What next?"
+msgstr "OK, 1 item was added to your cart. What next?"
+
+msgctxt "XItemsAdded"
+msgid "OK, :count items were added to your cart. What next?"
+msgstr "OK, :count items were added to your cart. What next?"
+
+msgctxt "ViewEditCart"
+msgid "View or edit your cart"
+msgstr "View or edit your cart"
+
+msgctxt "QuantityAdded"
+msgid "Quantity added"
+msgstr "Quantity added"
+
+msgctxt "OrderSubtotal"
+msgid "Order Subtotal"
+msgstr "Order Subtotal"
+
+msgctxt "YourCartContains"
+msgid "Your cart contains"
+msgstr "Your cart contains"
+
+msgctxt "ProductAsk"
+msgid "Questions & Answers"
+msgstr "Questions & Answers"
+
+msgctxt "CustAsk"
+msgid "My Q&A"
+msgstr "My Q&A"
+
+msgctxt "AskAll"
+msgid "(You will see the answers to your questions here."
+msgstr "(You will see the answers to your questions here."
+
+msgctxt "NoAskMessage"
+msgid "No question yet."
+msgstr "No question yet."
+
+msgctxt "ProductAskTimes"
+msgid "Q&A"
+msgstr "Q&A"
+
+msgctxt "WriteYourOwnAsk"
+msgid "I have a question."
+msgstr "I have a question."
+
+msgctxt "HowAskProduct"
+msgid "Categories:"
+msgstr "Categories:"
+
+msgctxt "AskRate5Stars"
+msgid "All"
+msgstr "All"
+
+msgctxt "AskRate4Stars"
+msgid "Size"
+msgstr "Size"
+
+msgctxt "AskRate3Stars"
+msgid "Using Method"
+msgstr "Using Method"
+
+msgctxt "AskRate2Stars"
+msgid "Material"
+msgstr "Material"
+
+msgctxt "AskRate1Star"
+msgid "Other"
+msgstr "Other"
+
+msgctxt "WriteYourAsk"
+msgid "Content:"
+msgstr "Content:"
+
+msgctxt "AskBadCaptcha"
+msgid "Sorry, your security code is not correct, please enter again."
+msgstr "Sorry, your security code is not correct, please enter again."
+
+msgctxt "AskInternalError"
+msgid "Submit error."
+msgstr "Submit error."
+
+msgctxt "AskSavedApproved"
+msgid "Your question has been successfully submitted. We will answer you as soon as possible."
+msgstr "Your question has been successfully submitted. We will answer you as soon as possible."
+
+msgctxt "AskSavedPending"
+msgid "Your question is going to be processed by our customer service soon. Please wait."
+msgstr "Your question is going to be processed by our customer service soon. Please wait."
+
+msgctxt "NoAsk"
+msgid "No question yet."
+msgstr "No question yet."
+
+msgctxt "AskLinkText"
+msgid "Altogether Are %d Records"
+msgstr "Altogether Are %d Records"
+
+msgctxt "AskNoText"
+msgid "Please enter your question."
+msgstr "Please enter your question."
+
+msgctxt "AskNoMessagefromname"
+msgid "Please enter your name."
+msgstr "Please enter your name."
+
+msgctxt "AskNoasking"
+msgid "Please select your question category."
+msgstr "Please select your question category."
+
+msgctxt "ProductNumAskall"
+msgid "Altogether are <strong>"
+msgstr "Altogether are <strong>"
+
+msgctxt "ProductNumAsk"
+msgid " </strong>records"
+msgstr " </strong>records"
+
+msgctxt "AskNotice"
+msgid "(Tip: Please select your question category first, so that we could answer you timely and accurately.)"
+msgstr "(Tip: Please select your question category first, so that we could answer you timely and accurately.)"
+
+msgctxt "InvalidAskFormInput"
+msgid "Submit error!"
+msgstr "Submit error!"
+
+msgctxt "ServiceOnLine"
+msgid "Our Service"
+msgstr "Our Service"
+
+msgctxt "EnterValidEmail"
+msgid "Please enter your accessible email address to get the answer information."
+msgstr "Please enter your accessible email address to get the answer information."

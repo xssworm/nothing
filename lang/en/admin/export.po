@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "Continue"
+msgid "Continue"
+msgstr "Continue"
+
+msgctxt "ExportTitle"
+msgid "Export %s"
+msgstr "Export %s"
+
+msgctxt "ExportIntro"
+msgid "Use the form below to choose how you would like your %s exported. To create a new export template, use the Tools -> Export Templates menu at the top right of the page."
+msgstr "Use the form below to choose how you would like your %s exported. To create a new export template, use the Tools -> Export Templates menu at the top right of the page."
+
+msgctxt "ExportDetails"
+msgid "Export Options"
+msgstr "Export Options"
+
+msgctxt "ExportFormatTitle"
+msgid "Export Template and File Format Options"
+msgstr "Export Template and File Format Options"
+
+msgctxt "ExportFileFormat"
+msgid "File Format"
+msgstr "File Format"
+
+msgctxt "CSVFormat"
+msgid "CSV (Comma Separated)"
+msgstr "CSV (Comma Separated)"
+
+msgctxt "XMLFormat"
+msgid "XML"
+msgstr "XML"
+
+msgctxt "TemplateLabel"
+msgid "Template"
+msgstr "Template"
+
+msgctxt "SelectTemplate"
+msgid "Select a template..."
+msgstr "Select a template..."
+
+msgctxt "SelectTemplateHelp"
+msgid "This is the Export Template that will be used to export the data."
+msgstr "This is the Export Template that will be used to export the data."
+
+msgctxt "AllData"
+msgid "All %s"
+msgstr "All %s"
+
+msgctxt "NoTemplateSelected"
+msgid "Please choose an export template first."
+msgstr "Please choose an export template first."
+
+msgctxt "NoMethodSelected"
+msgid "Please choose an export method first."
+msgstr "Please choose an export method first."
+
+msgctxt "NoDataFound"
+msgid "Your store has no %s which can be exported."
+msgstr "Your store has no %s which can be exported."
+
+msgctxt "DataCustomView"
+msgid "Custom View: %s"
+msgstr "Custom View: %s"
+
+msgctxt "SearchNotFound"
+msgid "The specified custom search could not be found"
+msgstr "The specified custom search could not be found"
+
+msgctxt "Incomplete"
+msgid "Incomplete"
+msgstr "Incomplete"
+
+msgctxt "InvalidType"
+msgid "An invalid export type was specified"
+msgstr "An invalid export type was specified"
+
+msgctxt "TypeNotAvailable"
+msgid "The file type &quot;%s&quot; is not available for this template"
+msgstr "The file type &quot;%s&quot; is not available for this template"
+
+msgctxt "ExportSummary"
+msgid "The <strong>%s</strong> %s shown below will be exported when you click the continue button."
+msgstr "The <strong>%s</strong> %s shown below will be exported when you click the continue button."
+
+msgctxt "NoExportTemplatesFound"
+msgid "No templates have been created. Please <a href='index.php?ToDo=createExportTemplate'>create an export template</a> to export data."
+msgstr "No templates have been created. Please <a href='index.php?ToDo=createExportTemplate'>create an export template</a> to export data."
+
+msgctxt "BuiltInTemplates"
+msgid "Built In Templates"
+msgstr "Built In Templates"
+
+msgctxt "MyTemplates"
+msgid "Custom Templates"
+msgstr "Custom Templates"
+
+msgctxt "DataSummary"
+msgid "Export Preview"
+msgstr "Export Preview"
+
+msgctxt "CancelMessage"
+msgid "Are you sure you want to cancel exporting? Click OK to confirm."
+msgstr "Are you sure you want to cancel exporting? Click OK to confirm."
+
+msgctxt "UnableToCreateTempFile"
+msgid "Unable to create temporary export file."
+msgstr "Unable to create temporary export file."
+
+msgctxt "UnableToOpenTempFile"
+msgid "Unable to open temporary export file for writing."
+msgstr "Unable to open temporary export file for writing."
+
+msgctxt "AjaxExportIntro"
+msgid "Click the link below to begin the export. When the export is complete, a link will be displayed to allow you to download the file."
+msgstr "Click the link below to begin the export. When the export is complete, a link will be displayed to allow you to download the file."
+
+msgctxt "AjaxExportLink"
+msgid "Export my :title to a :type file"
+msgstr "Export my :title to a :type file"

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "MethodHelp"
+msgid "Choose this option if you will be working with the export file in Microsoft Excel or another program that supports the CSV file format."
+msgstr "Choose this option if you will be working with the export file in Microsoft Excel or another program that supports the CSV file format."
+
+msgctxt "MethodTitle"
+msgid "Export to Microsoft Excel (CSV)"
+msgstr "Export to Microsoft Excel (CSV)"
+
+msgctxt "CSVSettingsTitle"
+msgid "Advanced CSV Export Settings"
+msgstr "Advanced CSV Export Settings"
+
+msgctxt "IncludeHeader"
+msgid "First Line as Field Names?"
+msgstr "First Line as Field Names?"
+
+msgctxt "YesIncludeHeader"
+msgid "Yes, the first line should list all field names"
+msgstr "Yes, the first line should list all field names"
+
+msgctxt "IncludeHeaderHelp"
+msgid "Tick this option to make the first line of the export file contain the names of the fields being exported, such as:<br /><br />First Name, Last Name, Phone Number, State, Country"
+msgstr "Tick this option to make the first line of the export file contain the names of the fields being exported, such as:<br /><br />First Name, Last Name, Phone Number, State, Country"
+
+msgctxt "SubItems"
+msgid "Sub Items:"
+msgstr "Sub Items:"
+
+msgctxt "CombineSubItems"
+msgid "Combine sub items into one field"
+msgstr "Combine sub items into one field"
+
+msgctxt "ExpandSubItems"
+msgid "Expand sub items across the csv"
+msgstr "Expand sub items across the csv"
+
+msgctxt "RowsSubItems"
+msgid "Create one row per sub item"
+msgstr "Create one row per sub item"
+
+msgctxt "CombineSubItemsHelp"
+msgid "Tick this option to combine sub items (such as product variations or sub categories) together in one field. Untick it to export them one per line instead."
+msgstr "Tick this option to combine sub items (such as product variations or sub categories) together in one field. Untick it to export them one per line instead."
+
+msgctxt "SubItemSeparator"
+msgid "Sub Items Separator"
+msgstr "Sub Items Separator"
+
+msgctxt "SubItemSeparatorHelp"
+msgid "Which character should be used to separate each sub item? This character must be different to the \'Field Separator\' character."
+msgstr "Which character should be used to separate each sub item? This character must be different to the \'Field Separator\' character."
+
+msgctxt "SubItemSeparatorValidate"
+msgid "Please enter a character for the Sub Items Separator."
+msgstr "Please enter a character for the Sub Items Separator."
+
+msgctxt "SubItemSeparatorIsSame"
+msgid "Please enter a Sub Item Separator character that is different from the Field Separator character."
+msgstr "Please enter a Sub Item Separator character that is different from the Field Separator character."
+
+msgctxt "FieldSeparator"
+msgid "Field Separator"
+msgstr "Field Separator"
+
+msgctxt "FieldSeparatorHelp"
+msgid "This character separates each field in your CSV file. It is typically a comma (,) or a tab. To use a tab as the separator, enter the word TAB."
+msgstr "This character separates each field in your CSV file. It is typically a comma (,) or a tab. To use a tab as the separator, enter the word TAB."
+
+msgctxt "FieldSeparatorValidate"
+msgid "Please enter a single character or the word TAB for the Field Separator."
+msgstr "Please enter a single character or the word TAB for the Field Separator."
+
+msgctxt "FieldEnclosure"
+msgid "Field Enclosure"
+msgstr "Field Enclosure"
+
+msgctxt "FieldEnclosureHelp"
+msgid "This character encloses the contents of each field in the record. It is typically a double quote (&quot;)."
+msgstr "This character encloses the contents of each field in the record. It is typically a double quote (&quot;)."
+
+msgctxt "FieldEnclosureValidate"
+msgid "Please enter a character for the Field Enclosure"
+msgstr "Please enter a character for the Field Enclosure"
+
+msgctxt "LineEnding"
+msgid "New Line Character"
+msgstr "New Line Character"
+
+msgctxt "LineEndingHelp"
+msgid "Different operating systems use different characters to determine the end of a line. Choose which operating system you will be using the exported files on and the new line character will be set for that operating system."
+msgstr "Different operating systems use different characters to determine the end of a line. Choose which operating system you will be using the exported files on and the new line character will be set for that operating system."
+
+msgctxt "BlankLine"
+msgid "Blank Line Between Records?"
+msgstr "Blank Line Between Records?"
+
+msgctxt "YesBlankLine"
+msgid "Yes, separate each record by a blank line"
+msgstr "Yes, separate each record by a blank line"
+
+msgctxt "AltCustomers"
+msgid "Customer Addresses Horizontal?"
+msgstr "Customer Addresses Horizontal?"
+
+msgctxt "YesAltCustomers"
+msgid "Yes, repeat addresses horizontally"
+msgstr "Yes, repeat addresses horizontally"
+
+msgctxt "AltCustomersHelp"
+msgid "Tick this option to have addresses repeated horizontally across the CSV, rather than repeating the customer record multiple times or combining them into a single field."
+msgstr "Tick this option to have addresses repeated horizontally across the CSV, rather than repeating the customer record multiple times or combining them into a single field."

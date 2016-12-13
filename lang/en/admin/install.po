@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "InstallInterspireShoppingCart"
+msgid "Install Interspire Shopping Cart"
+msgstr "Install Interspire Shopping Cart"
+
+msgctxt "InstallIntro"
+msgid "Complete the form below to install Interspire Shopping Cart. Required fields are marked with an asterisk. Move your mouse over the help icons for help."
+msgstr "Complete the form below to install Interspire Shopping Cart. Required fields are marked with an asterisk. Move your mouse over the help icons for help."
+
+msgctxt "LicenseKey"
+msgid "License Key"
+msgstr "License Key"
+
+msgctxt "Continue"
+msgid "Continue"
+msgstr "Continue"
+
+msgctxt "LicenseDetails"
+msgid "License Details"
+msgstr "License Details"
+
+msgctxt "MySQLDetails"
+msgid "MySQL Database Details"
+msgstr "MySQL Database Details"
+
+msgctxt "StoreDetails"
+msgid "Store Details"
+msgstr "Store Details"
+
+msgctxt "DatabaseUserHelp"
+msgid "The username of the MySQL account that has access to your database, such as \'root\'."
+msgstr "The username of the MySQL account that has access to your database, such as \'root\'."
+
+msgctxt "DatabasePasswordHelp"
+msgid "The password of the MySQL account that has access to your database. This field is optional as not all MySQL accounts have passwords."
+msgstr "The password of the MySQL account that has access to your database. This field is optional as not all MySQL accounts have passwords."
+
+msgctxt "DatabaseHostnameHelp"
+msgid "The server where your MySQL database is located. Most of the time this is simply \'localhost\', however your web host might have a separate database server. If this is the case then type your database hostname here, such as \'db1.myhost.com\'."
+msgstr "The server where your MySQL database is located. Most of the time this is simply \'localhost\', however your web host might have a separate database server. If this is the case then type your database hostname here, such as \'db1.myhost.com\'."
+
+msgctxt "DatabaseNameHelp"
+msgid "The name of your MySQL database, which you should have already created from either your web hosting control panel or the database tool PHPMyAdmin."
+msgstr "The name of your MySQL database, which you should have already created from either your web hosting control panel or the database tool PHPMyAdmin."
+
+msgctxt "DatabaseTablePrefixHelp"
+msgid "An optional word or phrase that will be prefixed to each table in your MySQL database before they are created.<br /><br />If you have multiple applications installed and are using the same database then you can specify a table prefix to make it easier for you to tell which tables are used by which applications."
+msgstr "An optional word or phrase that will be prefixed to each table in your MySQL database before they are created.<br /><br />If you have multiple applications installed and are using the same database then you can specify a table prefix to make it easier for you to tell which tables are used by which applications."
+
+msgctxt "LicenseKeyHelp"
+msgid "Your license key allows you to install Interspire Shopping Cart on one web site. You need to generate your license key from the Interspire client area before you can proceed with the installation wizard. Once you\'ve generated your license key, paste it into this box."
+msgstr "Your license key allows you to install Interspire Shopping Cart on one web site. You need to generate your license key from the Interspire client area before you can proceed with the installation wizard. Once you\'ve generated your license key, paste it into this box."
+
+msgctxt "HasDB"
+msgid "I have already created a MySQL database"
+msgstr "I have already created a MySQL database"
+
+msgctxt "HasNoDB"
+msgid "I have not created a MySQL database"
+msgstr "I have not created a MySQL database"
+
+msgctxt "WhatIsMySQLDB"
+msgid "What is a MySQL Database?"
+msgstr "What is a MySQL Database?"
+
+msgctxt "DBHelpText"
+msgid "A MySQL database is where Interspire Shopping Cart saves your list of products, orders, customers, etc. You need to create a MySQL database before the installer can continue:<ul><li><a href=javascript:void(0) onclick=DBHelp('cpanel')>Help on how to create a database in CPanel</a></li><li><a href=javascript:void(0) onclick=DBHelp('plesk')>Help on how to create a database in Plesk</a></li><li><a href=javascript:void(0) onclick=DBHelp('other')>My hosting company runs a different control panel</a></li></ul>"
+msgstr "A MySQL database is where Interspire Shopping Cart saves your list of products, orders, customers, etc. You need to create a MySQL database before the installer can continue:<ul><li><a href=javascript:void(0) onclick=DBHelp('cpanel')>Help on how to create a database in CPanel</a></li><li><a href=javascript:void(0) onclick=DBHelp('plesk')>Help on how to create a database in Plesk</a></li><li><a href=javascript:void(0) onclick=DBHelp('other')>My hosting company runs a different control panel</a></li></ul>"
+
+msgctxt "PermissionsError"
+msgid "Before you can install Interspire Shopping Cart you need to set the appropriate permissions on the files/folders listed below:"
+msgstr "Before you can install Interspire Shopping Cart you need to set the appropriate permissions on the files/folders listed below:"
+
+msgctxt "LKBad"
+msgid "The license key that you entered is invalid. The URL that you generated this license key must match the URL that you are attempting to install on. You can generate your license key from the Interspire client area or purchase one from Interspire.com."
+msgstr "The license key that you entered is invalid. The URL that you generated this license key must match the URL that you are attempting to install on. You can generate your license key from the Interspire client area or purchase one from Interspire.com."
+
+msgctxt "Oops"
+msgid "Oops. Something Went Wrong..."
+msgstr "Oops. Something Went Wrong..."
+
+msgctxt "DBErr"
+msgid "The database details you entered are incorrect: %s"
+msgstr "The database details you entered are incorrect: %s"
+
+msgctxt "ConfigErr"
+msgid "The config/config.php file couldn't be saved. Please CHMOD it to 646 or 666."
+msgstr "The config/config.php file couldn't be saved. Please CHMOD it to 646 or 666."
+
+msgctxt "BadPHPVersion"
+msgid "Your Server is Running an Outdated Version of PHP"
+msgstr "Your Server is Running an Outdated Version of PHP"
+
+msgctxt "BadMySQLVersion"
+msgid "Old/Outdated Version of MySQL"
+msgstr "Old/Outdated Version of MySQL"
+
+msgctxt "GDRequired"
+msgid "Your Server Does Not have the PHP-GD Image Library Installed"
+msgstr "Your Server Does Not have the PHP-GD Image Library Installed"
+
+msgctxt "GDRequiredMessage"
+msgid "Interspire Shopping Cart requires the PHP-GD image library to run correctly. The PHP-GD image library is required to automatically generate thumbnail images for products in your store. You will need to ask your web host to install it before installation can continue."
+msgstr "Interspire Shopping Cart requires the PHP-GD image library to run correctly. The PHP-GD image library is required to automatically generate thumbnail images for products in your store. You will need to ask your web host to install it before installation can continue."
+
+msgctxt "PHPV5Message"
+msgid "Interspire Shopping Cart requires PHP %s or above to run. You're currently running %s. You will need to ask your web host to upgrade PHP before installation can continue."
+msgstr "Interspire Shopping Cart requires PHP %s or above to run. You're currently running %s. You will need to ask your web host to upgrade PHP before installation can continue."
+
+msgctxt "MySQLV4Message"
+msgid "Interspire Shopping Cart requires MySQL %s or above to run. You're currently running %s. You will need to ask your web host to upgrade MySQL before installation can continue."
+msgstr "Interspire Shopping Cart requires MySQL %s or above to run. You're currently running %s. You will need to ask your web host to upgrade MySQL before installation can continue."
+
+msgctxt "ServerConfigurationDetails"
+msgid "Server Configuration Details"
+msgstr "Server Configuration Details"
+
+msgctxt "SendServerDetails"
+msgid "Send anonymous server details to Interspire (recommended)"
+msgstr "Send anonymous server details to Interspire (recommended)"
+
+msgctxt "ServerDetailsInfo"
+msgid "-- Server Configuration Details --\n\nIf you tick this box then various details about your web server will be sent back to Interspire anonymously. These details include which versions of PHP and MySQL you\'re running, server operating system, which extensions your server is running, etc.\n\nSending this information back to Interspire helps us to make our software as compatible as possible with as many different server configurations as possible."
+msgstr "-- Server Configuration Details --\n\nIf you tick this box then various details about your web server will be sent back to Interspire anonymously. These details include which versions of PHP and MySQL you\'re running, server operating system, which extensions your server is running, etc.\n\nSending this information back to Interspire helps us to make our software as compatible as possible with as many different server configurations as possible."
+
+msgctxt "WhatWillBeSent"
+msgid "What will be sent and why?"
+msgstr "What will be sent and why?"
+
+msgctxt "UserAccountDetails"
+msgid "User Account Details"
+msgstr "User Account Details"
+
+msgctxt "EmailAddress"
+msgid "Email Address"
+msgstr "Email Address"
+
+msgctxt "InstallEmailAddressHelp"
+msgid "Type your email address here. Your email address is used when you need to retrieve or change the password for your user account."
+msgstr "Type your email address here. Your email address is used when you need to retrieve or change the password for your user account."
+
+msgctxt "ChooseAPassword"
+msgid "Choose a Password"
+msgstr "Choose a Password"
+
+msgctxt "ChooseAPasswordHelp"
+msgid "Choose a password that you will use to login to the Interspire Shopping Cart control panel. It should be at least 5 characters long."
+msgstr "Choose a password that you will use to login to the Interspire Shopping Cart control panel. It should be at least 5 characters long."
+
+msgctxt "ConfirmYourPassword"
+msgid "Confirm Your Password"
+msgstr "Confirm Your Password"
+
+msgctxt "ConfirmYourPasswordHelp"
+msgid "Type your password again. Typing your password twice makes sure you didn\'t misspell your password the first time."
+msgstr "Type your password again. Typing your password twice makes sure you didn\'t misspell your password the first time."
+
+msgctxt "LoginNow"
+msgid "Login Now"
+msgstr "Login Now"
+
+msgctxt "InstallationCompleted"
+msgid "Interspire Shopping Cart has been installed successfully. Your control panel username is <b style='font-size:14px; color:#FF5C1B'>admin</b> and your password is <b style='font-size:14px; color:#FF5C1B'>%s</b>."
+msgstr "Interspire Shopping Cart has been installed successfully. Your control panel username is <b style='font-size:14px; color:#FF5C1B'>admin</b> and your password is <b style='font-size:14px; color:#FF5C1B'>%s</b>."
+
+msgctxt "InstallSampleData"
+msgid "Add sample products"
+msgstr "Add sample products"
+
+msgctxt "InstallSampleDataHelp"
+msgid "Tick this box to have sample products, categories and brand names automatically added to your store. You can always remove them later."
+msgstr "Tick this box to have sample products, categories and brand names automatically added to your store. You can always remove them later."
+
+msgctxt "InstallMissingShopPath"
+msgid "Please supply the full URL to your shop."
+msgstr "Please supply the full URL to your shop."
+
+msgctxt "InstallMissingUserEmail"
+msgid "Please supply an email address for the store administrator account."
+msgstr "Please supply an email address for the store administrator account."
+
+msgctxt "InstallMissingUserPass"
+msgid "Please supply a password for the store administrator account."
+msgstr "Please supply a password for the store administrator account."
+
+msgctxt "InstallMissingDbServer"
+msgid "Please enter the hostname of your MySQL database server."
+msgstr "Please enter the hostname of your MySQL database server."
+
+msgctxt "InstallMissingDbUser"
+msgid "Please enter the username you use to connect to your MySQL database server."
+msgstr "Please enter the username you use to connect to your MySQL database server."
+
+msgctxt "InstallMissingDbPass"
+msgid "Please enter the password you use to connect to your MySQL database server."
+msgstr "Please enter the password you use to connect to your MySQL database server."
+
+msgctxt "InstallMissingDbDatabase"
+msgid "Please enter the name of the database you wish to install Interspire Shopping Cart in to."
+msgstr "Please enter the name of the database you wish to install Interspire Shopping Cart in to."
+
+msgctxt "SimpleXMLRequired"
+msgid "Your Server Does Not have the PHP SimpleXML Library Installed"
+msgstr "Your Server Does Not have the PHP SimpleXML Library Installed"
+
+msgctxt "SimpleXMLRequiredMessage"
+msgid "Interspire Shopping Cart requires the PHP SimpleXML library to run correctly. You will need to ask your web host to install it before installation can continue."
+msgstr "Interspire Shopping Cart requires the PHP SimpleXML library to run correctly. You will need to ask your web host to install it before installation can continue."
+
+msgctxt "ShopPathHelp"
+msgid "The full path to your eCommerce store as you would type it into a web browser."
+msgstr "The full path to your eCommerce store as you would type it into a web browser."
+
+msgctxt "DatabaseSettings"
+msgid "Database Settings"
+msgstr "Database Settings"
+
+msgctxt "DatabaseType"
+msgid "Database Type"
+msgstr "Database Type"
+
+msgctxt "DatabaseUser"
+msgid "Database User"
+msgstr "Database User"
+
+msgctxt "DatabasePassword"
+msgid "Database Password"
+msgstr "Database Password"
+
+msgctxt "DatabaseHostname"
+msgid "Database Hostname"
+msgstr "Database Hostname"
+
+msgctxt "DatabaseName"
+msgid "Database Name"
+msgstr "Database Name"
+
+msgctxt "DatabaseTablePrefix"
+msgid "Database Table Prefix"
+msgstr "Database Table Prefix"
+
+msgctxt "DatabaseVersion"
+msgid "Database Version"
+msgstr "Database Version"
+
+msgctxt "ShopPath"
+msgid "Store Web Site"
+msgstr "Store Web Site"
+
+msgctxt "StoreCountryLocation"
+msgid "Store Country Location"
+msgstr "Store Country Location"
+
+msgctxt "StoreCountryLocationHelp"
+msgid "The country that this store and currency will be associated with."
+msgstr "The country that this store and currency will be associated with."
+
+msgctxt "InstallMissingStoreCountryLocation"
+msgid "Please select a country for your store."
+msgstr "Please select a country for your store."
+
+msgctxt "StoreCurrencyCode"
+msgid "Store Currency Code"
+msgstr "Store Currency Code"
+
+msgctxt "StoreCurrencyCodeHelp"
+msgid "The store currency code that you will be trading with. The currency code is the international 3 letter code for the currency, such as AUD for Australian Dollars or USD for US Dollars."
+msgstr "The store currency code that you will be trading with. The currency code is the international 3 letter code for the currency, such as AUD for Australian Dollars or USD for US Dollars."
+
+msgctxt "InstallMissingStoreCurrencyCode"
+msgid "Please enter a valid currency code. The currency code consists of 3 letters only."
+msgstr "Please enter a valid currency code. The currency code consists of 3 letters only."
+
+msgctxt "InstallInvalidStoreCurrencyCode"
+msgid "The currency code provided is not real. Only a real currency code and be entered."
+msgstr "The currency code provided is not real. Only a real currency code and be entered."
+
+msgctxt "InstallDefaultCurrencyName"
+msgid "Default Currency"
+msgstr "Default Currency"
+
+msgctxt "InstallDefaultCurrencyString"
+msgid "&#36;"
+msgstr "&#36;"
+
+msgctxt "InstallDefaultCurrencyStringPosition"
+msgid "left"
+msgstr "left"
+
+msgctxt "InstallDefaultCurrencyDecimalString"
+msgid "."
+msgstr "."
+
+msgctxt "InstallDefaultCurrencyThousandString"
+msgid ","
+msgstr ","
+
+msgctxt "InstallDefaultCurrencyDecimalPlace"
+msgid "2"
+msgstr "2"
+
+msgctxt "PhoneNo"
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgctxt "PhoneNoHelp"
+msgid "Please enter your contact phone number."
+msgstr "Please enter your contact phone number."
+
+msgctxt "LicenseType"
+msgid "License Type"
+msgstr "License Type"
+
+msgctxt "Edition1"
+msgid "Starter"
+msgstr "Starter"
+
+msgctxt "Edition2"
+msgid "Professional"
+msgstr "Professional"
+
+msgctxt "Edition4"
+msgid "Ultimate"
+msgstr "Ultimate"
+
+msgctxt "Edition8"
+msgid "Vendor"
+msgstr "Vendor"
+
+msgctxt "DatabaseDriver"
+msgid "Database Driver"
+msgstr "Database Driver"
+
+msgctxt "StoreName"
+msgid "Store Name"
+msgstr "Store Name"
+
+msgctxt "StoreAddress"
+msgid "Store Address"
+msgstr "Store Address"
+
+msgctxt "StoreNameHelp"
+msgid "Type your store name here."
+msgstr "Type your store name here."
+
+msgctxt "StoreAddressHelp"
+msgid "Type your store address here."
+msgstr "Type your store address here."

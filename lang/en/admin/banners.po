@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ViewBanners"
+msgid "View Banners"
+msgstr "View Banners"
+
+msgctxt "BannerIntro"
+msgid "Banners allow you to add promotional links and images throughout your store to advertise special deals and discounts to your shoppers."
+msgstr "Banners allow you to add promotional links and images throughout your store to advertise special deals and discounts to your shoppers."
+
+msgctxt "CreateBanner"
+msgid "Create a Banner"
+msgstr "Create a Banner"
+
+msgctxt "BannerName"
+msgid "Banner Name"
+msgstr "Banner Name"
+
+msgctxt "BannerLocation"
+msgid "Location"
+msgstr "Location"
+
+msgctxt "BannerLinksTo"
+msgid "Links to"
+msgstr "Links to"
+
+msgctxt "NoBanners"
+msgid "No banners have been created. Please click the &quot;Create Banner&quot; button to create one."
+msgstr "No banners have been created. Please click the &quot;Create Banner&quot; button to create one."
+
+msgctxt "NoBannerResults"
+msgid "No banners were found matching your search criteria, please try again."
+msgstr "No banners were found matching your search criteria, please try again."
+
+msgctxt "BannerClicks"
+msgid "Clicks"
+msgstr "Clicks"
+
+msgctxt "ConfirmCancelBanner"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "NewBannerDetails"
+msgid "Banner Details"
+msgstr "Banner Details"
+
+msgctxt "BannerContent"
+msgid "Banner Content"
+msgstr "Banner Content"
+
+msgctxt "YesBannerVisible"
+msgid "Yes, this banner should be visible on my web site"
+msgstr "Yes, this banner should be visible on my web site"
+
+msgctxt "BannerHomePage"
+msgid "Home Page"
+msgstr "Home Page"
+
+msgctxt "BannerCategoryPage"
+msgid "For a Specific Category"
+msgstr "For a Specific Category"
+
+msgctxt "BannerBrandPage"
+msgid "For a Specific Brand"
+msgstr "For a Specific Brand"
+
+msgctxt "BannerSearchPage"
+msgid "Search Results Page"
+msgstr "Search Results Page"
+
+msgctxt "BannerDateRange"
+msgid "Date Range"
+msgstr "Date Range"
+
+msgctxt "BannerDisplayBetween"
+msgid "Only display this banner between specific dates"
+msgstr "Only display this banner between specific dates"
+
+msgctxt "BannerTo"
+msgid "To"
+msgstr "To"
+
+msgctxt "BannerPage"
+msgid "Show on Page"
+msgstr "Show on Page"
+
+msgctxt "BannerFrom"
+msgid "From"
+msgstr "From"
+
+msgctxt "BannerDisplayAlways"
+msgid "Always show this banner until I remove it"
+msgstr "Always show this banner until I remove it"
+
+msgctxt "ChooseABrand"
+msgid "-- Choose a Brand --"
+msgstr "-- Choose a Brand --"
+
+msgctxt "ChooseALocation"
+msgid "-- Choose a Location --"
+msgstr "-- Choose a Location --"
+
+msgctxt "TopOfPage"
+msgid "Top of Page"
+msgstr "Top of Page"
+
+msgctxt "BottomOfPage"
+msgid "Bottom of Page"
+msgstr "Bottom of Page"
+
+msgctxt "RightSideOfPage"
+msgid "Right Side of Page"
+msgstr "Right Side of Page"
+
+msgctxt "BannerNameHelp"
+msgid "This name is for your reference only and will not be shown on your web site. You should name the banner after what it will display, such as \'Christmas Promotion\' or \'25% off Apple iPods\'."
+msgstr "This name is for your reference only and will not be shown on your web site. You should name the banner after what it will display, such as \'Christmas Promotion\' or \'25% off Apple iPods\'."
+
+msgctxt "BannerContentHelp"
+msgid "This is what your banner will look like when it\'s displayed on your site. You can add text, images, links, etc as required."
+msgstr "This is what your banner will look like when it\'s displayed on your site. You can add text, images, links, etc as required."
+
+msgctxt "BannerPageHelp"
+msgid "On which page should this banner appear on your web site? Possible options are:<br /><br />Home Page - The banner will appear on the main page of your web site.<br /><br />Category - The banner will appear on your site when a customer is browsing the selected category.<br /><br />Brand - The banner will appear on your site when a customer is browsing products under the selected brand.<br /><br />Search Results - The banner will appear on the search results page of your site."
+msgstr "On which page should this banner appear on your web site? Possible options are:<br /><br />Home Page - The banner will appear on the main page of your web site.<br /><br />Category - The banner will appear on your site when a customer is browsing the selected category.<br /><br />Brand - The banner will appear on your site when a customer is browsing products under the selected brand.<br /><br />Search Results - The banner will appear on the search results page of your site."
+
+msgctxt "BannerDateRangeHelp"
+msgid "If you only want the banner to appear between a specific date range then choose the \'Only display this banner between specific dates\' option and select the required date range."
+msgstr "If you only want the banner to appear between a specific date range then choose the \'Only display this banner between specific dates\' option and select the required date range."
+
+msgctxt "BannerLocationHelp"
+msgid "Where on the page should the banner appear? Choose \'Top of Page\' to have it appear near the top of the page and under the main heading. Choose \'Bottom of Page\' to have it appear above the footer of the page."
+msgstr "Where on the page should the banner appear? Choose \'Top of Page\' to have it appear near the top of the page and under the main heading. Choose \'Bottom of Page\' to have it appear above the footer of the page."
+
+msgctxt "EnterBannerName"
+msgid "Please enter a banner name."
+msgstr "Please enter a banner name."
+
+msgctxt "EnterBannerContent"
+msgid "Please enter some content for this banner."
+msgstr "Please enter some content for this banner."
+
+msgctxt "BannerChooseCat"
+msgid "Please choose a category."
+msgstr "Please choose a category."
+
+msgctxt "BannerChooseBrand"
+msgid "Please choose a brand."
+msgstr "Please choose a brand."
+
+msgctxt "ChooseBannerLocation"
+msgid "Please choose a banner location."
+msgstr "Please choose a banner location."
+
+msgctxt "ChooseBannerShow"
+msgid "Please choose which page this banner should appear on."
+msgstr "Please choose which page this banner should appear on."
+
+msgctxt "AddBannerSuccess"
+msgid "The new banner has been saved successfully."
+msgstr "The new banner has been saved successfully."
+
+msgctxt "AddBannerFailed"
+msgid "Something went wrong when trying to create the new banner. Please try again."
+msgstr "Something went wrong when trying to create the new banner. Please try again."
+
+msgctxt "BannerNameExists"
+msgid "A banner with the name '%s' already exists. Please use a different name."
+msgstr "A banner with the name '%s' already exists. Please use a different name."
+
+msgctxt "DateCreated"
+msgid "Date Created"
+msgstr "Date Created"
+
+msgctxt "EditThisBanner"
+msgid "Edit this banner"
+msgstr "Edit this banner"
+
+msgctxt "BannerTopOfPage"
+msgid "Top of Page"
+msgstr "Top of Page"
+
+msgctxt "BannerBottomOfPage"
+msgid "Bottom of Page"
+msgstr "Bottom of Page"
+
+msgctxt "BannerCategory"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "ProductsPage"
+msgid "Products Page"
+msgstr "Products Page"
+
+msgctxt "SearchResultsPage"
+msgid "Search Results Page"
+msgstr "Search Results Page"
+
+msgctxt "ClickToHideBanner"
+msgid "Click here to make this banner non-visible on your web site"
+msgstr "Click here to make this banner non-visible on your web site"
+
+msgctxt "ClickToShowBanner"
+msgid "Click here to make this banner visible on your web site"
+msgstr "Click here to make this banner visible on your web site"
+
+msgctxt "ChangeBannerStatusSuccess"
+msgid "The visibility of the selected banner has been changed successfully."
+msgstr "The visibility of the selected banner has been changed successfully."
+
+msgctxt "ChangeBannerStatusFailed"
+msgid "An error occurred while trying to change the visibility of this banner: %s"
+msgstr "An error occurred while trying to change the visibility of this banner: %s"
+
+msgctxt "ChooseBanners"
+msgid "Please choose at least one banner to delete."
+msgstr "Please choose at least one banner to delete."
+
+msgctxt "ConfirmDeleteBanners"
+msgid "WARNING: This will permanently remove the selected banner(s). Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected banner(s). Are you sure you wish to do this?"
+
+msgctxt "BannersDeletedSuccessfully"
+msgid "The selected banners have been deleted successfully."
+msgstr "The selected banners have been deleted successfully."
+
+msgctxt "BannersDeletedFailed"
+msgid "Something went wrong when trying to delete the selected banners: %s"
+msgstr "Something went wrong when trying to delete the selected banners: %s"
+
+msgctxt "EditBanner"
+msgid "Edit Banner"
+msgstr "Edit Banner"
+
+msgctxt "EditBannerSuccess"
+msgid "The selected banner has been updated successfully."
+msgstr "The selected banner has been updated successfully."
+
+msgctxt "EditBannerFailed"
+msgid "Something went wrong when trying to update the selected banner. Please try again."
+msgstr "Something went wrong when trying to update the selected banner. Please try again."
+
+msgctxt "LocationSortAsc"
+msgid "Sort by Location (ascending)"
+msgstr "Sort by Location (ascending)"
+
+msgctxt "LocationSortDesc"
+msgid "Sort by Location (descending)"
+msgstr "Sort by Location (descending)"
+
+msgctxt "ManageBanners"
+msgid "Manage Banners"
+msgstr "Manage Banners"

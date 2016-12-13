@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ManageDiscountIntro"
+msgid "Discount rules allow you to specify conditions which can trigger a discount in your store, such as buy one, get one free or free shipping on orders over $100."
+msgstr "Discount rules allow you to specify conditions which can trigger a discount in your store, such as buy one, get one free or free shipping on orders over $100."
+
+msgctxt "NoDiscounts"
+msgid "No discounts have been created. Please click the &quot;Create Discount&quot; button to add one."
+msgstr "No discounts have been created. Please click the &quot;Create Discount&quot; button to add one."
+
+msgctxt "CreateDiscount"
+msgid "Create a Discount Rule"
+msgstr "Create a Discount Rule"
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr "Discount"
+
+msgctxt "Enabled"
+msgid "Enabled"
+msgstr "Enabled"
+
+msgctxt "ConfirmDeleteDiscounts"
+msgid "WARNING: This will permanently remove the selected discount rule(s). Are you sure? Click OK to confirm."
+msgstr "WARNING: This will permanently remove the selected discount rule(s). Are you sure? Click OK to confirm."
+
+msgctxt "ChooseDiscounts"
+msgid "Please choose at least one discount to delete."
+msgstr "Please choose at least one discount to delete."
+
+msgctxt "DiscountCode"
+msgid "Discount Rule"
+msgstr "Discount Rule"
+
+msgctxt "ClickToDisableDiscount"
+msgid "Click here to disable this discount"
+msgstr "Click here to disable this discount"
+
+msgctxt "ClickToEnableDiscount"
+msgid "Click here to enable this discount"
+msgstr "Click here to enable this discount"
+
+msgctxt "DiscountEdit"
+msgid "Edit discount details"
+msgstr "Edit discount details"
+
+msgctxt "DiscountsDeletedSuccessfully"
+msgid "The selected discounts rules have been deleted successfully."
+msgstr "The selected discounts rules have been deleted successfully."
+
+msgctxt "ConfirmCancelDiscount"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "NewDiscountDetails"
+msgid "Discount Rule Details"
+msgstr "Discount Rule Details"
+
+msgctxt "CreateDiscountIntro"
+msgid "Discount rules allow you to specify conditions which can trigger a discount in your store, such as buy one, get one free or free shipping on orders over $100."
+msgstr "Discount rules allow you to specify conditions which can trigger a discount in your store, such as buy one, get one free or free shipping on orders over $100."
+
+msgctxt "DiscountDiscountHelp"
+msgid "Enter the discount amount to be applied to the customers order. Do not include any currency or percentage symbols, such as 25."
+msgstr "Enter the discount amount to be applied to the customers order. Do not include any currency or percentage symbols, such as 25."
+
+msgctxt "DiscountType"
+msgid "Discount Type"
+msgstr "Discount Type"
+
+msgctxt "DiscountTypeHelp"
+msgid "Choose \'Percentage Discount\' to apply the discount amount as a percentage, such as 20%% off, or choose \'Dollar Discount\' to apply the discount as a dollar amount, such as %s20 off."
+msgstr "Choose \'Percentage Discount\' to apply the discount amount as a percentage, such as 20%% off, or choose \'Dollar Discount\' to apply the discount as a dollar amount, such as %s20 off."
+
+msgctxt "PercentDiscount"
+msgid "Percentage Discount"
+msgstr "Percentage Discount"
+
+msgctxt "DollarDiscount"
+msgid "Dollar Discount"
+msgstr "Dollar Discount"
+
+msgctxt "DiscountAmount"
+msgid "Discount Amount"
+msgstr "Discount Amount"
+
+msgctxt "DiscountAmountHelp"
+msgid "The total amount this discount will deduct from each item in the order. Type in a value and then choose whether it\'s a percentage or dollar-based discount."
+msgstr "The total amount this discount will deduct from each item in the order. Type in a value and then choose whether it\'s a percentage or dollar-based discount."
+
+msgctxt "MinimumPurchase"
+msgid "Minimum Purchase"
+msgstr "Minimum Purchase"
+
+msgctxt "MinimumPurchaseHelp"
+msgid "The minimum amount that a customer must spend in one order for them to be able to apply the discount rule discount to their order."
+msgstr "The minimum amount that a customer must spend in one order for them to be able to apply the discount rule discount to their order."
+
+msgctxt "ExpiryDateHelp"
+msgid "An optional expiry date after which time this discount rule can no longer be used to receive a discount."
+msgstr "An optional expiry date after which time this discount rule can no longer be used to receive a discount."
+
+msgctxt "YesDiscountEnabled"
+msgid "Yes, this discount rule is enabled and can be used."
+msgstr "Yes, this discount rule is enabled and can be used."
+
+msgctxt "EnterValidAmount"
+msgid "Please enter a valid discount amount."
+msgstr "Please enter a valid discount amount."
+
+msgctxt "EnterValidMinPrice"
+msgid "Please enter a valid minimum purchase amount."
+msgstr "Please enter a valid minimum purchase amount."
+
+msgctxt "DiscountCreatedSuccessfully"
+msgid "The new discount rule has been created successfully."
+msgstr "The new discount rule has been created successfully."
+
+msgctxt "ErrDiscountNotAdded"
+msgid "An error occurred while trying to create this discount rule: '%s'"
+msgstr "An error occurred while trying to create this discount rule: '%s'"
+
+msgctxt "DiscountDoesntExist"
+msgid "The selected discount doesn't exist or has been removed."
+msgstr "The selected discount doesn't exist or has been removed."
+
+msgctxt "EditDiscount"
+msgid "Edit a Discount Rule"
+msgstr "Edit a Discount Rule"
+
+msgctxt "EditDiscountIntro"
+msgid "Edit the details of the discount in the form below."
+msgstr "Edit the details of the discount in the form below."
+
+msgctxt "DiscountUpdatedSuccessfully"
+msgid "The selected discount has been updated successfully."
+msgstr "The selected discount has been updated successfully."
+
+msgctxt "ErrDiscountNotUpdated"
+msgid "An error occurred while trying to update this discount: '%s'"
+msgstr "An error occurred while trying to update this discount: '%s'"
+
+msgctxt "DiscountEnabledSuccessfully"
+msgid "The status of this discount has been changed successfully."
+msgstr "The status of this discount has been changed successfully."
+
+msgctxt "ErrDiscountEnabledNotChanged"
+msgid "An error occurred while trying to change the status of this discount: %s"
+msgstr "An error occurred while trying to change the status of this discount: %s"
+
+msgctxt "DiscountHaltSuccessfully"
+msgid "The halt status of this discount has been changed successfully."
+msgstr "The halt status of this discount has been changed successfully."
+
+msgctxt "ErrDiscountHaltNotChanged"
+msgid "An halt error occurred while trying to change the status of this discount: %s"
+msgstr "An halt error occurred while trying to change the status of this discount: %s"
+
+msgctxt "ChooseCategories"
+msgid "Choose Categories"
+msgstr "Choose Categories"
+
+msgctxt "ChooseCategoriesHelp"
+msgid "Choose which categories you\'d like this discount rule to work with."
+msgstr "Choose which categories you\'d like this discount rule to work with."
+
+msgctxt "ProductIds"
+msgid "Product Ids"
+msgstr "Product Ids"
+
+msgctxt "ProductIdsHelp"
+msgid "Which products should this discount rule work with? You can find the ID of a product in the \'ID\' column on the products page. Enter the product ID\'s separated with a comma, such as:<br /><br />2145,2203,4038"
+msgstr "Which products should this discount rule work with? You can find the ID of a product in the \'ID\' column on the products page. Enter the product ID\'s separated with a comma, such as:<br /><br />2145,2203,4038"
+
+msgctxt "LoadingDiscounts"
+msgid "Loading discounts. Please wait..."
+msgstr "Loading discounts. Please wait..."
+
+msgctxt "DiscountAppliesTo"
+msgid "Discount Applies to"
+msgstr "Discount Applies to"
+
+msgctxt "DiscountAppliesToCategories"
+msgid "This discount rule can be used with these categories:"
+msgstr "This discount rule can be used with these categories:"
+
+msgctxt "DiscountAppliesToProducts"
+msgid "This discount rule can be used with these products:"
+msgstr "This discount rule can be used with these products:"
+
+msgctxt "DiscountAddProduct"
+msgid "Add a Product..."
+msgstr "Add a Product..."
+
+msgctxt "DiscountRemoveSelected"
+msgid "Remove Selected"
+msgstr "Remove Selected"
+
+msgctxt "NumUses"
+msgid "No. Uses"
+msgstr "No. Uses"
+
+msgctxt "ViewOrdersWithDiscount"
+msgid "View a list of orders to which this discount rule has been applied"
+msgstr "View a list of orders to which this discount rule has been applied"
+
+msgctxt "ViewOrders"
+msgid "View Orders"
+msgstr "View Orders"
+
+msgctxt "DiscountMaxUses"
+msgid "Maximum Uses"
+msgstr "Maximum Uses"
+
+msgctxt "DiscountMaxUsesHelp"
+msgid "Enter the number of times that this discount rule can be used before it automatically expires. Set to 0 to have this discount never expire based on the number of times it is used."
+msgstr "Enter the number of times that this discount rule can be used before it automatically expires. Set to 0 to have this discount never expire based on the number of times it is used."
+
+msgctxt "ChooseDiscountCategory"
+msgid "Please choose at least one category to which this discount can be applied."
+msgstr "Please choose at least one category to which this discount can be applied."
+
+msgctxt "EnterDiscountProductId"
+msgid "Please enter at least one product ID. You can find the ID of a product on the \'View Products\' page."
+msgstr "Please enter at least one product ID. You can find the ID of a product on the \'View Products\' page."
+
+msgctxt "DiscountNameHelp"
+msgid "A name for the discount rule. This will only be visible in the control panel by you and will never be displayed to your customers."
+msgstr "A name for the discount rule. This will only be visible in the control panel by you and will never be displayed to your customers."
+
+msgctxt "EnterDiscountName"
+msgid "Please enter a name for this discount rule."
+msgstr "Please enter a name for this discount rule."
+
+msgctxt "AppliesTo"
+msgid "Applies To"
+msgstr "Applies To"
+
+msgctxt "EnterDiscountCode"
+msgid "Please enter a rule for this discount."
+msgstr "Please enter a rule for this discount."
+
+msgctxt "DiscountCodeHelp"
+msgid "This is the name of the discount rule. It is only shown in the manage rule section."
+msgstr "This is the name of the discount rule. It is only shown in the manage rule section."
+
+msgctxt "EnterDiscountExpiresUsesAmount"
+msgid "Please enter a valid number of uses."
+msgstr "Please enter a valid number of uses."
+
+msgctxt "EnterDiscountExpiresDateAmount"
+msgid "Please choose a date after which this discount rule will become inactive."
+msgstr "Please choose a date after which this discount rule will become inactive."
+
+msgctxt "EnterDiscountSelectRule"
+msgid "Please select a rule."
+msgstr "Please select a rule."
+
+msgctxt "Halts"
+msgid "Stop After This Rule?"
+msgstr "Stop After This Rule?"
+
+msgctxt "HaltsHelp"
+msgid "The order in which discount rules appear on this page is the order in which they will be triggered in your store. You can drag and drop the \'Rule Name\' field to change their execution order.<br /><br />If this option is ticked then once this rule is executed and evaluates to true, none of the rules below it will be actioned."
+msgstr "The order in which discount rules appear on this page is the order in which they will be triggered in your store. You can drag and drop the \'Rule Name\' field to change their execution order.<br /><br />If this option is ticked then once this rule is executed and evaluates to true, none of the rules below it will be actioned."
+
+msgctxt "DiscountExpiryDate"
+msgid "Expiry Date"
+msgstr "Expiry Date"
+
+msgctxt "DiscountCurrentUses"
+msgid "Triggered"
+msgstr "Triggered"
+
+msgctxt "DiscountName"
+msgid "Rule Name"
+msgstr "Rule Name"
+
+msgctxt "DiscountDescription"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "DiscountCurrentUsesHelp"
+msgid "How many times this discount rule has <br> been triggered and evaluated as true <br> in your store."
+msgstr "How many times this discount rule has <br> been triggered and evaluated as true <br> in your store."
+
+msgctxt "DiscountExpiry"
+msgid "Expiry Date"
+msgstr "Expiry Date"
+
+msgctxt "DiscountEnabled"
+msgid "Enabled?"
+msgstr "Enabled?"
+
+msgctxt "RuleExpires"
+msgid "Rule Expiry"
+msgstr "Rule Expiry"
+
+msgctxt "RuleExpiresHelp"
+msgid "This allows you to have the discount rule expire after a date and/or after the discount rule has been used a certain amount of times."
+msgstr "This allows you to have the discount rule expire after a date and/or after the discount rule has been used a certain amount of times."
+
+msgctxt "ErrDiscountNotCreated"
+msgid "Error %s"
+msgstr "Error %s"
+
+msgctxt "DiscountFormRuleName"
+msgid "Rule Name:"
+msgstr "Rule Name:"
+
+msgctxt "DiscountFormRuleExpires"
+msgid "Should This Rule Expire?"
+msgstr "Should This Rule Expire?"
+
+msgctxt "DiscountFormEnabled"
+msgid "Is This Rule Enabled?"
+msgstr "Is This Rule Enabled?"
+
+msgctxt "DiscountFormRuleType"
+msgid "Choose a Rule Type:"
+msgstr "Choose a Rule Type:"
+
+msgctxt "DiscountFormUsesExpire"
+msgid "Make this discount rule inactive after "
+msgstr "Make this discount rule inactive after "
+
+msgctxt "DiscountFormDateExpire"
+msgid "Make this discount rule inactive after "
+msgstr "Make this discount rule inactive after "
+
+msgctxt "DiscountFormUses"
+msgid "use(s)"
+msgstr "use(s)"
+
+msgctxt "DiscountFormRuleExpiresDescription"
+msgid "Yes, this discount rule should expire after a certain date or number of uses (tick to choose)"
+msgstr "Yes, this discount rule should expire after a certain date or number of uses (tick to choose)"
+
+msgctxt "DiscountFormEnabledDescription"
+msgid " Yes, this discount rule is enabled and can be used"
+msgstr " Yes, this discount rule is enabled and can be used"
+
+msgctxt "BasedRule"
+msgid "Based Rules:"
+msgstr "Based Rules:"
+
+msgctxt "DiscountVendorWarning"
+msgid "Discount rules which apply to the order total are disabled in the multi-vendor edition because each vendor ships their own products and thus controls their own prices."
+msgstr "Discount rules which apply to the order total are disabled in the multi-vendor edition because each vendor ships their own products and thus controls their own prices."
+
+msgctxt "ChooseAProduct"
+msgid "this product (none selected)"
+msgstr "this product (none selected)"
+
+msgctxt "InfoTipManageDiscounts"
+msgid "Did you know that you can change the execution order of discount rules by dragging and dropping the &quot;Rule Name&quot; column below?"
+msgstr "Did you know that you can change the execution order of discount rules by dragging and dropping the &quot;Rule Name&quot; column below?"
+
+msgctxt "ClickToDisableHaltDiscount"
+msgid "Click here to remove the stop action on this rule"
+msgstr "Click here to remove the stop action on this rule"
+
+msgctxt "ClickToEnableHaltDiscount"
+msgid "Click here to stop discount rules below this one from running if this rule is executed and evaluates to true."
+msgstr "Click here to stop discount rules below this one from running if this rule is executed and evaluates to true."
+
+msgctxt "DiscountOrdersUpdated"
+msgid "The order of the discount rules has been changed successfully"
+msgstr "The order of the discount rules has been changed successfully"
+
+msgctxt "DiscountShowNextBatchItems"
+msgid "Show next %d discounts"
+msgstr "Show next %d discounts"
+
+msgctxt "FreeShippingMessage"
+msgid "Free Shipping Message"
+msgstr "Free Shipping Message"
+
+msgctxt "FreeShippingMessage_Help"
+msgid "If a shopper has at least one item in their cart, you can show a message which will encourage them to purchase more items so they qualify for free shipping. You can use placeholders (such as %%REMAINING_AMOUNT%%) to customize the message as required."
+msgstr "If a shopper has at least one item in their cart, you can show a message which will encourage them to purchase more items so they qualify for free shipping. You can use placeholders (such as %%REMAINING_AMOUNT%%) to customize the message as required."
+
+msgctxt "FreeShippingMessageDefault"
+msgid "Spend another %%REMAINING_AMOUNT%% to qualify for free shipping!"
+msgstr "Spend another %%REMAINING_AMOUNT%% to qualify for free shipping!"
+
+msgctxt "LearnMoreFreeShippingMessagePlaceHolder"
+msgid "Which placeholders can I use in this message?"
+msgstr "Which placeholders can I use in this message?"
+
+msgctxt "FreeShipingDiscountRulesOptions"
+msgid "Free Shiping Discount Rules Options"
+msgstr "Free Shiping Discount Rules Options"
+
+msgctxt "MessageLocation"
+msgid "Message Location"
+msgstr "Message Location"
+
+msgctxt "ShowFreeShippingMesgOnHomePage"
+msgid "Show the free shipping message on the home page"
+msgstr "Show the free shipping message on the home page"
+
+msgctxt "ShowFreeShippingMesgOnProductPage"
+msgid "Show the free shipping message on the product page"
+msgstr "Show the free shipping message on the product page"
+
+msgctxt "ShowFreeShippingMesgOnCartPage"
+msgid "Show the free shipping message on the cart page"
+msgstr "Show the free shipping message on the cart page"
+
+msgctxt "ShowFreeShippingMesgOnCheckoutPage"
+msgid "Show the free shipping message on the checkout page"
+msgstr "Show the free shipping message on the checkout page"
+
+msgctxt "EnterFreeShippingMessage"
+msgid "Please enter a free shipping message."
+msgstr "Please enter a free shipping message."
+
+msgctxt "EnterShowFreeShippingMesgOn"
+msgid "Please choose at least one message location where the free shipping message will be shown."
+msgstr "Please choose at least one message location where the free shipping message will be shown."
+
+msgctxt "InvalidFreeShippingInfo"
+msgid "Invalid Free Shipping Message/Locations Options."
+msgstr "Invalid Free Shipping Message/Locations Options."

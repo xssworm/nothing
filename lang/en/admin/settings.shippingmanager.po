@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ShippingManagerSettings"
+msgid "Shipping Manager Settings"
+msgstr "Shipping Manager Settings"
+
+msgctxt "ShippingManagerIntro"
+msgid "This page allows you to integrate your store with a shipping manager which allows you to create shipping labels, manager your customers and order status."
+msgstr "This page allows you to integrate your store with a shipping manager which allows you to create shipping labels, manager your customers and order status."
+
+msgctxt "ManageShippingWith"
+msgid "I manage my shipping with:"
+msgstr "I manage my shipping with:"
+
+msgctxt "ShippingManagerSettingsSaved"
+msgid "The Shipping Manager settings were saved successfully."
+msgstr "The Shipping Manager settings were saved successfully."
+
+msgctxt "ShippingManagerSettingsNotSaved"
+msgid "The Shipping Manager settings could not be saved."
+msgstr "The Shipping Manager settings could not be saved."

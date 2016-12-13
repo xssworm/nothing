@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "PendingItems"
+msgid "Pending..."
+msgstr "Pending..."
+
+msgctxt "StoreSnapshot"
+msgid "Store Snapshot"
+msgstr "Store Snapshot"
+
+msgctxt "ViewAllStatistics"
+msgid "View All Statistics"
+msgstr "View All Statistics"
+
+msgctxt "OrderBreakDown"
+msgid "Order Breakdown"
+msgstr "Order Breakdown"
+
+msgctxt "SwitchToGettingStarted"
+msgid "Switch to Getting Started"
+msgstr "Switch to Getting Started"
+
+msgctxt "WhatsNext"
+msgid "What's Next?"
+msgstr "What's Next?"
+
+msgctxt "NextManageOrders"
+msgid "Manage Orders"
+msgstr "Manage Orders"
+
+msgctxt "NextAddAProduct"
+msgid "Add a Product"
+msgstr "Add a Product"
+
+msgctxt "YourStoreAtAGlance"
+msgid "Your Store at a Glance..."
+msgstr "Your Store at a Glance..."
+
+msgctxt "HideThis"
+msgid "Hide This"
+msgstr "Hide This"
+
+msgctxt "ShowThis"
+msgid "Show This"
+msgstr "Show This"
+
+msgctxt "LetsGetStarted"
+msgid "Let's Get Started..."
+msgstr "Let's Get Started..."
+
+msgctxt "ViewAllOrders"
+msgid "View All Orders"
+msgstr "View All Orders"
+
+msgctxt "RecentOrders"
+msgid "Recent Orders"
+msgstr "Recent Orders"
+
+msgctxt "PendingOrders"
+msgid "Pending Orders"
+msgstr "Pending Orders"
+
+msgctxt "CompletedOrders"
+msgid "Completed Orders"
+msgstr "Completed Orders"
+
+msgctxt "RefundedOrders"
+msgid "Refunded Orders"
+msgstr "Refunded Orders"
+
+msgctxt "Home"
+msgid "Home"
+msgstr "Home"
+
+msgctxt "StoreNotificationOrderMessage"
+msgid "There is <strong>1</strong> new <a href='index.php?ToDo=viewOrders&amp;newMessages=1'>order message</a>"
+msgstr "There is <strong>1</strong> new <a href='index.php?ToDo=viewOrders&amp;newMessages=1'>order message</a>"
+
+msgctxt "StoreNotificationOrderMessageMultiple"
+msgid "There are <strong>%s</strong> new <a href='index.php?ToDo=viewOrders&amp;newMessages=1'>order messages</a>"
+msgstr "There are <strong>%s</strong> new <a href='index.php?ToDo=viewOrders&amp;newMessages=1'>order messages</a>"
+
+msgctxt "StoreNotificationPendingOrder"
+msgid "There is <strong>1</strong> <a href='index.php?ToDo=viewOrders&amp;orderStatus=1'>pending order</a>"
+msgstr "There is <strong>1</strong> <a href='index.php?ToDo=viewOrders&amp;orderStatus=1'>pending order</a>"
+
+msgctxt "StoreNotificationPendingOrderMultiple"
+msgid "There are <strong>%s</strong> <a href='index.php?ToDo=viewOrders&amp;orderStatus=1'>pending orders</a>"
+msgstr "There are <strong>%s</strong> <a href='index.php?ToDo=viewOrders&amp;orderStatus=1'>pending orders</a>"
+
+msgctxt "StoreNotificationReturnRequest"
+msgid "There is <strong>1</strong> pending <a href='index.php?ToDo=viewReturns'>return request</a>"
+msgstr "There is <strong>1</strong> pending <a href='index.php?ToDo=viewReturns'>return request</a>"
+
+msgctxt "StoreNotificationReturnRequestMultiple"
+msgid "There are <strong>%s</strong> pending <a href='index.php?ToDo=viewReturns'>return requests</a>"
+msgstr "There are <strong>%s</strong> pending <a href='index.php?ToDo=viewReturns'>return requests</a>"
+
+msgctxt "StoreNotificationPendingReview"
+msgid "There is <strong>1</strong> pending <a href='index.php?ToDo=viewReviews'>product review</a>"
+msgstr "There is <strong>1</strong> pending <a href='index.php?ToDo=viewReviews'>product review</a>"
+
+msgctxt "StoreNotificationPendingReviewMultiple"
+msgid "There are <strong>%s</strong> pending <a href='index.php?ToDo=viewReviews'>product reviews</a>"
+msgstr "There are <strong>%s</strong> pending <a href='index.php?ToDo=viewReviews'>product reviews</a>"
+
+msgctxt "StoreNotificationLowInventory"
+msgid "There is <strong>1</strong> product with a <a href='index.php?ToDo=viewProducts&amp;inventoryLow=1'>low inventory</a> level"
+msgstr "There is <strong>1</strong> product with a <a href='index.php?ToDo=viewProducts&amp;inventoryLow=1'>low inventory</a> level"
+
+msgctxt "StoreNotificationLowInventoryMultiple"
+msgid "There are <strong>%s</strong> products with <a href='index.php?ToDo=viewProducts&amp;inventoryLow=1'>low inventory</a> levels"
+msgstr "There are <strong>%s</strong> products with <a href='index.php?ToDo=viewProducts&amp;inventoryLow=1'>low inventory</a> levels"
+
+msgctxt "StoreNotificationInactiveUser"
+msgid "There is <strong>1</strong> inactive <a href='index.php?ToDo=viewUsers&amp;inactive=1'>user</a>"
+msgstr "There is <strong>1</strong> inactive <a href='index.php?ToDo=viewUsers&amp;inactive=1'>user</a>"
+
+msgctxt "StoreNotificationInactiveUserMultiple"
+msgid "There are <strong>:count</strong> inactive <a href='index.php?ToDo=viewUsers&amp;inactive=1'>users</a>"
+msgstr "There are <strong>:count</strong> inactive <a href='index.php?ToDo=viewUsers&amp;inactive=1'>users</a>"
+
+msgctxt "ErrorLoadingFeed"
+msgid "<ul><li>This feed couldn't be loaded.</li></ul>"
+msgstr "<ul><li>This feed couldn't be loaded.</li></ul>"
+
+msgctxt "CheckoutNotSetup"
+msgid "Wait! You've chosen one or more checkout modules but you haven't configured them yet. <a href='#' onclick='LaunchHelp(706); return false;'>Click here to learn how</a>."
+msgstr "Wait! You've chosen one or more checkout modules but you haven't configured them yet. <a href='#' onclick='LaunchHelp(706); return false;'>Click here to learn how</a>."
+
+msgctxt "LastWeek"
+msgid "Last Week"
+msgstr "Last Week"
+
+msgctxt "ThisWeek"
+msgid "This Week"
+msgstr "This Week"
+
+msgctxt "LastMonth"
+msgid "Last Month"
+msgstr "Last Month"
+
+msgctxt "ThisMonth"
+msgid "This Month"
+msgstr "This Month"
+
+msgctxt "ThisYear"
+msgid "This Year"
+msgstr "This Year"
+
+msgctxt "LastYear"
+msgid "Last Year"
+msgstr "Last Year"
+
+msgctxt "ThisDay"
+msgid "Today"
+msgstr "Today"
+
+msgctxt "LastDay"
+msgid "Yesterday"
+msgstr "Yesterday"
+
+msgctxt "RecentOrdersDateAndTotal"
+msgid "Placed %s, totaling %s"
+msgstr "Placed %s, totaling %s"
+
+msgctxt "GettingStartedWizard"
+msgid "Getting Started Wizard"
+msgstr "Getting Started Wizard"
+
+msgctxt "GettingStartedIntro"
+msgid "Let's Get Your Store Open for Business!"
+msgstr "Let's Get Your Store Open for Business!"
+
+msgctxt "GettingStartedStoreSettings"
+msgid "1. Configure Store<br />Settings"
+msgstr "1. Configure Store<br />Settings"
+
+msgctxt "GettingStartedStoreSettingsDesc"
+msgid "Configure the settings you'll need to sell online."
+msgstr "Configure the settings you'll need to sell online."
+
+msgctxt "GettingStartedDesignStore"
+msgid "2. Design Your<br />Store"
+msgstr "2. Design Your<br />Store"
+
+msgctxt "GettingStartedDesignStoreDesc"
+msgid "Choose a store design and optionally a logo."
+msgstr "Choose a store design and optionally a logo."
+
+msgctxt "GettingStartedAddProducts"
+msgid "3. Add<br />Products"
+msgstr "3. Add<br />Products"
+
+msgctxt "GettingStartedAddProductsDesc"
+msgid "Add a product which will appear in your store."
+msgstr "Add a product which will appear in your store."
+
+msgctxt "GettingStartedPaymentMethods"
+msgid "4. Payment<br />Methods"
+msgstr "4. Payment<br />Methods"
+
+msgctxt "GettingStartedPaymentMethodsDesc"
+msgid "Choose how you would like customers to pay."
+msgstr "Choose how you would like customers to pay."
+
+msgctxt "GettingStartedTaxSettings"
+msgid "5. Tax<br />Settings"
+msgstr "5. Tax<br />Settings"
+
+msgctxt "GettingStartedTaxSettingsDesc"
+msgid "Specify how tax should be applied to products."
+msgstr "Specify how tax should be applied to products."
+
+msgctxt "GettingStartedShippingOptions"
+msgid "6. Shipping<br />Options"
+msgstr "6. Shipping<br />Options"
+
+msgctxt "GettingStartedShippingOptionsDesc"
+msgid "Configure the shipping methods you want to use."
+msgstr "Configure the shipping methods you want to use."
+
+msgctxt "SwitchToCommonTasks"
+msgid "Switch to Common Tasks"
+msgstr "Switch to Common Tasks"
+
+msgctxt "StepCompleted"
+msgid "Completed!"
+msgstr "Completed!"
+
+msgctxt "VideosUnavailable"
+msgid "Video walkthroughs are currently unavailable."
+msgstr "Video walkthroughs are currently unavailable."
+
+msgctxt "VideosUnavailableLater"
+msgid "Please check back at a later date."
+msgstr "Please check back at a later date."
+
+msgctxt "WizardSetupComplete"
+msgid "Your Store Setup is Complete!"
+msgstr "Your Store Setup is Complete!"
+
+msgctxt "WizardSetupCompleteDesc"
+msgid "Congratulations! You've completed all of the steps required to setup your new online store. To see how your store looks, click the &quot;View Store&quot; link at the top of the page. The home screen in your store's control panel will now switch to advanced mode but you can easily switch back by clicking the &quot;Switch to Getting Started&quot; link."
+msgstr "Congratulations! You've completed all of the steps required to setup your new online store. To see how your store looks, click the &quot;View Store&quot; link at the top of the page. The home screen in your store's control panel will now switch to advanced mode but you can easily switch back by clicking the &quot;Switch to Getting Started&quot; link."
+
+msgctxt "VideoWalkthroughIntro"
+msgid "Video Walkthroughs"
+msgstr "Video Walkthroughs"
+
+msgctxt "StoreNotificationPendingPreOrder"
+msgid "There is <strong>:pending</strong> order with <a href='index.php?ToDo=searchOrdersRedirect&amp;preorders%5B%5D=1'>pre-ordered items</a>"
+msgstr "There is <strong>:pending</strong> order with <a href='index.php?ToDo=searchOrdersRedirect&amp;preorders%5B%5D=1'>pre-ordered items</a>"
+
+msgctxt "StoreNotificationPendingPreOrderMultiple"
+msgid "There are <strong>:pending</strong> orders with <a href='index.php?ToDo=searchOrdersRedirect&amp;preorders%5B%5D=1'>pre-ordered items</a>"
+msgstr "There are <strong>:pending</strong> orders with <a href='index.php?ToDo=searchOrdersRedirect&amp;preorders%5B%5D=1'>pre-ordered items</a>"
+
+msgctxt "EmailIntegration_Notifications_Abort"
+msgid ":type export to :module has been cancelled."
+msgstr ":type export to :module has been cancelled."
+
+msgctxt "EmailIntegration_Notifications_InProgress"
+msgid ":type export to :module in progress...<br />:skip :total subscription(s) exported so far<br />:error error(s) reported :eta"
+msgstr ":type export to :module in progress...<br />:skip :total subscription(s) exported so far<br />:error error(s) reported :eta"
+
+msgctxt "EmailIntegration_Notifications_InProgress_ETA"
+msgid "About :remaining remaining"
+msgstr "About :remaining remaining"
+
+msgctxt "EmailIntegration_Notifications_InProgress_Abort_Label"
+msgid "Cancel Export"
+msgstr "Cancel Export"
+
+msgctxt "EmailIntegration_Notifications_InProgress_Abort_Title"
+msgid "Click here to cancel this export."
+msgstr "Click here to cancel this export."
+
+msgctxt "Ebay_Notifications_Abort"
+msgid "eBay listing with template ':template' has been cancelled."
+msgstr "eBay listing with template ':template' has been cancelled."
+
+msgctxt "Ebay_Notifications_InProgress"
+msgid "eBay listing with template ':template' in progress...<br />:offset :total product(s) exported so far<br />:error error(s) reported :eta"
+msgstr "eBay listing with template ':template' in progress...<br />:offset :total product(s) exported so far<br />:error error(s) reported :eta"
+
+msgctxt "Ebay_Notifications_InProgress_ETA"
+msgid "About :remaining remaining"
+msgstr "About :remaining remaining"
+
+msgctxt "Ebay_Notifications_InProgress_Abort_Label"
+msgid "Cancel Listing"
+msgstr "Cancel Listing"
+
+msgctxt "Ebay_Notifications_InProgress_Abort_Title"
+msgid "Click here to cancel this listing."
+msgstr "Click here to cancel this listing."
+
+msgctxt "of"
+msgid "of"
+msgstr "of"
+
+msgctxt "HideThisMessage"
+msgid "Hide This Message"
+msgstr "Hide This Message"
+
+msgctxt "Warning"
+msgid "Warning"
+msgstr "Warning"
+
+msgctxt "GoogleBaseWarning"
+msgid "Due to Google Product Search restrictions, <strong>:fail_count</strong> of your <strong>:total_count</strong> products were not exported to the Automatic Google Product Search feed."
+msgstr "Due to Google Product Search restrictions, <strong>:fail_count</strong> of your <strong>:total_count</strong> products were not exported to the Automatic Google Product Search feed."
+
+msgctxt "GoogleBaseWarning_1"
+msgid "For more information about the recent attempted export, please review your <a href='index.php?ToDo=systemLog'>store logs</a>."
+msgstr "For more information about the recent attempted export, please review your <a href='index.php?ToDo=systemLog'>store logs</a>."
+
+msgctxt "GoogleBaseWarning_2"
+msgid "To learn how to configure your products for Google Product Search, please <a href=':link'>visit this article</a>."
+msgstr "To learn how to configure your products for Google Product Search, please <a href=':link'>visit this article</a>."
+
+msgctxt "StoreNotificationGoogleProductCategory"
+msgid "We found a problem with your category settings in Google Product Search. Please <a href='#' id=gpsCategoryWarningLink>click here</a> for more information."
+msgstr "We found a problem with your category settings in Google Product Search. Please <a href='#' id=gpsCategoryWarningLink>click here</a> for more information."
+
+msgctxt "InvalidGoogleProductCategoryTitle"
+msgid "Select a Google Product Category"
+msgstr "Select a Google Product Category"
+
+msgctxt "RemapCategoryText"
+msgid "Due to recent changes made by Google, you'll need to update the Google Product Search categories below"
+msgstr "Due to recent changes made by Google, you'll need to update the Google Product Search categories below"
+
+msgctxt "AllCategoriesValid"
+msgid "Thanks, your categories have been successfully mapped to Google Product Search."
+msgstr "Thanks, your categories have been successfully mapped to Google Product Search."
+
+msgctxt "ChooseGooglePsCategory"
+msgid "Choose a Google Product Search Category"
+msgstr "Choose a Google Product Search Category"
+
+msgctxt "ChooseGooglePsCategoryIntro"
+msgid "Click a main category below and then choose a sub-category or click the 'Choose This Category' button to select a Google Product Search Category."
+msgstr "Click a main category below and then choose a sub-category or click the 'Choose This Category' button to select a Google Product Search Category."
+
+msgctxt "GoogleCategoryMappingLeafCategorySelected"
+msgid "Now that you've selected this category, click the 'Choose This Category' button or choose a sub-category."
+msgstr "Now that you've selected this category, click the 'Choose This Category' button or choose a sub-category."
+
+msgctxt "ChooseThisCategory"
+msgid "Choose This Category"
+msgstr "Choose This Category"

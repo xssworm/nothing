@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "GiftWrappingIntro"
+msgid "Customers can choose to have items in their order gift wrapped. Available gift wrapping options for customer purchases are shown below."
+msgstr "Customers can choose to have items in their order gift wrapped. Available gift wrapping options for customer purchases are shown below."
+
+msgctxt "AddGiftWrap"
+msgid "Add a New Gift Wrapping Option"
+msgstr "Add a New Gift Wrapping Option"
+
+msgctxt "AddGiftWrapIntro"
+msgid "Fill in the form below to add a new gift wrapping option to your store."
+msgstr "Fill in the form below to add a new gift wrapping option to your store."
+
+msgctxt "EditGiftWrap"
+msgid "Edit Gift Wrapping Option"
+msgstr "Edit Gift Wrapping Option"
+
+msgctxt "EditGiftWrapIntro"
+msgid "Update this gift wrapping option using the form below."
+msgstr "Update this gift wrapping option using the form below."
+
+msgctxt "NoGiftWrappingTypes"
+msgid "Your store does not have any gift wrapping options configured. Click 'Add a New Gift Wrapping Option' to create one."
+msgstr "Your store does not have any gift wrapping options configured. Click 'Add a New Gift Wrapping Option' to create one."
+
+msgctxt "SelectOneMoreGiftWrapDelete"
+msgid "Please select one or more gift wrapping options to delete."
+msgstr "Please select one or more gift wrapping options to delete."
+
+msgctxt "ConfirmDeleteGiftWrap"
+msgid "Are you sure you want to delete the selected gift wrapping options?"
+msgstr "Are you sure you want to delete the selected gift wrapping options?"
+
+msgctxt "GiftWrapSettings"
+msgid "Gift Wrapping Settings"
+msgstr "Gift Wrapping Settings"
+
+msgctxt "WrapName"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "WrapNameHelp"
+msgid "Enter a name for this wrapping option. This will be shown to customers when they choose to gift wrap their order."
+msgstr "Enter a name for this wrapping option. This will be shown to customers when they choose to gift wrap their order."
+
+msgctxt "WrapPrice"
+msgid "Price per Product"
+msgstr "Price per Product"
+
+msgctxt "WrapPriceHelp"
+msgid "Enter the amount that should be charged for customers to add this gift wrapping option to each product in their cart."
+msgstr "Enter the amount that should be charged for customers to add this gift wrapping option to each product in their cart."
+
+msgctxt "WrapGiftMessage"
+msgid "Allow Gift Messages"
+msgstr "Allow Gift Messages"
+
+msgctxt "WrapGiftMessageHelp"
+msgid "Should customers be able to enter a custom gift message along with items that they choose to have wrapped in this wrapping option?"
+msgstr "Should customers be able to enter a custom gift message along with items that they choose to have wrapped in this wrapping option?"
+
+msgctxt "YesAllowWrapGiftMessage"
+msgid "Yes, allow customers to add custom message"
+msgstr "Yes, allow customers to add custom message"
+
+msgctxt "YesWrapVisible"
+msgid "Yes, show this wrapping option to customers"
+msgstr "Yes, show this wrapping option to customers"
+
+msgctxt "WrapVisibleHelp"
+msgid "Should customers be able to choose this wrapping type from the list of available options?"
+msgstr "Should customers be able to choose this wrapping type from the list of available options?"
+
+msgctxt "WrapImage"
+msgid "Preview Image"
+msgstr "Preview Image"
+
+msgctxt "WrapImageHelp"
+msgid "Upload a GIF, JPEG or PNG format preview image for this wrapping option. The image will automatically be resized to a thumbnail size version."
+msgstr "Upload a GIF, JPEG or PNG format preview image for this wrapping option. The image will automatically be resized to a thumbnail size version."
+
+msgctxt "EnterWrapPrice"
+msgid "Please enter a price for this gift wrapping option."
+msgstr "Please enter a price for this gift wrapping option."
+
+msgctxt "EnterWrapImage"
+msgid "Please choose an image to upload as the preview image for this wrapping option."
+msgstr "Please choose an image to upload as the preview image for this wrapping option."
+
+msgctxt "EnterWrapName"
+msgid "Please enter a name for this wrapping option."
+msgstr "Please enter a name for this wrapping option."
+
+msgctxt "DuplicateGiftWrapName"
+msgid "A gift wrapping option already exists with this name. Please enter a different one."
+msgstr "A gift wrapping option already exists with this name. Please enter a different one."
+
+msgctxt "GiftWrapUpdated"
+msgid "The selected gift wrapping option has been updated successfully."
+msgstr "The selected gift wrapping option has been updated successfully."
+
+msgctxt "GiftWrapCreated"
+msgid "The gift wrapping option has been created successfully."
+msgstr "The gift wrapping option has been created successfully."
+
+msgctxt "GiftWrapDeleted"
+msgid "The selected gift wrapping options have been deleted successfully."
+msgstr "The selected gift wrapping options have been deleted successfully."
+
+msgctxt "WrapVisibleSortDesc"
+msgid "Sort by visibility (descending)"
+msgstr "Sort by visibility (descending)"
+
+msgctxt "WrapVisibleSortAsc"
+msgid "Sort by visibility (ascending)"
+msgstr "Sort by visibility (ascending)"
+
+msgctxt "WrapPriceSortDesc"
+msgid "Sort by price (descending)"
+msgstr "Sort by price (descending)"
+
+msgctxt "WrapPriceSortAsc"
+msgid "Sort by price (ascending)"
+msgstr "Sort by price (ascending)"
+
+msgctxt "WrapNameSortAsc"
+msgid "Sort by name (ascending)"
+msgstr "Sort by name (ascending)"
+
+msgctxt "WrapNameSortDesc"
+msgid "Sort by name (descending)"
+msgstr "Sort by name (descending)"
+
+msgctxt "WrapImageInvalid"
+msgid "The preview image uploaded was not a valid image."
+msgstr "The preview image uploaded was not a valid image."

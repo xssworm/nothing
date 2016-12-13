@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ConfirmDeleteReviews"
+msgid "WARNING: This will permanently remove the selected review(s). Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected review(s). Are you sure you wish to do this?"
+
+msgctxt "ManageReviews"
+msgid "View Product Reviews"
+msgstr "View Product Reviews"
+
+msgctxt "NoReviews"
+msgid "No reviews were found matching your search criteria, please try again."
+msgstr "No reviews were found matching your search criteria, please try again."
+
+msgctxt "NoReviews1"
+msgid "No product reviews have been submitted from your web site."
+msgstr "No product reviews have been submitted from your web site."
+
+msgctxt "ManageReviewsIntro"
+msgid "When someone writes a review for a product from your site it will appear in the list below."
+msgstr "When someone writes a review for a product from your site it will appear in the list below."
+
+msgctxt "DeleteReviews1"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+msgctxt "ReviewTitle"
+msgid "Title"
+msgstr "Title"
+
+msgctxt "PostedBy"
+msgid "Posted By"
+msgstr "Posted By"
+
+msgctxt "ReviewSortAsc"
+msgid "Sort by Title (ascending)"
+msgstr "Sort by Title (ascending)"
+
+msgctxt "ReviewSortDesc"
+msgid "Sort by Title (descending)"
+msgstr "Sort by Title (descending)"
+
+msgctxt "BySortAsc"
+msgid "Sort by Reviewer Name (ascending)"
+msgstr "Sort by Reviewer Name (ascending)"
+
+msgctxt "BySortDesc"
+msgid "Sort by Reviewer Name (descending)"
+msgstr "Sort by Reviewer Name (descending)"
+
+msgctxt "DateSortAsc"
+msgid "Sort by Date (ascending)"
+msgstr "Sort by Date (ascending)"
+
+msgctxt "DateSortDesc"
+msgid "Sort by Date (descending)"
+msgstr "Sort by Date (descending)"
+
+msgctxt "EnterSearchTerm"
+msgid "Please enter a search term."
+msgstr "Please enter a search term."
+
+msgctxt "ChooseReview1"
+msgid "Please choose at least one review to delete."
+msgstr "Please choose at least one review to delete."
+
+msgctxt "ChooseReview2"
+msgid "Please choose at least one review to approve."
+msgstr "Please choose at least one review to approve."
+
+msgctxt "ChooseReview3"
+msgid "Please choose at least one review to disapprove."
+msgstr "Please choose at least one review to disapprove."
+
+msgctxt "ClickToHideReview"
+msgid "Click here to make this review non-visible on your web site"
+msgstr "Click here to make this review non-visible on your web site"
+
+msgctxt "ClickToShowReview"
+msgid "Click here to make this review visible on your web site"
+msgstr "Click here to make this review visible on your web site"
+
+msgctxt "PreviewReview"
+msgid "Preview Review"
+msgstr "Preview Review"
+
+msgctxt "EditReview"
+msgid "Edit Review"
+msgstr "Edit Review"
+
+msgctxt "RatingSortAsc"
+msgid "Sort by Rating (ascending)"
+msgstr "Sort by Rating (ascending)"
+
+msgctxt "RatingSortDesc"
+msgid "Sort by Rating (descending)"
+msgstr "Sort by Rating (descending)"
+
+msgctxt "Rating"
+msgid "Rating"
+msgstr "Rating"
+
+msgctxt "ReviewRated"
+msgid "Rated %d out of 5 stars by reviewer"
+msgstr "Rated %d out of 5 stars by reviewer"
+
+msgctxt "ApproveReviews"
+msgid "Approve Selected"
+msgstr "Approve Selected"
+
+msgctxt "DisapproveReviews"
+msgid "Disapprove Selected"
+msgstr "Disapprove Selected"
+
+msgctxt "ReviewsDeletedSuccessfully"
+msgid "The selected reviews have been deleted successfully."
+msgstr "The selected reviews have been deleted successfully."
+
+msgctxt "ReviewsApprovedSuccessfully"
+msgid "The selected reviews have been approved successfully."
+msgstr "The selected reviews have been approved successfully."
+
+msgctxt "ReviewsDisapprovedSuccessfully"
+msgid "The selected reviews have been disapproved successfully."
+msgstr "The selected reviews have been disapproved successfully."
+
+msgctxt "Status"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "StatusSortAsc"
+msgid "Sort by Status (ascending)"
+msgstr "Sort by Status (ascending)"
+
+msgctxt "StatusSortDesc"
+msgid "Sort by Status (descending)"
+msgstr "Sort by Status (descending)"
+
+msgctxt "Pending"
+msgid "Pending"
+msgstr "Pending"
+
+msgctxt "Approved"
+msgid "Approved"
+msgstr "Approved"
+
+msgctxt "Disapproved"
+msgid "Disapproved"
+msgstr "Disapproved"
+
+msgctxt "ReviewDoesntExist"
+msgid "The selected review doesn't exist or has been removed."
+msgstr "The selected review doesn't exist or has been removed."
+
+msgctxt "CancelEditReview"
+msgid "Are you sure you wish to cancel editing this review? Please confirm."
+msgstr "Are you sure you wish to cancel editing this review? Please confirm."
+
+msgctxt "EditReviewIntro"
+msgid "Edit the review details in the form below."
+msgstr "Edit the review details in the form below."
+
+msgctxt "ReviewDetails"
+msgid "Review Details"
+msgstr "Review Details"
+
+msgctxt "ReviewAuthor"
+msgid "Author"
+msgstr "Author"
+
+msgctxt "ReviewAuthorHelp"
+msgid "The name of the person who submitted this review."
+msgstr "The name of the person who submitted this review."
+
+msgctxt "ReviewTitleHelp"
+msgid "The title of the review, as entered by the author."
+msgstr "The title of the review, as entered by the author."
+
+msgctxt "Review"
+msgid "Review"
+msgstr "Review"
+
+msgctxt "ReviewStatus"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "ReviewHelp"
+msgid "The complete product review, as entered by the author from your web site."
+msgstr "The complete product review, as entered by the author from your web site."
+
+msgctxt "ReviewStatusHelp"
+msgid "When a review has just been submitted, it will appear as pending. To make a review visible on your web site, choose \'Approve\'. To hide it, choose \'Disapprove\' or delete it from the \'View Reviews\' page."
+msgstr "When a review has just been submitted, it will appear as pending. To make a review visible on your web site, choose \'Approve\'. To hide it, choose \'Disapprove\' or delete it from the \'View Reviews\' page."
+
+msgctxt "ReviewRating"
+msgid "Rating"
+msgstr "Rating"
+
+msgctxt "1Star"
+msgid "Poor (1 Star)"
+msgstr "Poor (1 Star)"
+
+msgctxt "2Stars"
+msgid "Below Average (2 Stars)"
+msgstr "Below Average (2 Stars)"
+
+msgctxt "3Stars"
+msgid "Average (3 Stars)"
+msgstr "Average (3 Stars)"
+
+msgctxt "4Stars"
+msgid "Above Average (4 Stars)"
+msgstr "Above Average (4 Stars)"
+
+msgctxt "5Stars"
+msgid "Excellent (5 Stars)"
+msgstr "Excellent (5 Stars)"
+
+msgctxt "ReviewEnterTitle"
+msgid "Please enter a review title."
+msgstr "Please enter a review title."
+
+msgctxt "ReviewEnter"
+msgid "Please enter some review text."
+msgstr "Please enter some review text."
+
+msgctxt "ReviewUpdatedSuccessfully"
+msgid "The selected review has been updated successfully."
+msgstr "The selected review has been updated successfully."
+
+msgctxt "WaitGettingProducts"
+msgid "Please wait. Retrieving products that match your search term..."
+msgstr "Please wait. Retrieving products that match your search term..."
+
+msgctxt "ExportIntro"
+msgid "Choose which options you'd like to export in the form below."
+msgstr "Choose which options you'd like to export in the form below."
+
+msgctxt "ExportDetails"
+msgid "Export Details"
+msgstr "Export Details"
+
+msgctxt "ExportFields"
+msgid "Export Fields"
+msgstr "Export Fields"
+
+msgctxt "LoadingReviews"
+msgid "Loading reviews. Please wait..."
+msgstr "Loading reviews. Please wait..."
+
+msgctxt "NotUsingBuiltInWarning"
+msgid "You are currently using the <em>:moduleName</em> comment system. To manage and use products reviews in your store you must select the <em>Built-In</em> comment system from <em>Settings -> Comment Settings</em>."
+msgstr "You are currently using the <em>:moduleName</em> comment system. To manage and use products reviews in your store you must select the <em>Built-In</em> comment system from <em>Settings -> Comment Settings</em>."

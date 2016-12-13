@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "StoreLinker"
+msgid "Store Linker"
+msgstr "Store Linker"
+
+msgctxt "Linker_insert"
+msgid "Insert Link"
+msgstr "Insert Link"
+
+msgctxt "Linker_cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "Linker_title"
+msgid "Insert link to store"
+msgstr "Insert link to store"
+
+msgctxt "Linker_product_tab"
+msgid "Link to Product"
+msgstr "Link to Product"
+
+msgctxt "Linker_category_tab"
+msgid "Link to Category"
+msgstr "Link to Category"
+
+msgctxt "Linker_brand_tab"
+msgid "Link to Brand"
+msgstr "Link to Brand"
+
+msgctxt "Linker_page_tab"
+msgid "Link to Page"
+msgstr "Link to Page"
+
+msgctxt "Linker_link_product"
+msgid "Link to a Product"
+msgstr "Link to a Product"
+
+msgctxt "Linker_link_product_intro"
+msgid "Find a product by category or keyword and then click the &quot;Insert Link&quot; button below."
+msgstr "Find a product by category or keyword and then click the &quot;Insert Link&quot; button below."
+
+msgctxt "Linker_search_by_category"
+msgid "Search by Category"
+msgstr "Search by Category"
+
+msgctxt "Linker_search_by_product"
+msgid "Search by Product Name"
+msgstr "Search by Product Name"
+
+msgctxt "Linker_enter_terms"
+msgid "Please enter some search terms."
+msgstr "Please enter some search terms."
+
+msgctxt "Linker_link_category"
+msgid "Link to a Category"
+msgstr "Link to a Category"
+
+msgctxt "Linker_link_category_intro"
+msgid "Click on the name of the category you wish to link to and click &quot;Insert Link&quot;"
+msgstr "Click on the name of the category you wish to link to and click &quot;Insert Link&quot;"
+
+msgctxt "Linker_link_brand"
+msgid "Link to a Brand Name"
+msgstr "Link to a Brand Name"
+
+msgctxt "Linker_link_brand_intro"
+msgid "Click on the name of the brand name you wish to link to and click &quot;Insert Link&quot;"
+msgstr "Click on the name of the brand name you wish to link to and click &quot;Insert Link&quot;"
+
+msgctxt "Linker_link_page"
+msgid "Link to a Page"
+msgstr "Link to a Page"
+
+msgctxt "Linker_link_page_intro"
+msgid "Click on the name of the page you wish to link to and click &quot;Insert Link&quot;"
+msgstr "Click on the name of the page you wish to link to and click &quot;Insert Link&quot;"
+
+msgctxt "LinkerInvalidDataType"
+msgid "Invalid data type for the selected link"
+msgstr "Invalid data type for the selected link"

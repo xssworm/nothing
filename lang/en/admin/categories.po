@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "CategoryOrdersUpdated"
+msgid "The display order of your categories has been updated successfully. <a href='../index.php' target='_blank'>View your store.</a>"
+msgstr "The display order of your categories has been updated successfully. <a href='../index.php' target='_blank'>View your store.</a>"
+
+msgctxt "CreateCategory"
+msgid "Create a Category"
+msgstr "Create a Category"
+
+msgctxt "ChooseACategory"
+msgid "-- Choose a Category --"
+msgstr "-- Choose a Category --"
+
+msgctxt "CatDeletedSuccessfully"
+msgid "The selected category has been permanently removed."
+msgstr "The selected category has been permanently removed."
+
+msgctxt "AddCatTitle"
+msgid "Create a Category"
+msgstr "Create a Category"
+
+msgctxt "AddCatIntro"
+msgid "Products in your store are grouped by categories, which makes them easier to find. Fill out the form below to create a new category."
+msgstr "Products in your store are grouped by categories, which makes them easier to find. Fill out the form below to create a new category."
+
+msgctxt "CancelCreateCategory"
+msgid "Are you sure you want to cancel creating a new category? Click OK to confirm."
+msgstr "Are you sure you want to cancel creating a new category? Click OK to confirm."
+
+msgctxt "CatDetails"
+msgid "Category Details"
+msgstr "Category Details"
+
+msgctxt "CatName"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "CatDesc"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "CatParentCategory"
+msgid "Parent Category"
+msgstr "Parent Category"
+
+msgctxt "CatParentCategoryHelp"
+msgid "The category under which this category will be displayed."
+msgstr "The category under which this category will be displayed."
+
+msgctxt "CatSavedSuccessfully"
+msgid "Category &quot;%s&quot; was created successfully."
+msgstr "Category &quot;%s&quot; was created successfully."
+
+msgctxt "CatSaveFailed"
+msgid "There was a problem creating the category &quot;%s&quot;: %s"
+msgstr "There was a problem creating the category &quot;%s&quot;: %s"
+
+msgctxt "ManageCatIntro"
+msgid "Categories allow you to group products by similar attributes. The categories in your store are shown below."
+msgstr "Categories allow you to group products by similar attributes. The categories in your store are shown below."
+
+msgctxt "CategoryName"
+msgid "Category Name"
+msgstr "Category Name"
+
+msgctxt "CategoryProducts"
+msgid "Products"
+msgstr "Products"
+
+msgctxt "CategorySubs"
+msgid "Sub Categories"
+msgstr "Sub Categories"
+
+msgctxt "ConfirmDeleteCategory"
+msgid "WARNING: This will permanently remove the selected category. Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected category. Are you sure you wish to do this?"
+
+msgctxt "EditCatTitle"
+msgid "Edit Category"
+msgstr "Edit Category"
+
+msgctxt "EditCatIntro"
+msgid "Modify the details of the category below and click &quot;Save&quot;."
+msgstr "Modify the details of the category below and click &quot;Save&quot;."
+
+msgctxt "CancelEditCategory"
+msgid "Are you sure you want to cancel editing this category? Click OK to confirm."
+msgstr "Are you sure you want to cancel editing this category? Click OK to confirm."
+
+msgctxt "CatUpdateSuccessfully"
+msgid "The selected category was updated successfully."
+msgstr "The selected category was updated successfully."
+
+msgctxt "CatAlreadyExists"
+msgid "A category called &quot;%s&quot; already exists under the selected parent category."
+msgstr "A category called &quot;%s&quot; already exists under the selected parent category."
+
+msgctxt "NoCategories"
+msgid "No categories have been created. Please click the &quot;Create Category&quot; button to add one."
+msgstr "No categories have been created. Please click the &quot;Create Category&quot; button to add one."
+
+msgctxt "ChooseCategoryToDelete"
+msgid "Please choose at least one category to delete."
+msgstr "Please choose at least one category to delete."
+
+msgctxt "ChooseCategoryToUpdate"
+msgid "Please choose at least one category to update."
+msgstr "Please choose at least one category to update."
+
+msgctxt "ConfirmDeleteCategories"
+msgid "WARNING: The selected categories will be removed permanently. Are you sure?"
+msgstr "WARNING: The selected categories will be removed permanently. Are you sure?"
+
+msgctxt "ViewCategory"
+msgid "View this category in your store"
+msgstr "View this category in your store"
+
+msgctxt "NewCategory"
+msgid "Create a new sub-category under this category"
+msgstr "Create a new sub-category under this category"
+
+msgctxt "NewSubCategory"
+msgid "New Sub Category"
+msgstr "New Sub Category"
+
+msgctxt "EditCategory"
+msgid "Edit this category"
+msgstr "Edit this category"
+
+msgctxt "EditCategory1"
+msgid "Edit Category"
+msgstr "Edit Category"
+
+msgctxt "CatSort"
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgctxt "CatSortHelp"
+msgid "This number determines the order in which categories will be displayed. The lower the number, the close to the top of the list the category will appear."
+msgstr "This number determines the order in which categories will be displayed. The lower the number, the close to the top of the list the category will appear."
+
+msgctxt "NoParentCategory"
+msgid "Please choose a parent category."
+msgstr "Please choose a parent category."
+
+msgctxt "NoCatSortOrder"
+msgid "Please enter a valid number in the sort field."
+msgstr "Please enter a valid number in the sort field."
+
+msgctxt "CategorySortOrder"
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgctxt "CategoryTemplateLayoutFileHelp1"
+msgid "Advanced users can create an alternate template layout file to use instead of the default one for this category. If you have done this, you can select the layout file here.<br /><br />To create a new template layout file copy the existing category.html file from within your templates/"
+msgstr "Advanced users can create an alternate template layout file to use instead of the default one for this category. If you have done this, you can select the layout file here.<br /><br />To create a new template layout file copy the existing category.html file from within your templates/"
+
+msgctxt "CategoryTemplateLayoutFileHelp2"
+msgid " folder, make your required changes and rename it so that it starts with an underscore, such as _category.html or _category1.html. It will then appear in this list."
+msgstr " folder, make your required changes and rename it so that it starts with an underscore, such as _category.html or _category1.html. It will then appear in this list."
+
+msgctxt "InfoTipManageCategories"
+msgid "Did you know that you can change the display order of categories as they appear in your store by dragging and dropping the &quot;Category Name&quot; column below?"
+msgstr "Did you know that you can change the display order of categories as they appear in your store by dragging and dropping the &quot;Category Name&quot; column below?"
+
+msgctxt "CategoryPageTitleHelp"
+msgid "Specify a page title, or leave blank to use the category name as the page title."
+msgstr "Specify a page title, or leave blank to use the category name as the page title."
+
+msgctxt "MetaKeywords"
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+msgctxt "MetaKeywordsHelp"
+msgid "Specify unique meta keywords, or leave blank to use default site wide keywords as defined in the <em>Settings</em> page."
+msgstr "Specify unique meta keywords, or leave blank to use default site wide keywords as defined in the <em>Settings</em> page."
+
+msgctxt "MetaDescription"
+msgid "Meta Description"
+msgstr "Meta Description"
+
+msgctxt "MetaDescriptionHelp"
+msgid "Specify unique meta description, or leave blank to use default site wide description as defined in the <em>Settings</em> page."
+msgstr "Specify unique meta description, or leave blank to use default site wide description as defined in the <em>Settings</em> page."
+
+msgctxt "VisibleInMenuList"
+msgid "Visible In Menu?"
+msgstr "Visible In Menu?"
+
+msgctxt "CategoryVisibilitySuccessfully"
+msgid "The visibility of the selected category:andSubCats has been changed successfully."
+msgstr "The visibility of the selected category:andSubCats has been changed successfully."
+
+msgctxt "ParentCategories"
+msgid " and its parent categories"
+msgstr " and its parent categories"
+
+msgctxt "SubCategories"
+msgid " and its sub categories"
+msgstr " and its sub categories"
+
+msgctxt "ErrCategoryVisibilityNotChanged"
+msgid "An error occurred while trying to change the visibility of the selected category. Please try again."
+msgstr "An error occurred while trying to change the visibility of the selected category. Please try again."
+
+msgctxt "ClickToHideCategory"
+msgid "Click here to hide this category on the menu in your store"
+msgstr "Click here to hide this category on the menu in your store"
+
+msgctxt "ClickToShowCategory"
+msgid "Click here to show this category on the menu in your store"
+msgstr "Click here to show this category on the menu in your store"
+
+msgctxt "CategoryVisibilityHelp"
+msgid "Will the category be visible in the category menu of your store? A category with a tick will be visible. A category with a cross will be hidden.<br /><br />Please note that all products in hidden categories will still show up in search results, featured products, etc in your store."
+msgstr "Will the category be visible in the category menu of your store? A category with a tick will be visible. A category with a cross will be hidden.<br /><br />Please note that all products in hidden categories will still show up in search results, featured products, etc in your store."
+
+msgctxt "CategoryVisibleConfirmation"
+msgid "Setting a category to visible will also make its parent categories visible. Do you still want to proceed?"
+msgstr "Setting a category to visible will also make its parent categories visible. Do you still want to proceed?"
+
+msgctxt "CategoryInvisibleConfirmation"
+msgid "Setting a category to hidden will also hide all of its sub categories. Do you still want to proceed?"
+msgstr "Setting a category to hidden will also hide all of its sub categories. Do you still want to proceed?"
+
+msgctxt "EnableGoogleWebsiteOptimizer"
+msgid "Enable Google Website Optimizer"
+msgstr "Enable Google Website Optimizer"
+
+msgctxt "YesEnableGoogleWebsiteOptimizer"
+msgid "Yes, enable google website optimizer for this category"
+msgstr "Yes, enable google website optimizer for this category"
+
+msgctxt "CatGoogleWebsiteOptimizerIntro"
+msgid "For help on setting up a Google Website Optimizer test, please read <a href='#' onclick='LaunchHelp(888); return false;'>this article</a>."
+msgstr "For help on setting up a Google Website Optimizer test, please read <a href='#' onclick='LaunchHelp(888); return false;'>this article</a>."
+
+msgctxt "ConfirmEnableCategoryOptimizer"
+msgid "Are you sure you want to enable Google Website Optimizer for this category? Because of the way testing works any of the sitewide tests (such as the \'Newsletter Box\' test) won\'t be enabled on this particular category\'s page."
+msgstr "Are you sure you want to enable Google Website Optimizer for this category? Because of the way testing works any of the sitewide tests (such as the \'Newsletter Box\' test) won\'t be enabled on this particular category\'s page."
+
+msgctxt "EnableGoogleWebsiteOptimizerAfterSave"
+msgid "You need to save the category before you can enable Google Website Optimizer for this category page."
+msgstr "You need to save the category before you can enable Google Website Optimizer for this category page."
+
+msgctxt "SearchKeywords"
+msgid "Search Keywords"
+msgstr "Search Keywords"
+
+msgctxt "SearchKeywordsHelp"
+msgid "The search keywords are optional, but if entered will be used for two things.<br /><br />First, they will be used along with the category name to create meta tags for search engines.<br /><br />Second, they will be used to assist people when searching your categories. Enter keywords separated by commas, such as: <em>widget, affordable, portable.</em>"
+msgstr "The search keywords are optional, but if entered will be used for two things.<br /><br />First, they will be used along with the category name to create meta tags for search engines.<br /><br />Second, they will be used to assist people when searching your categories. Enter keywords separated by commas, such as: <em>widget, affordable, portable.</em>"
+
+msgctxt "CatUpdateFailed"
+msgid "There was a problem updating the category &quot;%s&quot;: %s"
+msgstr "There was a problem updating the category &quot;%s&quot;: %s"
+
+msgctxt "ProductsInSubCategories"
+msgid "Products In Sub Cats"
+msgstr "Products In Sub Cats"
+
+msgctxt "ExpandCategory"
+msgid "(expand)"
+msgstr "(expand)"
+
+msgctxt "CollapseCategory"
+msgid "(collapse)"
+msgstr "(collapse)"
+
+msgctxt "ShowProductsInCategory"
+msgid "Show products in this category"
+msgstr "Show products in this category"
+
+msgctxt "ReassignModalTitle"
+msgid "Reassign Products in Categories Marked for Deletion?"
+msgstr "Reassign Products in Categories Marked for Deletion?"
+
+msgctxt "ReassignModalIntro"
+msgid "The selected categories contain :prodCount products."
+msgstr "The selected categories contain :prodCount products."
+
+msgctxt "ReassignModalOption1"
+msgid "To reassign them to another category, simply choose it below:"
+msgstr "To reassign them to another category, simply choose it below:"
+
+msgctxt "ReassignModalOption2"
+msgid "Delete products in these categories"
+msgstr "Delete products in these categories"
+
+msgctxt "ConfirmModalTitle"
+msgid "Please Confirm Your Selection"
+msgstr "Please Confirm Your Selection"
+
+msgctxt "ConfirmModalIntro1"
+msgid "OK, so here's what's going to happen:"
+msgstr "OK, so here's what's going to happen:"
+
+msgctxt "ConfirmModalIntro2"
+msgid "<ul><li>The :catCount selected categories will be deleted</li><li>The :prodCount products in those categories will be :action :catLineage</li></ul>"
+msgstr "<ul><li>The :catCount selected categories will be deleted</li><li>The :prodCount products in those categories will be :action :catLineage</li></ul>"
+
+msgctxt "ConfirmModalIntro3"
+msgid "If this sounds OK then click the &quot;Delete Selected Categories&quot; button below."
+msgstr "If this sounds OK then click the &quot;Delete Selected Categories&quot; button below."
+
+msgctxt "ConfirmModalButton"
+msgid "Delete Selected Categories"
+msgstr "Delete Selected Categories"
+
+msgctxt "ReassignSuccessFlashMsg"
+msgid "The selected categories have been deleted and their products have been reassigned."
+msgstr "The selected categories have been deleted and their products have been reassigned."
+
+msgctxt "ReassignErrorFlashMsg"
+msgid "The selected categories could not be deleted."
+msgstr "The selected categories could not be deleted."
+
+msgctxt "GoogleCategoryMappingModalIntro"
+msgid "Click a main category below and then choose a sub-category or click the 'Choose This Category' button for where the products will be listed on :name."
+msgstr "Click a main category below and then choose a sub-category or click the 'Choose This Category' button for where the products will be listed on :name."
+
+msgctxt "GoogleCategoryMappingLeafCategorySelected"
+msgid "Now that you've selected this category, click the 'Choose This Category' button or choose a sub-category."
+msgstr "Now that you've selected this category, click the 'Choose This Category' button or choose a sub-category."
+
+msgctxt "ChooseThisCategory"
+msgid "Choose This Category"
+msgstr "Choose This Category"
+
+msgctxt "CategoryMappingModalTitle"
+msgid "Choose a :name Category"
+msgstr "Choose a :name Category"
+
+msgctxt "CategoryMappingModalIntro"
+msgid "Click a main category below and then choose a sub-category for where the products will be listed on :name."
+msgstr "Click a main category below and then choose a sub-category for where the products will be listed on :name."
+
+msgctxt "CategoryMappings"
+msgid "Category Mappings"
+msgstr "Category Mappings"
+
+msgctxt "CategoryMappingLeafCategorySelected"
+msgid "Now that you've selected this category, click the 'Choose This Category' button."
+msgstr "Now that you've selected this category, click the 'Choose This Category' button."
+
+msgctxt "CategoryMappingChooseLeafCategory"
+msgid "Please choose a category from the right column first."
+msgstr "Please choose a category from the right column first."
+
+msgctxt "ShoppingComparisonCategoryNotMapped"
+msgid "This category has not been mapped to a corresponding category on <strong>:name</strong>."
+msgstr "This category has not been mapped to a corresponding category on <strong>:name</strong>."
+
+msgctxt "ShoppingComparisonCategoryMapped"
+msgid "This category has been mapped to the <em>:path</em> on <strong>:name</strong>."
+msgstr "This category has been mapped to the <em>:path</em> on <strong>:name</strong>."
+
+msgctxt "BulkUpdateShoppingComparisonCategory"
+msgid "Bulk Update :name Category"
+msgstr "Bulk Update :name Category"
+
+msgctxt "ShoppingComparisonCategoryMappings"
+msgid "Shopping Comparison Category Mappings"
+msgstr "Shopping Comparison Category Mappings"
+
+msgctxt "ShoppingComparisonCategoryMappingsDesc"
+msgid "If you plan to list products in this category on any of the shopping comparison sites then you should map the category to a similar one on each site below. That way, when you export your products to these sites they will appear in suitable categories and you will be more likely to receive qualified visitors."
+msgstr "If you plan to list products in this category on any of the shopping comparison sites then you should map the category to a similar one on each site below. That way, when you export your products to these sites they will appear in suitable categories and you will be more likely to receive qualified visitors."
+
+msgctxt "ShoppingComparisonSettings"
+msgid "Shopping Comparison Settings"
+msgstr "Shopping Comparison Settings"
+
+msgctxt "ShoppingComparisonFieldLabel"
+msgid ":name Category"
+msgstr ":name Category"
+
+msgctxt "RemoveCatImageHelp"
+msgid "To remove the category image, please uncheck the checkbox."
+msgstr "To remove the category image, please uncheck the checkbox."
+
+msgctxt "RemoveCatImage"
+msgid "Remove Category Image"
+msgstr "Remove Category Image"
+
+msgctxt "PreviewCatImage"
+msgid "Preview Category Image"
+msgstr "Preview Category Image"
+
+msgctxt "Preview"
+msgid "Preview"
+msgstr "Preview"
+
+msgctxt "SelectCategory"
+msgid "Select Category"
+msgstr "Select Category"
+
+msgctxt "SelectCategoryIntro"
+msgid "Select a category below."
+msgstr "Select a category below."
+
+msgctxt "PleaseSelectReassignCategory"
+msgid "Please select a category to reassign the products to."
+msgstr "Please select a category to reassign the products to."
+
+msgctxt "CategoriesDeletionInProgress"
+msgid "Categories Deletion in Progress"
+msgstr "Categories Deletion in Progress"
+
+msgctxt "DeletingProductsCategories"
+msgid "Deleting Products in the Categories..."
+msgstr "Deleting Products in the Categories..."
+
+msgctxt "DeletingCategories"
+msgid "Deleting Categories..."
+msgstr "Deleting Categories..."
+
+msgctxt "ReassigningCategories"
+msgid "Reassigning Categories..."
+msgstr "Reassigning Categories..."
+
+msgctxt "GoogleProductSearch"
+msgid "Google Product Search"
+msgstr "Google Product Search"
+
+msgctxt "GoogleProductSearchInfo"
+msgid "To list your products on Google Product Search you need to specify a Google product category below. <a rel='nofollow' href='http://anonym.to/?https://support.bigcommerce.com/questions/1414/' target='_blank'>Learn more</a>"
+msgstr "To list your products on Google Product Search you need to specify a Google product category below. <a rel='nofollow' href='http://anonym.to/?https://support.bigcommerce.com/questions/1414/' target='_blank'>Learn more</a>"
+
+msgctxt "EnableGoogleProductSearch"
+msgid "Enable Google Product Search"
+msgstr "Enable Google Product Search"
+
+msgctxt "yesEnableGoogleProductSearch"
+msgid "Yes, enable google product search for this category"
+msgstr "Yes, enable google product search for this category"
+
+msgctxt "GoogleProductCategory"
+msgid "Google Product Category"
+msgstr "Google Product Category"
+
+msgctxt "NoneSelected"
+msgid "(None selected)"
+msgstr "(None selected)"
+
+msgctxt "ChooseGooglePsCategory"
+msgid "Choose a Google Product Search Category"
+msgstr "Choose a Google Product Search Category"
+
+msgctxt "ChooseGooglePsCategoryIntro"
+msgid "Click a main category below and then choose a sub-category or click the 'Choose This Category' button to select a Google Product Search Category."
+msgstr "Click a main category below and then choose a sub-category or click the 'Choose This Category' button to select a Google Product Search Category."
+
+msgctxt "ChooseCategory"
+msgid "Choose Category"
+msgstr "Choose Category"
+
+msgctxt "BrowseGooglePsCategory"
+msgid "Browse Google Products Categories"
+msgstr "Browse Google Products Categories"
+
+msgctxt "GoogleProductBulkUpdateTaxonomy"
+msgid "Bulk Update Google Product Categories"
+msgstr "Bulk Update Google Product Categories"
+
+msgctxt "EnterGoogleProductCategory"
+msgid "Please select a Google product category."
+msgstr "Please select a Google product category."
+
+msgctxt "GoogleProductCategoryMapped"
+msgid "This category is mapped to <strong>:name</strong> on Google Product Search."
+msgstr "This category is mapped to <strong>:name</strong> on Google Product Search."
+
+msgctxt "GoogleProductCategoryNotMapped"
+msgid "This category is not mapped to Google Product Search."
+msgstr "This category is not mapped to Google Product Search."
+
+msgctxt "GpsCategoryRemovedFromGoogle"
+msgid "Please note that the Google Product Search category <strong>':categoryName'</strong> is no longer available. <a id=gpsTabShortCut href=#>Click here</a> to change your category mapping."
+msgstr "Please note that the Google Product Search category <strong>':categoryName'</strong> is no longer available. <a id=gpsTabShortCut href=#>Click here</a> to change your category mapping."
+
+msgctxt "GoogleProductCategoryWarning"
+msgid "Please note that one of your Google Product Search categories is no longer available. <a href='#' id=gpsCategoryWarningLink>Click here</a> to change your category mapping."
+msgstr "Please note that one of your Google Product Search categories is no longer available. <a href='#' id=gpsCategoryWarningLink>Click here</a> to change your category mapping."
+
+msgctxt "InvalidGoogleProductCategoryTitle"
+msgid "Select a Google Product Category"
+msgstr "Select a Google Product Category"
+
+msgctxt "RemapCategoryText"
+msgid "Due to recent changes made by Google, you'll need to update the Google Product Search categories below"
+msgstr "Due to recent changes made by Google, you'll need to update the Google Product Search categories below"
+
+msgctxt "GoogleProductCategoryWasMapped"
+msgid "The Google Product Search category `<strong>:name</strong>` is no longer available. Please change you category mapping."
+msgstr "The Google Product Search category `<strong>:name</strong>` is no longer available. Please change you category mapping."
+
+msgctxt "AllCategoriesValid"
+msgid "Thanks, your categories have been successfully mapped to Google Product Search."
+msgstr "Thanks, your categories have been successfully mapped to Google Product Search."

@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "BulkImportRedirects"
+msgid "Bulk Import..."
+msgstr "Bulk Import..."
+
+msgctxt "LearnMoreImportingRedirects"
+msgid "Learn about importing"
+msgstr "Learn about importing"
+
+msgctxt "AddNewRedirect"
+msgid "Add Redirect..."
+msgstr "Add Redirect..."
+
+msgctxt "RedirectOldURL"
+msgid "Old URL"
+msgstr "Old URL"
+
+msgctxt "RedirectNewURL"
+msgid "New URL"
+msgstr "New URL"
+
+msgctxt "RedirectTypeManual"
+msgid "Manual Link"
+msgstr "Manual Link"
+
+msgctxt "RedirectTypeAuto"
+msgid "Dynamic Link"
+msgstr "Dynamic Link"
+
+msgctxt "NoRedirects"
+msgid "No redirects have been created. Please click the 'Add Redirect...' button or the 'Bulk Import...' button to add some."
+msgstr "No redirects have been created. Please click the 'Add Redirect...' button or the 'Bulk Import...' button to add some."
+
+msgctxt "RedirectType"
+msgid "Redirect Type"
+msgstr "Redirect Type"
+
+msgctxt "NoSuchRedirect"
+msgid "No record exists of the redirect you tried to edit."
+msgstr "No record exists of the redirect you tried to edit."
+
+msgctxt "InvalidRedirect"
+msgid "The URL you entered was not a valid URL for a redirect"
+msgstr "The URL you entered was not a valid URL for a redirect"
+
+msgctxt "RedirectSaveErrorDatabase"
+msgid "A database error occurred while trying to save your redirect."
+msgstr "A database error occurred while trying to save your redirect."
+
+msgctxt "RedirectsIntro"
+msgid "A 301 redirect tells search engines that a page on your website has moved. They also help search engines update links from your old store to your new store."
+msgstr "A 301 redirect tells search engines that a page on your website has moved. They also help search engines update links from your old store to your new store."
+
+msgctxt "SaveRedirects"
+msgid "Save Redirects"
+msgstr "Save Redirects"
+
+msgctxt "UploadBulkFile"
+msgid "Import Bulk Redirects"
+msgstr "Import Bulk Redirects"
+
+msgctxt "SelectImportFile"
+msgid "Select the file upload and import"
+msgstr "Select the file upload and import"
+
+msgctxt "BulkImport"
+msgid "Import"
+msgstr "Import"
+
+msgctxt "ImportMaxSize"
+msgid "(%s size limit)"
+msgstr "(%s size limit)"
+
+msgctxt "ImportSuccessful"
+msgid "Your list of redirects has been imported and is displayed below."
+msgstr "Your list of redirects has been imported and is displayed below."
+
+msgctxt "RedirectCopyDoesntExist"
+msgid "The redirect you attempted to copy doesn't exist"
+msgstr "The redirect you attempted to copy doesn't exist"
+
+msgctxt "RedirectCopyError"
+msgid "The redirect could not be copied due to a database error."
+msgstr "The redirect could not be copied due to a database error."
+
+msgctxt "RedirectModifyDoesntExist"
+msgid "The redirect you attempted to modify doesn't exist"
+msgstr "The redirect you attempted to modify doesn't exist"
+
+msgctxt "SelectRedirectsToDelete"
+msgid "Please choose at least one redirect to delete."
+msgstr "Please choose at least one redirect to delete."
+
+msgctxt "NoValidRedirectsSelected"
+msgid "No valid redirects selected."
+msgstr "No valid redirects selected."
+
+msgctxt "NoRedirectsSelected"
+msgid "No redirects selected."
+msgstr "No redirects selected."
+
+msgctxt "RedirectsDeleteSuccessful"
+msgid "The selected redirects were deleted successfully."
+msgstr "The selected redirects were deleted successfully."
+
+msgctxt "RedirectsDeleteError"
+msgid "The selected redirects were not deleted due to a database error."
+msgstr "The selected redirects were not deleted due to a database error."
+
+msgctxt "RedirectDeleteSuccessful"
+msgid "The redirect was deleted successfully."
+msgstr "The redirect was deleted successfully."
+
+msgctxt "RedirectDeleteError"
+msgid "The redirect was not deleted due to a database error."
+msgstr "The redirect was not deleted due to a database error."
+
+msgctxt "RedirectDeleteDoesntExist"
+msgid "The redirect you attempted to delete doesn't exist"
+msgstr "The redirect you attempted to delete doesn't exist"
+
+msgctxt "RedirectsInvalidDataType"
+msgid "The redirect type you selected is not valid"
+msgstr "The redirect type you selected is not valid"
+
+msgctxt "BrowseForLink"
+msgid "Click here to choose a product, category, brand or web page."
+msgstr "Click here to choose a product, category, brand or web page."
+
+msgctxt "NoBulkImportFile"
+msgid "Please choose a CSV file on your hard drive first."
+msgstr "Please choose a CSV file on your hard drive first."
+
+msgctxt "EnterAnOldUrl"
+msgid "Please enter the old URL first."
+msgstr "Please enter the old URL first."
+
+msgctxt "ChangeLink"
+msgid "(Change)"
+msgstr "(Change)"
+
+msgctxt "ConfirmDeleteSelected"
+msgid "Are you sure you want to delete the selected redirects?"
+msgstr "Are you sure you want to delete the selected redirects?"
+
+msgctxt "ConfirmDeleteRedirect"
+msgid "Are you sure you want to delete this redirect?"
+msgstr "Are you sure you want to delete this redirect?"
+
+msgctxt "RedirectOldURLHelp"
+msgid "What is the old URL or link that you want to redirect? You should type the URL of a product page from your previous store here, such as http://www.oldstore.com/products/ipod.html"
+msgstr "What is the old URL or link that you want to redirect? You should type the URL of a product page from your previous store here, such as http://www.oldstore.com/products/ipod.html"
+
+msgctxt "RedirectTypeHelp"
+msgid "What kind of link would you like to use? Choose 'Manual Link' to enter a link yourself or choose 'Dynamic Link' to link to a product, web page, etc. If you choose a dynamic link and later change the name of the product or web page, the new URL will be updated to reflect that change as well."
+msgstr "What kind of link would you like to use? Choose 'Manual Link' to enter a link yourself or choose 'Dynamic Link' to link to a product, web page, etc. If you choose a dynamic link and later change the name of the product or web page, the new URL will be updated to reflect that change as well."
+
+msgctxt "ClickHereToEnterAURL"
+msgid "click here to enter a URL"
+msgstr "click here to enter a URL"
+
+msgctxt "InvalidAction"
+msgid "An invalid action was specified."
+msgstr "An invalid action was specified."
+
+msgctxt "Test"
+msgid "Test"
+msgstr "Test"
+
+msgctxt "NewURLInvalid"
+msgid "A URL must be prefixed with a forward slash (/), http://, or https://"
+msgstr "A URL must be prefixed with a forward slash (/), http://, or https://"
+
+msgctxt "ExportRedirects"
+msgid "Export These Redirects..."
+msgstr "Export These Redirects..."
+
+msgctxt "FileContainsHeaders"
+msgid "This file contains headers"
+msgstr "This file contains headers"
+
+msgctxt "RedirectAlreadyExists"
+msgid "The old URL ':redirectPath' already has a redirect setup. Please either edit that redirect or enter a different old URL."
+msgstr "The old URL ':redirectPath' already has a redirect setup. Please either edit that redirect or enter a different old URL."
+
+msgctxt "OldURLInvalid"
+msgid "The specified Old URL is invalid."
+msgstr "The specified Old URL is invalid."

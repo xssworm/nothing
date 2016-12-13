@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ShoppingComparisonManagePageTitle"
+msgid "Shopping Comparison Sites"
+msgstr "Shopping Comparison Sites"
+
+msgctxt "ShoppingComparisonHelp"
+msgid "Posting your products to :name is easy, simply <a href='#' kb:id=':tutorialId' class='HelpLink'>follow this step-by-step tutorial</a>."
+msgstr "Posting your products to :name is easy, simply <a href='#' kb:id=':tutorialId' class='HelpLink'>follow this step-by-step tutorial</a>."
+
+msgctxt "ShoppingComparisonCategoriesNotMapped"
+msgid "There are :count product categories which haven't been mapped to a :name category. <a href='#' kb:id='903' class='HelpLink'>Learn More</a>"
+msgstr "There are :count product categories which haven't been mapped to a :name category. <a href='#' kb:id='903' class='HelpLink'>Learn More</a>"
+
+msgctxt "ShoppingComparisonCategoriesNotMappedError"
+msgid "The :name product feed cannot be generated until you map your product categories as outlined above."
+msgstr "The :name product feed cannot be generated until you map your product categories as outlined above."
+
+msgctxt "ShoppingComparisonFeedBeingGenerated"
+msgid "The :name feed is currently being generated and is <strong><span class='complete'>:complete</span>%</strong> complete. <a class='stopLink'>cancel</a>"
+msgstr "The :name feed is currently being generated and is <strong><span class='complete'>:complete</span>%</strong> complete. <a class='stopLink'>cancel</a>"
+
+msgctxt "ShoppingComparisonFeedLastGenerated"
+msgid "The :name product feed was last generated on :date at :time. Click the &quot;Download Feed File&quot; button to download the feed."
+msgstr "The :name product feed was last generated on :date at :time. Click the &quot;Download Feed File&quot; button to download the feed."
+
+msgctxt "ShoppingComparisonNoFeed"
+msgid "Click the Regenerate Feed button below to start exporting your products."
+msgstr "Click the Regenerate Feed button below to start exporting your products."
+
+msgctxt "ShoppingComparisonUnmappedCategoriesModalHelp"
+msgid "
+<p>There are :count categories in your store which haven't been mapped to corresponding categories on :name. While it's optional to map your categories, we recommend you do so before exporting your products. To map your categories now, follow these steps:</p>
+<ol>
+	<li>Go to the <a href=':categoriesUrl'>View Categories</a> page</li>
+	<li>Tick the checkbox for the categories you want to map</li>
+	<li>Click the dropdown menu above the category list</li>
+	<li>Choose the &quot;Bulk Update...&quot; option for each comparison site</li>
+	<li>Click &quot;Go&quot; and map categories as required</li>
+	<li>Alternatively you can edit each category to map them instead</li>
+</ol>"
+msgstr "
+<p>There are :count categories in your store which haven't been mapped to corresponding categories on :name. While it's optional to map your categories, we recommend you do so before exporting your products. To map your categories now, follow these steps:</p>
+<ol>
+	<li>Go to the <a href=':categoriesUrl'>View Categories</a> page</li>
+	<li>Tick the checkbox for the categories you want to map</li>
+	<li>Click the dropdown menu above the category list</li>
+	<li>Choose the &quot;Bulk Update...&quot; option for each comparison site</li>
+	<li>Click &quot;Go&quot; and map categories as required</li>
+	<li>Alternatively you can edit each category to map them instead</li>
+</ol>"
+
+msgctxt "ShoppingComparisonUnmappedCategoriesModalTitle"
+msgid "Wait! :count Categories Aren't Mapped Correctly"
+msgstr "Wait! :count Categories Aren't Mapped Correctly"
+
+msgctxt "ShoppingComparisonManagePageDescription"
+msgid "To enable a shopping comparison export, select it from the list and click &quot;Save&quot;. You will then see a tab to setup the export below."
+msgstr "To enable a shopping comparison export, select it from the list and click &quot;Save&quot;. You will then see a tab to setup the export below."
+
+msgctxt "ShoppingComparisonSites"
+msgid "Shopping Comparison Sites"
+msgstr "Shopping Comparison Sites"
+
+msgctxt "ShoppingComparisonChooseSites"
+msgid "Choose Sites"
+msgstr "Choose Sites"
+
+msgctxt "ShoppingComparisonModulesSavedSuccessfully"
+msgid "The modified shopping comparison settings were saved successfully."
+msgstr "The modified shopping comparison settings were saved successfully."
+
+msgctxt "ShoppingComparisonModulesNotSaved"
+msgid "An error occurred while trying to save the shopping comparison settings."
+msgstr "An error occurred while trying to save the shopping comparison settings."
+
+msgctxt "ShoppingComparisonCategoryAssociationsUpdatedSuccessfully"
+msgid "The shopping comparison category associations for the selected categories have been updated successfully."
+msgstr "The shopping comparison category associations for the selected categories have been updated successfully."
+
+msgctxt "ShoppingComparisonLogNewExportJob"
+msgid "New export job created."
+msgstr "New export job created."
+
+msgctxt "ShoppingComparisonExportJobComplete"
+msgid "Export job complete. Successfully created a new :name feed."
+msgstr "Export job complete. Successfully created a new :name feed."
+
+msgctxt "ShoppingComparisonExportCancelled"
+msgid "Export cancelled. Click Regenerate Feed to start again."
+msgstr "Export cancelled. Click Regenerate Feed to start again."

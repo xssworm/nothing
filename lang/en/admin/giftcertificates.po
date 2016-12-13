@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "GiftCertificates"
+msgid "Gift Certificates"
+msgstr "Gift Certificates"
+
+msgctxt "CreateGiftCertificateView"
+msgid "Create Gift Certificate View"
+msgstr "Create Gift Certificate View"
+
+msgctxt "ManageGiftCertificatesIntro"
+msgid "Whenever a customer purchases a gift certificate through your store, it will be shown below. Click the plus sign next to a gift certificate to view usage history."
+msgstr "Whenever a customer purchases a gift certificate through your store, it will be shown below. Click the plus sign next to a gift certificate to view usage history."
+
+msgctxt "NoGiftCertificates"
+msgid "No gift certificates have been purchased yet. When a gift certificate is purchased it will appear on this page."
+msgstr "No gift certificates have been purchased yet. When a gift certificate is purchased it will appear on this page."
+
+msgctxt "AllGiftCertificates"
+msgid "All Gift Certificates"
+msgstr "All Gift Certificates"
+
+msgctxt "GiftCertificateViewIntro"
+msgid "A view lets you filter gift certificates based on attributes such as the remaining balance, status or the date the gift certificate was purchased. Fill out the form below to create a new view."
+msgstr "A view lets you filter gift certificates based on attributes such as the remaining balance, status or the date the gift certificate was purchased. Fill out the form below to create a new view."
+
+msgctxt "CreateNewGiftCertificatesView"
+msgid "Create a New View for Gift Certificates"
+msgstr "Create a New View for Gift Certificates"
+
+msgctxt "NameThisGiftCertificatesViewHelp"
+msgid "Type a name for your view here, such as \'Gift Certificates Purchased Today\' or \'Gift Certificates Worth over $200\'. The name is only visible from the control panel and you can switch to this view from the main gift certificates page."
+msgstr "Type a name for your view here, such as \'Gift Certificates Purchased Today\' or \'Gift Certificates Worth over $200\'. The name is only visible from the control panel and you can switch to this view from the main gift certificates page."
+
+msgctxt "NoGiftCertificateResults"
+msgid "No gift certificates matched your search criteria. Please try again."
+msgstr "No gift certificates matched your search criteria. Please try again."
+
+msgctxt "GiftCertificateSearchResultsBelow1"
+msgid "1 gift certificate matched your search criteria and is shown below."
+msgstr "1 gift certificate matched your search criteria and is shown below."
+
+msgctxt "GiftCertificateSearchResultsBelowX"
+msgid "%d gift certificates matched your search criteria and are shown below."
+msgstr "%d gift certificates matched your search criteria and are shown below."
+
+msgctxt "GiftCertificateStatusPending"
+msgid "Pending"
+msgstr "Pending"
+
+msgctxt "GiftCertificateStatusActive"
+msgid "Active"
+msgstr "Active"
+
+msgctxt "GiftCertificateStatusDisabled"
+msgid "Disabled"
+msgstr "Disabled"
+
+msgctxt "GiftCertificateStatusExpired"
+msgid "Expired"
+msgstr "Expired"
+
+msgctxt "GiftCertificateId"
+msgid "Certificate ID"
+msgstr "Certificate ID"
+
+msgctxt "GiftCertificateStatus"
+msgid "Certificate Status"
+msgstr "Certificate Status"
+
+msgctxt "GiftCertificateAmount"
+msgid "Certificate Value"
+msgstr "Certificate Value"
+
+msgctxt "GiftCertificateBalance"
+msgid "Remaining Balance"
+msgstr "Remaining Balance"
+
+msgctxt "GiftCertificatePurchaseDate"
+msgid "Date Purchased"
+msgstr "Date Purchased"
+
+msgctxt "GiftCertificateCode"
+msgid "Gift Certificate Code"
+msgstr "Gift Certificate Code"
+
+msgctxt "GiftCertificatePurchasedBy"
+msgid "Purchasing Customer"
+msgstr "Purchasing Customer"
+
+msgctxt "ChooseAGiftCertificateStatus"
+msgid "-- Choose a Gift Certificate Status --"
+msgstr "-- Choose a Gift Certificate Status --"
+
+msgctxt "SearchKeywordsGiftCertificateHelp"
+msgid "The search keywords typed in to this box will be used to search the following fields for gift certificates: gift certificate ID and gift certificate code."
+msgstr "The search keywords typed in to this box will be used to search the following fields for gift certificates: gift certificate ID and gift certificate code."
+
+msgctxt "SearchGiftCertificates"
+msgid "Search Gift Certificates"
+msgstr "Search Gift Certificates"
+
+msgctxt "SearchGiftCertificatesIntro"
+msgid "Search for specific gift certificates using the advanced search options below."
+msgstr "Search for specific gift certificates using the advanced search options below."
+
+msgctxt "ExpandGiftCertificateQuickView"
+msgid "View details about this gift certificate"
+msgstr "View details about this gift certificate"
+
+msgctxt "ChooseGiftCertificatesToDelete"
+msgid "Please choose one or more gift certificates to delete."
+msgstr "Please choose one or more gift certificates to delete."
+
+msgctxt "ConfirmDeleteGiftCertificates"
+msgid "Are you sure you want to delete the selected gift certificates?"
+msgstr "Are you sure you want to delete the selected gift certificates?"
+
+msgctxt "GiftCertificatesDeleted"
+msgid "The selected gift certificates have been deleted successfully."
+msgstr "The selected gift certificates have been deleted successfully."
+
+msgctxt "ExpiryDateRange"
+msgid "Expiry Date"
+msgstr "Expiry Date"
+
+msgctxt "ChooseGiftCertificateExpiryDate"
+msgid "-- Choose an Expiry Date --"
+msgstr "-- Choose an Expiry Date --"
+
+msgctxt "ChooseGiftCertificateDate"
+msgid "-- Choose a Purchase Date --"
+msgstr "-- Choose a Purchase Date --"
+
+msgctxt "Next7Days"
+msgid "Next 7 Days"
+msgstr "Next 7 Days"
+
+msgctxt "Next30Days"
+msgid "Next 30 Days"
+msgstr "Next 30 Days"
+
+msgctxt "NextMonth"
+msgid "Next Month"
+msgstr "Next Month"
+
+msgctxt "NextYear"
+msgid "Next Year"
+msgstr "Next Year"
+
+msgctxt "SearchEnterValidCertificateId"
+msgid "Please enter a valid gift certificate ID"
+msgstr "Please enter a valid gift certificate ID"
+
+msgctxt "SearchEnterValidAmount"
+msgid "Please enter a valid gift certificate value."
+msgstr "Please enter a valid gift certificate value."
+
+msgctxt "SearchEnterValidBalance"
+msgid "Please enter a valid gift certificate balance."
+msgstr "Please enter a valid gift certificate balance."
+
+msgctxt "SearchChooseDifferentExpiryDates"
+msgid "Please choose a different expiry date range. Expiry dates cannot be the same."
+msgstr "Please choose a different expiry date range. Expiry dates cannot be the same."
+
+msgctxt "Remaining"
+msgid "remaining"
+msgstr "remaining"
+
+msgctxt "BalanceUsed"
+msgid "Balance Used"
+msgstr "Balance Used"
+
+msgctxt "GiftCertificateHistory"
+msgid "Gift Certificate History"
+msgstr "Gift Certificate History"
+
+msgctxt "GiftCertificateDetails"
+msgid "Gift Certificate Details"
+msgstr "Gift Certificate Details"
+
+msgctxt "GiftCertificateSentTo"
+msgid "Sent To"
+msgstr "Sent To"
+
+msgctxt "GiftCertificateSentFrom"
+msgid "From"
+msgstr "From"
+
+msgctxt "GiftCertificateMessage"
+msgid "Message"
+msgstr "Message"
+
+msgctxt "GiftCertificateNotUsed"
+msgid "This gift certificate is yet to be used."
+msgstr "This gift certificate is yet to be used."
+
+msgctxt "FailedUpdateGiftCertificateStatus"
+msgid "Unable to update the status of this gift certificate."
+msgstr "Unable to update the status of this gift certificate."
+
+msgctxt "ManageGiftCertificates"
+msgid "Manage Gift Certificates"
+msgstr "Manage Gift Certificates"
+
+msgctxt "AllStatuses"
+msgid "-- All Statuses --"
+msgstr "-- All Statuses --"
+
+msgctxt "GiftCertificateSampleTo"
+msgid "John Smith"
+msgstr "John Smith"
+
+msgctxt "GiftCertificateSampleToEmail"
+msgid "john.smith@example.com"
+msgstr "john.smith@example.com"
+
+msgctxt "GiftCertificateSampleFrom"
+msgid "Mary Smith"
+msgstr "Mary Smith"
+
+msgctxt "GiftCertificateSampleFromEmail"
+msgid "mary.smith@example.com"
+msgstr "mary.smith@example.com"
+
+msgctxt "GiftCertificateSampleMessage"
+msgid "Hello, here is a certificate for you!"
+msgstr "Hello, here is a certificate for you!"
+
+msgctxt "GiftCertificateSampleCode"
+msgid "XXX-XXX-XXX-XXX"
+msgstr "XXX-XXX-XXX-XXX"
+
+msgctxt "GiftCertificateSampleAmount"
+msgid "50.00"
+msgstr "50.00"
+
+msgctxt "GiftCertificateSampleExpiryDate"
+msgid "1578447681"
+msgstr "1578447681"
+
+msgctxt "GiftCertificateTemplateUpdated"
+msgid "The selected gift certificate has been updated."
+msgstr "The selected gift certificate has been updated."
+
+msgctxt "GiftCertificateTemplateUpdateError"
+msgid "There was a problem saving your changes. The gift certificate was not updated."
+msgstr "There was a problem saving your changes. The gift certificate was not updated."
+
+msgctxt "GiftCertificateRestored"
+msgid "The original contents of the ':name' gift certificate template have been restored successfully."
+msgstr "The original contents of the ':name' gift certificate template have been restored successfully."
+
+msgctxt "GiftCertificateRestoreError"
+msgid "The contents of the ':name' gift certificate template could not be restored."
+msgstr "The contents of the ':name' gift certificate template could not be restored."
+
+msgctxt "GiftCertificateRestoreErrorInvalid"
+msgid "Gift certificate not found, unable to restore."
+msgstr "Gift certificate not found, unable to restore."
+
+msgctxt "GiftCertificatePreviewModalTitle"
+msgid "Preview Gift Certificate"
+msgstr "Preview Gift Certificate"

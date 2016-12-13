@@ -1,0 +1,3210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "errNoTemplateNameSpecified"
+msgid "No template name was specified when loading"
+msgstr "No template name was specified when loading"
+
+msgctxt "errCouldntLoadTemplate"
+msgid "Template file '%s' couldn't be opened"
+msgstr "Template file '%s' couldn't be opened"
+
+msgctxt "Oops"
+msgid "Oops"
+msgstr "Oops"
+
+msgctxt "UsernameLabel"
+msgid "Username:"
+msgstr "Username:"
+
+msgctxt "PasswordLabel"
+msgid "Password:"
+msgstr "Password:"
+
+msgctxt "RememberMe"
+msgid "Remember my details"
+msgstr "Remember my details"
+
+msgctxt "ForgotPassLink"
+msgid "<a rel='nofollow' href='index.php?ToDo=forgotPass'>Forgot your password?</a>"
+msgstr "<a rel='nofollow' href='index.php?ToDo=forgotPass'>Forgot your password?</a>"
+
+msgctxt "NoPermission"
+msgid "You do not have permission to perform the selected action."
+msgstr "You do not have permission to perform the selected action."
+
+msgctxt "LaunchQS"
+msgid "Launch QuickStart Popup"
+msgstr "Launch QuickStart Popup"
+
+msgctxt "ToDo"
+msgid "To Do"
+msgstr "To Do"
+
+msgctxt "QuickStats"
+msgid "Quick Stats"
+msgstr "Quick Stats"
+
+msgctxt "Pages"
+msgid "Web Pages"
+msgstr "Web Pages"
+
+msgctxt "Banners"
+msgid "Banners"
+msgstr "Banners"
+
+msgctxt "Templates"
+msgid "Store Design"
+msgstr "Store Design"
+
+msgctxt "Users"
+msgid "User Accounts"
+msgstr "User Accounts"
+
+msgctxt "Statistics"
+msgid "Statistics"
+msgstr "Statistics"
+
+msgctxt "Logout"
+msgid "Logout"
+msgstr "Logout"
+
+msgctxt "ViewStore"
+msgid "View Store"
+msgstr "View Store"
+
+msgctxt "Coupons"
+msgid "Coupons"
+msgstr "Coupons"
+
+msgctxt "Reviews"
+msgid "Product Reviews"
+msgstr "Product Reviews"
+
+msgctxt "Brands"
+msgid "Brands"
+msgstr "Brands"
+
+msgctxt "LoggedInAs"
+msgid "You are currently logged in as: %s"
+msgstr "You are currently logged in as: %s"
+
+msgctxt "StoreImporter"
+msgid "Store Importer"
+msgstr "Store Importer"
+
+msgctxt "Tools"
+msgid "Tools"
+msgstr "Tools"
+
+msgctxt "StoreExporter"
+msgid "Store Exporter"
+msgstr "Store Exporter"
+
+msgctxt "ExportTemplates"
+msgid "Export Templates"
+msgstr "Export Templates"
+
+msgctxt "HomePageNoOrders"
+msgid "No orders have been placed from your store."
+msgstr "No orders have been placed from your store."
+
+msgctxt "OrderedOn"
+msgid "Ordered on"
+msgstr "Ordered on"
+
+msgctxt "Totalling"
+msgid "totaling"
+msgstr "totaling"
+
+msgctxt "Hi"
+msgid "Hi"
+msgstr "Hi"
+
+msgctxt "Error"
+msgid "An Error Has Occurred"
+msgstr "An Error Has Occurred"
+
+msgctxt "SNo"
+msgid "No"
+msgstr "No"
+
+msgctxt "SYes"
+msgid "Yes"
+msgstr "Yes"
+
+msgctxt "Soon"
+msgid "Soon"
+msgstr "Soon"
+
+msgctxt "Clear"
+msgid "Clear"
+msgstr "Clear"
+
+msgctxt "BackupSettings"
+msgid "Backup Settings"
+msgstr "Backup Settings"
+
+msgctxt "OrderNo"
+msgid "Order #"
+msgstr "Order #"
+
+msgctxt "OrderTotal"
+msgid "Order Total"
+msgstr "Order Total"
+
+msgctxt "OrderDate"
+msgid "Date Sent"
+msgstr "Date Sent"
+
+msgctxt "SelectAll"
+msgid "Select All"
+msgstr "Select All"
+
+msgctxt "UnselectAll"
+msgid "Unselect All"
+msgstr "Unselect All"
+
+msgctxt "LoadingPleaseWait"
+msgid "Loading... Please wait..."
+msgstr "Loading... Please wait..."
+
+msgctxt "Home"
+msgid "Home"
+msgstr "Home"
+
+msgctxt "Settings"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "ControlPanel"
+msgid "Control Panel"
+msgstr "Control Panel"
+
+msgctxt "Unauthorized"
+msgid "You do not have permission to perform the selected operation."
+msgstr "You do not have permission to perform the selected operation."
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "Save"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "Action"
+msgid "Action"
+msgstr "Action"
+
+msgctxt "NA"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "Edit"
+msgid "Edit"
+msgstr "Edit"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "View"
+msgid "View"
+msgstr "View"
+
+msgctxt "Preview"
+msgid "Preview"
+msgstr "Preview"
+
+msgctxt "Date"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "CloseWindow"
+msgid "Close Window"
+msgstr "Close Window"
+
+msgctxt "New"
+msgid "New"
+msgstr "New"
+
+msgctxt "FeatureOnlyInIE"
+msgid "This feature is only available in Internet Explorer."
+msgstr "This feature is only available in Internet Explorer."
+
+msgctxt "CopiedClipboard"
+msgid "The selected coupon code has been copied to the clipboard."
+msgstr "The selected coupon code has been copied to the clipboard."
+
+msgctxt "Select"
+msgid "Select"
+msgstr "Select"
+
+msgctxt "SaveExit"
+msgid "Save &amp; Exit"
+msgstr "Save &amp; Exit"
+
+msgctxt "ChooseFilterOrEnterSearchTerm"
+msgid "Please choose a filter, enter a search term or do both."
+msgstr "Please choose a filter, enter a search term or do both."
+
+msgctxt "ChooseCountryFirst"
+msgid "Choose a Country First"
+msgstr "Choose a Country First"
+
+msgctxt "LBS"
+msgid "lbs"
+msgstr "lbs"
+
+msgctxt "KGS"
+msgid "kgs"
+msgstr "kgs"
+
+msgctxt "CMS"
+msgid "cms"
+msgstr "cms"
+
+msgctxt "Page"
+msgid "Page"
+msgstr "Page"
+
+msgctxt "Prev"
+msgid "Prev"
+msgstr "Prev"
+
+msgctxt "Previous"
+msgid "Previous"
+msgstr "Previous"
+
+msgctxt "Next"
+msgid "Next"
+msgstr "Next"
+
+msgctxt "Today"
+msgid "Today"
+msgstr "Today"
+
+msgctxt "Yesterday"
+msgid "Yesterday"
+msgstr "Yesterday"
+
+msgctxt "Last24Hours"
+msgid "Last 24 Hours"
+msgstr "Last 24 Hours"
+
+msgctxt "Last7Days"
+msgid "Last 7 Days"
+msgstr "Last 7 Days"
+
+msgctxt "Last30Days"
+msgid "Last 30 days"
+msgstr "Last 30 days"
+
+msgctxt "ThisMonth"
+msgid "This Month"
+msgstr "This Month"
+
+msgctxt "ThisYear"
+msgid "This Year"
+msgstr "This Year"
+
+msgctxt "CustomPeriod"
+msgid "Custom Period"
+msgstr "Custom Period"
+
+msgctxt "AscendingOrder"
+msgid "Ascending Order"
+msgstr "Ascending Order"
+
+msgctxt "DescendingOrder"
+msgid "Descending Order"
+msgstr "Descending Order"
+
+msgctxt "ExportCSV"
+msgid "CSV (Comma Separated)"
+msgstr "CSV (Comma Separated)"
+
+msgctxt "ExportXML"
+msgid "XML Formatted"
+msgstr "XML Formatted"
+
+msgctxt "Extras"
+msgid "Extras"
+msgstr "Extras"
+
+msgctxt "XYes"
+msgid "Yes"
+msgstr "Yes"
+
+msgctxt "XNo"
+msgid "No"
+msgstr "No"
+
+msgctxt "MaxUploadSize"
+msgid "(Maximum file upload size is %s)"
+msgstr "(Maximum file upload size is %s)"
+
+msgctxt "RangeDays"
+msgid "Days"
+msgstr "Days"
+
+msgctxt "RangeWeeks"
+msgid "Weeks"
+msgstr "Weeks"
+
+msgctxt "RangeMonths"
+msgid "Months"
+msgstr "Months"
+
+msgctxt "RangeYears"
+msgid "Years"
+msgstr "Years"
+
+msgctxt "YearsLower"
+msgid "years"
+msgstr "years"
+
+msgctxt "MonthsLower"
+msgid "months"
+msgstr "months"
+
+msgctxt "WeeksLower"
+msgid "weeks"
+msgstr "weeks"
+
+msgctxt "DaysLower"
+msgid "days"
+msgstr "days"
+
+msgctxt "Unlimited"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+msgctxt "Never"
+msgid "Never"
+msgstr "Never"
+
+msgctxt "CreateANewView"
+msgid "Create a New View..."
+msgstr "Create a New View..."
+
+msgctxt "DeleteThisView"
+msgid "Delete This View"
+msgstr "Delete This View"
+
+msgctxt "ApproveNews"
+msgid "Approve News Items"
+msgstr "Approve News Items"
+
+msgctxt "ManageReturns"
+msgid "Manage Returns"
+msgstr "Manage Returns"
+
+msgctxt "Alphabet"
+msgid "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z"
+msgstr "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z"
+
+msgctxt "UpdateLanguage"
+msgid "Your changes couldn\'t be saved because the language file /language/front_language.ini isn\'t writable. Please CHMOD it to 644 or 646 and try again."
+msgstr "Your changes couldn\'t be saved because the language file /language/front_language.ini isn\'t writable. Please CHMOD it to 644 or 646 and try again."
+
+msgctxt "OrderStatus"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "NoProdsInCat"
+msgid "[There are no products in this category]"
+msgstr "[There are no products in this category]"
+
+msgctxt "NoParent"
+msgid "No Parent Category"
+msgstr "No Parent Category"
+
+msgctxt "NoCategoryName"
+msgid "Please enter the name of the category."
+msgstr "Please enter the name of the category."
+
+msgctxt "NoSelectedCategoryName"
+msgid "Please select the name of the category."
+msgstr "Please select the name of the category."
+
+msgctxt "Categories"
+msgid "Categories"
+msgstr "Categories"
+
+msgctxt "ChooseACategory"
+msgid "-- Choose a Category --"
+msgstr "-- Choose a Category --"
+
+msgctxt "ChooseAnAction"
+msgid "-- Choose an Action --"
+msgstr "-- Choose an Action --"
+
+msgctxt "KB"
+msgid "KB"
+msgstr "KB"
+
+msgctxt "Tick"
+msgid "Tick"
+msgstr "Tick"
+
+msgctxt "Cross"
+msgid "Cross"
+msgstr "Cross"
+
+msgctxt "LoginTitle"
+msgid "Control Panel Login"
+msgstr "Control Panel Login"
+
+msgctxt "LoginIntro"
+msgid "Login with your username and password below."
+msgstr "Login with your username and password below."
+
+msgctxt "LoginDetails"
+msgid "Login Details"
+msgstr "Login Details"
+
+msgctxt "Login"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "NoUsername"
+msgid "Please enter your username."
+msgstr "Please enter your username."
+
+msgctxt "NoPassword"
+msgid "Please enter your password."
+msgstr "Please enter your password."
+
+msgctxt "BadLogin"
+msgid "The username or password you provided are incorrect. Please check them and try again."
+msgstr "The username or password you provided are incorrect. Please check them and try again."
+
+msgctxt "IdleLogout"
+msgid "You have been logged out automatically after :idleTime of inactivity."
+msgstr "You have been logged out automatically after :idleTime of inactivity."
+
+msgctxt "LockedOutError"
+msgid "You have been locked out for :lockoutTime minutes due to too many failed login attempts. An email has been sent to the store administrator containing a link which he/she can click to unblock you. <a href=':unblockLink'>Resend this email</a>."
+msgstr "You have been locked out for :lockoutTime minutes due to too many failed login attempts. An email has been sent to the store administrator containing a link which he/she can click to unblock you. <a href=':unblockLink'>Resend this email</a>."
+
+msgctxt "ResetLockoutSuccess"
+msgid "The selected user has been unblocked and will now be able to login."
+msgstr "The selected user has been unblocked and will now be able to login."
+
+msgctxt "ResetLockoutError"
+msgid "The link that you followed is invalid or has expired. <a href='index.php?ToDo='>Login again</a>."
+msgstr "The link that you followed is invalid or has expired. <a href='index.php?ToDo='>Login again</a>."
+
+msgctxt "SendUnblockRequestEmailSuccess"
+msgid "An unblock request has been emailed to the store administrator. When he/she clicks this link or when :lockoutTime minutes have past you will be able to login again."
+msgstr "An unblock request has been emailed to the store administrator. When he/she clicks this link or when :lockoutTime minutes have past you will be able to login again."
+
+msgctxt "SendUnblockRequestEmailError"
+msgid "Unable to send unblock request email to the store owner."
+msgstr "Unable to send unblock request email to the store owner."
+
+msgctxt "UnblockRequestEmailSubject"
+msgid "Temporary Login Block for User :username"
+msgstr "Temporary Login Block for User :username"
+
+msgctxt "UnblockRequestEmailContent"
+msgid "<p>*** This is an automated email, please do not reply ***</p><p>Hi there,</p><p>A user with the username ':username' on :storeName has been temporarily blocked from logging into your store's control panel due to too many continuous failed login attempts.</p><p>If you would like to remove the ban on this user and let them login again, please click the link below:</p><p><a href=':confirmUrl'>:confirmUrl</a></p><p>If you don't click the link above then the user won't be able to login until :unlockTime.</p>"
+msgstr "<p>*** This is an automated email, please do not reply ***</p><p>Hi there,</p><p>A user with the username ':username' on :storeName has been temporarily blocked from logging into your store's control panel due to too many continuous failed login attempts.</p><p>If you would like to remove the ban on this user and let them login again, please click the link below:</p><p><a href=':confirmUrl'>:confirmUrl</a></p><p>If you don't click the link above then the user won't be able to login until :unlockTime.</p>"
+
+msgctxt "SendEmail"
+msgid "Send Email"
+msgstr "Send Email"
+
+msgctxt "NewPassword"
+msgid "New Password"
+msgstr "New Password"
+
+msgctxt "NewPasswordConfirm"
+msgid "New Password (confirm)"
+msgstr "New Password (confirm)"
+
+msgctxt "CurrentPassword"
+msgid "Current Password"
+msgstr "Current Password"
+
+msgctxt "NoNewPassword"
+msgid "Please enter a new password."
+msgstr "Please enter a new password."
+
+msgctxt "NoNewPassword2"
+msgid "Please confirm your new password."
+msgstr "Please confirm your new password."
+
+msgctxt "PasswordDontMatch"
+msgid "Your passwords do not match."
+msgstr "Your passwords do not match."
+
+msgctxt "NoEmail"
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+msgctxt "BadUsername"
+msgid "The username you entered doesn't exist."
+msgstr "The username you entered doesn't exist."
+
+msgctxt "NoEmailSystem"
+msgid "The password confirmation email couldn't be sent. Please make sure PHP's mail() function is working and try again."
+msgstr "The password confirmation email couldn't be sent. Please make sure PHP's mail() function is working and try again."
+
+msgctxt "ConfirmPasswordChange"
+msgid "Confirm Password Change"
+msgstr "Confirm Password Change"
+
+msgctxt "ChangePassEmail"
+msgid "<p>Hi there,</p><p>We've recently received a request to reset the password for your administrator account ':username' on :storeName.</p><p>Before we can reset your password, we need you to confirm the legitimacy of this request by clicking the link below:</p><p><a href=':confirmUrl'>:confirmUrl</a></p><p>If you did not request to reset your password, please disregard this email.</p>"
+msgstr "<p>Hi there,</p><p>We've recently received a request to reset the password for your administrator account ':username' on :storeName.</p><p>Before we can reset your password, we need you to confirm the legitimacy of this request by clicking the link below:</p><p><a href=':confirmUrl'>:confirmUrl</a></p><p>If you did not request to reset your password, please disregard this email.</p>"
+
+msgctxt "PasswordChangeRequired"
+msgid "Password Change Required"
+msgstr "Password Change Required"
+
+msgctxt "ExpiredPassEmail"
+msgid "<p>*** This is an automated email, please do not reply ***</p><p>Hi there,</p><p>It's been at least :expireDays days since you last changed your password. Before you can login to your control panel, you need to specify a new password.</p><p>To choose a new password now, please click this link:</p><p><a href=':confirmUrl'>:confirmUrl</a></p><p>We understand that changing your password takes time, but it's one of the many ways we keep your data safe and secure.</p>"
+msgstr "<p>*** This is an automated email, please do not reply ***</p><p>Hi there,</p><p>It's been at least :expireDays days since you last changed your password. Before you can login to your control panel, you need to specify a new password.</p><p>To choose a new password now, please click this link:</p><p><a href=':confirmUrl'>:confirmUrl</a></p><p>We understand that changing your password takes time, but it's one of the many ways we keep your data safe and secure.</p>"
+
+msgctxt "PassUpdated"
+msgid "Your password has been changed and you can use it to login below."
+msgstr "Your password has been changed and you can use it to login below."
+
+msgctxt "ResetPasswordRequestTitle"
+msgid "Password Reset Request"
+msgstr "Password Reset Request"
+
+msgctxt "ResetPasswordRequestIntro"
+msgid "To change your password, type the <strong>username</strong> you use to login below. You will then be sent an email with further instructions."
+msgstr "To change your password, type the <strong>username</strong> you use to login below. You will then be sent an email with further instructions."
+
+msgctxt "ResetPasswordRequestMsg"
+msgid "Please check your inbox for an email containing further instructions on how to reset your password."
+msgstr "Please check your inbox for an email containing further instructions on how to reset your password."
+
+msgctxt "ResetPasswordInvalidToken"
+msgid "This password reset request has expired. To change your password, please enter your login <strong>username</strong> below."
+msgstr "This password reset request has expired. To change your password, please enter your login <strong>username</strong> below."
+
+msgctxt "ResetPasswordTitle"
+msgid "Password Reset"
+msgstr "Password Reset"
+
+msgctxt "ResetPasswordIntro"
+msgid "Fill in the form below to choose a new password."
+msgstr "Fill in the form below to choose a new password."
+
+msgctxt "ResetPasswordInvalidAction"
+msgid "The username is incorrect or the passwords don't match. Please check them and try again."
+msgstr "The username is incorrect or the passwords don't match. Please check them and try again."
+
+msgctxt "PasswordExpired"
+msgid "As a security precaution you need to change your password every :expireDays days. We've sent you an email which contains a link you must click to choose a new password."
+msgstr "As a security precaution you need to change your password every :expireDays days. We've sent you an email which contains a link you must click to choose a new password."
+
+msgctxt "PasswordPreviouslyUsed"
+msgid "Your new password is the same as one of your last :historyCount passwords. For security reasons, please choose a different password."
+msgstr "Your new password is the same as one of your last :historyCount passwords. For security reasons, please choose a different password."
+
+msgctxt "ProductVariations"
+msgid "Product Variations"
+msgstr "Product Variations"
+
+msgctxt "ProductVariationsMenuHelp"
+msgid "Create variations such as size and color which you can assign to products."
+msgstr "Create variations such as size and color which you can assign to products."
+
+msgctxt "ViewProducts"
+msgid "View Products"
+msgstr "View Products"
+
+msgctxt "AddProduct"
+msgid "Add a Product"
+msgstr "Add a Product"
+
+msgctxt "NameThisView"
+msgid "Name this View"
+msgstr "Name this View"
+
+msgctxt "ViewDetails"
+msgid "View Details"
+msgstr "View Details"
+
+msgctxt "Export"
+msgid "Export"
+msgstr "Export"
+
+msgctxt "Quantity"
+msgid "Qty"
+msgstr "Qty"
+
+msgctxt "OrderId"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "IdSortAsc"
+msgid "Sort by Order Id (ascending)"
+msgstr "Sort by Order Id (ascending)"
+
+msgctxt "IdSortDesc"
+msgid "Sort by Order Id (descending)"
+msgstr "Sort by Order Id (descending)"
+
+msgctxt "Customer"
+msgid "Customer"
+msgstr "Customer"
+
+msgctxt "CustSortAsc"
+msgid "Sort by Customer Name (ascending)"
+msgstr "Sort by Customer Name (ascending)"
+
+msgctxt "CustSortDesc"
+msgid "Sort by Customer Name (descending)"
+msgstr "Sort by Customer Name (descending)"
+
+msgctxt "Status"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "Products"
+msgid "Products"
+msgstr "Products"
+
+msgctxt "Total"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "DateSortAsc"
+msgid "Sort by Date Ordered (ascending)"
+msgstr "Sort by Date Ordered (ascending)"
+
+msgctxt "DateSortDesc"
+msgid "Sort by Date Ordered (descending)"
+msgstr "Sort by Date Ordered (descending)"
+
+msgctxt "CustomerName"
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgctxt "Address"
+msgid "Address"
+msgstr "Address"
+
+msgctxt "Email"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "PhoneNumber"
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgctxt "From"
+msgid "From"
+msgstr "From"
+
+msgctxt "To"
+msgid "To"
+msgstr "To"
+
+msgctxt "All"
+msgid "All"
+msgstr "All"
+
+msgctxt "Code"
+msgid "Code/SKU"
+msgstr "Code/SKU"
+
+msgctxt "ProdName"
+msgid "Product Name"
+msgstr "Product Name"
+
+msgctxt "ChooseA"
+msgid "Choose a"
+msgstr "Choose a"
+
+msgctxt "Option"
+msgid "Option"
+msgstr "Option"
+
+msgctxt "Opt"
+msgid "(Optional)"
+msgstr "(Optional)"
+
+msgctxt "Req"
+msgid "(Required)"
+msgstr "(Required)"
+
+msgctxt "DateRange"
+msgid "Date Range"
+msgstr "Date Range"
+
+msgctxt "FileFormat"
+msgid "File Format"
+msgstr "File Format"
+
+msgctxt "Search"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "AdvancedSearch"
+msgid "Advanced Search"
+msgstr "Advanced Search"
+
+msgctxt "ConfirmCancelSearch"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "SearchKeywords"
+msgid "Search Keywords"
+msgstr "Search Keywords"
+
+msgctxt "SearchByRange"
+msgid "Search by Range"
+msgstr "Search by Range"
+
+msgctxt "SearchByDate"
+msgid "Search by Date"
+msgstr "Search by Date"
+
+msgctxt "SearchFrom"
+msgid "From"
+msgstr "From"
+
+msgctxt "SearchTo"
+msgid "to"
+msgstr "to"
+
+msgctxt "EnterViewName"
+msgid "Please enter a name for this view."
+msgstr "Please enter a name for this view."
+
+msgctxt "SearchResults"
+msgid "Search Results"
+msgstr "Search Results"
+
+msgctxt "CustomView"
+msgid "Custom View"
+msgstr "Custom View"
+
+msgctxt "SearchProducts"
+msgid "Search Products"
+msgstr "Search Products"
+
+msgctxt "SearchOrders"
+msgid "Search Orders"
+msgstr "Search Orders"
+
+msgctxt "OrderDate1"
+msgid "Date Ordered"
+msgstr "Date Ordered"
+
+msgctxt "IPAddress"
+msgid "IP Address"
+msgstr "IP Address"
+
+msgctxt "AllCountries"
+msgid "All Countries"
+msgstr "All Countries"
+
+msgctxt "Countries"
+msgid "Countries"
+msgstr "Countries"
+
+msgctxt "States"
+msgid "States"
+msgstr "States"
+
+msgctxt "Country"
+msgid "Country"
+msgstr "Country"
+
+msgctxt "ShippingZone"
+msgid "Shipping Zone"
+msgstr "Shipping Zone"
+
+msgctxt "ConfirmCancel"
+msgid "Are you sure you want to cancel?\n\nClick OK to confirm."
+msgstr "Are you sure you want to cancel?\n\nClick OK to confirm."
+
+msgctxt "ViewReturnsMenuHelp"
+msgid "View and process return requests from orders placed on your web site."
+msgstr "View and process return requests from orders placed on your web site."
+
+msgctxt "EnterSearchTerm"
+msgid "Please enter one or more search terms"
+msgstr "Please enter one or more search terms"
+
+msgctxt "SortOrder"
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgctxt "SaveAndAddAnother"
+msgid "Save &amp; Add Another"
+msgstr "Save &amp; Add Another"
+
+msgctxt "SaveAndContinueEditing"
+msgid "Save &amp; Keep Editing"
+msgstr "Save &amp; Keep Editing"
+
+msgctxt "SaveAndExit"
+msgid "Save &amp; Exit"
+msgstr "Save &amp; Exit"
+
+msgctxt "Order"
+msgid "Order"
+msgstr "Order"
+
+msgctxt "ChooseCountry"
+msgid "-- Choose a Country --"
+msgstr "-- Choose a Country --"
+
+msgctxt "CreateAWebPage"
+msgid "Create a Web Page"
+msgstr "Create a Web Page"
+
+msgctxt "ViewWebPages"
+msgid "View Web Pages"
+msgstr "View Web Pages"
+
+msgctxt "AddNews"
+msgid "Add a News Item"
+msgstr "Add a News Item"
+
+msgctxt "ViewNews"
+msgid "View News Items"
+msgstr "View News Items"
+
+msgctxt "ViewReturns"
+msgid "View Return Requests"
+msgstr "View Return Requests"
+
+msgctxt "ManageReviews"
+msgid "Product Reviews"
+msgstr "Product Reviews"
+
+msgctxt "ViewCategories"
+msgid "Product Categories"
+msgstr "Product Categories"
+
+msgctxt "SearchCustomers"
+msgid "Search Customers"
+msgstr "Search Customers"
+
+msgctxt "ViewOrders"
+msgid "View Orders"
+msgstr "View Orders"
+
+msgctxt "Help"
+msgid "Help"
+msgstr "Help"
+
+msgctxt "SystemInfo"
+msgid "System Information"
+msgstr "System Information"
+
+msgctxt "AddonSettings"
+msgid "Addon Settings"
+msgstr "Addon Settings"
+
+msgctxt "Addons"
+msgid "Addons"
+msgstr "Addons"
+
+msgctxt "ViewCustomers"
+msgid "View Customers"
+msgstr "View Customers"
+
+msgctxt "AddCustomer"
+msgid "Add Customer"
+msgstr "Add Customer"
+
+msgctxt "ManageFAQ"
+msgid "Manage FAQ"
+msgstr "Manage FAQ"
+
+msgctxt "ManageCouponCodes"
+msgid "Manage Coupon Codes"
+msgstr "Manage Coupon Codes"
+
+msgctxt "NewsletterSubscribers"
+msgid "Download Newsletter Subscriber List"
+msgstr "Download Newsletter Subscriber List"
+
+msgctxt "Close"
+msgid "Close"
+msgstr "Close"
+
+msgctxt "GeneralSettings"
+msgid "General Settings"
+msgstr "General Settings"
+
+msgctxt "StoreSettings"
+msgid "Store Settings"
+msgstr "Store Settings"
+
+msgctxt "ShippingSettings"
+msgid "Shipping Settings"
+msgstr "Shipping Settings"
+
+msgctxt "CheckoutSettings"
+msgid "Checkout Settings"
+msgstr "Checkout Settings"
+
+msgctxt "CurrencySettings"
+msgid "Currency Settings"
+msgstr "Currency Settings"
+
+msgctxt "TaxSettings"
+msgid "Tax Settings"
+msgstr "Tax Settings"
+
+msgctxt "NotificationSettings"
+msgid "Notification Settings"
+msgstr "Notification Settings"
+
+msgctxt "ReturnsSettings"
+msgid "Returns Settings"
+msgstr "Returns Settings"
+
+msgctxt "GiftCertificateSettings"
+msgid "Gift Certificate Settings"
+msgstr "Gift Certificate Settings"
+
+msgctxt "AffiliateSettings"
+msgid "Affiliate Settings"
+msgstr "Affiliate Settings"
+
+msgctxt "AnalyticsSettings"
+msgid "Analytics Settings"
+msgstr "Analytics Settings"
+
+msgctxt "ShippingManagerSettings"
+msgid "Shipping Manager Settings"
+msgstr "Shipping Manager Settings"
+
+msgctxt "ExportThickBoxIntro"
+msgid "You can export to a CSV file which can be opened in Microsoft Excel or Google Docs, or you can export into a simple XML file format which is useful for custom programs or web scripts."
+msgstr "You can export to a CSV file which can be opened in Microsoft Excel or Google Docs, or you can export into a simple XML file format which is useful for custom programs or web scripts."
+
+msgctxt "ViewAlreadExists"
+msgid "A view with the name '%s' already exists."
+msgstr "A view with the name '%s' already exists."
+
+msgctxt "ChooseAFileFormat"
+msgid "Choose a File Format:"
+msgstr "Choose a File Format:"
+
+msgctxt "ConfirmDeleteCustomSearch"
+msgid "Are you sure you want to delete this view?"
+msgstr "Are you sure you want to delete this view?"
+
+msgctxt "DeleteCustomSearchSuccess"
+msgid "The selected view has been deleted."
+msgstr "The selected view has been deleted."
+
+msgctxt "DeleteCustomSearchFailed"
+msgid "Something went wrong when trying to delete the selected order view. Please try again."
+msgstr "Something went wrong when trying to delete the selected order view. Please try again."
+
+msgctxt "CustomSearchSaved"
+msgid "Your view has been saved and is shown below."
+msgstr "Your view has been saved and is shown below."
+
+msgctxt "VisibleSortAsc"
+msgid "Sort by Visibility (ascending)"
+msgstr "Sort by Visibility (ascending)"
+
+msgctxt "VisibleSortDesc"
+msgid "Sort by Visibility (descending)"
+msgstr "Sort by Visibility (descending)"
+
+msgctxt "ChooseValidImage"
+msgid "Please choose an image file that ends in .gif, .jpg or .png."
+msgstr "Please choose an image file that ends in .gif, .jpg or .png."
+
+msgctxt "SearchEngineOptimization"
+msgid "Search Engine Optimization"
+msgstr "Search Engine Optimization"
+
+msgctxt "PageTitle"
+msgid "Page Title"
+msgstr "Page Title"
+
+msgctxt "Name"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "NameSortAsc"
+msgid "Sort by Name (Ascending)"
+msgstr "Sort by Name (Ascending)"
+
+msgctxt "NameSortDesc"
+msgid "Sort by Name (Descending)"
+msgstr "Sort by Name (Descending)"
+
+msgctxt "StatusSortAsc"
+msgid "Sort by Status (Ascending)"
+msgstr "Sort by Status (Ascending)"
+
+msgctxt "StatusSortDesc"
+msgid "Sort by Status (Descending)"
+msgstr "Sort by Status (Descending)"
+
+msgctxt "Copy"
+msgid "Copy"
+msgstr "Copy"
+
+msgctxt "Username"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "UserPass"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "Permissions"
+msgid "Permissions"
+msgstr "Permissions"
+
+msgctxt "Custom"
+msgid "Custom"
+msgstr "Custom"
+
+msgctxt "apiNotConnectedToDB"
+msgid "Not connected to the database"
+msgstr "Not connected to the database"
+
+msgctxt "apiInsertFailed"
+msgid "The insert query failed"
+msgstr "The insert query failed"
+
+msgctxt "apiIdNotAPosInt"
+msgid "Id is not a positive integer"
+msgstr "Id is not a positive integer"
+
+msgctxt "apiDeleteFailed"
+msgid "The delete query failed"
+msgstr "The delete query failed"
+
+msgctxt "apiNotAnArray"
+msgid "MultiDelete requires an array"
+msgstr "MultiDelete requires an array"
+
+msgctxt "apiNotLoaded"
+msgid "Attempt to perform action on unloaded object failed"
+msgstr "Attempt to perform action on unloaded object failed"
+
+msgctxt "apiUpdateFailed"
+msgid "The update query failed"
+msgstr "The update query failed"
+
+msgctxt "apiWrongLoadCount"
+msgid "The wrong number of rows matched that load attempt"
+msgstr "The wrong number of rows matched that load attempt"
+
+msgctxt "apiNotVersioned"
+msgid "This object isn't being versioned so reverting it doesn't make sense"
+msgstr "This object isn't being versioned so reverting it doesn't make sense"
+
+msgctxt "apiValidateFailedFor"
+msgid "The value for '%s' was not valid"
+msgstr "The value for '%s' was not valid"
+
+msgctxt "apiPostNotSet"
+msgid "The value for '%s' was not submitted"
+msgstr "The value for '%s' was not submitted"
+
+msgctxt "apiDirNotExists"
+msgid "The directory '%s' doesn't exist"
+msgstr "The directory '%s' doesn't exist"
+
+msgctxt "apiUnlinkFailed"
+msgid "The delete operation failed '%s'"
+msgstr "The delete operation failed '%s'"
+
+msgctxt "apiNotAFile"
+msgid "'%s' is not a file"
+msgstr "'%s' is not a file"
+
+msgctxt "apiDirOpenFailed"
+msgid "The attempt to open the directory '%s' failed"
+msgstr "The attempt to open the directory '%s' failed"
+
+msgctxt "apiCatNameEmpty"
+msgid "The category name can not be empty."
+msgstr "The category name can not be empty."
+
+msgctxt "apiCatNameLong"
+msgid "The category name is too long."
+msgstr "The category name is too long."
+
+msgctxt "apiCatDescLong"
+msgid "The category description is too long."
+msgstr "The category description is too long."
+
+msgctxt "apiCatAlreadyExists"
+msgid "A category with the name '%s' already exists. Please choose a different name."
+msgstr "A category with the name '%s' already exists. Please choose a different name."
+
+msgctxt "PostContent"
+msgid "News Item Content"
+msgstr "News Item Content"
+
+msgctxt "TypeNewsPostHere"
+msgid "Type the details of your news item here..."
+msgstr "Type the details of your news item here..."
+
+msgctxt "TemplateLayoutFile"
+msgid "Template Layout File"
+msgstr "Template Layout File"
+
+msgctxt "ImportFileUpload"
+msgid "Upload a file from my computer"
+msgstr "Upload a file from my computer"
+
+msgctxt "ImportFileUploadDesc"
+msgid "Choose a file to upload that contains the records that you want to import. This should be a plain text file."
+msgstr "Choose a file to upload that contains the records that you want to import. This should be a plain text file."
+
+msgctxt "ImportFileServer"
+msgid "Use a file already on the server"
+msgstr "Use a file already on the server"
+
+msgctxt "ImportFileServerDesc"
+msgid "Upload a file into your admin/import folder to see it listed here. Generally you would upload a file to your server first instead of uploading it directly using the &quot;Upload a File...&quot; method above if it is for a large import containing thousands of records."
+msgstr "Upload a file into your admin/import folder to see it listed here. Generally you would upload a file to your server first instead of uploading it directly using the &quot;Upload a File...&quot; method above if it is for a large import containing thousands of records."
+
+msgctxt "ImportProductFileServer"
+msgid "Use a file already on the server"
+msgstr "Use a file already on the server"
+
+msgctxt "ImportProductFileServerDesc"
+msgid "Upload a file into your product_downloads/import folder to see it listed here. Generally you would upload a file to your server first instead of uploading it directly using the &quot;Upload a File...&quot; method above if the file is too big to upload using your web browser (such as an MP3 or a video file)."
+msgstr "Upload a file into your product_downloads/import folder to see it listed here. Generally you would upload a file to your server first instead of uploading it directly using the &quot;Upload a File...&quot; method above if the file is too big to upload using your web browser (such as an MP3 or a video file)."
+
+msgctxt "FieldNoServerFiles"
+msgid "There are no files on the server"
+msgstr "There are no files on the server"
+
+msgctxt "FieldNoServerFilesProductDownloads"
+msgid "Upload a file to your product_downloads/import folder to select it here."
+msgstr "Upload a file to your product_downloads/import folder to select it here."
+
+msgctxt "ImportChooseFile"
+msgid "-- Please Choose a File --"
+msgstr "-- Please Choose a File --"
+
+msgctxt "PopupCloseWindow"
+msgid "Close Window"
+msgstr "Close Window"
+
+msgctxt "ImportProducts"
+msgid "Import Products"
+msgstr "Import Products"
+
+msgctxt "ImportCustomers"
+msgid "Import Customers"
+msgstr "Import Customers"
+
+msgctxt "ClearResults"
+msgid "Clear Search Results"
+msgstr "Clear Search Results"
+
+msgctxt "Visible"
+msgid "Visible"
+msgstr "Visible"
+
+msgctxt "ViewBackups"
+msgid "Backups"
+msgstr "Backups"
+
+msgctxt "BadLKHSer"
+msgid "Your license key is not valid for http://%s."
+msgstr "Your license key is not valid for http://%s."
+
+msgctxt "StoreOverview"
+msgid "Store Overview"
+msgstr "Store Overview"
+
+msgctxt "SearchStatistics"
+msgid "Search Statistics"
+msgstr "Search Statistics"
+
+msgctxt "OrderStatistics"
+msgid "Order Statistics"
+msgstr "Order Statistics"
+
+msgctxt "ProductStatistics"
+msgid "Product Statistics"
+msgstr "Product Statistics"
+
+msgctxt "CustomerStatistics"
+msgid "Customer Statistics"
+msgstr "Customer Statistics"
+
+msgctxt "DeleteSelected"
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+msgctxt "AddVendors"
+msgid "Add Vendors"
+msgstr "Add Vendors"
+
+msgctxt "EditVendors"
+msgid "Edit Vendors"
+msgstr "Edit Vendors"
+
+msgctxt "DeleteVendors"
+msgid "Delete Vendors"
+msgstr "Delete Vendors"
+
+msgctxt "ExportCustomers"
+msgid "Export Customers"
+msgstr "Export Customers"
+
+msgctxt "OrderMessages"
+msgid "Order Messages"
+msgstr "Order Messages"
+
+msgctxt "ExportOrders"
+msgid "Export Orders"
+msgstr "Export Orders"
+
+msgctxt "ExportProducts1"
+msgid "Export Products"
+msgstr "Export Products"
+
+msgctxt "ManageBanners"
+msgid "Manage Banners"
+msgstr "Manage Banners"
+
+msgctxt "ExportSubscribers"
+msgid "Export Subscribers"
+msgstr "Export Subscribers"
+
+msgctxt "CreateFroogleFeed"
+msgid "Google Product Search Feed"
+msgstr "Google Product Search Feed"
+
+msgctxt "ViewBanners"
+msgid "View Banners"
+msgstr "View Banners"
+
+msgctxt "ViewBrands"
+msgid "View Brands"
+msgstr "View Brands"
+
+msgctxt "ManageAskMessage"
+msgid "Manage Ask Message"
+msgstr "Manage Ask Message"
+
+msgctxt "ViewManageAskMessageHelp"
+msgid "View manage ask message."
+msgstr "View manage ask message."
+
+msgctxt "DevEditLinkerInsertLink"
+msgid "Insert Link to Store..."
+msgstr "Insert Link to Store..."
+
+msgctxt "DevEditLinkerInsertButton"
+msgid "Insert Link"
+msgstr "Insert Link"
+
+msgctxt "DevEditLinkerCloseButton"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "DevEditLinkerLinkProduct"
+msgid "Link to Product"
+msgstr "Link to Product"
+
+msgctxt "DevEditLinkerLinkCategory"
+msgid "Link to Category"
+msgstr "Link to Category"
+
+msgctxt "DevEditLinkerLinkBrand"
+msgid "Link to Brand"
+msgstr "Link to Brand"
+
+msgctxt "DevEditLinkerLinkPage"
+msgid "Link to Page"
+msgstr "Link to Page"
+
+msgctxt "DevEditLinkerEnterSearchTerms"
+msgid "Please enter some search terms."
+msgstr "Please enter some search terms."
+
+msgctxt "DevEditLinkerNoProducts"
+msgid "Search found no products."
+msgstr "Search found no products."
+
+msgctxt "DevEditLinkerNoCategoryProducts"
+msgid "This category contains no products."
+msgstr "This category contains no products."
+
+msgctxt "DevEditLinkerNoBrands"
+msgid "You do not have any brands configured."
+msgstr "You do not have any brands configured."
+
+msgctxt "DevEditLinkerNoPages"
+msgid "You haven't created any pages."
+msgstr "You haven't created any pages."
+
+msgctxt "Category"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "SearchTerms"
+msgid "Search Terms"
+msgstr "Search Terms"
+
+msgctxt "DevEditLinkerProductIntro"
+msgid "Link to a Product"
+msgstr "Link to a Product"
+
+msgctxt "DevEditLinkerProductDesc"
+msgid "Find a product by category or keyword and then click the 'Insert Link' button below."
+msgstr "Find a product by category or keyword and then click the 'Insert Link' button below."
+
+msgctxt "DevEditLinkerCategoryIntro"
+msgid "Link to a Category"
+msgstr "Link to a Category"
+
+msgctxt "DevEditLinkerCategoryDesc"
+msgid "Click on the name of the category you wish to link to and click 'Insert Link'"
+msgstr "Click on the name of the category you wish to link to and click 'Insert Link'"
+
+msgctxt "DevEditLinkerBrandIntro"
+msgid "Link to a Brand Name"
+msgstr "Link to a Brand Name"
+
+msgctxt "DevEditLinkerBrandDesc"
+msgid "Click on the name of the brand name you wish to link to and click 'Insert Link'"
+msgstr "Click on the name of the brand name you wish to link to and click 'Insert Link'"
+
+msgctxt "DevEditLinkerPageIntro"
+msgid "Link to a Page"
+msgstr "Link to a Page"
+
+msgctxt "DevEditLinkerPageDesc"
+msgid "Click on the name of the page you wish to link to and click 'Insert Link'"
+msgstr "Click on the name of the page you wish to link to and click 'Insert Link'"
+
+msgctxt "DevEditLinkerSearchByCategory"
+msgid "Search by Category"
+msgstr "Search by Category"
+
+msgctxt "DevEditLinkerSearchByProductName"
+msgid "Search by Product Name"
+msgstr "Search by Product Name"
+
+msgctxt "ViewOrdersMenuHelp"
+msgid "View, process and print invoices slips for orders placed from your web site."
+msgstr "View, process and print invoices slips for orders placed from your web site."
+
+msgctxt "SearchOrdersMenuHelp"
+msgid "Search for orders by customer name, date, payment method, etc."
+msgstr "Search for orders by customer name, date, payment method, etc."
+
+msgctxt "ViewCustomersMenuHelp"
+msgid "View customer account details, including order history, phone number, etc."
+msgstr "View customer account details, including order history, phone number, etc."
+
+msgctxt "SearchCustomersMenuHelp"
+msgid "Search customers by name, number of orders, country, date joined, etc."
+msgstr "Search customers by name, number of orders, country, date joined, etc."
+
+msgctxt "ViewProductsMenuHelp"
+msgid "View, add and edit products that are shown to visitors of your store."
+msgstr "View, add and edit products that are shown to visitors of your store."
+
+msgctxt "AddProductMenuHelp"
+msgid "Add a product with pictures and a description to show in your store."
+msgstr "Add a product with pictures and a description to show in your store."
+
+msgctxt "SearchProductsMenuHelp"
+msgid "Search products in your store."
+msgstr "Search products in your store."
+
+msgctxt "ViewReviewsMenuHelp"
+msgid "View and approve product reviews submitted from your store."
+msgstr "View and approve product reviews submitted from your store."
+
+msgctxt "ImportProductsMenuHelp"
+msgid "Bulk add products to your store from a CSV file or a file on your web site."
+msgstr "Bulk add products to your store from a CSV file or a file on your web site."
+
+msgctxt "ViewCategoriesMenuHelp"
+msgid "View product categories which are used to group products in your store."
+msgstr "View product categories which are used to group products in your store."
+
+msgctxt "AddCategoryMenuHelp"
+msgid "Add a product category to your store, which is used to group products."
+msgstr "Add a product category to your store, which is used to group products."
+
+msgctxt "ViewNewsMenuHelp"
+msgid "View and edit news items that you've added to your store recently."
+msgstr "View and edit news items that you've added to your store recently."
+
+msgctxt "AddNewsMenuHelp"
+msgid "Add a news item (such as a stock notice) to the front page of your store."
+msgstr "Add a news item (such as a stock notice) to the front page of your store."
+
+msgctxt "ViewWebPagesMenuHelp"
+msgid "View and edit web pages that have been added to your store."
+msgstr "View and edit web pages that have been added to your store."
+
+msgctxt "CreateWebPageMenuHelp"
+msgid "Add a web page to your store, where you can publish text and pictures."
+msgstr "Add a web page to your store, where you can publish text and pictures."
+
+msgctxt "ViewBannersMenuHelp"
+msgid "View and create promotional banners to display throughout your store."
+msgstr "View and create promotional banners to display throughout your store."
+
+msgctxt "ViewCouponsMenuHelp"
+msgid "View and create discount coupons that you can use for special promotions."
+msgstr "View and create discount coupons that you can use for special promotions."
+
+msgctxt "ViewSubscribersMenuHelp"
+msgid "Export a list of people who have joined your email list to a CSV file."
+msgstr "Export a list of people who have joined your email list to a CSV file."
+
+msgctxt "GoogleProductsFeedMenuHelp"
+msgid "Export a list of your products that can be sent to Google Products."
+msgstr "Export a list of your products that can be sent to Google Products."
+
+msgctxt "StoreOverviewMenuHelp"
+msgid "See an overview of how your store is performing, including orders per day."
+msgstr "See an overview of how your store is performing, including orders per day."
+
+msgctxt "OrderStatsMenuHelp"
+msgid "See a complete order report, including conversion rates and revenue details."
+msgstr "See a complete order report, including conversion rates and revenue details."
+
+msgctxt "ProductStatsMenuHelp"
+msgid "Learn which products are selling the best and making you the most profit."
+msgstr "Learn which products are selling the best and making you the most profit."
+
+msgctxt "CustomerStatsMenuHelp"
+msgid "View number of new customers by day and your most profitable customers."
+msgstr "View number of new customers by day and your most profitable customers."
+
+msgctxt "SearchStatsHelp"
+msgid "See what your visitors are searching for and if they're finding what they need."
+msgstr "See what your visitors are searching for and if they're finding what they need."
+
+msgctxt "ViewBrandsHelp"
+msgid "View and add brands to your store which can be associated with products."
+msgstr "View and add brands to your store which can be associated with products."
+
+msgctxt "StoreLogs"
+msgid "Store Logs"
+msgstr "Store Logs"
+
+msgctxt "SelectProducts"
+msgid "Select Product"
+msgstr "Select Product"
+
+msgctxt "SelectProductsIntro"
+msgid "Select a product using the search below."
+msgstr "Select a product using the search below."
+
+msgctxt "ProductSelectByCategory"
+msgid "Search by Category"
+msgstr "Search by Category"
+
+msgctxt "ProductSelectAllCategories"
+msgid "-- All Categories --"
+msgstr "-- All Categories --"
+
+msgctxt "ProductSelectSearch"
+msgid "Search by Product Name"
+msgstr "Search by Product Name"
+
+msgctxt "ProductSelectEnterTerms"
+msgid "Please enter one or more search terms."
+msgstr "Please enter one or more search terms."
+
+msgctxt "ProductSelectNoProducts"
+msgid "There were no products matching your search criteria."
+msgstr "There were no products matching your search criteria."
+
+msgctxt "ProductSelectNoProductsCategory"
+msgid "There are no products in this category."
+msgstr "There are no products in this category."
+
+msgctxt "QuickSearch"
+msgid "Quick Search"
+msgstr "Quick Search"
+
+msgctxt "QuickSearchResults1"
+msgid "One order/customer/product matched your search phrase."
+msgstr "One order/customer/product matched your search phrase."
+
+msgctxt "QuickSearchResultsX"
+msgid "%d orders/customers/products matched your search phrase."
+msgstr "%d orders/customers/products matched your search phrase."
+
+msgctxt "QuickSearchOrders1"
+msgid "<span class='quickSearchNumber'>1</span> order was found for the search phrase '%s'"
+msgstr "<span class='quickSearchNumber'>1</span> order was found for the search phrase '%s'"
+
+msgctxt "QuickSearchOrdersX"
+msgid "<span class='quickSearchNumber'>%d</span> orders were found for the search phrase '%s'"
+msgstr "<span class='quickSearchNumber'>%d</span> orders were found for the search phrase '%s'"
+
+msgctxt "QuickSearchCustomers1"
+msgid "<span class='quickSearchNumber'>1</span> customer was found for the search phrase '%s'"
+msgstr "<span class='quickSearchNumber'>1</span> customer was found for the search phrase '%s'"
+
+msgctxt "QuickSearchCustomersX"
+msgid "<span class='quickSearchNumber'>%d</span> customers were found for the search phrase '%s'"
+msgstr "<span class='quickSearchNumber'>%d</span> customers were found for the search phrase '%s'"
+
+msgctxt "QuickSearchProducts1"
+msgid "<span class='quickSearchNumber'>1</span> product was found for the search phrase '%s'"
+msgstr "<span class='quickSearchNumber'>1</span> product was found for the search phrase '%s'"
+
+msgctxt "QuickSearchProductsX"
+msgid "<span class='quickSearchNumber'>%d</span> products were found for the search phrase '%s'"
+msgstr "<span class='quickSearchNumber'>%d</span> products were found for the search phrase '%s'"
+
+msgctxt "TypeQuestionHere"
+msgid "Type your question here..."
+msgstr "Type your question here..."
+
+msgctxt "EnterHelpSearchTerm"
+msgid "You forgot to type your question into the search box."
+msgstr "You forgot to type your question into the search box."
+
+msgctxt "ViewGiftCertificates"
+msgid "View Gift Certificates"
+msgstr "View Gift Certificates"
+
+msgctxt "ViewGiftCertificatesMenuHelp"
+msgid "View and manage the gift certificates that customers have purchased."
+msgstr "View and manage the gift certificates that customers have purchased."
+
+msgctxt "ReachedProductLimit"
+msgid "Product Limit Reached"
+msgstr "Product Limit Reached"
+
+msgctxt "ReachedUserLimit"
+msgid "User Limit Reached"
+msgstr "User Limit Reached"
+
+msgctxt "CancelKBMessage"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "IntegrateActiveResponse"
+msgid "Integrate Active Response System"
+msgstr "Integrate Active Response System"
+
+msgctxt "IntegrateActiveResponseIntoThesePages"
+msgid "Integrate Active Response System into these pages"
+msgstr "Integrate Active Response System into these pages"
+
+msgctxt "CustomerGroups"
+msgid "Customer Groups"
+msgstr "Customer Groups"
+
+msgctxt "CustomerGroupsMenuHelp"
+msgid "View and create customer groups with different discounts and access levels."
+msgstr "View and create customer groups with different discounts and access levels."
+
+msgctxt "ViewCoupons"
+msgid "View Coupon Codes"
+msgstr "View Coupon Codes"
+
+msgctxt "TemplateSelected"
+msgid "Your store is now using the '%s' design. <a href='../' target='_blank'>View your store.</a>"
+msgstr "Your store is now using the '%s' design. <a href='../' target='_blank'>View your store.</a>"
+
+msgctxt "AdministratorLogAction_changeTemplate"
+msgid "Changed store design to %s (%s)"
+msgstr "Changed store design to %s (%s)"
+
+msgctxt "ImportCustomersMenuHelp"
+msgid "Bulk add customers to your store from a CSV file or a file on your web site."
+msgstr "Bulk add customers to your store from a CSV file or a file on your web site."
+
+msgctxt "ImportOrdertrackingnumbers"
+msgid "Import Tracking Numbers"
+msgstr "Import Tracking Numbers"
+
+msgctxt "ImportOrdertrackingnumbersMenuHelp"
+msgid "Bulk add tracking numbers to your orders from a CSV file."
+msgstr "Bulk add tracking numbers to your orders from a CSV file."
+
+msgctxt "TypesOfMessagesDebug"
+msgid "Debug"
+msgstr "Debug"
+
+msgctxt "LogSeverity5"
+msgid "Debug"
+msgstr "Debug"
+
+msgctxt "InstallDefaultCountryName"
+msgid "United States"
+msgstr "United States"
+
+msgctxt "OrderInvoiceEmail"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "OrderInvoicePhone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "TransactionId"
+msgid "Transaction Id"
+msgstr "Transaction Id"
+
+msgctxt "ChooseState"
+msgid "Choose a State"
+msgstr "Choose a State"
+
+msgctxt "EnterValueForField"
+msgid "Please enter a value for the '%s' field."
+msgstr "Please enter a value for the '%s' field."
+
+msgctxt "ChooseOptionForField"
+msgid "Please choose an option for the '%s' field."
+msgstr "Please choose an option for the '%s' field."
+
+msgctxt "InvalidCurrencyStringMatch"
+msgid "The decimal and thousand token separators cannot be the same"
+msgstr "The decimal and thousand token separators cannot be the same"
+
+msgctxt "AccountingSettings"
+msgid "Accounting Settings"
+msgstr "Accounting Settings"
+
+msgctxt "AccountingSettingsIntro"
+msgid "By enabling one of the accounting packages below, you can share your store's data (orders, products and customers) with the accounting software you use to run your business."
+msgstr "By enabling one of the accounting packages below, you can share your store's data (orders, products and customers) with the accounting software you use to run your business."
+
+msgctxt "AccountingMethods"
+msgid "I Manage My Business With"
+msgstr "I Manage My Business With"
+
+msgctxt "AccountingMethodsHelp"
+msgid "Which accounting software do you use to manage your business? Select it from the list and then click the Save button to configure integration with your store."
+msgstr "Which accounting software do you use to manage your business? Select it from the list and then click the Save button to configure integration with your store."
+
+msgctxt "ConfirmCancelAccountingSettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "AccountingPermissions"
+msgid "Accounting Permissions"
+msgstr "Accounting Permissions"
+
+msgctxt "AccountingPermissionsHelp"
+msgid "Here are the different accounting permissions"
+msgstr "Here are the different accounting permissions"
+
+msgctxt "AccountingPermCreate"
+msgid "Create"
+msgstr "Create"
+
+msgctxt "AccountingPermEdit"
+msgid "Edit"
+msgstr "Edit"
+
+msgctxt "AccountingPermDelete"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "AccountingPermCustomer"
+msgid "Customer"
+msgstr "Customer"
+
+msgctxt "AccountingPermProduct"
+msgid "Product"
+msgstr "Product"
+
+msgctxt "AccountingPermOrder"
+msgid "Order"
+msgstr "Order"
+
+msgctxt "AccountingSettingsSavedSuccessfully"
+msgid "The modified accounting settings have been saved successfully. If you selected an accounting package you can customize it by clicking on its tab below."
+msgstr "The modified accounting settings have been saved successfully. If you selected an accounting package you can customize it by clicking on its tab below."
+
+msgctxt "AccountingSettingsNotSaved"
+msgid "An error occurred while trying to save the accounting settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the accounting settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "CancelAccountingMessage"
+msgid "Are you sure you want to cancel? Any changes you made wont be saved."
+msgstr "Are you sure you want to cancel? Any changes you made wont be saved."
+
+msgctxt "Disable"
+msgid "Disable"
+msgstr "Disable"
+
+msgctxt "Disabled"
+msgid "Disabled"
+msgstr "Disabled"
+
+msgctxt "Enable"
+msgid "Enable"
+msgstr "Enable"
+
+msgctxt "Enabled"
+msgid "Enabled"
+msgstr "Enabled"
+
+msgctxt "Reenable"
+msgid "Re-Enable"
+msgstr "Re-Enable"
+
+msgctxt "Reenabled"
+msgid "Re-Enabled"
+msgstr "Re-Enabled"
+
+msgctxt "Failed"
+msgid "Failed"
+msgstr "Failed"
+
+msgctxt "Pending"
+msgid "Pending"
+msgstr "Pending"
+
+msgctxt "Password"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "GuestCheckoutCustomer"
+msgid "(Guest)"
+msgstr "(Guest)"
+
+msgctxt "CategoryListDepth"
+msgid "Menu Display Depth"
+msgstr "Menu Display Depth"
+
+msgctxt "CategoryListDepthHelp"
+msgid "How many levels deep do you want to show categories for in your store? Keep in mind that if you have a large number of categories then the category list could become fairly large when displayed in your store."
+msgstr "How many levels deep do you want to show categories for in your store? Keep in mind that if you have a large number of categories then the category list could become fairly large when displayed in your store."
+
+msgctxt "EnterCategoryListDepth"
+msgid "Please enter a valid number for the category depth list."
+msgstr "Please enter a valid number for the category depth list."
+
+msgctxt "CopyOf"
+msgid "Copy of "
+msgstr "Copy of "
+
+msgctxt "ProductCopy"
+msgid "Copy this product"
+msgstr "Copy this product"
+
+msgctxt "CopyProduct"
+msgid "Copy Product"
+msgstr "Copy Product"
+
+msgctxt "CopyProductTitle"
+msgid "Copy a Product"
+msgstr "Copy a Product"
+
+msgctxt "CopyProductIntro"
+msgid "The details of the product you selected have been copied into the form below. Make any required changes then click <em>Save &amp; Exit</em> to add the copied product as a new product."
+msgstr "The details of the product you selected have been copied into the form below. Make any required changes then click <em>Save &amp; Exit</em> to add the copied product as a new product."
+
+msgctxt "LiveChatSettings"
+msgid "Live Chat Settings"
+msgstr "Live Chat Settings"
+
+msgctxt "LiveChatSettingsIntro"
+msgid "Update the live chat service settings in the form below. To enable a new live chat service, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that package below."
+msgstr "Update the live chat service settings in the form below. To enable a new live chat service, select it from the list and click &quot;Save&quot;. You will then see a tab to setup that package below."
+
+msgctxt "ConfirmCancelLiveChatSettings"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "LiveChatSettingsSavedSuccessfully"
+msgid "Your live chat service settings were saved successfully. If you enabled a new live chat service you can configure it by clicking it's tab below."
+msgstr "Your live chat service settings were saved successfully. If you enabled a new live chat service you can configure it by clicking it's tab below."
+
+msgctxt "LiveChatServices"
+msgid "Live Chat Services"
+msgstr "Live Chat Services"
+
+msgctxt "LiveChatServicesHelp"
+msgid "Choose from the list of live chat services to integrate in to your store.<br /><br />When you click \'Save\' you will be able to configure the selected live chat services by clicking on the new tab that appears for each one."
+msgstr "Choose from the list of live chat services to integrate in to your store.<br /><br />When you click \'Save\' you will be able to configure the selected live chat services by clicking on the new tab that appears for each one."
+
+msgctxt "LiveChatSettingsNotSaved"
+msgid "An error occurred while trying to save the live chat service settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+msgstr "An error occurred while trying to save the live chat service settings. Make sure the config/config.php file is CHMOD'd to 646, 664 or 666 and try again."
+
+msgctxt "LoginBelow"
+msgid "Login Below"
+msgstr "Login Below"
+
+msgctxt "OnWord"
+msgid "on"
+msgstr "on"
+
+msgctxt "ByWord"
+msgid "By"
+msgstr "By"
+
+msgctxt "TotalIs"
+msgid "Total is"
+msgstr "Total is"
+
+msgctxt "Back"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "DateOrdered"
+msgid "Date Ordered"
+msgstr "Date Ordered"
+
+msgctxt "MapThis"
+msgid "Map this"
+msgstr "Map this"
+
+msgctxt "TransactionID"
+msgid "Transaction ID"
+msgstr "Transaction ID"
+
+msgctxt "ShippedOn"
+msgid "Shipped on"
+msgstr "Shipped on"
+
+msgctxt "StatusUpdatedShort"
+msgid "The order status has been updated."
+msgstr "The order status has been updated."
+
+msgctxt "TrackingNumber1"
+msgid "Tracking Number"
+msgstr "Tracking Number"
+
+msgctxt "TrackingUpdatedShort"
+msgid "The tracking number has been updated."
+msgstr "The tracking number has been updated."
+
+msgctxt "Update"
+msgid "Update"
+msgstr "Update"
+
+msgctxt "DeleteOrder"
+msgid "Delete Order"
+msgstr "Delete Order"
+
+msgctxt "DeleteThisOrder"
+msgid "Delete this Order"
+msgstr "Delete this Order"
+
+msgctxt "AreYouSureShort"
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+msgctxt "PostNewMessage"
+msgid "Post New Message"
+msgstr "Post New Message"
+
+msgctxt "TapToTypeMessage"
+msgid "Tap here to type a new message..."
+msgstr "Tap here to type a new message..."
+
+msgctxt "EnterMessageShort"
+msgid "Please enter a message."
+msgstr "Please enter a message."
+
+msgctxt "OrderSearch"
+msgid "Search Orders"
+msgstr "Search Orders"
+
+msgctxt "SearchOrdersPlaceholder"
+msgid "Search by order ID, customer name, etc"
+msgstr "Search by order ID, customer name, etc"
+
+msgctxt "AllOrderStatuses"
+msgid "All Order Statuses"
+msgstr "All Order Statuses"
+
+msgctxt "ViewAddons"
+msgid "View Addons"
+msgstr "View Addons"
+
+msgctxt "QuickSearchValue"
+msgid "Search orders, customers &amp; products"
+msgstr "Search orders, customers &amp; products"
+
+msgctxt "OtherTemplateFiles"
+msgid "Other Template Files"
+msgstr "Other Template Files"
+
+msgctxt "Ounces"
+msgid "Ounces"
+msgstr "Ounces"
+
+msgctxt "Grams"
+msgid "Grams"
+msgstr "Grams"
+
+msgctxt "Tonnes"
+msgid "Tonnes"
+msgstr "Tonnes"
+
+msgctxt "Notes"
+msgid "Notes"
+msgstr "Notes"
+
+msgctxt "OrderNotesLink"
+msgid "View Notes"
+msgstr "View Notes"
+
+msgctxt "OrderNotesPopupHeading"
+msgid "Order Comments and Notes"
+msgstr "Order Comments and Notes"
+
+msgctxt "OrderNotesPopupIntro"
+msgid "Use the text boxes below to make notes on this order."
+msgstr "Use the text boxes below to make notes on this order."
+
+msgctxt "OrderNotesSuccessMsg"
+msgid "The notes for order #%d have been updated successfully."
+msgstr "The notes for order #%d have been updated successfully."
+
+msgctxt "CustomerOrderListNotesLink"
+msgid "(View Notes)"
+msgstr "(View Notes)"
+
+msgctxt "CatImage"
+msgid "Category Image"
+msgstr "Category Image"
+
+msgctxt "CatImageHelp"
+msgid "This image will display in any of the category listing panels. Image files should end in .gif, .jpg and .png only."
+msgstr "This image will display in any of the category listing panels. Image files should end in .gif, .jpg and .png only."
+
+msgctxt "CatImageDesc"
+msgid "<input name='delcatimagefile' id='delcatimagefile' type='checkbox' value='1' /> <label for='delcatimagefile'>Delete current image?</label> <a href='%s' target='_blank'>%s</a>."
+msgstr "<input name='delcatimagefile' id='delcatimagefile' type='checkbox' value='1' /> <label for='delcatimagefile'>Delete current image?</label> <a href='%s' target='_blank'>%s</a>."
+
+msgctxt "CatHideImageUploadMessage"
+msgid "All root categories (all categories without a parent category) are not allowed to have an image associated with it"
+msgstr "All root categories (all categories without a parent category) are not allowed to have an image associated with it"
+
+msgctxt "BrandImage"
+msgid "Brand Image"
+msgstr "Brand Image"
+
+msgctxt "BrandImageHelp"
+msgid "The default image that will be displayed for brands if one isn\'t uploaded. Image files should end in .gif, .jpg and .png only."
+msgstr "The default image that will be displayed for brands if one isn\'t uploaded. Image files should end in .gif, .jpg and .png only."
+
+msgctxt "BrandImageDesc"
+msgid "<input name='delbrandimagefile' id='delbrandimagefile' type='checkbox' value='1' /> <label for='delbrandimagefile'>Delete current image?</label> <a href='%s' target='_blank'>%s</a>"
+msgstr "<input name='delbrandimagefile' id='delbrandimagefile' type='checkbox' value='1' /> <label for='delbrandimagefile'>Delete current image?</label> <a href='%s' target='_blank'>%s</a>"
+
+msgctxt "OrderComments"
+msgid "Order Comments"
+msgstr "Order Comments"
+
+msgctxt "FullName"
+msgid "Full Name"
+msgstr "Full Name"
+
+msgctxt "InstallFullNameHelp"
+msgid "Type in your full name here."
+msgstr "Type in your full name here."
+
+msgctxt "InstallTrial"
+msgid "Install Interspire Shopping Cart 30 Day Trial"
+msgstr "Install Interspire Shopping Cart 30 Day Trial"
+
+msgctxt "InstallTrialIntro"
+msgid "Complete the form below to install a 30 day free trial of Interspire Shopping Cart Starter Edition. Required fields are marked with an asterisk. Move your mouse over the help icons for help."
+msgstr "Complete the form below to install a 30 day free trial of Interspire Shopping Cart Starter Edition. Required fields are marked with an asterisk. Move your mouse over the help icons for help."
+
+msgctxt "Number1"
+msgid "1"
+msgstr "1"
+
+msgctxt "Number2"
+msgid "2"
+msgstr "2"
+
+msgctxt "Number3"
+msgid "3"
+msgstr "3"
+
+msgctxt "Number4"
+msgid "4"
+msgstr "4"
+
+msgctxt "Number5"
+msgid "5"
+msgstr "5"
+
+msgctxt "Number6"
+msgid "6"
+msgstr "6"
+
+msgctxt "Number7"
+msgid "7"
+msgstr "7"
+
+msgctxt "Number8"
+msgid "8"
+msgstr "8"
+
+msgctxt "Number9"
+msgid "9"
+msgstr "9"
+
+msgctxt "Number0"
+msgid "0"
+msgstr "0"
+
+msgctxt "CustomField"
+msgid "Custom Field #%s Name/Value"
+msgstr "Custom Field #%s Name/Value"
+
+msgctxt "ImportProductImageCorrupt"
+msgid "Unable to import product image as it is corrupt"
+msgstr "Unable to import product image as it is corrupt"
+
+msgctxt "CustShippingFirstName"
+msgid "Shipping: First Name"
+msgstr "Shipping: First Name"
+
+msgctxt "CustShippingLastName"
+msgid "Shipping: Last Name"
+msgstr "Shipping: Last Name"
+
+msgctxt "ManageVendors"
+msgid "Manage Vendors"
+msgstr "Manage Vendors"
+
+msgctxt "Vendors"
+msgid "Vendor Profiles"
+msgstr "Vendor Profiles"
+
+msgctxt "Vendor"
+msgid "Vendor"
+msgstr "Vendor"
+
+msgctxt "VendorHelp"
+msgid "If this user should be assigned to a particular vendor, select it here."
+msgstr "If this user should be assigned to a particular vendor, select it here."
+
+msgctxt "UserNoVendor"
+msgid "Do not assign to a vendor"
+msgstr "Do not assign to a vendor"
+
+msgctxt "NoVendor"
+msgid "Do not assign to a vendor"
+msgstr "Do not assign to a vendor"
+
+msgctxt "VendorPages"
+msgid "Vendor Pages"
+msgstr "Vendor Pages"
+
+msgctxt "StorePages"
+msgid "Store Pages"
+msgstr "Store Pages"
+
+msgctxt "NoVendorPages"
+msgid "None of the vendors on your store have created a web page yet. Click the 'Create a Web Page' button above to create one."
+msgstr "None of the vendors on your store have created a web page yet. Click the 'Create a Web Page' button above to create one."
+
+msgctxt "PageVendorHelp"
+msgid "Select the vendor that this web page should be assigned to. To use this page as a general page in your store, and not assign it to a vendor select the &quot;No vendor&quot; option."
+msgstr "Select the vendor that this web page should be assigned to. To use this page as a general page in your store, and not assign it to a vendor select the &quot;No vendor&quot; option."
+
+msgctxt "CertificateAmountSortAsc"
+msgid "Sort by gift certificate amount (ascending)"
+msgstr "Sort by gift certificate amount (ascending)"
+
+msgctxt "CertificateAmountSortDesc"
+msgid "Sort by gift certificate amount (descending)"
+msgstr "Sort by gift certificate amount (descending)"
+
+msgctxt "CertificateBalanceSortAsc"
+msgid "Sort by remaining balance (ascending)"
+msgstr "Sort by remaining balance (ascending)"
+
+msgctxt "CertificateBalanceSortDesc"
+msgid "Sort by remaining balance (descending)"
+msgstr "Sort by remaining balance (descending)"
+
+msgctxt "PurchaseDateSortAsc"
+msgid "Sort by purchase date (ascending)"
+msgstr "Sort by purchase date (ascending)"
+
+msgctxt "PurchaseDateSortDesc"
+msgid "Sort by purchase date (descending)"
+msgstr "Sort by purchase date (descending)"
+
+msgctxt "CodeSortAsc"
+msgid "Sort by code (ascending)"
+msgstr "Sort by code (ascending)"
+
+msgctxt "CodeSortDesc"
+msgid "Sort by code (descending)"
+msgstr "Sort by code (descending)"
+
+msgctxt "ProductCodeSKU"
+msgid "Product Code/SKU"
+msgstr "Product Code/SKU"
+
+msgctxt "ProductID"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "ProductSKU"
+msgid "SKU"
+msgstr "SKU"
+
+msgctxt "Product"
+msgid "Product"
+msgstr "Product"
+
+msgctxt "ProductName"
+msgid "Product Name"
+msgstr "Product Name"
+
+msgctxt "Unknown"
+msgid "Unknown"
+msgstr "Unknown"
+
+msgctxt "EmailSortAsc"
+msgid "Sort by Email (Ascending)"
+msgstr "Sort by Email (Ascending)"
+
+msgctxt "EmailSortDesc"
+msgid "Sort by Email (Descending)"
+msgstr "Sort by Email (Descending)"
+
+msgctxt "Price"
+msgid "Price"
+msgstr "Price"
+
+msgctxt "CostPrice"
+msgid "Cost Price"
+msgstr "Cost Price"
+
+msgctxt "RetailPrice"
+msgid "Retail Price"
+msgstr "Retail Price"
+
+msgctxt "SalePrice"
+msgid "Sale Price"
+msgstr "Sale Price"
+
+msgctxt "ManageTemplates"
+msgid "Your Store Design"
+msgstr "Your Store Design"
+
+msgctxt "DesignMode"
+msgid "Design Mode"
+msgstr "Design Mode"
+
+msgctxt "PanelsInTemplate"
+msgid "Panels in Template"
+msgstr "Panels in Template"
+
+msgctxt "VendorProfile"
+msgid "Vendor Profile"
+msgstr "Vendor Profile"
+
+msgctxt "ChooseACountry"
+msgid "Choose a Country"
+msgstr "Choose a Country"
+
+msgctxt "GiftWrappingSettings"
+msgid "Gift Wrapping Settings"
+msgstr "Gift Wrapping Settings"
+
+msgctxt "Details"
+msgid "Details"
+msgstr "Details"
+
+msgctxt "AddCustomers"
+msgid "Add a Customer"
+msgstr "Add a Customer"
+
+msgctxt "AddCustomersMenuHelp"
+msgid "Add an account for a customer who can then login to your store."
+msgstr "Add an account for a customer who can then login to your store."
+
+msgctxt "ViewShipments"
+msgid "View Shipments"
+msgstr "View Shipments"
+
+msgctxt "ViewShipmentsHelp"
+msgid "View and print packing slips for shipments created from orders on your store."
+msgstr "View and print packing slips for shipments created from orders on your store."
+
+msgctxt "VendorPayments"
+msgid "Vendor Payments"
+msgstr "Vendor Payments"
+
+msgctxt "And"
+msgid "And"
+msgstr "And"
+
+msgctxt "LittleAnd"
+msgid "and"
+msgstr "and"
+
+msgctxt "Of"
+msgid "Of"
+msgstr "Of"
+
+msgctxt "LittleOf"
+msgid "of"
+msgstr "of"
+
+msgctxt "Add"
+msgid "Add"
+msgstr "Add"
+
+msgctxt "Remove"
+msgid "Remove"
+msgstr "Remove"
+
+msgctxt "ConfigurableFields"
+msgid "Configurable Fields"
+msgstr "Configurable Fields"
+
+msgctxt "ControlPanelLKNWarning"
+msgid "This product is for demonstration purposes only. Please purchase a license before running this application on a live website."
+msgstr "This product is for demonstration purposes only. Please purchase a license before running this application on a live website."
+
+msgctxt "QuickBooksActionAdd"
+msgid "adding"
+msgstr "adding"
+
+msgctxt "QuickBooksActionEdit"
+msgid "editing"
+msgstr "editing"
+
+msgctxt "QuickBooksActionQuery"
+msgid "querying"
+msgstr "querying"
+
+msgctxt "QuickBooksTypeCustomer"
+msgid "customer"
+msgstr "customer"
+
+msgctxt "QuickBooksTypeCustomergroup"
+msgid "customer group"
+msgstr "customer group"
+
+msgctxt "QuickBooksTypeProduct"
+msgid "product"
+msgstr "product"
+
+msgctxt "QuickBooksTypeSalestaxcode"
+msgid "sales tax code"
+msgstr "sales tax code"
+
+msgctxt "QuickBooksTypeAccount"
+msgid "account"
+msgstr "account"
+
+msgctxt "QuickBooksSpoolDesc"
+msgid "%s the %s &quot;%s&quot;"
+msgstr "%s the %s &quot;%s&quot;"
+
+msgctxt "QuickBooksIncomeAccountName"
+msgid "ISC Income Account"
+msgstr "ISC Income Account"
+
+msgctxt "QuickBooksCOGSAccountName"
+msgid "ISC COGS Account"
+msgstr "ISC COGS Account"
+
+msgctxt "QuickBooksAssetAccountName"
+msgid "ISC Asset Account"
+msgstr "ISC Asset Account"
+
+msgctxt "AddAnOrder"
+msgid "Add an Order"
+msgstr "Add an Order"
+
+msgctxt "AddOrderMenuHelp"
+msgid "Add an order to your store for an existing, anonymous or new customer."
+msgstr "Add an order to your store for an existing, anonymous or new customer."
+
+msgctxt "ViewDiscountsMenuHelp"
+msgid "Create flexible rules for discounts on products and shipping costs in your store."
+msgstr "Create flexible rules for discounts on products and shipping costs in your store."
+
+msgctxt "Discounts"
+msgid "Discount Rules"
+msgstr "Discount Rules"
+
+msgctxt "ViewDiscounts"
+msgid "View Discount Rules"
+msgstr "View Discount Rules"
+
+msgctxt "ExportOrdersMenu"
+msgid "Export Orders"
+msgstr "Export Orders"
+
+msgctxt "ExportOrdersMenuHelp"
+msgid "Export orders from your store to a CSV or XML file."
+msgstr "Export orders from your store to a CSV or XML file."
+
+msgctxt "ExportProductsMenu"
+msgid "Export Products"
+msgstr "Export Products"
+
+msgctxt "ExportProductsMenuHelp"
+msgid "Export products from your store to a CSV or XML file."
+msgstr "Export products from your store to a CSV or XML file."
+
+msgctxt "ExportCustomersMenu"
+msgid "Export Customers"
+msgstr "Export Customers"
+
+msgctxt "ExportCustomersMenuHelp"
+msgid "Export customers from your store to a CSV or XML file."
+msgstr "Export customers from your store to a CSV or XML file."
+
+msgctxt "LastModified"
+msgid "Last Modified"
+msgstr "Last Modified"
+
+msgctxt "Data"
+msgid "Data"
+msgstr "Data"
+
+msgctxt "Type"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "FormFields"
+msgid "Form Fields"
+msgstr "Form Fields"
+
+msgctxt "FormFieldSingleLineName"
+msgid "Text Field"
+msgstr "Text Field"
+
+msgctxt "FormFieldSingleLineDesc"
+msgid "Allows users to enter any combination of letters and numbers"
+msgstr "Allows users to enter any combination of letters and numbers"
+
+msgctxt "FormFieldMultiLineName"
+msgid "Multiline Text Field"
+msgstr "Multiline Text Field"
+
+msgctxt "FormFieldMultiLineDesc"
+msgid "Allows users to enter text on separate lines"
+msgstr "Allows users to enter text on separate lines"
+
+msgctxt "FormFieldNumberOnlyName"
+msgid "Numbers Only"
+msgstr "Numbers Only"
+
+msgctxt "FormFieldNumberOnlyDesc"
+msgid "Allows users to enter any number, range can be restricted"
+msgstr "Allows users to enter any number, range can be restricted"
+
+msgctxt "FormFieldPasswordName"
+msgid "Password Field"
+msgstr "Password Field"
+
+msgctxt "FormFieldPasswordDesc"
+msgid "Allows users to enter any combination of letters and numbers that does not get displayed while typing"
+msgstr "Allows users to enter any combination of letters and numbers that does not get displayed while typing"
+
+msgctxt "FormFieldSingleSelectName"
+msgid "Pick List"
+msgstr "Pick List"
+
+msgctxt "FormFieldSingleSelectDesc"
+msgid "Allows users to select a value from a list you define"
+msgstr "Allows users to select a value from a list you define"
+
+msgctxt "FormFieldSelectOrTextName"
+msgid "Pick List with Text Field"
+msgstr "Pick List with Text Field"
+
+msgctxt "FormFieldSelectOrTextDesc"
+msgid "Allows users to select a value from a list you define plus an optional text field"
+msgstr "Allows users to select a value from a list you define plus an optional text field"
+
+msgctxt "FormFieldSingleCheckBoxName"
+msgid "Checkboxes"
+msgstr "Checkboxes"
+
+msgctxt "FormFieldSingleCheckBoxDesc"
+msgid "Allows users to select a single true/false value using checkboxes"
+msgstr "Allows users to select a single true/false value using checkboxes"
+
+msgctxt "FormFieldRadioSelectName"
+msgid "Radio Buttons"
+msgstr "Radio Buttons"
+
+msgctxt "FormFieldRadioSelectDesc"
+msgid "Allows users to select only one value from a list of options"
+msgstr "Allows users to select only one value from a list of options"
+
+msgctxt "FormFieldDateChooserName"
+msgid "Date Field"
+msgstr "Date Field"
+
+msgctxt "FormFieldDateChooserDesc"
+msgid "Allows users to pick a date, optionally within a certain range"
+msgstr "Allows users to pick a date, optionally within a certain range"
+
+msgctxt "FormFieldPopupHeadingCreate"
+msgid "Create a %s"
+msgstr "Create a %s"
+
+msgctxt "FormFieldPopupHeadingEdit"
+msgid "Edit the %s"
+msgstr "Edit the %s"
+
+msgctxt "FormFieldTabGeneral"
+msgid "General"
+msgstr "General"
+
+msgctxt "FormFieldTabAdvanced"
+msgid "Advanced"
+msgstr "Advanced"
+
+msgctxt "FormFieldTabSelect"
+msgid "Select Options"
+msgstr "Select Options"
+
+msgctxt "FormFieldTabSelectRadio"
+msgid "Radio Options"
+msgstr "Radio Options"
+
+msgctxt "FormFieldTabRange"
+msgid "Number Range"
+msgstr "Number Range"
+
+msgctxt "FormFieldTabDateRange"
+msgid "Date Range"
+msgstr "Date Range"
+
+msgctxt "FormFieldSetupSaving"
+msgid "Saving Field..."
+msgstr "Saving Field..."
+
+msgctxt "FormFieldSetupName"
+msgid "Field Name"
+msgstr "Field Name"
+
+msgctxt "FormFieldSetupDefaultValue"
+msgid "Default Value"
+msgstr "Default Value"
+
+msgctxt "FormFieldSetupIsRequired"
+msgid "Required"
+msgstr "Required"
+
+msgctxt "FormFieldSetupIsRequiredYes"
+msgid "Yes this field is required"
+msgstr "Yes this field is required"
+
+msgctxt "FormFieldSetupSize"
+msgid "Field Size"
+msgstr "Field Size"
+
+msgctxt "FormFieldSetupRows"
+msgid "Number of Rows"
+msgstr "Number of Rows"
+
+msgctxt "FormFieldSetupMaxLength"
+msgid "Maximum Field Length"
+msgstr "Maximum Field Length"
+
+msgctxt "FormFieldSetupClass"
+msgid "CSS Class Name"
+msgstr "CSS Class Name"
+
+msgctxt "FormFieldSetupStyle"
+msgid "Inline CSS Style"
+msgstr "Inline CSS Style"
+
+msgctxt "FormFieldSetupNumberRange"
+msgid "Number Range"
+msgstr "Number Range"
+
+msgctxt "FormFieldSetupDateYearLimitFrom"
+msgid "Start Year"
+msgstr "Start Year"
+
+msgctxt "FormFieldSetupDateYearLimitTo"
+msgid "End Year"
+msgstr "End Year"
+
+msgctxt "FormFieldSetupIsCheckedLabel"
+msgid "Yes, have this ticked by default"
+msgstr "Yes, have this ticked by default"
+
+msgctxt "FormFieldSetupChoosePrefix"
+msgid "Instructional Text"
+msgstr "Instructional Text"
+
+msgctxt "FormFieldSetupChoosePrefixDefault"
+msgid "-- Please choose an option --"
+msgstr "-- Please choose an option --"
+
+msgctxt "FormFieldSetupSelectOptions"
+msgid "List of Values"
+msgstr "List of Values"
+
+msgctxt "FormFieldSetupSingleCheckboxIntro"
+msgid "Each value you type into the text box (one per line) will have its own checkbox. For example, if you type in <i>Yes &lt;ENTER&gt; No &lt;ENTER&gt; Maybe</i>, then 3 separate checkboxes will be created."
+msgstr "Each value you type into the text box (one per line) will have its own checkbox. For example, if you type in <i>Yes &lt;ENTER&gt; No &lt;ENTER&gt; Maybe</i>, then 3 separate checkboxes will be created."
+
+msgctxt "FormFieldSetupSelectOptionsIntro"
+msgid "Enter the list of values in the textbox above, one per line"
+msgstr "Enter the list of values in the textbox above, one per line"
+
+msgctxt "FormFieldSetupSelectOptionsSort"
+msgid "Sort Values Alphabetically"
+msgstr "Sort Values Alphabetically"
+
+msgctxt "FormFieldSetupDateRange"
+msgid "Date Range"
+msgstr "Date Range"
+
+msgctxt "FormFieldSetupAdvanceSelect"
+msgid "Select Options"
+msgstr "Select Options"
+
+msgctxt "FormFieldSetupAdvanceOther"
+msgid "'Other' Textbox Options"
+msgstr "'Other' Textbox Options"
+
+msgctxt "FormFieldSetupDateOpenCalendar"
+msgid "Open Calendar"
+msgstr "Open Calendar"
+
+msgctxt "FormFieldSetupDateClearCalendar"
+msgid "Clear Calender"
+msgstr "Clear Calender"
+
+msgctxt "FormFieldSetupImmutableWarning"
+msgid "This field cannot be modified as it is required for the application function."
+msgstr "This field cannot be modified as it is required for the application function."
+
+msgctxt "FormFieldSetupAddedFailed"
+msgid "An unknown error has occurred when adding the field. %s"
+msgstr "An unknown error has occurred when adding the field. %s"
+
+msgctxt "FormFieldSetupAddedSuccess"
+msgid "The %s field &quot;%s&quot; has been created successfully."
+msgstr "The %s field &quot;%s&quot; has been created successfully."
+
+msgctxt "FormFieldSetupUpdateFailed"
+msgid "An unknown error has occurred when updating the field. %s"
+msgstr "An unknown error has occurred when updating the field. %s"
+
+msgctxt "FormFieldSetupUpdateSuccess"
+msgid "The %s field &quot;%s&quot; has been updated successfully."
+msgstr "The %s field &quot;%s&quot; has been updated successfully."
+
+msgctxt "FormFieldSetupUpdateFailedLabel"
+msgid "Please enter a name for this field."
+msgstr "Please enter a name for this field."
+
+msgctxt "FormFieldSetupUpdateFailedDuplicateLabel"
+msgid "The &quot;%s&quot; field already exists. Please choose a different field name."
+msgstr "The &quot;%s&quot; field already exists. Please choose a different field name."
+
+msgctxt "FormFieldSetupInvalidName"
+msgid "Please enter a name for this field."
+msgstr "Please enter a name for this field."
+
+msgctxt "FormFieldSetupInvalidSize"
+msgid "Please enter a valid number in the \'Field Size\' field."
+msgstr "Please enter a valid number in the \'Field Size\' field."
+
+msgctxt "FormFieldSetupInvalidMaxLength"
+msgid "Please enter a valid number in the \'Maximum Field Length\' field."
+msgstr "Please enter a valid number in the \'Maximum Field Length\' field."
+
+msgctxt "FormFieldSetupInvalidRows"
+msgid "Please enter in a valid number in the \'Number of Rows\' field."
+msgstr "Please enter in a valid number in the \'Number of Rows\' field."
+
+msgctxt "FormFieldSetupInvalidLimitFrom"
+msgid "Please enter a valid number in the first \'Number Range\' field."
+msgstr "Please enter a valid number in the first \'Number Range\' field."
+
+msgctxt "FormFieldSetupInvalidLimitTo"
+msgid "Please enter a valid number in the second \'Number Range\' field."
+msgstr "Please enter a valid number in the second \'Number Range\' field."
+
+msgctxt "FormFieldSetupInvalidLimitRange"
+msgid "The first \'Number Range\' field must be less than the second \'Number Range\' field."
+msgstr "The first \'Number Range\' field must be less than the second \'Number Range\' field."
+
+msgctxt "FormFieldSetupInvalidLimitDefault"
+msgid "The \'Default Value\' must be between the first and second \'Number Range\' field values."
+msgstr "The \'Default Value\' must be between the first and second \'Number Range\' field values."
+
+msgctxt "FormFieldSetupInvalidNumberDefaultValue"
+msgid "Please enter a valid number for the \'Default Value\' field."
+msgstr "Please enter a valid number for the \'Default Value\' field."
+
+msgctxt "FormFieldSetupInvalidChoosePrefix"
+msgid "Please enter instructional text for this field."
+msgstr "Please enter instructional text for this field."
+
+msgctxt "FormFieldSetupInvalidSelectOptions"
+msgid "Please enter at least one value in this field. You can enter multiple values by pressing enter after each one."
+msgstr "Please enter at least one value in this field. You can enter multiple values by pressing enter after each one."
+
+msgctxt "FormFieldSetupInvalidSelectOptionsSort"
+msgid "Please type in at least two values (one per line) to sort."
+msgstr "Please type in at least two values (one per line) to sort."
+
+msgctxt "FormFieldSetupInvalidDateLimitFrom"
+msgid "Please select a correct date in the start date range."
+msgstr "Please select a correct date in the start date range."
+
+msgctxt "FormFieldSetupInvalidDateLimitTo"
+msgid "Please select a correct date in the end date range."
+msgstr "Please select a correct date in the end date range."
+
+msgctxt "FormFieldSetupInvalidDateLimitRange"
+msgid "The date range you entered is invalid. The start date must be on or before the end date."
+msgstr "The date range you entered is invalid. The start date must be on or before the end date."
+
+msgctxt "FormFieldSetupInvalidDateDefaultValue"
+msgid "Please select a correct date in the default date."
+msgstr "Please select a correct date in the default date."
+
+msgctxt "FormFieldSetupInvalidDateDefaultRange"
+msgid "Please choose a default date between the start and end dates you selected."
+msgstr "Please choose a default date between the start and end dates you selected."
+
+msgctxt "FormFieldSetupInvalidRadioOptions"
+msgid "The 'Radio Options' must have at least one option to select from."
+msgstr "The 'Radio Options' must have at least one option to select from."
+
+msgctxt "FormFieldSetupInvalidRadioOptionsSort"
+msgid "The 'Radio Options' must have at least two option to sort by."
+msgstr "The 'Radio Options' must have at least two option to sort by."
+
+msgctxt "FormFieldSetupSizeHelp"
+msgid "The width (in pixels) at which this field should be displayed in your store. For example if you enter &quot;200&quot; then this field will have a width of 200 pixels."
+msgstr "The width (in pixels) at which this field should be displayed in your store. For example if you enter &quot;200&quot; then this field will have a width of 200 pixels."
+
+msgctxt "FormFieldSetupMaxLengthHelp"
+msgid "The maximum allowable number of characters that a shopper can type into this field. Leave blank for no limit."
+msgstr "The maximum allowable number of characters that a shopper can type into this field. Leave blank for no limit."
+
+msgctxt "FormFieldSetupClassHelp"
+msgid "The name of a CSS class to apply to this field. For example if you enter &quot;MyTextBox&quot; then this field will have a class=&quot;MyTextBox&quot; attribute appended."
+msgstr "The name of a CSS class to apply to this field. For example if you enter &quot;MyTextBox&quot; then this field will have a class=&quot;MyTextBox&quot; attribute appended."
+
+msgctxt "FormFieldSetupStyleHelp"
+msgid "Any additional CSS styling you would like applied to this field. For example if you enter &quot;color:black; width:150px&quot; then this field will have a style=&quot;color:black; width:150px&quot; attribute appended."
+msgstr "Any additional CSS styling you would like applied to this field. For example if you enter &quot;color:black; width:150px&quot; then this field will have a style=&quot;color:black; width:150px&quot; attribute appended."
+
+msgctxt "FormFieldSetupNumberRangeHelp"
+msgid "Optionally you can enter two numbers here and when the shopper is filling in this field, the number they type in must be between these two numbers. For example if you enter 1 and 5 then the shopper creating an account on your website must enter 1, 2, 3, 4 or 5 in this field otherwise they will see a message such as &quot;Please enter a number between 1 and 5.&quot;"
+msgstr "Optionally you can enter two numbers here and when the shopper is filling in this field, the number they type in must be between these two numbers. For example if you enter 1 and 5 then the shopper creating an account on your website must enter 1, 2, 3, 4 or 5 in this field otherwise they will see a message such as &quot;Please enter a number between 1 and 5.&quot;"
+
+msgctxt "FormFieldSetupChoosePrefixHelp"
+msgid ""
+msgstr ""
+
+msgctxt "FormFieldSetupDateRangeHelp"
+msgid "You can optionally specify a date range here. If you do, the date the user enters must be between these dates otherwise they will be asked to enter it again."
+msgstr "You can optionally specify a date range here. If you do, the date the user enters must be between these dates otherwise they will be asked to enter it again."
+
+msgctxt "Customers"
+msgid "Customers"
+msgstr "Customers"
+
+msgctxt "Edition1"
+msgid "Starter"
+msgstr "Starter"
+
+msgctxt "Edition2"
+msgid "Professional"
+msgstr "Professional"
+
+msgctxt "Edition4"
+msgid "Ultimate"
+msgstr "Ultimate"
+
+msgctxt "Edition8"
+msgid "Vendor"
+msgstr "Vendor"
+
+msgctxt "QuickBooksTypeSalesOrder"
+msgid "order #"
+msgstr "order #"
+
+msgctxt "QuickBooksTypeSalesReceipt"
+msgid "order #"
+msgstr "order #"
+
+msgctxt "ImageManagerMenu"
+msgid "Image Manager"
+msgstr "Image Manager"
+
+msgctxt "ImageManagerMenuIntro"
+msgid "Upload images from your computer to use when creating content for your website."
+msgstr "Upload images from your computer to use when creating content for your website."
+
+msgctxt "For"
+msgid "for"
+msgstr "for"
+
+msgctxt "OffSmall"
+msgid "off"
+msgstr "off"
+
+msgctxt "OKGetStarted"
+msgid "OK, Let's Get Started!"
+msgstr "OK, Let's Get Started!"
+
+msgctxt "CurrentlyLoggedInAs"
+msgid "<strong>Logged in as:</strong> %s"
+msgstr "<strong>Logged in as:</strong> %s"
+
+msgctxt "ImportProductVariations"
+msgid "Import Product Variations"
+msgstr "Import Product Variations"
+
+msgctxt "ImportProductVariationsHelp"
+msgid "Bulk add product variations to your store from a CSV file or a file on your web site."
+msgstr "Bulk add product variations to your store from a CSV file or a file on your web site."
+
+msgctxt "GoogleSitemap"
+msgid "Google XML Sitemap"
+msgstr "Google XML Sitemap"
+
+msgctxt "GoogleSitemapHelp"
+msgid "Learn what a Google Sitemap is, where to find it and how it is used."
+msgstr "Learn what a Google Sitemap is, where to find it and how it is used."
+
+msgctxt "GoogleSitemapIntro"
+msgid "An XML sitemap helps Google and other search engines index your entire site and see what is important for visitors."
+msgstr "An XML sitemap helps Google and other search engines index your entire site and see what is important for visitors."
+
+msgctxt "GoogleSitemapLearnMore"
+msgid "Learn more about sitemaps from Google"
+msgstr "Learn more about sitemaps from Google"
+
+msgctxt "GoogleSiteMapLocated"
+msgid "To submit your website to Google, you must <a rel='nofollow' href='http://www.google.com/webmasters/' target='_blank'>create a Google Webmaster Tools account</a>. <br /><br /> Once your account has been setup, copy and paste the URL below into your Webmaster Tools account."
+msgstr "To submit your website to Google, you must <a rel='nofollow' href='http://www.google.com/webmasters/' target='_blank'>create a Google Webmaster Tools account</a>. <br /><br /> Once your account has been setup, copy and paste the URL below into your Webmaster Tools account."
+
+msgctxt "GoogleWebsiteOptimizer"
+msgid "Google Website Optimizer"
+msgstr "Google Website Optimizer"
+
+msgctxt "GoogleWebsiteOptimizerHelp"
+msgid "View and configure Google Website Optimizer tests in your store."
+msgstr "View and configure Google Website Optimizer tests in your store."
+
+msgctxt "Marketing"
+msgid "Marketing"
+msgstr "Marketing"
+
+msgctxt "Content"
+msgid "Website Content"
+msgstr "Website Content"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "UPLOADHANDLER_ERR_PROCESS_POST_SIZE"
+msgid "POST size of %1$d bytes exceeds the limit set in php.ini#post_max_size of %2$d bytes."
+msgstr "POST size of %1$d bytes exceeds the limit set in php.ini#post_max_size of %2$d bytes."
+
+msgctxt "UPLOADHANDLER_ERR_PROCESS_NO_INPUT"
+msgid "No file input fields were detected in the POST request."
+msgstr "No file input fields were detected in the POST request."
+
+msgctxt "UPLOADHANDLER_ERR_MOVE_EXISTS"
+msgid "Could not move uploaded file '%1$s' to '%2$s' as the destination file already exists and the overwrite option was not set."
+msgstr "Could not move uploaded file '%1$s' to '%2$s' as the destination file already exists and the overwrite option was not set."
+
+msgctxt "UPLOAD_ERR_INI_SIZE"
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+
+msgctxt "UPLOAD_ERR_FORM_SIZE"
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+msgstr "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+
+msgctxt "UPLOAD_ERR_PARTIAL"
+msgid "The uploaded file was only partially uploaded."
+msgstr "The uploaded file was only partially uploaded."
+
+msgctxt "UPLOAD_ERR_NO_FILE"
+msgid "No file was uploaded."
+msgstr "No file was uploaded."
+
+msgctxt "UPLOAD_ERR_NO_TMP_DIR"
+msgid "Missing a temporary folder."
+msgstr "Missing a temporary folder."
+
+msgctxt "UPLOAD_ERR_CANT_WRITE"
+msgid "Failed to write file to disk."
+msgstr "Failed to write file to disk."
+
+msgctxt "UPLOAD_ERR_EXTENSION"
+msgid "File upload stopped by extension."
+msgstr "File upload stopped by extension."
+
+msgctxt "ShowErrorMessage"
+msgid "Show error message"
+msgstr "Show error message"
+
+msgctxt "UnableToDelete"
+msgid "Unable to delete"
+msgstr "Unable to delete"
+
+msgctxt "ShoppingComparison"
+msgid "Shopping Comparison"
+msgstr "Shopping Comparison"
+
+msgctxt "ShoppingComparisonSites"
+msgid "Shopping Comparison Sites"
+msgstr "Shopping Comparison Sites"
+
+msgctxt "ShoppingComparisonMenuHelp"
+msgid "Display your products on popular shopping comparison sites like Shopping.com."
+msgstr "Display your products on popular shopping comparison sites like Shopping.com."
+
+msgctxt "ShoppingComparisonToolTipTitle"
+msgid "Shopping Comparison Sites"
+msgstr "Shopping Comparison Sites"
+
+msgctxt "ShoppingComparisonToolTipContent"
+msgid "<p>Which shopping comparison sites do you want your products to appear on? Simply click the checkbox next to each website.</p><p>When you click &quot;Save&quot; you will be able to configure the selected shopping comparison exports by clicking on the new tab that appears for each one.</p>"
+msgstr "<p>Which shopping comparison sites do you want your products to appear on? Simply click the checkbox next to each website.</p><p>When you click &quot;Save&quot; you will be able to configure the selected shopping comparison exports by clicking on the new tab that appears for each one.</p>"
+
+msgctxt "SeeStoreDuringMaintenance"
+msgid "Take Store Down for Maintenance"
+msgstr "Take Store Down for Maintenance"
+
+msgctxt "Brand"
+msgid "Brand"
+msgstr "Brand"
+
+msgctxt "301Redirects"
+msgid "301 Redirects"
+msgstr "301 Redirects"
+
+msgctxt "ManageRedirects"
+msgid "301 Redirects"
+msgstr "301 Redirects"
+
+msgctxt "StoreDownNotice"
+msgid "Your store is currently marked as down for maintenance."
+msgstr "Your store is currently marked as down for maintenance."
+
+msgctxt "StoreDownEnableLink"
+msgid " <a href='#' onclick='Common.DisableStoreMaintenance();'>Click here</a> to re-enable browsing and buying in your store."
+msgstr " <a href='#' onclick='Common.DisableStoreMaintenance();'>Click here</a> to re-enable browsing and buying in your store."
+
+msgctxt "Message"
+msgid "Message"
+msgstr "Message"
+
+msgctxt "Pagination"
+msgid "Page :page of :num_pages"
+msgstr "Page :page of :num_pages"
+
+msgctxt "Continue"
+msgid "Continue"
+msgstr "Continue"
+
+msgctxt "EmailAddress"
+msgid "Email Address"
+msgstr "Email Address"
+
+msgctxt "NoneString"
+msgid "None"
+msgstr "None"
+
+msgctxt "ViewEbay"
+msgid "Sell on eBay"
+msgstr "Sell on eBay"
+
+msgctxt "ViewEbayMenuHelp"
+msgid "Sell your products on eBay using the Auction or Buy It Now method."
+msgstr "Sell your products on eBay using the Auction or Buy It Now method."
+
+msgctxt "PicnikIntroTitle"
+msgid "Edit Image with Picnik"
+msgstr "Edit Image with Picnik"
+
+msgctxt "PicnikIntro"
+msgid "Picnik makes your photos fabulous with easy to use yet powerful editing tools. Tweak to your heart's content, then get creative with oodles of effects, fonts, shapes, and frames. It's fast, easy, and fun.<br /><br />With Picnik you can:<ul><li>Fix your photos in just one click</li><li>Use advanced controls to fine-tune your results</li><li>Crop, resize, and rotate in real-time</li><li>Tons of special effects, from artsy to fun</li><li>Astoundingly fast, right in your browser</li><li>Awesome fonts and top-quality type tool</li><li>Basketfuls of shapes from hand-picked designers</li><li>Works on Mac, Windows, and Linux</li><li>No download required, nothing to install</li></ul>"
+msgstr "Picnik makes your photos fabulous with easy to use yet powerful editing tools. Tweak to your heart's content, then get creative with oodles of effects, fonts, shapes, and frames. It's fast, easy, and fun.<br /><br />With Picnik you can:<ul><li>Fix your photos in just one click</li><li>Use advanced controls to fine-tune your results</li><li>Crop, resize, and rotate in real-time</li><li>Tons of special effects, from artsy to fun</li><li>Astoundingly fast, right in your browser</li><li>Awesome fonts and top-quality type tool</li><li>Basketfuls of shapes from hand-picked designers</li><li>Works on Mac, Windows, and Linux</li><li>No download required, nothing to install</li></ul>"
+
+msgctxt "PicnikLoading"
+msgid "Picnik should now be open in a new window.<br /><br />If you've closed the Picnik window without saving the image you may click the 'Continue' button below to open Picnik again, but your previously unsaved changes may be lost."
+msgstr "Picnik should now be open in a new window.<br /><br />If you've closed the Picnik window without saving the image you may click the 'Continue' button below to open Picnik again, but your previously unsaved changes may be lost."
+
+msgctxt "PicnikDirectLoading"
+msgid "Now loading Picnik, please wait..."
+msgstr "Now loading Picnik, please wait..."
+
+msgctxt "PicnikContinue"
+msgid "Continue to Picnik..."
+msgstr "Continue to Picnik..."
+
+msgctxt "PicnikSaveTitle"
+msgid "Save and Close"
+msgstr "Save and Close"
+
+msgctxt "PicnikShowMessage"
+msgid "Do not show this message again"
+msgstr "Do not show this message again"
+
+msgctxt "PicnikRemoteFile"
+msgid "In the event of an unrecoverable error, the edited image from Picnik is available for you to download and save manually:"
+msgstr "In the event of an unrecoverable error, the edited image from Picnik is available for you to download and save manually:"
+
+msgctxt "PicnikError"
+msgid "Picnik Error"
+msgstr "Picnik Error"
+
+msgctxt "PicnikErrorInClosing"
+msgid "If you continue to experience this issue, please lodge a support ticket with the above error information."
+msgstr "If you continue to experience this issue, please lodge a support ticket with the above error information."
+
+msgctxt "PicnikError_NoSourceFile"
+msgid "The image you were attempting to edit may have been deleted, or the picnik editing session data may be corrupt."
+msgstr "The image you were attempting to edit may have been deleted, or the picnik editing session data may be corrupt."
+
+msgctxt "PicnikError_NoDownload"
+msgid "Unable to download edited image from Picnik. Your web site may be behind a firewall that prevents it from accessing Picnik services. Please contact your web hosting service provider."
+msgstr "Unable to download edited image from Picnik. Your web site may be behind a firewall that prevents it from accessing Picnik services. Please contact your web hosting service provider."
+
+msgctxt "PicnikError_NoWrite"
+msgid "Unable to save the image downloaded from Picnik. There may be a file-permissions issue on your server. Please contact your web hosting service provider or lodge a support ticket if the issue persists."
+msgstr "Unable to save the image downloaded from Picnik. There may be a file-permissions issue on your server. Please contact your web hosting service provider or lodge a support ticket if the issue persists."
+
+msgctxt "PicnikError_InvalidFile"
+msgid "The file downloaded from Picnik does not appear to be a valid image. The Picnik website may be experiencing difficulties. Please try reloading this page, or try again later."
+msgstr "The file downloaded from Picnik does not appear to be a valid image. The Picnik website may be experiencing difficulties. Please try reloading this page, or try again later."
+
+msgctxt "PicnikError_InvalidToken"
+msgid "Invalid or missing Picnik token. Unable to load Picnik editing session information from your database. This may mean that the image has already been edited and saved and, for security reasons, this edit has been denied. You may need to start a new editing session by clicking 'Cancel' in the main browser window."
+msgstr "Invalid or missing Picnik token. Unable to load Picnik editing session information from your database. This may mean that the image has already been edited and saved and, for security reasons, this edit has been denied. You may need to start a new editing session by clicking 'Cancel' in the main browser window."
+
+msgctxt "EditRobotsTxtFile"
+msgid "Edit Robots.txt File"
+msgstr "Edit Robots.txt File"
+
+msgctxt "EmailMarketing"
+msgid "Email Marketing"
+msgstr "Email Marketing"
+
+msgctxt "EmailMarketingMenuHelp"
+msgid "Connect your online store with email marketing services like MailChimp."
+msgstr "Connect your online store with email marketing services like MailChimp."
+
+msgctxt "EmailIntegrationSettingsLink"
+msgid "Email Integration Settings"
+msgstr "Email Integration Settings"
+
+msgctxt "EmailIntegration_ExportMachine_FailedToLoadDialog"
+msgid "Failed to load export dialog. The store log may contain further details."
+msgstr "Failed to load export dialog. The store log may contain further details."
+
+msgctxt "Back_AccessKeyB"
+msgid "<u>B</u>ack"
+msgstr "<u>B</u>ack"
+
+msgctxt "Next_AccessKeyN"
+msgid "<u>N</u>ext"
+msgstr "<u>N</u>ext"
+
+msgctxt "Finish_AccessKeyF"
+msgid "<u>F</u>inish"
+msgstr "<u>F</u>inish"
+
+msgctxt "Cancel_AccessKeyC"
+msgid "<u>C</u>ancel"
+msgstr "<u>C</u>ancel"
+
+msgctxt "Close_AccessKeyO"
+msgid "Cl<u>o</u>se"
+msgstr "Cl<u>o</u>se"
+
+msgctxt "ChooseAction"
+msgid "Choose an action"
+msgstr "Choose an action"
+
+msgctxt "ChooseActionFirst"
+msgid "Please choose an action first."
+msgstr "Please choose an action first."
+
+msgctxt "FirstName"
+msgid "First Name"
+msgstr "First Name"
+
+msgctxt "CommentSettings"
+msgid "Comment Settings"
+msgstr "Comment Settings"
+
+msgctxt "PerPageX"
+msgid "Per page: :count"
+msgstr "Per page: :count"
+
+msgctxt "DefaultTaxClass"
+msgid "Default Tax Class"
+msgstr "Default Tax Class"
+
+msgctxt "Subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt "GrandTotal"
+msgid "Grand Total"
+msgstr "Grand Total"
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr "Discount"
+
+msgctxt "PasswordStrengthMeter_MsgDefault"
+msgid "Password Strength"
+msgstr "Password Strength"
+
+msgctxt "PasswordStrengthMeter_MsgTooShort"
+msgid "Your password needs to be at least :minLen characters long."
+msgstr "Your password needs to be at least :minLen characters long."
+
+msgctxt "PasswordStrengthMeter_MsgNoAlphaNum"
+msgid "Your password must contain at least 1 letter and 1 number."
+msgstr "Your password must contain at least 1 letter and 1 number."
+
+msgctxt "PasswordStrengthMeter_MsgWeak"
+msgid "Weak"
+msgstr "Weak"
+
+msgctxt "PasswordStrengthMeter_MsgStrong"
+msgid "Strong"
+msgstr "Strong"
+
+msgctxt "PasswordStrengthMeter_MsgVeryStrong"
+msgid "Very Strong"
+msgstr "Very Strong"
+
+msgctxt "PasswordStrengthMeter_Tip"
+msgid "(At least :minLen characters long)"
+msgstr "(At least :minLen characters long)"
+
+msgctxt "Middle"
+msgid "Middle"
+msgstr "Middle"
+
+msgctxt "AllItemsShipped"
+msgid "All items in this order have been shipped."
+msgstr "All items in this order have been shipped."
+
+msgctxt "DigitalOrderNoShipping"
+msgid "This is a digital order which does not require shipping."
+msgstr "This is a digital order which does not require shipping."
+
+msgctxt "DeleteOrdersPermissionName"
+msgid "Delete Orders (Restorable)"
+msgstr "Delete Orders (Restorable)"
+
+msgctxt "PurgeOrdersPermissionName"
+msgid "Delete Orders (Permanently)"
+msgstr "Delete Orders (Permanently)"
+
+msgctxt "UndeleteOrdersPermissionName"
+msgid "Restore Orders"
+msgstr "Restore Orders"
+
+msgctxt "UndeleteSelected"
+msgid "Restore Selected"
+msgstr "Restore Selected"
+
+msgctxt "PurgeSelected"
+msgid "Permanently Delete Selected"
+msgstr "Permanently Delete Selected"
+
+msgctxt "QuickSearchDeletedOrders1"
+msgid "<span class='quickSearchNumber'>1</span> deleted order was found for the search phrase ':searchQuery'"
+msgstr "<span class='quickSearchNumber'>1</span> deleted order was found for the search phrase ':searchQuery'"
+
+msgctxt "QuickSearchDeletedOrdersX"
+msgid "<span class='quickSearchNumber'>:numDeletedOrders</span> deleted orders were found for the search phrase ':searchQuery'"
+msgstr "<span class='quickSearchNumber'>:numDeletedOrders</span> deleted orders were found for the search phrase ':searchQuery'"
+
+msgctxt "deleted"
+msgid "deleted"
+msgstr "deleted"
+
+msgctxt "AllCategories"
+msgid "All Categories"
+msgstr "All Categories"
+
+msgctxt "NoParentCat"
+msgid "-- No Parent Category --"
+msgstr "-- No Parent Category --"
+
+msgctxt "GoogleProductSearchTargetCountry"
+msgid "Google Product Search Country"
+msgstr "Google Product Search Country"
+
+msgctxt "GoogleProductSearchTargetCountryWarning"
+msgid "Please select your target country. Your XML feed will be tailored to suit the requirements of the selected country."
+msgstr "Please select your target country. Your XML feed will be tailored to suit the requirements of the selected country."
+
+msgctxt "ManageNewsCategories"
+msgid "News Categories"
+msgstr "News Categories"
+
+msgctxt "ViewNewsCategoriesMenuHelp"
+msgid "View news categories which are used to group news in your store."
+msgstr "View news categories which are used to group news in your store."
+
+msgctxt "ManageNewsComments"
+msgid "News Comments"
+msgstr "News Comments"
+
+msgctxt "ViewNewsCommentsMenuHelp"
+msgid "View news comments."
+msgstr "View news comments."
+
+msgctxt "ManageConsultations"
+msgid "Product Consultations"
+msgstr "Product Consultations"
+
+msgctxt "ViewConsultationsMenuHelp"
+msgid "View product consultations."
+msgstr "View product consultations."
+
+msgctxt "ViewNewsCategories"
+msgid "News Categories"
+msgstr "News Categories"

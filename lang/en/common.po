@@ -1,0 +1,1098 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "CustomerDetails"
+msgid "Customer Details"
+msgstr "Customer Details"
+
+msgctxt "OrderStatusChangedSubject"
+msgid "Your Order Has Been Updated"
+msgstr "Your Order Has Been Updated"
+
+msgctxt "OrderStatusChanged"
+msgid "Order Status Changed"
+msgstr "Order Status Changed"
+
+msgctxt "OrderStatusChangedHi"
+msgid "Hi %s"
+msgstr "Hi %s"
+
+msgctxt "OrderStatusChangedIntro"
+msgid "An order you recently placed on our website has had its status changed."
+msgstr "An order you recently placed on our website has had its status changed."
+
+msgctxt "OrderNumberStatusChangedTo"
+msgid "The status of order #%s is now <strong>%s</strong>"
+msgstr "The status of order #%s is now <strong>%s</strong>"
+
+msgctxt "OrderStatusChangedOrderTotal"
+msgid "Order Total"
+msgstr "Order Total"
+
+msgctxt "OrderStatusChangedDatePlaced"
+msgid "Date Placed"
+msgstr "Date Placed"
+
+msgctxt "OrderStatusChangedPaymentMethod"
+msgid "Payment Method"
+msgstr "Payment Method"
+
+msgctxt "ViewOrderStatus"
+msgid "Click here to view the status of your order"
+msgstr "Click here to view the status of your order"
+
+msgctxt "OrderDetails"
+msgid "Order Details"
+msgstr "Order Details"
+
+msgctxt "OrderTrackingNoIs"
+msgid "The tracking number for this order is"
+msgstr "The tracking number for this order is"
+
+msgctxt "ClickHereToTrackYourOrder"
+msgid "Track the status of your order"
+msgstr "Track the status of your order"
+
+msgctxt "GiftCertificateEmailSubject"
+msgid "%s has sent you a gift certificate for %s"
+msgstr "%s has sent you a gift certificate for %s"
+
+msgctxt "Dear"
+msgid "Dear"
+msgstr "Dear"
+
+msgctxt "GiftCertificateEmailIntro"
+msgid "%s (%s) has sent you a %s gift certificate for <a rel='nofollow' href='%s'>%s</a>. "
+msgstr "%s (%s) has sent you a %s gift certificate for <a rel='nofollow' href='%s'>%s</a>. "
+
+msgctxt "GiftCertificateEmailAttached"
+msgid "Your gift certificate is attached to this email."
+msgstr "Your gift certificate is attached to this email."
+
+msgctxt "GiftCertificateEmailInstructions"
+msgid "For instructions on how to redeem your gift certificate please <a rel='nofollow' href='%s/giftcertificates.php?action=redeem'>click here</a>."
+msgstr "For instructions on how to redeem your gift certificate please <a rel='nofollow' href='%s/giftcertificates.php?action=redeem'>click here</a>."
+
+msgctxt "GiftCertificateEmailExpiry"
+msgid "You have until %s to use this gift certificate before it expires."
+msgstr "You have until %s to use this gift certificate before it expires."
+
+msgctxt "GiftCertificateEmailWarning"
+msgid "Please download or print a copy of your gift certificate for safe keeping as gift certificates are non-transferable."
+msgstr "Please download or print a copy of your gift certificate for safe keeping as gift certificates are non-transferable."
+
+msgctxt "GiftCertificateEmailYouHaveReceived"
+msgid "You have received a Gift Certificate for"
+msgstr "You have received a Gift Certificate for"
+
+msgctxt "GiftCertificate"
+msgid "Gift Certificate"
+msgstr "Gift Certificate"
+
+msgctxt "CertificateTo"
+msgid "To"
+msgstr "To"
+
+msgctxt "CertificateFrom"
+msgid "From"
+msgstr "From"
+
+msgctxt "CertificateCode"
+msgid "Code"
+msgstr "Code"
+
+msgctxt "GiftCertificateFrom"
+msgid "From %s on behalf of %s"
+msgstr "From %s on behalf of %s"
+
+msgctxt "RedeemGiftCertificateAt"
+msgid "Redeem your gift certificate at"
+msgstr "Redeem your gift certificate at"
+
+msgctxt "LowInventoryWarningSubject"
+msgid "Low Inventory Warning for %s"
+msgstr "Low Inventory Warning for %s"
+
+msgctxt "LowInventoryWarning"
+msgid "Low Inventory Warning for %s"
+msgstr "Low Inventory Warning for %s"
+
+msgctxt "LowInventoryWarningIntro"
+msgid "A product at %s has recently reached the low inventory warning level set up for this product."
+msgstr "A product at %s has recently reached the low inventory warning level set up for this product."
+
+msgctxt "LowInventoryWarningProduct"
+msgid "Product: %s"
+msgstr "Product: %s"
+
+msgctxt "LowInventoryWarningCurrentStock"
+msgid "Current Inventory Level: %s"
+msgstr "Current Inventory Level: %s"
+
+msgctxt "LowInventoryWarningAdjust"
+msgid "Click here to adjust the inventory level for this product."
+msgstr "Click here to adjust the inventory level for this product."
+
+msgctxt "LowInventoryWarningAll"
+msgid "Click here  to view all products with a low inventory level."
+msgstr "Click here  to view all products with a low inventory level."
+
+msgctxt "LowInventoryWarningNotice"
+msgid "You've been asked to be notified when this products inventory level reaches %d or lower."
+msgstr "You've been asked to be notified when this products inventory level reaches %d or lower."
+
+msgctxt "Query"
+msgid "Query"
+msgstr "Query"
+
+msgctxt "Location"
+msgid "Location"
+msgstr "Location"
+
+msgctxt "ThanksForYourOrder"
+msgid "Thanks for Your Order!"
+msgstr "Thanks for Your Order!"
+
+msgctxt "OrderNumber"
+msgid "Order Number"
+msgstr "Order Number"
+
+msgctxt "YourOrderIDIs"
+msgid "Your order ID is"
+msgstr "Your order ID is"
+
+msgctxt "ASummaryIsShownBelow"
+msgid "A summary of your order is shown below. To view the status of your order"
+msgstr "A summary of your order is shown below. To view the status of your order"
+
+msgctxt "ClickHere"
+msgid "click here"
+msgstr "click here"
+
+msgctxt "YourOrderFrom"
+msgid "Your Order From %s"
+msgstr "Your Order From %s"
+
+msgctxt "FreeShippingFromX"
+msgid "Free shipping from %s"
+msgstr "Free shipping from %s"
+
+msgctxt "HeresHowtoPayforYourOrder"
+msgid "Your order was sent to us but requires payment before it can be completed."
+msgstr "Your order was sent to us but requires payment before it can be completed."
+
+msgctxt "HeresHowtoPayforYourOrderUC"
+msgid "Here's How to Pay for Your Order..."
+msgstr "Here's How to Pay for Your Order..."
+
+msgctxt "YourOrderTotalIs"
+msgid "The outstanding balance of your order is"
+msgstr "The outstanding balance of your order is"
+
+msgctxt "PayForYourOrderHelp"
+msgid "Once you've provided payment your order will be completed."
+msgstr "Once you've provided payment your order will be completed."
+
+msgctxt "InstructionsForPaymentBelow"
+msgid "Instructions on how to pay for your order are shown below:"
+msgstr "Instructions on how to pay for your order are shown below:"
+
+msgctxt "InvoicePendingPaymentText"
+msgid "Your order requires payment before it can be finalized. Details on how to pay are shown below."
+msgstr "Your order requires payment before it can be finalized. Details on how to pay are shown below."
+
+msgctxt "OrderAwaitingPayment"
+msgid "Your order was sent to us but is currently awaiting payment. Once we receive the payment for your order, it will be completed. If you've already provided payment details then we will process your order manually and send you an email when it's completed."
+msgstr "Your order was sent to us but is currently awaiting payment. Once we receive the payment for your order, it will be completed. If you've already provided payment details then we will process your order manually and send you an email when it's completed."
+
+msgctxt "ShippingToAddress"
+msgid "Shipping to Address"
+msgstr "Shipping to Address"
+
+msgctxt "BillingAddress"
+msgid "Billing Address"
+msgstr "Billing Address"
+
+msgctxt "YourOrderWillBeShippedBy"
+msgid "Your Order Will Be Shipped By..."
+msgstr "Your Order Will Be Shipped By..."
+
+msgctxt "ShippingImmediateDownload"
+msgid "Immediate download after completion of payment."
+msgstr "Immediate download after completion of payment."
+
+msgctxt "ImmediateDownload"
+msgid "Immediate Download"
+msgstr "Immediate Download"
+
+msgctxt "For"
+msgid "for"
+msgstr "for"
+
+msgctxt "YourOrderContainsTheFollowingItems"
+msgid "Your Order Contains..."
+msgstr "Your Order Contains..."
+
+msgctxt "YourOrderContainsTheFollowingItems2"
+msgid "Your Order Contains:"
+msgstr "Your Order Contains:"
+
+msgctxt "Tax"
+msgid "Tax"
+msgstr "Tax"
+
+msgctxt "Items"
+msgid "Items"
+msgstr "Items"
+
+msgctxt "CartItems"
+msgid "Cart Items"
+msgstr "Cart Items"
+
+msgctxt "Qty"
+msgid "Qty"
+msgstr "Qty"
+
+msgctxt "ItemPrice"
+msgid "Item Price"
+msgstr "Item Price"
+
+msgctxt "ItemTotal"
+msgid "Item Total"
+msgstr "Item Total"
+
+msgctxt "Handling"
+msgid "Handling"
+msgstr "Handling"
+
+msgctxt "TotalCost"
+msgid "Total Cost"
+msgstr "Total Cost"
+
+msgctxt "Free"
+msgid "Free"
+msgstr "Free"
+
+msgctxt "Delivery"
+msgid "Delivery"
+msgstr "Delivery"
+
+msgctxt "Download"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "TaxLine"
+msgid "%s (%s%%)"
+msgstr "%s (%s%%)"
+
+msgctxt "IncludedTaxLine"
+msgid "Included %s (%s%%)"
+msgstr "Included %s (%s%%)"
+
+msgctxt "TotalTax"
+msgid "Total Tax"
+msgstr "Total Tax"
+
+msgctxt "IncludedTotalTax"
+msgid "Total Included Tax"
+msgstr "Total Included Tax"
+
+msgctxt "IncludedInvoiceTax"
+msgid "Included %s"
+msgstr "Included %s"
+
+msgctxt "YourOrderContainsTheFollowingDownloadableItems"
+msgid "Your Order Contains the Following Downloadable Items..."
+msgstr "Your Order Contains the Following Downloadable Items..."
+
+msgctxt "DownloadLink"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "InvLevelBelowOrderQty"
+msgid "We don't have enough %s stock on hand for the quantity you selected. Please try again."
+msgstr "We don't have enough %s stock on hand for the quantity you selected. Please try again."
+
+msgctxt "InvLevelBelowOrderQtyMultiple"
+msgid "The inventory level for the following products is below what you ordered, so we didn't update the quantity in your order for: %s"
+msgstr "The inventory level for the following products is below what you ordered, so we didn't update the quantity in your order for: %s"
+
+msgctxt "InvalidCouponCode"
+msgid "The coupon code you entered couldn't be applied to any items in your order."
+msgstr "The coupon code you entered couldn't be applied to any items in your order."
+
+msgctxt "InvalidCouponExpiredUses"
+msgid "The coupon code you entered has already expired so it can't be used."
+msgstr "The coupon code you entered has already expired so it can't be used."
+
+msgctxt "InvalidCouponExpired"
+msgid "The coupon code you entered expired on %s so it can't be used."
+msgstr "The coupon code you entered expired on %s so it can't be used."
+
+msgctxt "InvalidCouponMinPrice"
+msgid "Your order does not meet the minimum total for this coupon code to be applied. Please spend another %s first."
+msgstr "Your order does not meet the minimum total for this coupon code to be applied. Please spend another %s first."
+
+msgctxt "InvalidCouponDisabled"
+msgid "The coupon code you entered has been disabled so it can't be used."
+msgstr "The coupon code you entered has been disabled so it can't be used."
+
+msgctxt "InvalidCouponRemoved"
+msgid "The coupon %s was removed because your order total doesn't meet the minimum amount required."
+msgstr "The coupon %s was removed because your order total doesn't meet the minimum amount required."
+
+msgctxt "BadGiftCertificateExpired"
+msgid "The gift certificate you entered expired on %s."
+msgstr "The gift certificate you entered expired on %s."
+
+msgctxt "BadGiftCertificateInvalid"
+msgid "The gift certificate you entered couldn't be applied to any items in your order."
+msgstr "The gift certificate you entered couldn't be applied to any items in your order."
+
+msgctxt "BadGiftCertificateBalance"
+msgid "The gift certificate you entered doesn't contain any credit."
+msgstr "The gift certificate you entered doesn't contain any credit."
+
+msgctxt "ProductUnavailableForPruchase"
+msgid "Unfortunately this product is not available for purchase."
+msgstr "Unfortunately this product is not available for purchase."
+
+msgctxt "ErrorNoVariationSelected"
+msgid "Please choose a variation for this product."
+msgstr "Please choose a variation for this product."
+
+msgctxt "InvalidFileType"
+msgid "The file type of the uploaded file is not allowed, it has to be one of following file type(s): <strong>%s</strong>."
+msgstr "The file type of the uploaded file is not allowed, it has to be one of following file type(s): <strong>%s</strong>."
+
+msgctxt "InvalidFileSize"
+msgid "The file size is too big, it has to be %dk or less."
+msgstr "The file size is too big, it has to be %dk or less."
+
+msgctxt "CanNotUploadFile"
+msgid "File could not be uploaded successfully, please try again later."
+msgstr "File could not be uploaded successfully, please try again later."
+
+msgctxt "InvalidImageFile"
+msgid "The image file you uploaded is invalid."
+msgstr "The image file you uploaded is invalid."
+
+msgctxt "FileCannotBeMoved"
+msgid "The file uploaded couldn't be move from the temporary folder."
+msgstr "The file uploaded couldn't be move from the temporary folder."
+
+msgctxt "EnterRequiredField"
+msgid "Please enter the required field(s)."
+msgstr "Please enter the required field(s)."
+
+msgctxt "GiftWrappingNotApplied"
+msgid "The selected items in your order are unable to be gift wrapped."
+msgstr "The selected items in your order are unable to be gift wrapped."
+
+msgctxt "CannotAddQuantityToCartSingle"
+msgid "%s is currently not in stock."
+msgstr "%s is currently not in stock."
+
+msgctxt "CannotAddQuantityToCart"
+msgid "We don't have enough :product stock on hand for the quantity you selected. Please try again."
+msgstr "We don't have enough :product stock on hand for the quantity you selected. Please try again."
+
+msgctxt "GiftWrappingForX"
+msgid "Gift Wrapping for '%s'"
+msgstr "Gift Wrapping for '%s'"
+
+msgctxt "GiftWrappingApplied"
+msgid "Gift wrapping has been applied to the selected items in your cart successfully."
+msgstr "Gift wrapping has been applied to the selected items in your cart successfully."
+
+msgctxt "GiftWrapping"
+msgid "Gift Wrapping"
+msgstr "Gift Wrapping"
+
+msgctxt "GiftWrappingOptionsAvailable"
+msgid "Options available"
+msgstr "Options available"
+
+msgctxt "ChooseGiftWrappingOption"
+msgid "-- Please choose a type of gift wrapping --"
+msgstr "-- Please choose a type of gift wrapping --"
+
+msgctxt "GiftMessage"
+msgid "Gift Message"
+msgstr "Gift Message"
+
+msgctxt "ChooseHowToWrapItems"
+msgid "Please choose how you'd like to have this item gift wrapped."
+msgstr "Please choose how you'd like to have this item gift wrapped."
+
+msgctxt "WrapItemsTheSame"
+msgid "I'd like to wrap each of this item using the same wrapping options"
+msgstr "I'd like to wrap each of this item using the same wrapping options"
+
+msgctxt "WrapItemsDifferently"
+msgid "I'd like to gift wrap each item separately"
+msgstr "I'd like to gift wrap each item separately"
+
+msgctxt "ConfirmRemoveGiftWrapping"
+msgid "Are you sure you want to remove the gift wrapping from this item?"
+msgstr "Are you sure you want to remove the gift wrapping from this item?"
+
+msgctxt "GiftWrappingRemoved"
+msgid "The selected item(s) in your cart will no longer be gift wrapped."
+msgstr "The selected item(s) in your cart will no longer be gift wrapped."
+
+msgctxt "Change"
+msgid "Change"
+msgstr "Change"
+
+msgctxt "Remove"
+msgid "Remove"
+msgstr "Remove"
+
+msgctxt "Or"
+msgid "or"
+msgstr "or"
+
+msgctxt "MaximumSize"
+msgid "Maximum Size"
+msgstr "Maximum Size"
+
+msgctxt "AllowedTypes"
+msgid "Allowed Types"
+msgstr "Allowed Types"
+
+msgctxt "TickToSelect"
+msgid "Tick to select"
+msgstr "Tick to select"
+
+msgctxt "CheckoutInvLevelBelowOrderQty"
+msgid "The inventory level for the following product is below what you ordered, so we could not proceed with the checkout: %s"
+msgstr "The inventory level for the following product is below what you ordered, so we could not proceed with the checkout: %s"
+
+msgctxt "CustomFieldsPasswordMsg"
+msgid "Leave blank to remain unchanged"
+msgstr "Leave blank to remain unchanged"
+
+msgctxt "CustomFieldsValidationRequired"
+msgid "The '%s' field is required."
+msgstr "The '%s' field is required."
+
+msgctxt "CustomFieldsValidationOptionRequired"
+msgid "Please choose an option for the '%s' field."
+msgstr "Please choose an option for the '%s' field."
+
+msgctxt "CustomFieldsValidationNumbersOnly"
+msgid "The '%s' field must only contain numbers."
+msgstr "The '%s' field must only contain numbers."
+
+msgctxt "CustomFieldsValidationNumbersToLow"
+msgid "The '%s' field cannot be lower than %d."
+msgstr "The '%s' field cannot be lower than %d."
+
+msgctxt "CustomFieldsValidationNumbersToHigh"
+msgid "The '%s' field cannot be higher than %d."
+msgstr "The '%s' field cannot be higher than %d."
+
+msgctxt "CustomFieldsValidationDateToLow"
+msgid "The '%s' field cannot be before %s."
+msgstr "The '%s' field cannot be before %s."
+
+msgctxt "CustomFieldsValidationDateToHigh"
+msgid "The '%s' field cannot be after %s."
+msgstr "The '%s' field cannot be after %s."
+
+msgctxt "CustomFieldsValidationDateInvalid"
+msgid "The '%s' field, if in use, must have all the date fields selected."
+msgstr "The '%s' field, if in use, must have all the date fields selected."
+
+msgctxt "CustomFieldsValidationInvalidSelectOption"
+msgid "The '%s' field contains invalid selected values."
+msgstr "The '%s' field contains invalid selected values."
+
+msgctxt "DateDaySt"
+msgid "st"
+msgstr "st"
+
+msgctxt "DateDayNd"
+msgid "nd"
+msgstr "nd"
+
+msgctxt "DateDayRd"
+msgid "rd"
+msgstr "rd"
+
+msgctxt "DateDayTh"
+msgid "th"
+msgstr "th"
+
+msgctxt "January"
+msgid "January"
+msgstr "January"
+
+msgctxt "February"
+msgid "February"
+msgstr "February"
+
+msgctxt "March"
+msgid "March"
+msgstr "March"
+
+msgctxt "April"
+msgid "April"
+msgstr "April"
+
+msgctxt "May"
+msgid "May"
+msgstr "May"
+
+msgctxt "June"
+msgid "June"
+msgstr "June"
+
+msgctxt "July"
+msgid "July"
+msgstr "July"
+
+msgctxt "August"
+msgid "August"
+msgstr "August"
+
+msgctxt "September"
+msgid "September"
+msgstr "September"
+
+msgctxt "October"
+msgid "October"
+msgstr "October"
+
+msgctxt "November"
+msgid "November"
+msgstr "November"
+
+msgctxt "December"
+msgid "December"
+msgstr "December"
+
+msgctxt "JanuaryShort"
+msgid "Jan"
+msgstr "Jan"
+
+msgctxt "FebruaryShort"
+msgid "Feb"
+msgstr "Feb"
+
+msgctxt "MarchShort"
+msgid "Mar"
+msgstr "Mar"
+
+msgctxt "AprilShort"
+msgid "Apr"
+msgstr "Apr"
+
+msgctxt "MayShort"
+msgid "May"
+msgstr "May"
+
+msgctxt "JuneShort"
+msgid "Jun"
+msgstr "Jun"
+
+msgctxt "JulyShort"
+msgid "Jul"
+msgstr "Jul"
+
+msgctxt "AugustShort"
+msgid "Aug"
+msgstr "Aug"
+
+msgctxt "SeptemberShort"
+msgid "Sep"
+msgstr "Sep"
+
+msgctxt "OctoberShort"
+msgid "Oct"
+msgstr "Oct"
+
+msgctxt "NovemberShort"
+msgid "Nov"
+msgstr "Nov"
+
+msgctxt "DecemberShort"
+msgid "Dec"
+msgstr "Dec"
+
+msgctxt "LessThanAMinuteAgo"
+msgid "less than a minute ago"
+msgstr "less than a minute ago"
+
+msgctxt "XMinutesAgo"
+msgid "%s minutes ago"
+msgstr "%s minutes ago"
+
+msgctxt "OneMinuteAgo"
+msgid "1 minute ago"
+msgstr "1 minute ago"
+
+msgctxt "OneHourAgo"
+msgid "one hour ago"
+msgstr "one hour ago"
+
+msgctxt "XHoursAgo"
+msgid "%s hours ago"
+msgstr "%s hours ago"
+
+msgctxt "Today"
+msgid "Today"
+msgstr "Today"
+
+msgctxt "Yesterday"
+msgid "Yesterday"
+msgstr "Yesterday"
+
+msgctxt "TodayAt"
+msgid "Today at %s"
+msgstr "Today at %s"
+
+msgctxt "YesterdayAt"
+msgid "Yesterday at %s"
+msgstr "Yesterday at %s"
+
+msgctxt "OnDate"
+msgid "on %s"
+msgstr "on %s"
+
+msgctxt "OnDateAtTime"
+msgid "on %s at %s"
+msgstr "on %s at %s"
+
+msgctxt "Go"
+msgid "Go"
+msgstr "Go"
+
+msgctxt "Order"
+msgid "Order"
+msgstr "Order"
+
+msgctxt "Orders"
+msgid "Orders"
+msgstr "Orders"
+
+msgctxt "Day"
+msgid "Day"
+msgstr "Day"
+
+msgctxt "Month"
+msgid "Month"
+msgstr "Month"
+
+msgctxt "Year"
+msgid "Year"
+msgstr "Year"
+
+msgctxt "Week"
+msgid "Week"
+msgstr "Week"
+
+msgctxt "Show"
+msgid "Show"
+msgstr "Show"
+
+msgctxt "LowerOn"
+msgid "on"
+msgstr "on"
+
+msgctxt "Guest"
+msgid "Guest"
+msgstr "Guest"
+
+msgctxt "Condition"
+msgid "Condition"
+msgstr "Condition"
+
+msgctxt "ConditionNew"
+msgid "New"
+msgstr "New"
+
+msgctxt "ConditionUsed"
+msgid "Used"
+msgstr "Used"
+
+msgctxt "ConditionRefurbished"
+msgid "Refurbished"
+msgstr "Refurbished"
+
+msgctxt "OrderDeletedAutomatically"
+msgid "The incomplete order #:order was deleted automatically (customer began new checkout)."
+msgstr "The incomplete order #:order was deleted automatically (customer began new checkout)."
+
+msgctxt "OldOrdersDeleted"
+msgid "The incomplete orders (:orderList) were deleted automatically (7 day cleanup)."
+msgstr "The incomplete orders (:orderList) were deleted automatically (7 day cleanup)."
+
+msgctxt "LoadingPleaseWait"
+msgid "Loading... Please wait..."
+msgstr "Loading... Please wait..."
+
+msgctxt "Email"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "OrderTrackingNumberAdded"
+msgid "Tracking number added to your order"
+msgstr "Tracking number added to your order"
+
+msgctxt "OrderTrackingNumberAddedHi"
+msgid "Hi %s"
+msgstr "Hi %s"
+
+msgctxt "OrderTrackingNumberAddedIntro"
+msgid "An order you recently placed on our website has had a tracking number added."
+msgstr "An order you recently placed on our website has had a tracking number added."
+
+msgctxt "OrderTrackingNumberAddedSubject"
+msgid "Your Order Has Been Updated With a Tracking Number"
+msgstr "Your Order Has Been Updated With a Tracking Number"
+
+msgctxt "PrintInvoiceForOrderNumber"
+msgid "Print invoice for order #%s"
+msgstr "Print invoice for order #%s"
+
+msgctxt "PrintInvoices"
+msgid "Print invoices"
+msgstr "Print invoices"
+
+msgctxt "TaskManagerMaximumQueueNameLength"
+msgid "Maximum allowed length of queue name for internal task manager is :length characters."
+msgstr "Maximum allowed length of queue name for internal task manager is :length characters."
+
+msgctxt "TaskManagerMaximumClassNameLength"
+msgid "Maximum allowed length of class names for internal task manager is :length characters."
+msgstr "Maximum allowed length of class names for internal task manager is :length characters."
+
+msgctxt "TaskManagerMaximumMethodNameLength"
+msgid "Maximum allowed length of method names for internal task manager is 255 characters."
+msgstr "Maximum allowed length of method names for internal task manager is 255 characters."
+
+msgctxt "TaskManagerFailedToDecodeJson"
+msgid "Failed to json_decode data"
+msgstr "Failed to json_decode data"
+
+msgctxt "TaskManagerCallbackNotDefined"
+msgid "Callback is not defined, or not valid"
+msgstr "Callback is not defined, or not valid"
+
+msgctxt "EmailIntegrationRemoveSubscriberDoesntExist"
+msgid "Tried to remove subscriber ':email' from :provider list ':list', but no such subscriber exists on this list."
+msgstr "Tried to remove subscriber ':email' from :provider list ':list', but no such subscriber exists on this list."
+
+msgctxt "EmailIntegrationRemoveSubscriberListDoesntExist"
+msgid "Tried to remove subscriber ':email' from :provider, but list id :list doesn't exist."
+msgstr "Tried to remove subscriber ':email' from :provider, but list id :list doesn't exist."
+
+msgctxt "EmailIntegrationSubscriberRemoved"
+msgid "Subscriber ':email' removed from :provider list ':list'."
+msgstr "Subscriber ':email' removed from :provider list ':list'."
+
+msgctxt "EmailIntegrationSubscriberRemoveFailed"
+msgid "Failed to remove subscriber ':email' from :provider list ':list'."
+msgstr "Failed to remove subscriber ':email' from :provider list ':list'."
+
+msgctxt "EmailIntegrationAddSubscriberListDoesntExist"
+msgid "Tried to add subscriber ':email' to :provider, but list id :list doesn't exist."
+msgstr "Tried to add subscriber ':email' to :provider, but list id :list doesn't exist."
+
+msgctxt "EmailIntegrationSubscriberAddUpdated"
+msgid "Subscriber ':email' already exists in :provider list ':list'. Updating existing details."
+msgstr "Subscriber ':email' already exists in :provider list ':list'. Updating existing details."
+
+msgctxt "EmailIntegrationSubscriberAdded"
+msgid "Subscriber ':email' added to :provider list ':list'."
+msgstr "Subscriber ':email' added to :provider list ':list'."
+
+msgctxt "EmailIntegrationSubscriberAddFailed"
+msgid "Failed to add subscriber ':email' to :provider list ':list'."
+msgstr "Failed to add subscriber ':email' to :provider list ':list'."
+
+msgctxt "EmailIntegrationListsExpired"
+msgid "List cache for :provider has expired and needs downloading."
+msgstr "List cache for :provider has expired and needs downloading."
+
+msgctxt "EmailIntegrationListsDownloaded"
+msgid "Downloaded :count list/s from :provider."
+msgstr "Downloaded :count list/s from :provider."
+
+msgctxt "EmailIntegrationListFieldsExpired"
+msgid "List fields cache for :provider has expired and needs downloading."
+msgstr "List fields cache for :provider has expired and needs downloading."
+
+msgctxt "EmailIntegrationListFieldsDownloaded"
+msgid "Downloaded :count list field/s from :provider."
+msgstr "Downloaded :count list field/s from :provider."
+
+msgctxt "EmailIntegrationExportToModule"
+msgid "To :module"
+msgstr "To :module"
+
+msgctxt "EmailIntegrationExportToFile"
+msgid "To CSV or XML file"
+msgstr "To CSV or XML file"
+
+msgctxt "EmailIntegrationExportToNewsletterRules"
+msgid "As 'Newsletter' subscriptions"
+msgstr "As 'Newsletter' subscriptions"
+
+msgctxt "EmailIntegrationExportToOrderRules"
+msgid "As 'New Customer' subscriptions"
+msgstr "As 'New Customer' subscriptions"
+
+msgctxt "IPreferThisEmailFormat"
+msgid "I prefer to receive emails in this format:"
+msgstr "I prefer to receive emails in this format:"
+
+msgctxt "EmailFormatDescription_0"
+msgid "No preference"
+msgstr "No preference"
+
+msgctxt "EmailFormatDescription_1"
+msgid "HTML"
+msgstr "HTML"
+
+msgctxt "EmailFormatDescription_2"
+msgid "Plain Text"
+msgstr "Plain Text"
+
+msgctxt "EmailFormatDescription_3"
+msgid "Mobile Format"
+msgstr "Mobile Format"
+
+msgctxt "DurationLessThan"
+msgid "less than 1 :interval"
+msgstr "less than 1 :interval"
+
+msgctxt "day"
+msgid "day"
+msgstr "day"
+
+msgctxt "days"
+msgid "days"
+msgstr "days"
+
+msgctxt "hour"
+msgid "hour"
+msgstr "hour"
+
+msgctxt "hours"
+msgid "hours"
+msgstr "hours"
+
+msgctxt "minute"
+msgid "minute"
+msgstr "minute"
+
+msgctxt "minutes"
+msgid "minutes"
+msgstr "minutes"
+
+msgctxt "second"
+msgid "second"
+msgstr "second"
+
+msgctxt "seconds"
+msgid "seconds"
+msgstr "seconds"
+
+msgctxt "ISC_REMOTEFILE_ERROR_0"
+msgid "No error"
+msgstr "No error"
+
+msgctxt "ISC_REMOTEFILE_ERROR_1"
+msgid "Unknown network error"
+msgstr "Unknown network error"
+
+msgctxt "ISC_REMOTEFILE_ERROR_2"
+msgid "The request timed out before it was completed"
+msgstr "The request timed out before it was completed"
+
+msgctxt "ISC_REMOTEFILE_ERROR_3"
+msgid "The request was successful, but the response from the server was empty"
+msgstr "The request was successful, but the response from the server was empty"
+
+msgctxt "ISC_REMOTEFILE_ERROR_4"
+msgid "A network or configuration error prevented the request from being sent"
+msgstr "A network or configuration error prevented the request from being sent"
+
+msgctxt "ISC_REMOTEFILE_ERROR_5"
+msgid "No host was specified in the request URL"
+msgstr "No host was specified in the request URL"
+
+msgctxt "ISC_REMOTEFILE_ERROR_6"
+msgid "Too many redirect responses to follow"
+msgstr "Too many redirect responses to follow"
+
+msgctxt "ISC_REMOTEFILE_ERROR_7"
+msgid "Login credentials were denied"
+msgstr "Login credentials were denied"
+
+msgctxt "ISC_REMOTEFILE_ERROR_8"
+msgid "The remote server responded with an error"
+msgstr "The remote server responded with an error"
+
+msgctxt "ISC_REMOTEFILE_ERROR_9"
+msgid "Could not resolve the host specified in the request URL"
+msgstr "Could not resolve the host specified in the request URL"
+
+msgctxt "CannotAddMinQuantityToCart"
+msgid "The minimum order for :product is :minqty but there is not enough in stock. Unfortunately this product is not available for purchase."
+msgstr "The minimum order for :product is :minqty but there is not enough in stock. Unfortunately this product is not available for purchase."
+
+msgctxt "MinimumQuantityApplies"
+msgid "This product cannot be reordered because the quantity your ordered last time falls below the new minimum order requirements."
+msgstr "This product cannot be reordered because the quantity your ordered last time falls below the new minimum order requirements."
+
+msgctxt "MaximumQuantityApplies"
+msgid "This product cannot be reordered because the quantity you ordered last time exceeds the new maximum order limit."
+msgstr "This product cannot be reordered because the quantity you ordered last time exceeds the new maximum order limit."
+
+msgctxt "ProductMinQty"
+msgid "Minimum Purchase"
+msgstr "Minimum Purchase"
+
+msgctxt "ProductMaxQty"
+msgid "Maximum Purchase"
+msgstr "Maximum Purchase"
+
+msgctxt "ProductMinQtyError"
+msgid "You need to purchase a minimum of :qty of the :product per order."
+msgstr "You need to purchase a minimum of :qty of the :product per order."
+
+msgctxt "ProductMaxQtyError"
+msgid "You can only purchase a maximum of :qty of the :product per order."
+msgstr "You can only purchase a maximum of :qty of the :product per order."
+
+msgctxt "AddToCartMinimumQuantityNotice"
+msgid "The minimum purchase required for :product is :qty units, which has been added to your cart."
+msgstr "The minimum purchase required for :product is :qty units, which has been added to your cart."
+
+msgctxt "ProductNotAvailableInQuantity"
+msgid "We don't have enough :product stock on hand for the quantity you selected. Please try again."
+msgstr "We don't have enough :product stock on hand for the quantity you selected. Please try again."
+
+msgctxt "units"
+msgid "unit(s)"
+msgstr "unit(s)"
+
+msgctxt "OrderWillBeShippedToMultipleAddresses"
+msgid "(Order will be shipped to multiple addresses)"
+msgstr "(Order will be shipped to multiple addresses)"
+
+msgctxt "State"
+msgid "State"
+msgstr "State"
+
+msgctxt "ItemsShippedTo"
+msgid "Items shipped to"
+msgstr "Items shipped to"
+
+msgctxt "ItemsShippedToDigital"
+msgid "Items available for immediate download after completion of payment"
+msgstr "Items available for immediate download after completion of payment"
+
+msgctxt "Shipping_Destination_Number"
+msgid "Shipping - Destination #:number"
+msgstr "Shipping - Destination #:number"
+
+msgctxt "ShipmentTrackingNumbersLinks"
+msgid "Shipment Tracking Numbers / Links"
+msgstr "Shipment Tracking Numbers / Links"
+
+msgctxt "NoTrackingNumbersYet"
+msgid "No tracking numbers are assigned to your order yet."
+msgstr "No tracking numbers are assigned to your order yet."
+
+msgctxt "Coupon"
+msgid "Coupon"
+msgstr "Coupon"
+
+msgctxt "TypeAlbum"
+msgid "Album"
+msgstr "Album"
+
+msgctxt "TypeBook"
+msgid "Book"
+msgstr "Book"
+
+msgctxt "TypeDrink"
+msgid "Drink"
+msgstr "Drink"
+
+msgctxt "TypeFood"
+msgid "Food"
+msgstr "Food"
+
+msgctxt "TypeGame"
+msgid "Game"
+msgstr "Game"
+
+msgctxt "TypeMovie"
+msgid "Movie"
+msgstr "Movie"
+
+msgctxt "TypeProduct"
+msgid "Product"
+msgstr "Product"
+
+msgctxt "TypeSong"
+msgid "Song"
+msgstr "Song"
+
+msgctxt "TypeTVShow"
+msgid "TV Show"
+msgstr "TV Show"
+
+msgctxt "Recommend"
+msgid "Recommend"
+msgstr "Recommend"
+
+msgctxt "ThanksForRegisteringAt"
+msgid "Thanks for Registering at "
+msgstr "Thanks for Registering at "
+
+msgctxt "ThanksForRegisteringAtIntro"
+msgid "Thank you for creating your account at %s. Your account details are as follows:"
+msgstr "Thank you for creating your account at %s. Your account details are as follows:"
+
+msgctxt "ThanksForRegisteringEmailLogin"
+msgid "To sign in to your account, please visit <a rel='nofollow' href='%s'>%s</a> or <a rel='nofollow' href='%s'>click here</a>."
+msgstr "To sign in to your account, please visit <a rel='nofollow' href='%s'>%s</a> or <a rel='nofollow' href='%s'>click here</a>."
+
+msgctxt "ThanksForRegisteringEmailHelp"
+msgid "If you have any questions regarding your account, click 'Reply' in your email client and we'll be only too happy to help."
+msgstr "If you have any questions regarding your account, click 'Reply' in your email client and we'll be only too happy to help."
+
+msgctxt "InvalidCouponLocation"
+msgid "Your shipping address doesn't meet the location requirements for the coupon code you entered."
+msgstr "Your shipping address doesn't meet the location requirements for the coupon code you entered."
+
+msgctxt "CouponLocationNotSpecified"
+msgid "Please click 'Estimate Shipping & Tax' before applying a coupon code with free/discounted shipping."
+msgstr "Please click 'Estimate Shipping & Tax' before applying a coupon code with free/discounted shipping."
+
+msgctxt "InvalidCouponMethod"
+msgid "The coupon code you entered can't be used with the shipping method you selected."
+msgstr "The coupon code you entered can't be used with the shipping method you selected."
+
+msgctxt "PaymentGatewayRequestDebug"
+msgid "Logging request for order :order"
+msgstr "Logging request for order :order"
+
+msgctxt "Job_Email_Send_Error"
+msgid "Email to :recipient_name <:recipient_address> failed to send."
+msgstr "Email to :recipient_name <:recipient_address> failed to send."

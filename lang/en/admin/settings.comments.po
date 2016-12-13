@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "CommentSettingsTitle"
+msgid "Comment System Settings"
+msgstr "Comment System Settings"
+
+msgctxt "CommentSettingsIntro"
+msgid "This page allows you to select which system you'd like to use for managing customer comments on your store."
+msgstr "This page allows you to select which system you'd like to use for managing customer comments on your store."
+
+msgctxt "ChooseCommentSystem"
+msgid "Choose a Comment System"
+msgstr "Choose a Comment System"
+
+msgctxt "UseCommentSystem"
+msgid "I Want to Use:"
+msgstr "I Want to Use:"
+
+msgctxt "CommentSettingsSaved"
+msgid "The comment system settings were saved successfully."
+msgstr "The comment system settings were saved successfully."
+
+msgctxt "CommentSettingsNotSaved"
+msgid "The Comment System settings could not be saved."
+msgstr "The Comment System settings could not be saved."

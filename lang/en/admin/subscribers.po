@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "SubscribersExportUnableCreate"
+msgid "Unable to create cache file. Please check that the /cache/ directory is writable."
+msgstr "Unable to create cache file. Please check that the /cache/ directory is writable."
+
+msgctxt "SubscribersExportInvalidFile"
+msgid "you have followed a link to an outdated subscriber export. Please start a new email list export."
+msgstr "you have followed a link to an outdated subscriber export. Please start a new email list export."
+
+msgctxt "SubscribersListIntro"
+msgid "Click the link below to download your newsletter subscriber list as a CSV file, which can be opened in Microsoft Excel or Google Docs."
+msgstr "Click the link below to download your newsletter subscriber list as a CSV file, which can be opened in Microsoft Excel or Google Docs."
+
+msgctxt "GenerateSubscribersList"
+msgid "Export my email subscribers"
+msgstr "Export my email subscribers"
+
+msgctxt "SubscribersListGeneratingIntro"
+msgid "Your email subscribers are currently being exported to a CSV file. Once the export is complete you will be able to download the subscribers list."
+msgstr "Your email subscribers are currently being exported to a CSV file. Once the export is complete you will be able to download the subscribers list."
+
+msgctxt "GeneratingSubscribersList"
+msgid "Generating Email Subscribers List..."
+msgstr "Generating Email Subscribers List..."
+
+msgctxt "SubscribersListGeneratedIntro"
+msgid "There are %s subscribers in your mailing list. Click the link below to download the email list as a CSV file."
+msgstr "There are %s subscribers in your mailing list. Click the link below to download the email list as a CSV file."
+
+msgctxt "DownloadSubscribersList"
+msgid "Download my email subscribers list"
+msgstr "Download my email subscribers list"
+
+msgctxt "NoSubscribers"
+msgid "Your subscriber list is currently empty. It needs to contain at least one subscriber before it can be exported."
+msgstr "Your subscriber list is currently empty. It needs to contain at least one subscriber before it can be exported."
+
+msgctxt "SubEmail"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "SubFirstName"
+msgid "First Name"
+msgstr "First Name"
+
+msgctxt "SubscribersExportColumnEmail"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "SubscribersExportColumnFirstName"
+msgid "First Name"
+msgstr "First Name"

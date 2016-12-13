@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "TypeTitle"
+msgid "Abandoned Orders"
+msgstr "Abandoned Orders"
+
+msgctxt "salestaxDate"
+msgid "Period"
+msgstr "Period"
+
+msgctxt "salestaxTaxName"
+msgid "Tax"
+msgstr "Tax"
+
+msgctxt "salestaxTaxRate"
+msgid "Rate"
+msgstr "Rate"
+
+msgctxt "salestaxNumOrders"
+msgid "Number of Orders"
+msgstr "Number of Orders"
+
+msgctxt "salestaxTaxAmount"
+msgid "Tax Amount"
+msgstr "Tax Amount"
+
+msgctxt "abandonorderOrderId"
+msgid "Order ID"
+msgstr "Order ID"
+
+msgctxt "abandonorderCustomerName"
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgctxt "abandonorderCustomerEmail"
+msgid "Customer Email"
+msgstr "Customer Email"
+
+msgctxt "abandonorderCustomerPhone"
+msgid "Customer Phone"
+msgstr "Customer Phone"
+
+msgctxt "abandonorderDate"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "abandonorderTotalOrderAmount"
+msgid "Total Order Amount"
+msgstr "Total Order Amount"

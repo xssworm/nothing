@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "RobotsTxt"
+msgid "robots.txt"
+msgstr "robots.txt"
+
+msgctxt "RobotsIntro"
+msgid "The robots.txt file allows you to control how search engines crawl your website. This file should only be edited by advanced users."
+msgstr "The robots.txt file allows you to control how search engines crawl your website. This file should only be edited by advanced users."
+
+msgctxt "RobotsRevertButton"
+msgid "Revert to Default"
+msgstr "Revert to Default"
+
+msgctxt "RobotsRevertPrompt"
+msgid "Are you sure you want to revert your robots.txt file to its default contents? Click OK to confirm."
+msgstr "Are you sure you want to revert your robots.txt file to its default contents? Click OK to confirm."
+
+msgctxt "RobotsCancelPrompt"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "RobotsRevertSuccess"
+msgid "Your robots.txt file has been reverted to its default contents."
+msgstr "Your robots.txt file has been reverted to its default contents."
+
+msgctxt "RobotsSaveSuccess"
+msgid "Your robots.txt file has been saved successfully."
+msgstr "Your robots.txt file has been saved successfully."
+
+msgctxt "RobotsSaveError"
+msgid "Your robots.txt file could not be saved. Please ensure that it exists and is writable."
+msgstr "Your robots.txt file could not be saved. Please ensure that it exists and is writable."

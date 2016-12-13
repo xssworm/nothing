@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "GetShippingQuote"
+msgid "Get Shipping Quote"
+msgstr "Get Shipping Quote"
+
+msgctxt "TestShippingProvider"
+msgid "Test Shipping Provider"
+msgstr "Test Shipping Provider"
+
+msgctxt "TestShippingProviderHelp"
+msgid "Click this link to receive a live quote from the shipping provider. You must click \'Save\' to store preferences for this shipping provider before testing it."
+msgstr "Click this link to receive a live quote from the shipping provider. You must click \'Save\' to store preferences for this shipping provider before testing it."
+
+msgctxt "ShippingProviderNotSetup"
+msgid "To test this shipping provider you need to fill in the form and click the &#39;Save&#39; button first."
+msgstr "To test this shipping provider you need to fill in the form and click the &#39;Save&#39; button first."
+
+msgctxt "TestShippingQuote"
+msgid "Test Shipping Quote"
+msgstr "Test Shipping Quote"
+
+msgctxt "QuoteStatus"
+msgid "Quote Status"
+msgstr "Quote Status"
+
+msgctxt "NewShippingQuote"
+msgid "New Shipping Quote"
+msgstr "New Shipping Quote"
+
+msgctxt "StatusFailed"
+msgid "Failed"
+msgstr "Failed"
+
+msgctxt "StatusSuccess"
+msgid "Successful"
+msgstr "Successful"
+
+msgctxt "ShipErrorMessage"
+msgid "Error Message"
+msgstr "Error Message"
+
+msgctxt "ShipQuotePrice"
+msgid "Quote Price"
+msgstr "Quote Price"
+
+msgctxt "UPSOpenError"
+msgid "A connection to UPS.com couldn't be established. Make sure PHP supports allow_url_fopen or CURL and try again."
+msgstr "A connection to UPS.com couldn't be established. Make sure PHP supports allow_url_fopen or CURL and try again."
+
+msgctxt "VendorProviderOnlyShipsFrom"
+msgid "%s only ships from %s. You need to change the country for this vendor before %1$s can be selected."
+msgstr "%s only ships from %s. You need to change the country for this vendor before %1$s can be selected."
+
+msgctxt "ProviderOnlyShipsFrom"
+msgid "%s only ships from %s. You need to change your store's country location from the Settings > Shipping Settings page before %1$s can be selected."
+msgstr "%s only ships from %s. You need to change your store's country location from the Settings > Shipping Settings page before %1$s can be selected."
+
+msgctxt "MutuallyExclusiveShippersError"
+msgid "You can only choose a fixed shipping method when you don't select any other shipping methods, so the following methods have been unselected:"
+msgstr "You can only choose a fixed shipping method when you don't select any other shipping methods, so the following methods have been unselected:"
+
+msgctxt "OnlyShipsFrom"
+msgid "Only ships from"
+msgstr "Only ships from"
+
+msgctxt "Enabled"
+msgid "Enabled"
+msgstr "Enabled"
+
+msgctxt "Disabled"
+msgid "Disabled"
+msgstr "Disabled"
+
+msgctxt "Inches"
+msgid "Inches"
+msgstr "Inches"
+
+msgctxt "DisplayNameHelp"
+msgid "If you enable more than one payment provider then your customers will need to choose which payment method they want to use. The text in this box will be used to describe this payment method on your site."
+msgstr "If you enable more than one payment provider then your customers will need to choose which payment method they want to use. The text in this box will be used to describe this payment method on your site."
+
+msgctxt "ShippingQuoteError"
+msgid "Unable to retrieve shipping quote"
+msgstr "Unable to retrieve shipping quote"
+
+msgctxt "CheckoutProviderNotSetup"
+msgid "To test this checkout provider you need to fill in the form and click the &#39;Save&#39; button first."
+msgstr "To test this checkout provider you need to fill in the form and click the &#39;Save&#39; button first."
+
+msgctxt "ClickIfNotRedirected"
+msgid "Click here if you're not redirected..."
+msgstr "Click here if you're not redirected..."
+
+msgctxt "PaymentGatewayConnectFailure"
+msgid "Unable to connect to payment gateway"
+msgstr "Unable to connect to payment gateway"
+
+msgctxt "PaymentGatewayNoTransport"
+msgid "No suitable transport (CURL or fsockopen) was found"
+msgstr "No suitable transport (CURL or fsockopen) was found"
+
+msgctxt "PaymentGatewayNoTransportMsg"
+msgid "No suitable transport (CURL or fsock open was found). Please ensure either CURL support or fsockopen is enabled."
+msgstr "No suitable transport (CURL or fsock open was found). Please ensure either CURL support or fsockopen is enabled."
+
+msgctxt "Redirecting"
+msgid "Redirecting..."
+msgstr "Redirecting..."
+
+msgctxt "NotificationProviderNotSetup"
+msgid "To test this notification method you need to fill in the form and click the &#39;Save&#39; button first."
+msgstr "To test this notification method you need to fill in the form and click the &#39;Save&#39; button first."
+
+msgctxt "TestNotificationProviderHelp"
+msgid "Click this link to receive a sample order notification. You must click \'Save\' to store preferences for this notification method before testing it."
+msgstr "Click this link to receive a sample order notification. You must click \'Save\' to store preferences for this notification method before testing it."
+
+msgctxt "NotificationOrderError"
+msgid "Error sending order notification"
+msgstr "Error sending order notification"
+
+msgctxt "NotificationOrderSuccess"
+msgid "Notification sent successfully"
+msgstr "Notification sent successfully"
+
+msgctxt "CreditCardPaymentIntro"
+msgid "Complete the form below and then click the &quot;Pay for Order&quot; button to pay for your order using our secure server."
+msgstr "Complete the form below and then click the &quot;Pay for Order&quot; button to pay for your order using our secure server."
+
+msgctxt "CreditCardCardHoldersName"
+msgid "Cardholder's Name"
+msgstr "Cardholder's Name"
+
+msgctxt "CreditCardCreditCardNo"
+msgid "Credit Card Number"
+msgstr "Credit Card Number"
+
+msgctxt "CreditCardCardCode"
+msgid "CVV2"
+msgstr "CVV2"
+
+msgctxt "CreditCardExpirationDate"
+msgid "Expiration Date"
+msgstr "Expiration Date"
+
+msgctxt "CreditCardTotalAmount"
+msgid "Total Amount"
+msgstr "Total Amount"
+
+msgctxt "CreditCardPayForOrder"
+msgid "Pay for Order"
+msgstr "Pay for Order"
+
+msgctxt "CreditCardEnterCardCode"
+msgid "Please enter your credit card security code. This is usually the last three or four digits on the signature strip of your card."
+msgstr "Please enter your credit card security code. This is usually the last three or four digits on the signature strip of your card."
+
+msgctxt "CreditCardEnterName"
+msgid "You forgot to enter the cardholder's name."
+msgstr "You forgot to enter the cardholder's name."
+
+msgctxt "CreditCardEnterCardNumber"
+msgid "Please enter the card number only, no spaces or dashes."
+msgstr "Please enter the card number only, no spaces or dashes."
+
+msgctxt "CreditCardCreditCardNoHelp"
+msgid "Numbers only, no spaces or dashes."
+msgstr "Numbers only, no spaces or dashes."
+
+msgctxt "CreditCardEnterCreditCardMonth"
+msgid "You forgot to choose an expiry month."
+msgstr "You forgot to choose an expiry month."
+
+msgctxt "CreditCardEnterCreditCardYear"
+msgid "You forgot to choose an expiry year."
+msgstr "You forgot to choose an expiry year."
+
+msgctxt "CreditCardProcessingError"
+msgid "Something went wrong when trying to process your payment. Please review the error message and try again:"
+msgstr "Something went wrong when trying to process your payment. Please review the error message and try again:"
+
+msgctxt "CreditCardCardType"
+msgid "Credit Card Type"
+msgstr "Credit Card Type"
+
+msgctxt "CreditCardPleaseChoose"
+msgid "-- Please Choose --"
+msgstr "-- Please Choose --"
+
+msgctxt "CreditCardIssueDate"
+msgid "Card Issue Date"
+msgstr "Card Issue Date"
+
+msgctxt "CreditCardIssueDateHelp"
+msgid "The issue date found on the front of your card.<br />Only required for cards that contain it."
+msgstr "The issue date found on the front of your card.<br />Only required for cards that contain it."
+
+msgctxt "CreditCardCreditCardIssueNo"
+msgid "Card Issue No"
+msgstr "Card Issue No"
+
+msgctxt "CreditCardCreditCardIssueNoHelp"
+msgid "The issue number found on the front of your card under 'ISS' or 'ISSUE'<br />Only required for cards that contain it."
+msgstr "The issue number found on the front of your card under 'ISS' or 'ISSUE'<br />Only required for cards that contain it."
+
+msgctxt "CreditCardChooseCardType"
+msgid "You forgot to choose a card type."
+msgstr "You forgot to choose a card type."
+
+msgctxt "CreditCardCardCodeEnterHelp"
+msgid "Please enter your CVV2 found on the back of your credit card (or front of card for AMEX users)"
+msgstr "Please enter your CVV2 found on the back of your credit card (or front of card for AMEX users)"
+
+msgctxt "CreditCardCurlExistsError"
+msgid "Curl does not exist"
+msgstr "Curl does not exist"
+
+msgctxt "CreditCardCurlError"
+msgid "An error has occurred trying to contact "
+msgstr "An error has occurred trying to contact "
+
+msgctxt "CreditCardFSockError"
+msgid "An error occurred while trying to use fsockopen to make a secure connection with "
+msgstr "An error occurred while trying to use fsockopen to make a secure connection with "
+
+msgctxt "CreditCardConnectionMethod"
+msgid "Your server must support PHP's CURL library or the fsockopen function to use "
+msgstr "Your server must support PHP's CURL library or the fsockopen function to use "
+
+msgctxt "CreditCardCurlRequired"
+msgid "Curl is required to use this payment method"
+msgstr "Curl is required to use this payment method"
+
+msgctxt "CreditCardPaymentMismatch"
+msgid "The form details are incorrect. Please refresh the page and try again"
+msgstr "The form details are incorrect. Please refresh the page and try again"
+
+msgctxt "CreditCardExpired"
+msgid "The credit card you entered has already expired."
+msgstr "The credit card you entered has already expired."
+
+msgctxt "CreditCardSelectCardType"
+msgid "Please select your credit card type."
+msgstr "Please select your credit card type."
+
+msgctxt "CreditCardEnterBillingAddress"
+msgid "You forgot to enter your billing address."
+msgstr "You forgot to enter your billing address."
+
+msgctxt "CreditCardSelectCreditCardYear"
+msgid "You forgot to choose an expiry year."
+msgstr "You forgot to choose an expiry year."
+
+msgctxt "CreditCardSelectCreditCardMonth"
+msgid "You forgot to choose an expiry month."
+msgstr "You forgot to choose an expiry month."
+
+msgctxt "CreditCardEnterCity"
+msgid "You forgot to enter your city."
+msgstr "You forgot to enter your city."
+
+msgctxt "CreditCardEnterState"
+msgid "You forgot to enter your state."
+msgstr "You forgot to enter your state."
+
+msgctxt "CreditCardEnterPostcode"
+msgid "You forgot to enter a zip/postcode."
+msgstr "You forgot to enter a zip/postcode."
+
+msgctxt "CreditCardEnterCountry"
+msgid "You forgot to choose your country."
+msgstr "You forgot to choose your country."
+
+msgctxt "CreditCardSelectCreditCardIssueYear"
+msgid "You forgot to choose an issue year."
+msgstr "You forgot to choose an issue year."
+
+msgctxt "CreditCardSelectCreditCardIssueMonth"
+msgid "You forgot to choose an issue month."
+msgstr "You forgot to choose an issue month."
+
+msgctxt "CreditCardSelectCreditCardIssueNo"
+msgid "You forgot to choose an issue No.."
+msgstr "You forgot to choose an issue No.."
+
+msgctxt "CreditCardGatewayFail"
+msgid "Connection to Gateway Failed"
+msgstr "Connection to Gateway Failed"
+
+msgctxt "CreditCardEnterIssueNoOrDate"
+msgid "Please enter your card issue number or issue date."
+msgstr "Please enter your card issue number or issue date."

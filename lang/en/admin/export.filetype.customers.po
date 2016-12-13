@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "TypeTitle"
+msgid "Customers"
+msgstr "Customers"
+
+msgctxt "customerID"
+msgid "Customer ID"
+msgstr "Customer ID"
+
+msgctxt "customerName"
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgctxt "customerFirstName"
+msgid "First Name"
+msgstr "First Name"
+
+msgctxt "customerLastName"
+msgid "Last Name"
+msgstr "Last Name"
+
+msgctxt "customerCompany"
+msgid "Company"
+msgstr "Company"
+
+msgctxt "customerEmail"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "customerPhone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "customerDateJoined"
+msgid "Date Joined"
+msgstr "Date Joined"
+
+msgctxt "customerNotes"
+msgid "Notes"
+msgstr "Notes"
+
+msgctxt "customerCredit"
+msgid "Store Credit"
+msgstr "Store Credit"
+
+msgctxt "customerGroup"
+msgid "Customer Group"
+msgstr "Customer Group"
+
+msgctxt "customerGroupID"
+msgid "Customer Group ID"
+msgstr "Customer Group ID"
+
+msgctxt "customerAddresses"
+msgid "Addresses"
+msgstr "Addresses"
+
+msgctxt "customerFormFields"
+msgid "Form Fields"
+msgstr "Form Fields"
+
+msgctxt "addressID"
+msgid "Address ID"
+msgstr "Address ID"
+
+msgctxt "addressName"
+msgid "Address Name"
+msgstr "Address Name"
+
+msgctxt "addressFirstName"
+msgid "Address First Name"
+msgstr "Address First Name"
+
+msgctxt "addressLastName"
+msgid "Address Last Name"
+msgstr "Address Last Name"
+
+msgctxt "addressCompany"
+msgid "Address Company"
+msgstr "Address Company"
+
+msgctxt "addressLine1"
+msgid "Address Line 1"
+msgstr "Address Line 1"
+
+msgctxt "addressLine2"
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+msgctxt "addressSuburb"
+msgid "City/Suburb"
+msgstr "City/Suburb"
+
+msgctxt "addressState"
+msgid "State/Province"
+msgstr "State/Province"
+
+msgctxt "addressStateAbbrv"
+msgid "State Abbreviation"
+msgstr "State Abbreviation"
+
+msgctxt "addressPostcode"
+msgid "Zip/Postcode"
+msgstr "Zip/Postcode"
+
+msgctxt "addressCountry"
+msgid "Country"
+msgstr "Country"
+
+msgctxt "addressBuilding"
+msgid "Building Type"
+msgstr "Building Type"
+
+msgctxt "addressPhone"
+msgid "Address Phone"
+msgstr "Address Phone"
+
+msgctxt "addressFormFields"
+msgid "Address Form Fields"
+msgstr "Address Form Fields"

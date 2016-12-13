@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ProblemSavingPayment"
+msgid "There was a problem saving the vendor payment: "
+msgstr "There was a problem saving the vendor payment: "
+
+msgctxt "VendorPaymentCreated"
+msgid "The payment to the selected vendor was created successfully."
+msgstr "The payment to the selected vendor was created successfully."
+
+msgctxt "EnterPaymentFromPeriod"
+msgid "Please enter from period."
+msgstr "Please enter from period."
+
+msgctxt "EnterPaymentToPeriod"
+msgid "Please enter a to period."
+msgstr "Please enter a to period."
+
+msgctxt "SelectPaymentVendor"
+msgid "Please choose a vendor from the list."
+msgstr "Please choose a vendor from the list."
+
+msgctxt "EnterPaymentAmount"
+msgid "Please enter a valid amount to pay this vendor."
+msgstr "Please enter a valid amount to pay this vendor."
+
+msgctxt "EnterPaymentMethod"
+msgid "Please enter a payment method."
+msgstr "Please enter a payment method."
+
+msgctxt "NoPaymentsForVendor"
+msgid "This vendor has not been made any payments. To create one, click the 'Add a Vendor Payment' button below."
+msgstr "This vendor has not been made any payments. To create one, click the 'Add a Vendor Payment' button below."
+
+msgctxt "NoVendorPayments"
+msgid "No vendor payments have been made yet. To create one, click the 'Add a Vendor Payment' button below."
+msgstr "No vendor payments have been made yet. To create one, click the 'Add a Vendor Payment' button below."
+
+msgctxt "AddVendorPayment"
+msgid "Add a Vendor Payment"
+msgstr "Add a Vendor Payment"
+
+msgctxt "VendorPaymentsIntro"
+msgid "Payment logs for vendors are shown below. To log payment for a vendor, click the 'Add a Vendor Payment' button below."
+msgstr "Payment logs for vendors are shown below. To log payment for a vendor, click the 'Add a Vendor Payment' button below."
+
+msgctxt "ExportThesePayments"
+msgid "Export These Payments..."
+msgstr "Export These Payments..."
+
+msgctxt "VendorDetails"
+msgid "Vendor Details"
+msgstr "Vendor Details"
+
+msgctxt "AddVendorPaymentIntro"
+msgid "Fill in the form below to log a payment to a vendor."
+msgstr "Fill in the form below to log a payment to a vendor."
+
+msgctxt "PaymentDetails"
+msgid "New Payment Details"
+msgstr "New Payment Details"
+
+msgctxt "PaymentId"
+msgid "Payment ID"
+msgstr "Payment ID"
+
+msgctxt "SalesPeriod"
+msgid "Sales Period"
+msgstr "Sales Period"
+
+msgctxt "PaymentAmount"
+msgid "Payment Amount"
+msgstr "Payment Amount"
+
+msgctxt "DatePaid"
+msgid "Date Paid"
+msgstr "Date Paid"
+
+msgctxt "PaymentMethod"
+msgid "Payment Method"
+msgstr "Payment Method"
+
+msgctxt "ClickToExpand"
+msgid "Click to Expand"
+msgstr "Click to Expand"
+
+msgctxt "Comments"
+msgid "Comments"
+msgstr "Comments"
+
+msgctxt "VendorSortAsc"
+msgid "Sort by vendor (ascending)"
+msgstr "Sort by vendor (ascending)"
+
+msgctxt "VendorSortDesc"
+msgid "Sort by vendor (descending)"
+msgstr "Sort by vendor (descending)"
+
+msgctxt "AmountSortAsc"
+msgid "Sort by amount (ascending)"
+msgstr "Sort by amount (ascending)"
+
+msgctxt "AmountSortDesc"
+msgid "Sort by amount (descending)"
+msgstr "Sort by amount (descending)"
+
+msgctxt "MethodSortAsc"
+msgid "Sort by method (ascending)"
+msgstr "Sort by method (ascending)"
+
+msgctxt "MethodSortDesc"
+msgid "Sort by method (descending)"
+msgstr "Sort by method (descending)"
+
+msgctxt "PaymentDateSortAsc"
+msgid "Sort by date paid (ascending)"
+msgstr "Sort by date paid (ascending)"
+
+msgctxt "PaymentDateSortDesc"
+msgid "Sort by date paid (descending)"
+msgstr "Sort by date paid (descending)"
+
+msgctxt "ExpandQuickView"
+msgid "Click to expand"
+msgstr "Click to expand"
+
+msgctxt "ConfirmDeleteVendorPayments"
+msgid "Are you sure you want to delete the selected payments?"
+msgstr "Are you sure you want to delete the selected payments?"
+
+msgctxt "SelectOneMoreVendorPaymentsDelete"
+msgid "Please select one or more payments to delete."
+msgstr "Please select one or more payments to delete."
+
+msgctxt "VendorPaymentsDeleted"
+msgid "The selected payments have been deleted successfully."
+msgstr "The selected payments have been deleted successfully."
+
+msgctxt "ChooseAVendor"
+msgid "-- Choose a Vendor --"
+msgstr "-- Choose a Vendor --"
+
+msgctxt "DateRange"
+msgid "Date Range"
+msgstr "Date Range"
+
+msgctxt "OutstandingBalance"
+msgid "Outstanding Balance"
+msgstr "Outstanding Balance"
+
+msgctxt "BalanceCarriedForward"
+msgid "Balance Carried Forward"
+msgstr "Balance Carried Forward"
+
+msgctxt "NewOrders"
+msgid "New Orders"
+msgstr "New Orders"
+
+msgctxt "TotalOutstandingBalance"
+msgid "Total Outstanding Balance"
+msgstr "Total Outstanding Balance"
+
+msgctxt "PaymentComments"
+msgid "Payment Comments"
+msgstr "Payment Comments"
+
+msgctxt "DeductFromBalance"
+msgid "Deduct From Balance"
+msgstr "Deduct From Balance"
+
+msgctxt "YesDeductFromBalance"
+msgid "Yes, deduct this payment from the outstanding balance."
+msgstr "Yes, deduct this payment from the outstanding balance."
+
+msgctxt "NotifyVendor"
+msgid "Notify Vendor"
+msgstr "Notify Vendor"
+
+msgctxt "YesNotifyVendor"
+msgid "Yes, send this vendor an email notification of the payment."
+msgstr "Yes, send this vendor an email notification of the payment."
+
+msgctxt "VendorPaymentHelp"
+msgid "Please choose the vendor to log this payment for."
+msgstr "Please choose the vendor to log this payment for."
+
+msgctxt "DateRangeHelp"
+msgid "The date range indicates the beginning and end dates for this payment period. The beginning date is the date that the last payment was made to this vendor (or the date of their first order on the store) and the end date is the current date."
+msgstr "The date range indicates the beginning and end dates for this payment period. The beginning date is the date that the last payment was made to this vendor (or the date of their first order on the store) and the end date is the current date."
+
+msgctxt "OutstandingBalanceHelp"
+msgid "The outstanding amount owed to this vendor. The outstanding balance is comprised of the balance carried forward from any previous payments as well as the total dollar amount of any orders placed between the above date range."
+msgstr "The outstanding amount owed to this vendor. The outstanding balance is comprised of the balance carried forward from any previous payments as well as the total dollar amount of any orders placed between the above date range."
+
+msgctxt "PaymentAmountHelp"
+msgid "The amount that should be logged for this payment."
+msgstr "The amount that should be logged for this payment."
+
+msgctxt "PaymentMethodHelp"
+msgid "The payment method that this vendor was paid with. Begin typing to see a list of suggestions based on payment methods previously entered."
+msgstr "The payment method that this vendor was paid with. Begin typing to see a list of suggestions based on payment methods previously entered."
+
+msgctxt "PaymentCommentsHelp"
+msgid "Any comments about this payment."
+msgstr "Any comments about this payment."
+
+msgctxt "DeductFromBalanceHelp"
+msgid "Should the payment amount entered above be deducted from the outstanding balance of this vendor? If so, tick this box."
+msgstr "Should the payment amount entered above be deducted from the outstanding balance of this vendor? If so, tick this box."
+
+msgctxt "NotifyVendorHelp"
+msgid "Tick this box to send the vendor an email notification of this payment."
+msgstr "Tick this box to send the vendor an email notification of this payment."
+
+msgctxt "VendorPaymentEmail1"
+msgid "A new payment to you from %s for your sales between %s and %s has been made."
+msgstr "A new payment to you from %s for your sales between %s and %s has been made."
+
+msgctxt "VendorPaymentEmail2"
+msgid "The details of this payment are as follows: "
+msgstr "The details of this payment are as follows: "
+
+msgctxt "TotalOrderAmount"
+msgid "Total Order Amount"
+msgstr "Total Order Amount"
+
+msgctxt "AccountBalance"
+msgid "Account Balance"
+msgstr "Account Balance"
+
+msgctxt "VendorPaymentEmailSubject"
+msgid "New payment from %s"
+msgstr "New payment from %s"
+
+msgctxt "LessVendorProfitMargin"
+msgid "Less Profit Margin"
+msgstr "Less Profit Margin"
+
+msgctxt "NoVendorsConfigured"
+msgid "No vendors have been configured in your store yet. Please create a vendor before logging a vendor payment."
+msgstr "No vendors have been configured in your store yet. Please create a vendor before logging a vendor payment."
+
+msgctxt "IssuedStoreCredit"
+msgid "Issued Store Credit"
+msgstr "Issued Store Credit"

@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ManageReturnsIntro"
+msgid "After purchasing customers can return an item from their 'My Account' page. Click the plus sign next to a return to see its complete details."
+msgstr "After purchasing customers can return an item from their 'My Account' page. Click the plus sign next to a return to see its complete details."
+
+msgctxt "NoReturns"
+msgid "No return requests have been placed on your web site. When a return request comes through it will appear on this page"
+msgstr "No return requests have been placed on your web site. When a return request comes through it will appear on this page"
+
+msgctxt "AllReturns"
+msgid "All Returns"
+msgstr "All Returns"
+
+msgctxt "Returns"
+msgid "Returns"
+msgstr "Returns"
+
+msgctxt "ReturnViewIntro"
+msgid "A view lets you filter returns based on attributes such as status or the date a return was placed. Fill out the form below to create a new view."
+msgstr "A view lets you filter returns based on attributes such as status or the date a return was placed. Fill out the form below to create a new view."
+
+msgctxt "CreateNewReturnsView"
+msgid "Create a New View for Returns"
+msgstr "Create a New View for Returns"
+
+msgctxt "CreateReturnView"
+msgid "Create Return View"
+msgstr "Create Return View"
+
+msgctxt "NameThisReturnsViewHelp"
+msgid "Type a name for your view here, such as \'Returns Placed Today\' or \'Outstanding Pending Reviews\'. This name is only visible from the control panel and you can switch to this view from the main returns page."
+msgstr "Type a name for your view here, such as \'Returns Placed Today\' or \'Outstanding Pending Reviews\'. This name is only visible from the control panel and you can switch to this view from the main returns page."
+
+msgctxt "NoReturnResults"
+msgid "No returns matched your search criteria. Please try again."
+msgstr "No returns matched your search criteria. Please try again."
+
+msgctxt "ReturnSearchResultsBelow1"
+msgid "1 return matched your search criteria and is shown below."
+msgstr "1 return matched your search criteria and is shown below."
+
+msgctxt "ReturnSearchResultsBelowX"
+msgid "%d returns matched your search criteria and are shown below."
+msgstr "%d returns matched your search criteria and are shown below."
+
+msgctxt "ReturnStatusPending"
+msgid "Pending"
+msgstr "Pending"
+
+msgctxt "ReturnStatusReceived"
+msgid "Received"
+msgstr "Received"
+
+msgctxt "ReturnStatusAuthorized"
+msgid "Return Authorized"
+msgstr "Return Authorized"
+
+msgctxt "ReturnStatusRepaired"
+msgid "Item(s) Repaired"
+msgstr "Item(s) Repaired"
+
+msgctxt "ReturnStatusRefunded"
+msgid "Item(s) Refunded"
+msgstr "Item(s) Refunded"
+
+msgctxt "ReturnStatusRejected"
+msgid "Request Rejected"
+msgstr "Request Rejected"
+
+msgctxt "ReturnStatusCancelled"
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgctxt "ReturnId"
+msgid "Return ID"
+msgstr "Return ID"
+
+msgctxt "ReturnStatus"
+msgid "Return Status"
+msgstr "Return Status"
+
+msgctxt "ChooseAReturnStatus"
+msgid "-- Choose a Return Status --"
+msgstr "-- Choose a Return Status --"
+
+msgctxt "ChooseReturnDate"
+msgid "-- Choose a Return Date"
+msgstr "-- Choose a Return Date"
+
+msgctxt "SearchKeywordsReturnHelp"
+msgid "The search keywords typed in to this box will be used to search the following fields for all returns: return ID, returned product name and customer name."
+msgstr "The search keywords typed in to this box will be used to search the following fields for all returns: return ID, returned product name and customer name."
+
+msgctxt "SearchReturns"
+msgid "Search Returns"
+msgstr "Search Returns"
+
+msgctxt "SearchReturnsIntro"
+msgid "Search for specific returns using the advanced search options below."
+msgstr "Search for specific returns using the advanced search options below."
+
+msgctxt "ReturnIssueCredit"
+msgid "Issue Store Credit"
+msgstr "Issue Store Credit"
+
+msgctxt "ReturnItem"
+msgid "Returned Item"
+msgstr "Returned Item"
+
+msgctxt "ExpandReturnQuickView"
+msgid "View details about this return request."
+msgstr "View details about this return request."
+
+msgctxt "AllStatuses"
+msgid "-- All Statuses --"
+msgstr "-- All Statuses --"
+
+msgctxt "ReturnAction"
+msgid "Requested Action:"
+msgstr "Requested Action:"
+
+msgctxt "ReturnReason"
+msgid "Reason for Return:"
+msgstr "Reason for Return:"
+
+msgctxt "ReturnDetails"
+msgid "Return Details"
+msgstr "Return Details"
+
+msgctxt "StaffNotes"
+msgid "Staff Notes"
+msgstr "Staff Notes"
+
+msgctxt "CustomerComments"
+msgid "Customer Comments:"
+msgstr "Customer Comments:"
+
+msgctxt "UpdatingNotes"
+msgid "Updating Notes..."
+msgstr "Updating Notes..."
+
+msgctxt "ReturnNotesUpdated"
+msgid "The returns notes have been updated successfully."
+msgstr "The returns notes have been updated successfully."
+
+msgctxt "ReturnNotesUpdateError"
+msgid "Unable to update the notes for this return."
+msgstr "Unable to update the notes for this return."
+
+msgctxt "ChooseReturnsToDelete"
+msgid "Please choose one or more returns to delete."
+msgstr "Please choose one or more returns to delete."
+
+msgctxt "ConfirmDeleteReturns"
+msgid "Are you sure you want to delete the selected returns requests?"
+msgstr "Are you sure you want to delete the selected returns requests?"
+
+msgctxt "FailedUpdateReturnStatus"
+msgid "Unable to successfully update the status of this return."
+msgstr "Unable to successfully update the status of this return."
+
+msgctxt "ConfirmReturnStatusChange"
+msgid "Are you sure you want to change the status of this return to"
+msgstr "Are you sure you want to change the status of this return to"
+
+msgctxt "InvalidReturn"
+msgid "Invalid return specified. Please select a valid return from the list below."
+msgstr "Invalid return specified. Please select a valid return from the list below."
+
+msgctxt "ReturnCreditIssued"
+msgid "%s has successfully received a %s store credit to their account. An email has been sent to the customer as well."
+msgstr "%s has successfully received a %s store credit to their account. An email has been sent to the customer as well."
+
+msgctxt "FailedIssueReturnCredit"
+msgid "Failed to issue %s with a %s store credit."
+msgstr "Failed to issue %s with a %s store credit."
+
+msgctxt "OrderProductRefundedX"
+msgid "(Refunded %d)"
+msgstr "(Refunded %d)"
+
+msgctxt "OrderProductRefunded"
+msgid "(Refunded)"
+msgstr "(Refunded)"
+
+msgctxt "ConfirmReturnIssueCredit"
+msgid "Are you sure you want to issue this customer with a store credit?\n\nThis customer will receive a store credit of %s for this return."
+msgstr "Are you sure you want to issue this customer with a store credit?\n\nThis customer will receive a store credit of %s for this return."
+
+msgctxt "UpdateNotes"
+msgid "Update Notes"
+msgstr "Update Notes"
+
+msgctxt "ReturnItemSortAsc"
+msgid "Sort by product name (ascending)"
+msgstr "Sort by product name (ascending)"
+
+msgctxt "ReturnItemSortDesc"
+msgid "Sort by product name (descending)"
+msgstr "Sort by product name (descending)"
+
+msgctxt "StatusOfReturnChanged"
+msgid "Return Request Updated"
+msgstr "Return Request Updated"
+
+msgctxt "RecentlySubmittedReturnRequest"
+msgid "You recently submitted a return request on our store for the following item(s):"
+msgstr "You recently submitted a return request on our store for the following item(s):"
+
+msgctxt "ReturnStatusChangedTo"
+msgid "The status of this return request has been changed to"
+msgstr "The status of this return request has been changed to"
+
+msgctxt "ClickToViewReturnStatus"
+msgid "Click here to view the status of this return."
+msgstr "Click here to view the status of this return."
+
+msgctxt "ReturnStatusUpdate"
+msgid "Return Status Update on %s"
+msgstr "Return Status Update on %s"
+
+msgctxt "RefundAccountCredited"
+msgid "You have received a store credit of %s. To use it, simply place your order and you will be able to choose store credit as the payment method when it comes time to pay for your order."
+msgstr "You have received a store credit of %s. To use it, simply place your order and you will be able to choose store credit as the payment method when it comes time to pay for your order."
+
+msgctxt "ReturnInstructions"
+msgid "Return Instructions"
+msgstr "Return Instructions"
+
+msgctxt "SearchEnterValidReturnId"
+msgid "Please enter a valid return ID"
+msgstr "Please enter a valid return ID"
+
+msgctxt "SearchChooseDifferentDates"
+msgid "Please choose a valid date range. Search dates cannot be the same."
+msgstr "Please choose a valid date range. Search dates cannot be the same."

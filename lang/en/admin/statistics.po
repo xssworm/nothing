@@ -1,0 +1,834 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "StoreOverviewIntro"
+msgid "A general overview of your store is shown below. Use the 'Date Range' option to view an overview for a different period."
+msgstr "A general overview of your store is shown below. Use the 'Date Range' option to view an overview for a different period."
+
+msgctxt "StoreSnapshot"
+msgid "Store Snapshot"
+msgstr "Store Snapshot"
+
+msgctxt "Top20Customers"
+msgid "Top 20 Customers"
+msgstr "Top 20 Customers"
+
+msgctxt "BestSellingProducts"
+msgid "Best Selling Products"
+msgstr "Best Selling Products"
+
+msgctxt "OrderLocations"
+msgid "Order Locations"
+msgstr "Order Locations"
+
+msgctxt "StatsOverviewIntro1"
+msgid "General statistics for"
+msgstr "General statistics for"
+
+msgctxt "StatsOverviewIntro2"
+msgid "are shown below. Use the \'Statistics\' tab for more detailed reporting."
+msgstr "are shown below. Use the \'Statistics\' tab for more detailed reporting."
+
+msgctxt "LastMonth"
+msgid "Last Month"
+msgstr "Last Month"
+
+msgctxt "AllTime"
+msgid "All Time"
+msgstr "All Time"
+
+msgctxt "To1"
+msgid "to"
+msgstr "to"
+
+msgctxt "CompletedOrders"
+msgid "Completed Orders"
+msgstr "Completed Orders"
+
+msgctxt "UniqueVisitors"
+msgid "Unique Visitors"
+msgstr "Unique Visitors"
+
+msgctxt "ConversionRate"
+msgid "Conversion Rate"
+msgstr "Conversion Rate"
+
+msgctxt "TotalRevenue"
+msgid "Total Revenue"
+msgstr "Total Revenue"
+
+msgctxt "OverviewChartTitle1"
+msgid "There Was %d Completed Order (%s Revenue) from %s to %s"
+msgstr "There Was %d Completed Order (%s Revenue) from %s to %s"
+
+msgctxt "OverviewChartTitleX"
+msgid "There Were %d Completed Orders (%s Revenue) from %s to %s"
+msgstr "There Were %d Completed Orders (%s Revenue) from %s to %s"
+
+msgctxt "Top20CustomersIntro"
+msgid "Details of your top 20 customers (as measured by dollars spent) for the selected date range are shown below."
+msgstr "Details of your top 20 customers (as measured by dollars spent) for the selected date range are shown below."
+
+msgctxt "BestSellingProductsIntro"
+msgid "Your 20 top best selling products (along with total revenue per product) for the selected date range are shown below."
+msgstr "Your 20 top best selling products (along with total revenue per product) for the selected date range are shown below."
+
+msgctxt "CustomerLocationsIntro"
+msgid "The shipping destination of all orders for the selected date range are shown on the map below."
+msgstr "The shipping destination of all orders for the selected date range are shown on the map below."
+
+msgctxt "StatsCustomerName"
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgctxt "StatsLocation"
+msgid "Location"
+msgstr "Location"
+
+msgctxt "StatsAmountSpent"
+msgid "Amount Spent"
+msgstr "Amount Spent"
+
+msgctxt "StatsDateJoined"
+msgid "Date Joined"
+msgstr "Date Joined"
+
+msgctxt "StatsEmail"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "StatsOrders"
+msgid "Orders"
+msgstr "Orders"
+
+msgctxt "StatsNoTopCustomers"
+msgid "None of your customers placed any orders during the selected date range."
+msgstr "None of your customers placed any orders during the selected date range."
+
+msgctxt "StatsProductName"
+msgid "Product"
+msgstr "Product"
+
+msgctxt "StatsNumSold"
+msgid "Number Sold"
+msgstr "Number Sold"
+
+msgctxt "StatsRevenue"
+msgid "Revenue"
+msgstr "Revenue"
+
+msgctxt "StatsNoTopProducts"
+msgid "No products have been sold during the selected date range."
+msgstr "No products have been sold during the selected date range."
+
+msgctxt "CustomerLocationsIntroNoAPIKey"
+msgid "You can enter your Google Maps API key on the <a href=\'index.php?ToDo=viewSettings&currentTab=7\'>\'Miscellaneous\' tab of the settings page</a> to track Google Maps API calls."
+msgstr "You can enter your Google Maps API key on the <a href=\'index.php?ToDo=viewSettings&currentTab=7\'>\'Miscellaneous\' tab of the settings page</a> to track Google Maps API calls."
+
+msgctxt "ViewOrderHistory"
+msgid "View Order History"
+msgstr "View Order History"
+
+msgctxt "OrdersByNumSold"
+msgid "Orders by Items Sold"
+msgstr "Orders by Items Sold"
+
+msgctxt "OrdersByDate"
+msgid "Orders Overview"
+msgstr "Orders Overview"
+
+msgctxt "OrdersByRevenue"
+msgid "Orders by Revenue"
+msgstr "Orders by Revenue"
+
+msgctxt "OrdersByDateIntro"
+msgid "A summary of all orders for the selected date range is shown below."
+msgstr "A summary of all orders for the selected date range is shown below."
+
+msgctxt "OrdersByItemsSoldIntro"
+msgid "A summary of all items sold for the selected date range is shown below. Items are arranged by total number or orders."
+msgstr "A summary of all items sold for the selected date range is shown below. Items are arranged by total number or orders."
+
+msgctxt "OrdersByRevenueIntro"
+msgid "A summary of all orders broken down by revenue per order for the selected date range is shown below."
+msgstr "A summary of all orders broken down by revenue per order for the selected date range is shown below."
+
+msgctxt "OrderStatsIntro"
+msgid "An overview of your store's orders is shown below. Use the 'Date Range' option to view statistics for a different period."
+msgstr "An overview of your store's orders is shown below. Use the 'Date Range' option to view statistics for a different period."
+
+msgctxt "NoOrderData2Days"
+msgid "Visitor and conversion stats aren't available for a date range of less than 2 days"
+msgstr "Visitor and conversion stats aren't available for a date range of less than 2 days"
+
+msgctxt "LoadingOrdersPleaseWait"
+msgid "Loading orders. Please wait..."
+msgstr "Loading orders. Please wait..."
+
+msgctxt "TrackingNo"
+msgid "Tracking No."
+msgstr "Tracking No."
+
+msgctxt "StatsViewOrder"
+msgid "View Order"
+msgstr "View Order"
+
+msgctxt "OrdersPerPage"
+msgid "Orders per page"
+msgstr "Orders per page"
+
+msgctxt "PageXOfX"
+msgid "(Page %d of %d)"
+msgstr "(Page %d of %d)"
+
+msgctxt "Item"
+msgid "Item"
+msgstr "Item"
+
+msgctxt "UnitsSold"
+msgid "Units Sold"
+msgstr "Units Sold"
+
+msgctxt "OrdersByItemsSoldOrderHelp"
+msgid "The number of orders in which this item was included during the selected date range."
+msgstr "The number of orders in which this item was included during the selected date range."
+
+msgctxt "OrdersByItemsSoldUnitsSoldHelp"
+msgid "The number of individual units sold during the selected date range."
+msgstr "The number of individual units sold during the selected date range."
+
+msgctxt "StatsNoOrdersForDate"
+msgid "None of your customers placed any orders during the selected date range."
+msgstr "None of your customers placed any orders during the selected date range."
+
+msgctxt "OrdersByRevenueChartTitle1"
+msgid "There Was %d Completed Order from %s to %s"
+msgstr "There Was %d Completed Order from %s to %s"
+
+msgctxt "OrdersByRevenueChartTitleX"
+msgid "There Were %s Completed Orders from %s to %s"
+msgstr "There Were %s Completed Orders from %s to %s"
+
+msgctxt "ProductStatistics"
+msgid "Product Statistics"
+msgstr "Product Statistics"
+
+msgctxt "ProductStatsIntro"
+msgid "An overview of your store's product sales is shown below. Use the 'Date Range' option to view statistics for a different period."
+msgstr "An overview of your store's product sales is shown below. Use the 'Date Range' option to view statistics for a different period."
+
+msgctxt "ProductsByNumberSold"
+msgid "Products Overview"
+msgstr "Products Overview"
+
+msgctxt "ProductsByRevenue"
+msgid "Products by Revenue"
+msgstr "Products by Revenue"
+
+msgctxt "MostProfitableProducts"
+msgid "Most Profitable Products"
+msgstr "Most Profitable Products"
+
+msgctxt "ProductsPerOrder"
+msgid "Products Per Order"
+msgstr "Products Per Order"
+
+msgctxt "LoadingProductsPleaseWait"
+msgid "Loading products. Please wait..."
+msgstr "Loading products. Please wait..."
+
+msgctxt "ProductsByNumSoldIntro"
+msgid "A summary of all products focusing on total number of units sold for the selected date range is shown below."
+msgstr "A summary of all products focusing on total number of units sold for the selected date range is shown below."
+
+msgctxt "ProductsPerPage"
+msgid "Products per page"
+msgstr "Products per page"
+
+msgctxt "MostProfitableProductsIntro"
+msgid "A summary of all products focusing on those that are the most profitable is shown below."
+msgstr "A summary of all products focusing on those that are the most profitable is shown below."
+
+msgctxt "StatsProfit"
+msgid "Profit"
+msgstr "Profit"
+
+msgctxt "ProductsByNumSoldProfitHelp"
+msgid "The total profit this item has made during the selected date range. This is calculated by subtracting the price the customer paid from the cost price.<br /><br />If you don\'t enter cost prices for your products then this field will show \'N/A\'."
+msgstr "The total profit this item has made during the selected date range. This is calculated by subtracting the price the customer paid from the cost price.<br /><br />If you don\'t enter cost prices for your products then this field will show \'N/A\'."
+
+msgctxt "MostViewedProducts"
+msgid "Popular Products"
+msgstr "Popular Products"
+
+msgctxt "ProductsByNumViewsIntro"
+msgid "A summary of all products focusing on how many times each product has been viewed is shown below."
+msgstr "A summary of all products focusing on how many times each product has been viewed is shown below."
+
+msgctxt "StatsViews"
+msgid "Views"
+msgstr "Views"
+
+msgctxt "ProductsByNumViewsHelp"
+msgid "The total number of times this product has been viewed in your store."
+msgstr "The total number of times this product has been viewed in your store."
+
+msgctxt "StatsNoProducts"
+msgid "You need to add at least one product to your store before anything will appear here."
+msgstr "You need to add at least one product to your store before anything will appear here."
+
+msgctxt "AverageRating"
+msgid "Average Rating"
+msgstr "Average Rating"
+
+msgctxt "InventoryReport"
+msgid "Inventory Report"
+msgstr "Inventory Report"
+
+msgctxt "ProductsByInventoryIntro"
+msgid "A summary of inventory levels for all products in your store is shown below."
+msgstr "A summary of inventory levels for all products in your store is shown below."
+
+msgctxt "StatsInStock"
+msgid "Stock Level"
+msgstr "Stock Level"
+
+msgctxt "StatsInStockHelp"
+msgid "The total number of units in stock for this product. If you aren\'t using inventory tracking for a product then this field will show \'N/A\' instead."
+msgstr "The total number of units in stock for this product. If you aren\'t using inventory tracking for a product then this field will show \'N/A\' instead."
+
+msgctxt "TrackingMethod"
+msgid "Inventory Tracking Method"
+msgstr "Inventory Tracking Method"
+
+msgctxt "TrackingMethodHelp"
+msgid "How inventory levels are being tracked for this product. You can configure inventory tracking on a per-product basis from the \'Inventory Tracking\' tab when adding/editing a product."
+msgstr "How inventory levels are being tracked for this product. You can configure inventory tracking on a per-product basis from the \'Inventory Tracking\' tab when adding/editing a product."
+
+msgctxt "StatsByProduct"
+msgid "By Product"
+msgstr "By Product"
+
+msgctxt "StatsByProductOption"
+msgid "By Product Option"
+msgstr "By Product Option"
+
+msgctxt "UpdateStockLevels"
+msgid "Update Stock Levels"
+msgstr "Update Stock Levels"
+
+msgctxt "StatsNoCustomersForDate"
+msgid "None of your customers placed any orders during the selected date range."
+msgstr "None of your customers placed any orders during the selected date range."
+
+msgctxt "CustomersPerPage"
+msgid "Customers Per Page"
+msgstr "Customers Per Page"
+
+msgctxt "RevenuePerCustomerOrdersHelp"
+msgid "The number of orders which this customer placed during the selected date range."
+msgstr "The number of orders which this customer placed during the selected date range."
+
+msgctxt "RevenuePerCustomerAmountSpentHelp"
+msgid "The total amount spent for all orders which this customer placed during the selected date range."
+msgstr "The total amount spent for all orders which this customer placed during the selected date range."
+
+msgctxt "CustomerStatsIntro"
+msgid "An overview of your store's customers is shown below. Use the 'Date Range' option to view statistics for a different period."
+msgstr "An overview of your store's customers is shown below. Use the 'Date Range' option to view statistics for a different period."
+
+msgctxt "RevenuePerCustomerIntro"
+msgid "A summary of the revenue per customer for the selected date range is shown below. Customers are arranged by the total amount they\'ve spent."
+msgstr "A summary of the revenue per customer for the selected date range is shown below. Customers are arranged by the total amount they\'ve spent."
+
+msgctxt "RevenuePerCustomer"
+msgid "Revenue Per Customer"
+msgstr "Revenue Per Customer"
+
+msgctxt "StatsViewOrders"
+msgid "View Orders"
+msgstr "View Orders"
+
+msgctxt "CustomersByDate"
+msgid "Customers by Date"
+msgstr "Customers by Date"
+
+msgctxt "CustomersByDateIntro"
+msgid "A summary of all customers who registered within the selected date range is shown below."
+msgstr "A summary of all customers who registered within the selected date range is shown below."
+
+msgctxt "LoadingResults"
+msgid "Loading Results... Please wait"
+msgstr "Loading Results... Please wait"
+
+msgctxt "StatsOverview"
+msgid "Overview"
+msgstr "Overview"
+
+msgctxt "SearchStatsKeywordsResults"
+msgid "Keywords With Results"
+msgstr "Keywords With Results"
+
+msgctxt "SearchStatsKeywordsNoResults"
+msgid "Keywords Without Results"
+msgstr "Keywords Without Results"
+
+msgctxt "SearchStatsBestPerforming"
+msgid "Best Performing Keywords"
+msgstr "Best Performing Keywords"
+
+msgctxt "SearchStatsWorstPerforming"
+msgid "Worst Performing Keywords"
+msgstr "Worst Performing Keywords"
+
+msgctxt "SearchStatsCorrections"
+msgid "Search Term Corrections"
+msgstr "Search Term Corrections"
+
+msgctxt "OverviewSearchSummary"
+msgid "Search Summary"
+msgstr "Search Summary"
+
+msgctxt "OverviewNoSearches"
+msgid "Number of Searches"
+msgstr "Number of Searches"
+
+msgctxt "OverviewMostSearchesDay"
+msgid "Most Searches in a Day"
+msgstr "Most Searches in a Day"
+
+msgctxt "OverviewAvgSearchesDay"
+msgid "Average Searches Per Day"
+msgstr "Average Searches Per Day"
+
+msgctxt "OverviewPopularTermsResults"
+msgid "Most Popular Term with Results"
+msgstr "Most Popular Term with Results"
+
+msgctxt "OverviewPopularTermsNoResults"
+msgid "Most Popular Term without Results"
+msgstr "Most Popular Term without Results"
+
+msgctxt "StatsNoSearchesWithoutClickthru"
+msgid "There were no searches performed without users clicking a result within the selected date range."
+msgstr "There were no searches performed without users clicking a result within the selected date range."
+
+msgctxt "StatsNoSearchesWithClickthru"
+msgid "There were no searches performed where a user clicked a result within the selected date range."
+msgstr "There were no searches performed where a user clicked a result within the selected date range."
+
+msgctxt "StatsNoSearchesWithResultsForDate"
+msgid "There were no searches performed with results found within the selected date range."
+msgstr "There were no searches performed with results found within the selected date range."
+
+msgctxt "StatsNoSearchesWithoutResultsForDate"
+msgid "There were no searches performed without results found within the selected date range."
+msgstr "There were no searches performed without results found within the selected date range."
+
+msgctxt "Top10SearchKeywordsFromTo"
+msgid "Top 10 Search Keywords from %s to %s"
+msgstr "Top 10 Search Keywords from %s to %s"
+
+msgctxt "Top10SearchKeywordsTo"
+msgid "Top 10 Search Keywords until %s"
+msgstr "Top 10 Search Keywords until %s"
+
+msgctxt "Top10SearchKeywordsToday"
+msgid "Top 10 Search Keywords for Today"
+msgstr "Top 10 Search Keywords for Today"
+
+msgctxt "Top10SearchKeywordsYesterday"
+msgid "Top 10 Search Keywords for Yesterday"
+msgstr "Top 10 Search Keywords for Yesterday"
+
+msgctxt "Top10SearchKeywordsDay"
+msgid "Top 10 Search Keywords for %s"
+msgstr "Top 10 Search Keywords for %s"
+
+msgctxt "ResultsPerPage"
+msgid "Results Per Page"
+msgstr "Results Per Page"
+
+msgctxt "SearchTerms"
+msgid "Search Terms"
+msgstr "Search Terms"
+
+msgctxt "NumberOfSearches"
+msgid "Number of Searches"
+msgstr "Number of Searches"
+
+msgctxt "NumberOfResults"
+msgid "Number of Results"
+msgstr "Number of Results"
+
+msgctxt "SearchLastPerformed"
+msgid "Search Last Performed"
+msgstr "Search Last Performed"
+
+msgctxt "StatsNoCorrectionsForDate"
+msgid "There no users who clicked a suggested search term within the selected date range."
+msgstr "There no users who clicked a suggested search term within the selected date range."
+
+msgctxt "SearchCorrection"
+msgid "Correction"
+msgstr "Correction"
+
+msgctxt "SearchRecommendation"
+msgid "Recommendation"
+msgstr "Recommendation"
+
+msgctxt "CorrectedSearchTerms"
+msgid "Corrected Search Terms"
+msgstr "Corrected Search Terms"
+
+msgctxt "CorrectedSearchTermsHelp"
+msgid "The recommended search term that<br />the user followed the link to from their<br />original search."
+msgstr "The recommended search term that<br />the user followed the link to from their<br />original search."
+
+msgctxt "ProductsShownBefore"
+msgid "Results Shown Before"
+msgstr "Results Shown Before"
+
+msgctxt "ProductsShownBeforeHelp"
+msgid "The number of results shown with the original search terms before the user clicked the recommended search link."
+msgstr "The number of results shown with the original search terms before the user clicked the recommended search link."
+
+msgctxt "ProductsShownAfter"
+msgid "Results Shown After"
+msgstr "Results Shown After"
+
+msgctxt "ProductsShownAfterHelp"
+msgid "The number of results shown for the recommended search."
+msgstr "The number of results shown for the recommended search."
+
+msgctxt "NumberOfOccurances"
+msgid "Number of Corrections"
+msgstr "Number of Corrections"
+
+msgctxt "SearchCorrectionType"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "StatsSearchOverviewIntro1"
+msgid "A summary of all of the searches performed within the selected date range is shown below."
+msgstr "A summary of all of the searches performed within the selected date range is shown below."
+
+msgctxt "StatsSearchOverviewIntro2"
+msgid "All of the searches performed within the selected date range that had one or more results are shown below."
+msgstr "All of the searches performed within the selected date range that had one or more results are shown below."
+
+msgctxt "StatsSearchOverviewIntro3"
+msgid "All of the searches performed within the selected date range that had no results are listed below."
+msgstr "All of the searches performed within the selected date range that had no results are listed below."
+
+msgctxt "StatsSearchOverviewIntro4"
+msgid "After searching your site within the selected date range, your visitors clicked on at least one result for the keywords listed below."
+msgstr "After searching your site within the selected date range, your visitors clicked on at least one result for the keywords listed below."
+
+msgctxt "StatsSearchOverviewIntro5"
+msgid "After searching your site within the selected date range, your visitors did not click on any results for the keywords listed below, which generally means they didn\'t find the search results helpful."
+msgstr "After searching your site within the selected date range, your visitors did not click on any results for the keywords listed below, which generally means they didn\'t find the search results helpful."
+
+msgctxt "StatsSearchOverviewIntro6"
+msgid "Any searches performed within the selected date range where a user clicked either a search suggestion or related search are shown below."
+msgstr "Any searches performed within the selected date range where a user clicked either a search suggestion or related search are shown below."
+
+msgctxt "SearchStatsDeletedSuccessfully"
+msgid "The search statistics have successfully been cleared"
+msgstr "The search statistics have successfully been cleared"
+
+msgctxt "DeleteSearchStatistics"
+msgid "Clear Search Statistics"
+msgstr "Clear Search Statistics"
+
+msgctxt "ConfirmDeleteSearchStats"
+msgid "Are you sure you want to clear the search statistics?"
+msgstr "Are you sure you want to clear the search statistics?"
+
+msgctxt "SearchTermsSortAsc"
+msgid "Sort by Search Terms (ascending)"
+msgstr "Sort by Search Terms (ascending)"
+
+msgctxt "SearchTermsSortDesc"
+msgid "Sort by Search Terms (descending)"
+msgstr "Sort by Search Terms (descending)"
+
+msgctxt "NumberOfSearchesSortAsc"
+msgid "Sort by Number of Searches (ascending)"
+msgstr "Sort by Number of Searches (ascending)"
+
+msgctxt "NumberOfSearchesSortDesc"
+msgid "Sort by Number of Searches (descending)"
+msgstr "Sort by Number of Searches (descending)"
+
+msgctxt "NumberOfResultsSortAsc"
+msgid "Sort by Number of Results (ascending)"
+msgstr "Sort by Number of Results (ascending)"
+
+msgctxt "NumberOfResultsSortDesc"
+msgid "Sort by Number of Results (descending)"
+msgstr "Sort by Number of Results (descending)"
+
+msgctxt "LastPerformedSortAsc"
+msgid "Sort by Search Last Performed (ascending)"
+msgstr "Sort by Search Last Performed (ascending)"
+
+msgctxt "LastPerformedSortDesc"
+msgid "Sort by Search Last Performed (descending)"
+msgstr "Sort by Search Last Performed (descending)"
+
+msgctxt "CorrectionTypeSortAsc"
+msgid "Sort by Correction Type (ascending)"
+msgstr "Sort by Correction Type (ascending)"
+
+msgctxt "CorrectionTypeSortDesc"
+msgid "Sort by Correction Type (descending)"
+msgstr "Sort by Correction Type (descending)"
+
+msgctxt "ProductsShownBeforeSortAsc"
+msgid "Sort by Results Shown Before (ascending)"
+msgstr "Sort by Results Shown Before (ascending)"
+
+msgctxt "ProductsShownBeforeSortDesc"
+msgid "Sort by Results Shown Before (descending)"
+msgstr "Sort by Results Shown Before (descending)"
+
+msgctxt "CorrectedSearchTermsSortAsc"
+msgid "Sort by Corrected Search Terms (ascending)"
+msgstr "Sort by Corrected Search Terms (ascending)"
+
+msgctxt "CorrectedSearchTermsSortDesc"
+msgid "Sort by Corrected Search Terms (descending)"
+msgstr "Sort by Corrected Search Terms (descending)"
+
+msgctxt "ProductsShownAfterSortAsc"
+msgid "Sort by Results Shown After (ascending)"
+msgstr "Sort by Results Shown After (ascending)"
+
+msgctxt "ProductsShownAfterSortDesc"
+msgid "Sort by Results Shown After (descending)"
+msgstr "Sort by Results Shown After (descending)"
+
+msgctxt "NumberOfOccurancesSortAsc"
+msgid "Sort by Number of Corrections (ascending)"
+msgstr "Sort by Number of Corrections (ascending)"
+
+msgctxt "NumberOfOccurancesSortDesc"
+msgid "Sort by Number of Corrections (desc)"
+msgstr "Sort by Number of Corrections (desc)"
+
+msgctxt "ProductIdSortAsc"
+msgid "Sort by Product Id (ascending)"
+msgstr "Sort by Product Id (ascending)"
+
+msgctxt "ProductIdSortDesc"
+msgid "Sort by Product Id (descending)"
+msgstr "Sort by Product Id (descending)"
+
+msgctxt "UnitsSoldSortAsc"
+msgid "Sort by Units Sold (ascending)"
+msgstr "Sort by Units Sold (ascending)"
+
+msgctxt "UnitsSoldSortDesc"
+msgid "Sort by Units Sold (descending)"
+msgstr "Sort by Units Sold (descending)"
+
+msgctxt "RevenueSortAsc"
+msgid "Sort by Revenue (ascending)"
+msgstr "Sort by Revenue (ascending)"
+
+msgctxt "RevenueSortDesc"
+msgid "Sort by Revenue (descending)"
+msgstr "Sort by Revenue (descending)"
+
+msgctxt "ProfitSortAsc"
+msgid "Sort by Profit (ascending)"
+msgstr "Sort by Profit (ascending)"
+
+msgctxt "ProfitSortDesc"
+msgid "Sort by Profit (descending)"
+msgstr "Sort by Profit (descending)"
+
+msgctxt "ViewsSortAsc"
+msgid "Sort by Profit (ascending)"
+msgstr "Sort by Profit (ascending)"
+
+msgctxt "ViewsSortDesc"
+msgid "Sort by Profit (descending)"
+msgstr "Sort by Profit (descending)"
+
+msgctxt "AverageRatingSortAsc"
+msgid "Sort by Average Rating (ascending)"
+msgstr "Sort by Average Rating (ascending)"
+
+msgctxt "AverageRatingSortDesc"
+msgid "Sort by Average Rating (descending)"
+msgstr "Sort by Average Rating (descending)"
+
+msgctxt "AmountSpentSortAsc"
+msgid "Sort by Amount Spent (ascending)"
+msgstr "Sort by Amount Spent (ascending)"
+
+msgctxt "AmountSpentSortDesc"
+msgid "Sort by Amount Spent (descending)"
+msgstr "Sort by Amount Spent (descending)"
+
+msgctxt "NumOrdersSortAsc"
+msgid "Sort by Number of Orders (ascending)"
+msgstr "Sort by Number of Orders (ascending)"
+
+msgctxt "NumOrdersSortDesc"
+msgid "Sort by Number of Orders (descending)"
+msgstr "Sort by Number of Orders (descending)"
+
+msgctxt "Orders"
+msgid "Orders"
+msgstr "Orders"
+
+msgctxt "StockSortAsc"
+msgid "Sort by Number in Stock (ascending)"
+msgstr "Sort by Number in Stock (ascending)"
+
+msgctxt "StockSortDesc"
+msgid "Sort by Number in Stock (descending)"
+msgstr "Sort by Number in Stock (descending)"
+
+msgctxt "OrderID"
+msgid "Order ID"
+msgstr "Order ID"
+
+msgctxt "TrackingSortAsc"
+msgid "Sort by tracking number (ascending)"
+msgstr "Sort by tracking number (ascending)"
+
+msgctxt "TrackingSortDesc"
+msgid "Sort by tracking number (descending)"
+msgstr "Sort by tracking number (descending)"
+
+msgctxt "TotalSortDesc"
+msgid "Sort by total (descending)"
+msgstr "Sort by total (descending)"
+
+msgctxt "TotalSortAsc"
+msgid "Sort by total (ascending)"
+msgstr "Sort by total (ascending)"
+
+msgctxt "NumberOfOrders"
+msgid "Number of Orders"
+msgstr "Number of Orders"
+
+msgctxt "CustomerID"
+msgid "Customer ID"
+msgstr "Customer ID"
+
+msgctxt "CustIdSortDesc"
+msgid "Sort by customer id (descending)"
+msgstr "Sort by customer id (descending)"
+
+msgctxt "CustIdSortAsc"
+msgid "Sort by customer id (ascending)"
+msgstr "Sort by customer id (ascending)"
+
+msgctxt "Vendor"
+msgid "Vendor"
+msgstr "Vendor"
+
+msgctxt "AllVendors"
+msgid "-- All Vendors --"
+msgstr "-- All Vendors --"
+
+msgctxt "NoSelVendor"
+msgid "No Vendor"
+msgstr "No Vendor"
+
+msgctxt "OrdersByAbandon"
+msgid "Abandoned Orders"
+msgstr "Abandoned Orders"
+
+msgctxt "OrdersByAbandonIntro"
+msgid "A summary of all the abandoned orders for the selected date range is shown below."
+msgstr "A summary of all the abandoned orders for the selected date range is shown below."
+
+msgctxt "VariationOf"
+msgid "Variation of %1$s (%2$s)"
+msgstr "Variation of %1$s (%2$s)"
+
+msgctxt "TotalStockOfAllVariations"
+msgid "Total stock of all variations"
+msgstr "Total stock of all variations"
+
+msgctxt "ShowVariations"
+msgid "Show Variations"
+msgstr "Show Variations"
+
+msgctxt "HideVariations"
+msgid "Hide Variations"
+msgstr "Hide Variations"
+
+msgctxt "OrdersByAbandonTotalProducts"
+msgid "Total Product"
+msgstr "Total Product"
+
+msgctxt "OrdersByAbandonTotalOrderAmount"
+msgid "Order Amount Total"
+msgstr "Order Amount Total"
+
+msgctxt "StatsNoAbandonOrdersForDate"
+msgid "There are no abandoned orders for the selected date range."
+msgstr "There are no abandoned orders for the selected date range."
+
+msgctxt "SalesTaxReport"
+msgid "Sales Tax Report"
+msgstr "Sales Tax Report"
+
+msgctxt "SalesTaxIntro"
+msgid "A summary of tax collected for the selected date range is shown below. Click the &quot;Export&quot; button to export this report if required."
+msgstr "A summary of tax collected for the selected date range is shown below. Click the &quot;Export&quot; button to export this report if required."
+
+msgctxt "Period"
+msgid "Period"
+msgstr "Period"
+
+msgctxt "TaxAmount"
+msgid "Tax Amount"
+msgstr "Tax Amount"
+
+msgctxt "Rate"
+msgid "Tax Rate"
+msgstr "Tax Rate"
+
+msgctxt "TaxType"
+msgid "Tax Type"
+msgstr "Tax Type"
+
+msgctxt "NoTaxCollected"
+msgid "(No Tax was collected for this period)"
+msgstr "(No Tax was collected for this period)"
+
+msgctxt "SalesTaxSummary"
+msgid "There were <strong>:numOrders</strong> taxable orders placed and <strong>:taxTotal</strong> tax collected during the selected period."
+msgstr "There were <strong>:numOrders</strong> taxable orders placed and <strong>:taxTotal</strong> tax collected during the selected period."
+
+msgctxt "ItemsPerPage"
+msgid "Items per page"
+msgstr "Items per page"
+
+msgctxt "AbandonedSummary"
+msgid "There were <strong>:numOrders</strong> abandoned orders totalling <strong>:abandonedTotal</strong> during the selected period."
+msgstr "There were <strong>:numOrders</strong> abandoned orders totalling <strong>:abandonedTotal</strong> during the selected period."
+
+msgctxt "Guest"
+msgid "(Guest)"
+msgstr "(Guest)"
+
+msgctxt "Guests"
+msgid "Guest(s)"
+msgstr "Guest(s)"

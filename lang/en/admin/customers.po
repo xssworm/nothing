@@ -1,0 +1,1182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ExportCustomers"
+msgid "Export These Customers..."
+msgstr "Export These Customers..."
+
+msgctxt "ManageCustomersIntro"
+msgid "Your customers are shown below. Click the plus icon next to a customer to see their orders."
+msgstr "Your customers are shown below. Click the plus icon next to a customer to see their orders."
+
+msgctxt "NoCustomerResults"
+msgid "No customers matched your search criteria. Please try again."
+msgstr "No customers matched your search criteria. Please try again."
+
+msgctxt "NoCustomers"
+msgid "No customers have registered on your store yet. Once a customer has created an account, they'll be viewable here."
+msgstr "No customers have registered on your store yet. Once a customer has created an account, they'll be viewable here."
+
+msgctxt "CustLastName"
+msgid "Last Name"
+msgstr "Last Name"
+
+msgctxt "CustFirstName"
+msgid "First Name"
+msgstr "First Name"
+
+msgctxt "CustDateCreated"
+msgid "Date Joined"
+msgstr "Date Joined"
+
+msgctxt "CustCountry"
+msgid "Country"
+msgstr "Country"
+
+msgctxt "CustCompany"
+msgid "Company"
+msgstr "Company"
+
+msgctxt "ExpandCustQuickView"
+msgid "Click here to view all orders for this customer"
+msgstr "Click here to view all orders for this customer"
+
+msgctxt "CustomerEdit"
+msgid "Edit this customer"
+msgstr "Edit this customer"
+
+msgctxt "ChooseCustomer"
+msgid "Please choose at least one customer to delete."
+msgstr "Please choose at least one customer to delete."
+
+msgctxt "ConfirmDeleteCustomers"
+msgid "WARNING: This will permanently remove the selected customer(s). Are you sure you wish to do this?"
+msgstr "WARNING: This will permanently remove the selected customer(s). Are you sure you wish to do this?"
+
+msgctxt "CustomersDeletedSuccessfully"
+msgid "The selected customers have been deleted successfully."
+msgstr "The selected customers have been deleted successfully."
+
+msgctxt "EditCustomerTitle"
+msgid "Edit a Customer"
+msgstr "Edit a Customer"
+
+msgctxt "EditCustomerIntro"
+msgid "Complete the form below to update this customer."
+msgstr "Complete the form below to update this customer."
+
+msgctxt "CustomerDoesntExist"
+msgid "The selected customer doesn't exist or has been removed."
+msgstr "The selected customer doesn't exist or has been removed."
+
+msgctxt "CustomerBillingDetails"
+msgid "Billing Details"
+msgstr "Billing Details"
+
+msgctxt "ConfirmCancelCustomer"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "CustStreet"
+msgid "Street"
+msgstr "Street"
+
+msgctxt "CustSuburb"
+msgid "Suburb"
+msgstr "Suburb"
+
+msgctxt "CustState"
+msgid "State"
+msgstr "State"
+
+msgctxt "CustEmail"
+msgid "Email Address"
+msgstr "Email Address"
+
+msgctxt "CustPhone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "CustZip"
+msgid "Zip/Postcode"
+msgstr "Zip/Postcode"
+
+msgctxt "CustomerShippingDetails"
+msgid "Shipping Details"
+msgstr "Shipping Details"
+
+msgctxt "CustomerAccountDetails"
+msgid "Account Details"
+msgstr "Account Details"
+
+msgctxt "CustUserLogin"
+msgid "User Login"
+msgstr "User Login"
+
+msgctxt "CustPassword"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "CustReceiveNewsletter"
+msgid "Subscribed to receive newsletter"
+msgstr "Subscribed to receive newsletter"
+
+msgctxt "EnterCustUsername"
+msgid "Please enter a username."
+msgstr "Please enter a username."
+
+msgctxt "EnterCustUserPass"
+msgid "Please enter a password."
+msgstr "Please enter a password."
+
+msgctxt "CustomerUpdatedSuccessfully"
+msgid "The selected customer has been updated successfully."
+msgstr "The selected customer has been updated successfully."
+
+msgctxt "ErrCustomerNotUpdated"
+msgid "An error occurred while trying to update this customers account: '%s'"
+msgstr "An error occurred while trying to update this customers account: '%s'"
+
+msgctxt "AddCustomerTitle"
+msgid "Add Customer"
+msgstr "Add Customer"
+
+msgctxt "AddCustomerIntro"
+msgid "Complete the form below to create a new customer in your store."
+msgstr "Complete the form below to create a new customer in your store."
+
+msgctxt "CustomerAddedSuccessfully"
+msgid "The customer has been created successfully."
+msgstr "The customer has been created successfully."
+
+msgctxt "ErrCustomerNotAdded"
+msgid "An error occurred while trying to create this customers account: '%s'"
+msgstr "An error occurred while trying to create this customers account: '%s'"
+
+msgctxt "CustEmailTaken"
+msgid "The email address that you have chosen is already taken by another customer. Please enter a different email address."
+msgstr "The email address that you have chosen is already taken by another customer. Please enter a different email address."
+
+msgctxt "CheckingUsername"
+msgid "Checking if username is available. Please wait..."
+msgstr "Checking if username is available. Please wait..."
+
+msgctxt "NoCustomersToExport"
+msgid "No customers were found matching the criteria that you specified."
+msgstr "No customers were found matching the criteria that you specified."
+
+msgctxt "Customers"
+msgid "Customers"
+msgstr "Customers"
+
+msgctxt "DateRangeCustomerHelp"
+msgid "Optionally choose to export only customers who created an account between a specific start and end date. If left blank, no date filter will be applied."
+msgstr "Optionally choose to export only customers who created an account between a specific start and end date. If left blank, no date filter will be applied."
+
+msgctxt "CustPasswordHelp"
+msgid "The password that this customer can use (along with his/her email address) to login to their account from your web site."
+msgstr "The password that this customer can use (along with his/her email address) to login to their account from your web site."
+
+msgctxt "NumOrders"
+msgid "Orders"
+msgstr "Orders"
+
+msgctxt "NumOrdersSortAsc"
+msgid "Sort by Number of Orders (ascending)"
+msgstr "Sort by Number of Orders (ascending)"
+
+msgctxt "NumOrdersSortDesc"
+msgid "Sort by Number of Orders (descending)"
+msgstr "Sort by Number of Orders (descending)"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "PhoneSortAsc"
+msgid "Sort by Phone Number (ascending)"
+msgstr "Sort by Phone Number (ascending)"
+
+msgctxt "PhoneSortDesc"
+msgid "Sort by Phone Number (descending)"
+msgstr "Sort by Phone Number (descending)"
+
+msgctxt "ViewCompleteOrderDetails"
+msgid "View Complete Order Details"
+msgstr "View Complete Order Details"
+
+msgctxt "SearchByDetails"
+msgid "Search by Details"
+msgstr "Search by Details"
+
+msgctxt "SearchCustomersIntro"
+msgid "Search for specific customers using the advanced search options below."
+msgstr "Search for specific customers using the advanced search options below."
+
+msgctxt "ConfirmCancelExportCustomers"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "CustomerName"
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgctxt "ExportOptions"
+msgid "Export Options"
+msgstr "Export Options"
+
+msgctxt "FieldsToExport"
+msgid "Fields to Export"
+msgstr "Fields to Export"
+
+msgctxt "CustomerID"
+msgid "Customer ID"
+msgstr "Customer ID"
+
+msgctxt "NumberOfOrders"
+msgid "Number of Orders"
+msgstr "Number of Orders"
+
+msgctxt "DateJoined"
+msgid "Date Joined"
+msgstr "Date Joined"
+
+msgctxt "SearchKeywordsCustHelp"
+msgid "The search keywords you type into this box will be used to search the following fields for all customers: first name, last name, email and company."
+msgstr "The search keywords you type into this box will be used to search the following fields for all customers: first name, last name, email and company."
+
+msgctxt "CustEnterValidCustId"
+msgid "Please enter a valid customer ID containing numbers only."
+msgstr "Please enter a valid customer ID containing numbers only."
+
+msgctxt "CustEnterValidNumOrders"
+msgid "Please enter a valid number of orders."
+msgstr "Please enter a valid number of orders."
+
+msgctxt "CustIdSortAsc"
+msgid "Sort by Customer Id (ascending)"
+msgstr "Sort by Customer Id (ascending)"
+
+msgctxt "CustIdSortDesc"
+msgid "Sort by Customer Id (descending)"
+msgstr "Sort by Customer Id (descending)"
+
+msgctxt "CustID"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "CustExportNoResults"
+msgid "Your search found no customers or there aren't any customers to export. Please try again."
+msgstr "Your search found no customers or there aren't any customers to export. Please try again."
+
+msgctxt "ChooseCustCountry"
+msgid "-- Choose a Country --"
+msgstr "-- Choose a Country --"
+
+msgctxt "ChooseCustState"
+msgid "-- Choose a State --"
+msgstr "-- Choose a State --"
+
+msgctxt "LoadingCustomers"
+msgid "Loading customers. Please wait..."
+msgstr "Loading customers. Please wait..."
+
+msgctxt "AllCustomers"
+msgid "All Customers"
+msgstr "All Customers"
+
+msgctxt "CustomerSearchResultsBelow1"
+msgid "1 customer matched your search criteria and is shown below."
+msgstr "1 customer matched your search criteria and is shown below."
+
+msgctxt "CustomerSearchResultsBelowX"
+msgid "%d customers matched your search criteria and are shown below."
+msgstr "%d customers matched your search criteria and are shown below."
+
+msgctxt "NameThisCustomersViewHelp"
+msgid "Type a name for your view here, such as \'Today\'s Customers\' or \'Customers from New York\'. This name is only visible from the control panel and you can switch to this view from the main customers page."
+msgstr "Type a name for your view here, such as \'Today\'s Customers\' or \'Customers from New York\'. This name is only visible from the control panel and you can switch to this view from the main customers page."
+
+msgctxt "CreateNewCustomersView"
+msgid "Create a New View for Customers"
+msgstr "Create a New View for Customers"
+
+msgctxt "CustomerViewIntro"
+msgid "A view lets you filter customers based on attributes such as country or order date. Fill out the form below to create a new view."
+msgstr "A view lets you filter customers based on attributes such as country or order date. Fill out the form below to create a new view."
+
+msgctxt "ViewCustomersLetter"
+msgid "View customers with last names beginning with ':letter'"
+msgstr "View customers with last names beginning with ':letter'"
+
+msgctxt "CreateCustomerView"
+msgid "Create Customer View"
+msgstr "Create Customer View"
+
+msgctxt "StoreCredit"
+msgid "Store Credit"
+msgstr "Store Credit"
+
+msgctxt "SearchEnterValidStoreCredit"
+msgid "Please enter a valid store credit value."
+msgstr "Please enter a valid store credit value."
+
+msgctxt "CustomerLetterSortNoResults"
+msgid "There are no customers in your store that have surnames beginning with the letter '%s'."
+msgstr "There are no customers in your store that have surnames beginning with the letter '%s'."
+
+msgctxt "StoreCreditSortAsc"
+msgid "Sort by store credit (ascending)"
+msgstr "Sort by store credit (ascending)"
+
+msgctxt "StoreCreditSortDesc"
+msgid "Sort by store credit (descending)"
+msgstr "Sort by store credit (descending)"
+
+msgctxt "SearchEnterValidordersId"
+msgid "Please enter a valid number."
+msgstr "Please enter a valid number."
+
+msgctxt "CustomerGroupsIntro"
+msgid "Customer groups allow you to assign discounts and restrict access to web pages based on which group a customer belongs to, such as <em>Retail Customers, Wholesale Customers</em>, etc."
+msgstr "Customer groups allow you to assign discounts and restrict access to web pages based on which group a customer belongs to, such as <em>Retail Customers, Wholesale Customers</em>, etc."
+
+msgctxt "CreateACustomerGroup"
+msgid "Create a Customer Group"
+msgstr "Create a Customer Group"
+
+msgctxt "CustomerGroupName"
+msgid "Group Name"
+msgstr "Group Name"
+
+msgctxt "StorewideDiscount"
+msgid "Storewide Discount"
+msgstr "Storewide Discount"
+
+msgctxt "CustomersInGroup"
+msgid "Customers in Group"
+msgstr "Customers in Group"
+
+msgctxt "CustomerGroupEdit"
+msgid "Edit this customer group"
+msgstr "Edit this customer group"
+
+msgctxt "NoCustomerGroups"
+msgid "No customer groups have been created. Please click the &quot;Create a Customer Group...&quot; button to create one."
+msgstr "No customer groups have been created. Please click the &quot;Create a Customer Group...&quot; button to create one."
+
+msgctxt "ChooseCustomerGroup"
+msgid "Please choose at least one group to delete."
+msgstr "Please choose at least one group to delete."
+
+msgctxt "ConfirmDeleteCustomerGroups"
+msgid "WARNING: Any customers in the selected group(s) will no longer belong to those groups and as such won\'t see the discounted prices and web pages which they can at the moment. Are you sure you want to do this?"
+msgstr "WARNING: Any customers in the selected group(s) will no longer belong to those groups and as such won\'t see the discounted prices and web pages which they can at the moment. Are you sure you want to do this?"
+
+msgctxt "CustomerGroupsDeletedSuccessfully"
+msgid "The selected customer groups have been deleted successfully."
+msgstr "The selected customer groups have been deleted successfully."
+
+msgctxt "AdministratorLogAction_deleteCustomerGroups"
+msgid "Deleted %s customer group(s)"
+msgstr "Deleted %s customer group(s)"
+
+msgctxt "CustomerGroupDetails"
+msgid "Group Details"
+msgstr "Group Details"
+
+msgctxt "GroupNameHelp"
+msgid "A name for the customer group you\'re creating. You can add customers to this group from the \'Customer Accounts\' page in your store\'s control panel."
+msgstr "A name for the customer group you\'re creating. You can add customers to this group from the \'Customer Accounts\' page in your store\'s control panel."
+
+msgctxt "InfoTipCustomerGroups"
+msgid "You can require customers to belong to a certain group before they can see web pages in your store's navigation menu by editing the group permissions of a web page."
+msgstr "You can require customers to belong to a certain group before they can see web pages in your store's navigation menu by editing the group permissions of a web page."
+
+msgctxt "StorewideDiscountHelp"
+msgid "If a product doesn\'t have any product/category level discounts setup then this rate will be used as the discount rated instead.<br /><br />Enter that discount amount and select a discount method here. Discounts will be applied to products in your store only, not shipping or handling fees."
+msgstr "If a product doesn\'t have any product/category level discounts setup then this rate will be used as the discount rated instead.<br /><br />Enter that discount amount and select a discount method here. Discounts will be applied to products in your store only, not shipping or handling fees."
+
+msgctxt "YesMakeCustomerGroupDefault"
+msgid "All new customers should be added to this group"
+msgstr "All new customers should be added to this group"
+
+msgctxt "CustomerGroupDefaultHelp"
+msgid "If ticked then all customers who create an account in your store will be assigned to this group. Keep in mind that if another group is currently the default then it no longer will be.<br /><br />You can assign customers to groups by editing the customer\'s account from the \'Customers\' tab above."
+msgstr "If ticked then all customers who create an account in your store will be assigned to this group. Keep in mind that if another group is currently the default then it no longer will be.<br /><br />You can assign customers to groups by editing the customer\'s account from the \'Customers\' tab above."
+
+msgctxt "CustomerGroupNameSuggestion"
+msgid "Such as &quot;Retail&quot; or &quot;Wholesale&quot;. Group name is not visible to customers in your store."
+msgstr "Such as &quot;Retail&quot; or &quot;Wholesale&quot;. Group name is not visible to customers in your store."
+
+msgctxt "ConfirmCancelCustomerGroup"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "CustomerGroupEnterName"
+msgid "Please enter a group name."
+msgstr "Please enter a group name."
+
+msgctxt "CustomerGroupAlreadyExists"
+msgid "A customer group with the name '%s' already exists. Please choose a different name."
+msgstr "A customer group with the name '%s' already exists. Please choose a different name."
+
+msgctxt "CustomerGroupDBError"
+msgid "A database error occurred while trying to save the customer group: %s"
+msgstr "A database error occurred while trying to save the customer group: %s"
+
+msgctxt "CustomerGroupCreated"
+msgid "The new customer group has been added successfully."
+msgstr "The new customer group has been added successfully."
+
+msgctxt "EditACustomerGroup"
+msgid "Edit a Customer Group"
+msgstr "Edit a Customer Group"
+
+msgctxt "CustomerGroupUpdated"
+msgid "The selected customer group has been updated successfully."
+msgstr "The selected customer group has been updated successfully."
+
+msgctxt "CustName"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "CustomerGroup"
+msgid "Customer Group"
+msgstr "Customer Group"
+
+msgctxt "CustomerGroupEnterDiscount"
+msgid "Please enter a valid discount."
+msgstr "Please enter a valid discount."
+
+msgctxt "SelectCustomerGroup"
+msgid "-- Default Group --"
+msgstr "-- Default Group --"
+
+msgctxt "ErrorUpdatingCustomerGroup"
+msgid "An error occurred while trying to update this customer\'s group. Please try again."
+msgstr "An error occurred while trying to update this customer\'s group. Please try again."
+
+msgctxt "SearchByGroup"
+msgid "Search by Group"
+msgstr "Search by Group"
+
+msgctxt "ChooseACustomerGroup"
+msgid "-- Choose a Customer Group --"
+msgstr "-- Choose a Customer Group --"
+
+msgctxt "AdministratorLogAction_createCustomerGroup2"
+msgid "Created customer group '%s'"
+msgstr "Created customer group '%s'"
+
+msgctxt "AdministratorLogAction_searchCustomersRedirect"
+msgid "Created a new customer view with ID of %d called '%s'"
+msgstr "Created a new customer view with ID of %d called '%s'"
+
+msgctxt "AdministratorLogAction_changeTemplate"
+msgid "Changed store design to %s (%s)"
+msgstr "Changed store design to %s (%s)"
+
+msgctxt "CategoryLevelDiscounts"
+msgid "Category Level Discounts"
+msgstr "Category Level Discounts"
+
+msgctxt "CurrentDiscounts"
+msgid "Current Discounts"
+msgstr "Current Discounts"
+
+msgctxt "NoCategoryLevelDiscounts"
+msgid "No category level discounts have been created for this group."
+msgstr "No category level discounts have been created for this group."
+
+msgctxt "NoProductLevelDiscounts"
+msgid "No product level discounts have been created for this group."
+msgstr "No product level discounts have been created for this group."
+
+msgctxt "CreateOneNow"
+msgid "Create one now."
+msgstr "Create one now."
+
+msgctxt "ForProductsInThisCategory"
+msgid "For these products:"
+msgstr "For these products:"
+
+msgctxt "CustomersReceiveA"
+msgid "group members receive a"
+msgstr "group members receive a"
+
+msgctxt "DiscountLC"
+msgid "discount"
+msgstr "discount"
+
+msgctxt "ProductLevelDiscounts"
+msgid "Product Level Discounts"
+msgstr "Product Level Discounts"
+
+msgctxt "ProductsInThisCategory"
+msgid "products in this category only"
+msgstr "products in this category only"
+
+msgctxt "ProductsInThisCategory2"
+msgid "products in this category and its subcategories"
+msgstr "products in this category and its subcategories"
+
+msgctxt "AddAnotherCategoryDiscount"
+msgid "Add another category discount"
+msgstr "Add another category discount"
+
+msgctxt "RemoveThisCategoryDiscount"
+msgid "Remove this category discount"
+msgstr "Remove this category discount"
+
+msgctxt "ForThisProduct1"
+msgid "For"
+msgstr "For"
+
+msgctxt "ForThisProduct2"
+msgid "this product"
+msgstr "this product"
+
+msgctxt "ForThisCategory"
+msgid "this category"
+msgstr "this category"
+
+msgctxt "AddAnotherProdDiscount"
+msgid "Add another product discount"
+msgstr "Add another product discount"
+
+msgctxt "RemoveThisProdDiscount"
+msgid "Remove this product discount"
+msgstr "Remove this product discount"
+
+msgctxt "StartTypingToSearch"
+msgid "Start typing to search products..."
+msgstr "Start typing to search products..."
+
+msgctxt "NoneSelected"
+msgid "none selected"
+msgstr "none selected"
+
+msgctxt "CustomerGroupProductIntro"
+msgid "Choose a Product"
+msgstr "Choose a Product"
+
+msgctxt "CustomerGroupProductDesc"
+msgid "Find a product by category or keyword and then click 'Select Product'."
+msgstr "Find a product by category or keyword and then click 'Select Product'."
+
+msgctxt "CustomerGroupMultiProdDiscount"
+msgid "You've entered more than one discount for a particular product."
+msgstr "You've entered more than one discount for a particular product."
+
+msgctxt "CustomerGroupEnterValidDiscount"
+msgid "Please enter a valid discount between 0 and 100."
+msgstr "Please enter a valid discount between 0 and 100."
+
+msgctxt "CustomerGroupMultiCatDiscount"
+msgid "You've entered more than one discount for a particular category."
+msgstr "You've entered more than one discount for a particular category."
+
+msgctxt "CustomerGroupDiscount"
+msgid "Storewide Discount"
+msgstr "Storewide Discount"
+
+msgctxt "DiscountRules"
+msgid "Discount Rules"
+msgstr "Discount Rules"
+
+msgctxt "DiscountRulesSortAsc"
+msgid "Sort by Number of Discount Rules (ascending)"
+msgstr "Sort by Number of Discount Rules (ascending)"
+
+msgctxt "DiscountRulesSortDesc"
+msgid "Sort by Number of Discount Rules (descending)"
+msgstr "Sort by Number of Discount Rules (descending)"
+
+msgctxt "CustomersInGroupSortAsc"
+msgid "Sort by Customers in Group (ascending)"
+msgstr "Sort by Customers in Group (ascending)"
+
+msgctxt "CustomersInGroupSortDesc"
+msgid "Sort by Customers in Group (descending)"
+msgstr "Sort by Customers in Group (descending)"
+
+msgctxt "DiscountRulesHelp"
+msgid "The total number of category and product level discounts that have been setup for this customer group."
+msgstr "The total number of category and product level discounts that have been setup for this customer group."
+
+msgctxt "CustomerGroupAccess"
+msgid "Group Access"
+msgstr "Group Access"
+
+msgctxt "CustomerGroupAllAccess"
+msgid "Customers in this group can see products in all categories"
+msgstr "Customers in this group can see products in all categories"
+
+msgctxt "CustomerGroupAccessHelp"
+msgid "Tick this box to allow customers in this group to see all categories in your store. Untick this box to limit customers in this group to only certain categories in your store.<br /><br />Products in the categories they don\'t have access to won\'t appear anywhere in your store for them, including on the home page or in search results. The categories they don\'t have access to also wont appear in the categories list."
+msgstr "Tick this box to allow customers in this group to see all categories in your store. Untick this box to limit customers in this group to only certain categories in your store.<br /><br />Products in the categories they don\'t have access to won\'t appear anywhere in your store for them, including on the home page or in search results. The categories they don\'t have access to also wont appear in the categories list."
+
+msgctxt "CustomerGroupsOtherProductsDiscount"
+msgid "For all other products in my store, group members receive a"
+msgstr "For all other products in my store, group members receive a"
+
+msgctxt "GroupNameSortDesc"
+msgid "Sort by group name (descending)"
+msgstr "Sort by group name (descending)"
+
+msgctxt "GroupNameSortAsc"
+msgid "Sort by group name (ascending)"
+msgstr "Sort by group name (ascending)"
+
+msgctxt "CustomerGroupDefault"
+msgid "Default Customer Group"
+msgstr "Default Customer Group"
+
+msgctxt "CustomerNotesLink"
+msgid "View Notes"
+msgstr "View Notes"
+
+msgctxt "CustomerNotesPopupHeading"
+msgid "Staff Notes"
+msgstr "Staff Notes"
+
+msgctxt "CustomerNotesPopupIntro"
+msgid "Use the text box below to make notes on this customer."
+msgstr "Use the text box below to make notes on this customer."
+
+msgctxt "CustomerNotesSuccessMsg"
+msgid "The notes for %s have been updated successfully."
+msgstr "The notes for %s have been updated successfully."
+
+msgctxt "SavingNotes"
+msgid "Saving Notes"
+msgstr "Saving Notes"
+
+msgctxt "ChooseRegDate"
+msgid "-- Choose a Registration Date --"
+msgstr "-- Choose a Registration Date --"
+
+msgctxt "AddCustomer"
+msgid "Add Customer"
+msgstr "Add Customer"
+
+msgctxt "EditCustomer"
+msgid "Edit Customer"
+msgstr "Edit Customer"
+
+msgctxt "CustomerDetails"
+msgid "Customer Details"
+msgstr "Customer Details"
+
+msgctxt "CustomerDetailsIntro"
+msgid "Fill in the form below to specify the account details and optional address book for this customer."
+msgstr "Fill in the form below to specify the account details and optional address book for this customer."
+
+msgctxt "CustomerAddressBook"
+msgid "Customer Address Book"
+msgstr "Customer Address Book"
+
+msgctxt "CustomerFirstName"
+msgid "First Name"
+msgstr "First Name"
+
+msgctxt "CustomerFirstNameHelp"
+msgid "Enter the first name of this customer."
+msgstr "Enter the first name of this customer."
+
+msgctxt "CustomerFirstNameRequired"
+msgid "Please enter a first name."
+msgstr "Please enter a first name."
+
+msgctxt "CustomerLastName"
+msgid "Last Name"
+msgstr "Last Name"
+
+msgctxt "CustomerLastNameHelp"
+msgid "Enter the last name of this customer."
+msgstr "Enter the last name of this customer."
+
+msgctxt "CustomerLastNameRequired"
+msgid "Please enter a last name."
+msgstr "Please enter a last name."
+
+msgctxt "CustomerEmail"
+msgid "Email Address"
+msgstr "Email Address"
+
+msgctxt "CustomerEmailHelp"
+msgid "Enter the email address for this customer. This email address should not already be in use by another customer."
+msgstr "Enter the email address for this customer. This email address should not already be in use by another customer."
+
+msgctxt "CustomerEmailRequired"
+msgid "Please enter an email address."
+msgstr "Please enter an email address."
+
+msgctxt "CustomerEmailInvalue"
+msgid "Please enter a valid email address such as joe@example.com"
+msgstr "Please enter a valid email address such as joe@example.com"
+
+msgctxt "CustomerEmailNotUnique"
+msgid "This email address is already in use by another customer. Please enter another email address."
+msgstr "This email address is already in use by another customer. Please enter another email address."
+
+msgctxt "CustomerEmailUniqueCheckLink"
+msgid "Check Availability"
+msgstr "Check Availability"
+
+msgctxt "CustomerEmailUniqueCheckSuccess"
+msgid "The email address you entered is not currently assigned to a customer."
+msgstr "The email address you entered is not currently assigned to a customer."
+
+msgctxt "CustomerEmailUniqueCheckFailed"
+msgid "That email address is already in use. Please enter another one."
+msgstr "That email address is already in use. Please enter another one."
+
+msgctxt "CustomerEmailUniqueCheckErrorMissing"
+msgid "Please choose an email address first to check"
+msgstr "Please choose an email address first to check"
+
+msgctxt "CustomerPhone"
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgctxt "CustomerPhoneHelp"
+msgid "Enter the phone number of this customer."
+msgstr "Enter the phone number of this customer."
+
+msgctxt "CustomerPhoneInvalid"
+msgid "Please enter a valid phone number. A phone number must contain at least 3 numbers."
+msgstr "Please enter a valid phone number. A phone number must contain at least 3 numbers."
+
+msgctxt "CustomerStoreCredit"
+msgid "Store Credit"
+msgstr "Store Credit"
+
+msgctxt "CustomerStoreCreditHelp"
+msgid "If this customer should have any store credit that can be used to pay for orders, enter the amount here."
+msgstr "If this customer should have any store credit that can be used to pay for orders, enter the amount here."
+
+msgctxt "CustomerStoreCreditError"
+msgid "The customer Store Credit must either be left empty or be a valid price."
+msgstr "The customer Store Credit must either be left empty or be a valid price."
+
+msgctxt "CustomerCompany"
+msgid "Company Name"
+msgstr "Company Name"
+
+msgctxt "CustomerCompanyHelp"
+msgid "Enter the company name for this customer."
+msgstr "Enter the company name for this customer."
+
+msgctxt "CustomerGroupHelp"
+msgid "The customer group that this customer should be placed in to."
+msgstr "The customer group that this customer should be placed in to."
+
+msgctxt "CustomerGroupNotAssoc"
+msgid "-- Do not assign to a customer group --"
+msgstr "-- Do not assign to a customer group --"
+
+msgctxt "CustomerPasswordDetails"
+msgid "Customer Password"
+msgstr "Customer Password"
+
+msgctxt "CustomerPassword"
+msgid "Login Password"
+msgstr "Login Password"
+
+msgctxt "CustomerPasswordHelp"
+msgid "The password this customer should use to login to to your store. Once logged in, the customer can view past orders, submit return requests, etc."
+msgstr "The password this customer should use to login to to your store. Once logged in, the customer can view past orders, submit return requests, etc."
+
+msgctxt "CustomerNewPassword"
+msgid "New Password"
+msgstr "New Password"
+
+msgctxt "CustomerNewPasswordHelp"
+msgid "If you wish to change the password for this customer, enter the new password here."
+msgstr "If you wish to change the password for this customer, enter the new password here."
+
+msgctxt "CustomerPasswordRequired"
+msgid "Please enter a password."
+msgstr "Please enter a password."
+
+msgctxt "CustomerPasswordConfirm"
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+msgctxt "CustomerPasswordConfirmHelp"
+msgid "Confirm the password entered above by entering it again."
+msgstr "Confirm the password entered above by entering it again."
+
+msgctxt "CustomerNewPasswordConfirmHelp"
+msgid "Confirm the password entered above by entering it again."
+msgstr "Confirm the password entered above by entering it again."
+
+msgctxt "CustomerPasswordConfirmRequired"
+msgid "Please enter the password for this customer again."
+msgstr "Please enter the password for this customer again."
+
+msgctxt "CustomerPasswordConfirmError"
+msgid "The password and confirmed password do not match."
+msgstr "The password and confirmed password do not match."
+
+msgctxt "CustomerNewPasswordConfirmError"
+msgid "The new password for this customer and the confirmed password do not match."
+msgstr "The new password for this customer and the confirmed password do not match."
+
+msgctxt "CustomerUpdatedFailed"
+msgid "A database error occurred while trying to save the customer: %s"
+msgstr "A database error occurred while trying to save the customer: %s"
+
+msgctxt "CustomerAddedSuccessfullyGoToAddress"
+msgid "The customer has been created successfully. Below is the address field for the new customer."
+msgstr "The customer has been created successfully. Below is the address field for the new customer."
+
+msgctxt "CustomerAddedFailed"
+msgid "A database error occurred while trying to add the customer: %s"
+msgstr "A database error occurred while trying to add the customer: %s"
+
+msgctxt "EnterValidStoreCredit"
+msgid "Please enter a valid amount of store credit."
+msgstr "Please enter a valid amount of store credit."
+
+msgctxt "CustomerAddressBookIntro"
+msgid "Listed below are all of the addresses in this customer's address book."
+msgstr "Listed below are all of the addresses in this customer's address book."
+
+msgctxt "AddCustomerAddressTitle"
+msgid "Add Customer Address"
+msgstr "Add Customer Address"
+
+msgctxt "AddCustomerAddressIntro"
+msgid "Complete the form below to add an address to this customer."
+msgstr "Complete the form below to add an address to this customer."
+
+msgctxt "EditCustomerAddressTitle"
+msgid "Edit Customer Address"
+msgstr "Edit Customer Address"
+
+msgctxt "EditCustomerAddress"
+msgid "Edit Customer Address"
+msgstr "Edit Customer Address"
+
+msgctxt "DeleteCustomerAddress"
+msgid "Delete Customer Address"
+msgstr "Delete Customer Address"
+
+msgctxt "EditCustomerAddressIntro"
+msgid "Complete the form below to update the selected address for this customer."
+msgstr "Complete the form below to update the selected address for this customer."
+
+msgctxt "CustomerAddressFullName"
+msgid "Full Name"
+msgstr "Full Name"
+
+msgctxt "CustomerAddressFirstName"
+msgid "First Name"
+msgstr "First Name"
+
+msgctxt "CustomerAddressFirstNameHelp"
+msgid "Enter the first name for this address book entry."
+msgstr "Enter the first name for this address book entry."
+
+msgctxt "CustomerAddressFirstNameRequired"
+msgid "Please enter a first name."
+msgstr "Please enter a first name."
+
+msgctxt "CustomerAddressLastName"
+msgid "Last Name"
+msgstr "Last Name"
+
+msgctxt "CustomerAddressLastNameHelp"
+msgid "Enter the last name for this address book entry."
+msgstr "Enter the last name for this address book entry."
+
+msgctxt "CustomerAddressLastNameRequired"
+msgid "Please enter a last name."
+msgstr "Please enter a last name."
+
+msgctxt "CustomerAddressCompany"
+msgid "Company"
+msgstr "Company"
+
+msgctxt "CustomerAddressCompanyHelp"
+msgid "Enter the company name for this address book entry."
+msgstr "Enter the company name for this address book entry."
+
+msgctxt "CustomerAddressPhone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "CustomerAddressPhoneHelp"
+msgid "Enter the phone number for this address book entry."
+msgstr "Enter the phone number for this address book entry."
+
+msgctxt "CustomerAddressPhoneRequired"
+msgid "Please enter a phone number."
+msgstr "Please enter a phone number."
+
+msgctxt "CustomerAddressPhoneInvalid"
+msgid "Please enter a valid phone number. A phone number must contain at least 3 numbers."
+msgstr "Please enter a valid phone number. A phone number must contain at least 3 numbers."
+
+msgctxt "CustomerAddressFullAddress"
+msgid "Address"
+msgstr "Address"
+
+msgctxt "CustomerAddressAddressLine1"
+msgid "Address Line 1"
+msgstr "Address Line 1"
+
+msgctxt "CustomerAddressAddressLine1Required"
+msgid "Please enter an address."
+msgstr "Please enter an address."
+
+msgctxt "CustomerAddressAddressLine1Help"
+msgid "Enter the address for this address book entry."
+msgstr "Enter the address for this address book entry."
+
+msgctxt "CustomerAddressAddressLine2"
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+msgctxt "CustomerAddressAddressLine2Help"
+msgid "Enter the address for this address book entry."
+msgstr "Enter the address for this address book entry."
+
+msgctxt "CustomerAddressCity"
+msgid "Suburb/City"
+msgstr "Suburb/City"
+
+msgctxt "CustomerAddressCityHelp"
+msgid "Enter the name of the suburb/city for this address book entry."
+msgstr "Enter the name of the suburb/city for this address book entry."
+
+msgctxt "CustomerAddressCityRequired"
+msgid "Please enter a suburb/city name."
+msgstr "Please enter a suburb/city name."
+
+msgctxt "CustomerAddressState"
+msgid "State/Province"
+msgstr "State/Province"
+
+msgctxt "CustomerAddressStateHelp"
+msgid "Select or enter the name of the state/province for this address book entry."
+msgstr "Select or enter the name of the state/province for this address book entry."
+
+msgctxt "CustomerAddressStateRequired"
+msgid "Please select a state or province."
+msgstr "Please select a state or province."
+
+msgctxt "CustomerAddressSelectStateInvalid"
+msgid "Please select a valid state or province."
+msgstr "Please select a valid state or province."
+
+msgctxt "CustomerAddressCountry"
+msgid "Country"
+msgstr "Country"
+
+msgctxt "CustomerAddressCountryHelp"
+msgid "Choose a country for this address book entry."
+msgstr "Choose a country for this address book entry."
+
+msgctxt "CustomerAddressCountryRequired"
+msgid "Please choose a country."
+msgstr "Please choose a country."
+
+msgctxt "CustomerAddressSelectCountryInvalid"
+msgid "Please choose a valid country."
+msgstr "Please choose a valid country."
+
+msgctxt "CustomerAddressPostCode"
+msgid "Zip/Postcode"
+msgstr "Zip/Postcode"
+
+msgctxt "CustomerAddressPostCodeHelp"
+msgid "Enter the zip/postcode for this address book entry."
+msgstr "Enter the zip/postcode for this address book entry."
+
+msgctxt "CustomerAddressPostCodeRequired"
+msgid "Please enter a zip/postcode."
+msgstr "Please enter a zip/postcode."
+
+msgctxt "CustomerAddressType"
+msgid "Building Type"
+msgstr "Building Type"
+
+msgctxt "CustomerAddressTypeHelp"
+msgid "Please choose the type of building for this address book entry."
+msgstr "Please choose the type of building for this address book entry."
+
+msgctxt "CustomerAddressEditInvalid"
+msgid ""
+msgstr ""
+
+msgctxt "CustomerAddressResidential"
+msgid "Home"
+msgstr "Home"
+
+msgctxt "CustomerAddressCommercial"
+msgid "Office"
+msgstr "Office"
+
+msgctxt "CustomerAddressDetails"
+msgid "Customer Address Details"
+msgstr "Customer Address Details"
+
+msgctxt "CustomerAddressDetailsIntro"
+msgid "Complete the form below to manage this address."
+msgstr "Complete the form below to manage this address."
+
+msgctxt "CustomerAddressUpdatedSuccessfully"
+msgid "The selected customer address has been updated successfully."
+msgstr "The selected customer address has been updated successfully."
+
+msgctxt "CustomerAddressUpdatedFailed"
+msgid "A database error occurred while trying to save the address: %s"
+msgstr "A database error occurred while trying to save the address: %s"
+
+msgctxt "CustomerAddressUpdatedInvalid"
+msgid "An unknown error has occurred while trying to update the shipping address."
+msgstr "An unknown error has occurred while trying to update the shipping address."
+
+msgctxt "CustomerAddressAddedSuccessfully"
+msgid "The customer address has been created successfully."
+msgstr "The customer address has been created successfully."
+
+msgctxt "CustomerAddressAddedFailed"
+msgid "A database error occurred while trying to save the address: %s"
+msgstr "A database error occurred while trying to save the address: %s"
+
+msgctxt "CustomerAddressAddedInvalid"
+msgid "An unknown error has occurred while trying to add a new shipping address."
+msgstr "An unknown error has occurred while trying to add a new shipping address."
+
+msgctxt "ConfirmCancelCustomerAddress"
+msgid "Are you sure you want to cancel? Click OK to confirm."
+msgstr "Are you sure you want to cancel? Click OK to confirm."
+
+msgctxt "CustomerAddShippingAddress"
+msgid "Add an Address..."
+msgstr "Add an Address..."
+
+msgctxt "CustomerAddShippingAddressBreadCrumb"
+msgid "Add an Address"
+msgstr "Add an Address"
+
+msgctxt "CustomerEditShippingAddress"
+msgid "Edit Address"
+msgstr "Edit Address"
+
+msgctxt "CustomerEditShippingAddressBreadCrumb"
+msgid "Edit Address"
+msgstr "Edit Address"
+
+msgctxt "CustomerAddressDeleteFailed"
+msgid "A database error occurred while trying to delete the selected addresses: %s."
+msgstr "A database error occurred while trying to delete the selected addresses: %s."
+
+msgctxt "CustomerAddressDeleteInvalid"
+msgid "Please select one or more address book entries to delete."
+msgstr "Please select one or more address book entries to delete."
+
+msgctxt "CustomerAddressDeleteSuccess"
+msgid "The selected address book entries have been deleted successfully."
+msgstr "The selected address book entries have been deleted successfully."
+
+msgctxt "ChooseCustomerAddress"
+msgid "Please choose at least one address book entry to delete."
+msgstr "Please choose at least one address book entry to delete."
+
+msgctxt "ConfirmDeleteCustomerAddresses"
+msgid "Are you sure you want to delete the selected address book entries? Click OK to confirm."
+msgstr "Are you sure you want to delete the selected address book entries? Click OK to confirm."
+
+msgctxt "CustomerLoginAsThem"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "CustomerAddressNoAddresses"
+msgid "No addresses were found for this customer. Please click &quot;Add Address&quot; to add an address for this customer."
+msgstr "No addresses were found for this customer. Please click &quot;Add Address&quot; to add an address for this customer."
+
+msgctxt "CustomerAddressNoAddressesNewCustomer"
+msgid "To be able to add an address to this customer, it must be saved first. Click <a href='#' onclick='saveAndAddAddress(); return false;'>here</a> to save this customer and to add an address to their address book."
+msgstr "To be able to add an address to this customer, it must be saved first. Click <a href='#' onclick='saveAndAddAddress(); return false;'>here</a> to save this customer and to add an address to their address book."
+
+msgctxt "CustomerAddressDoesnotExist"
+msgid "The customer address you are trying to edit does not exist. Please choose another address."
+msgstr "The customer address you are trying to edit does not exist. Please choose another address."
+
+msgctxt "PercentageDiscount"
+msgid "Percentage Discount"
+msgstr "Percentage Discount"
+
+msgctxt "FixedPrice"
+msgid "Fixed Price"
+msgstr "Fixed Price"
+
+msgctxt "PriceDiscount"
+msgid "Price Discount"
+msgstr "Price Discount"
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr "Discount"
+
+msgctxt "SelectACategory"
+msgid "Please select a category to create a discount."
+msgstr "Please select a category to create a discount."
+
+msgctxt "SelectAProduct"
+msgid "Please select a product to create a discount."
+msgstr "Please select a product to create a discount."
+
+msgctxt "FixedPriceRow"
+msgid ":price Fixed Price"
+msgstr ":price Fixed Price"
+
+msgctxt "DiscountRow"
+msgid ":price Discount"
+msgstr ":price Discount"
+
+msgctxt "CustomerGroupsInvalidCatgeory"
+msgid "Please select a valid category for the category discount #%d."
+msgstr "Please select a valid category for the category discount #%d."
+
+msgctxt "CustomerGroupsInvalidProduct"
+msgid "Please select a valid product for the product discount #%d."
+msgstr "Please select a valid product for the product discount #%d."
+
+msgctxt "CustomerGroupsInvalidCategoryAmount"
+msgid "Please enter in a valid discount amount for category discount #%d."
+msgstr "Please enter in a valid discount amount for category discount #%d."
+
+msgctxt "CustomerGroupsInvalidProductAmount"
+msgid "Please enter in a valid discount amount for product discount #%d."
+msgstr "Please enter in a valid discount amount for product discount #%d."
+
+msgctxt "CustomerGroupsDuplicateCategory"
+msgid "The category discount #%d is a duplicate for category discount #%d."
+msgstr "The category discount #%d is a duplicate for category discount #%d."
+
+msgctxt "CustomerGroupsDuplicateProduct"
+msgid "The product discount #%d is a duplicate for product discount #%d."
+msgstr "The product discount #%d is a duplicate for product discount #%d."
+
+msgctxt "CustomerGroupsEmptyCategoryList"
+msgid "Please select at least one category to be applied for this customer."
+msgstr "Please select at least one category to be applied for this customer."
+
+msgctxt "CustomerGroupEnterStoreDiscount"
+msgid "Please enter a valid storewide discount."
+msgstr "Please enter a valid storewide discount."

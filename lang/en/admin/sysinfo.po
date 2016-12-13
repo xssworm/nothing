@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "HostingProvider"
+msgid "Hosting Provider"
+msgstr "Hosting Provider"
+
+msgctxt "SystemInfo"
+msgid "System Information"
+msgstr "System Information"
+
+msgctxt "SystemInfoIntro"
+msgid "An overview of the configuration of your server can be seen below."
+msgstr "An overview of the configuration of your server can be seen below."
+
+msgctxt "ProductVersion"
+msgid "Product Version"
+msgstr "Product Version"
+
+msgctxt "PHPVersion"
+msgid "PHP Version"
+msgstr "PHP Version"
+
+msgctxt "MySQLVersion"
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+msgctxt "ServerSoftware"
+msgid "Server Software"
+msgstr "Server Software"
+
+msgctxt "GDVersion"
+msgid "GD Version"
+msgstr "GD Version"
+
+msgctxt "GDMissing"
+msgid "GD Not Detected"
+msgstr "GD Not Detected"
+
+msgctxt "RemoteConnections"
+msgid "Remote Connection Support"
+msgstr "Remote Connection Support"
+
+msgctxt "MultiByteFunctions"
+msgid "Multi-byte Functionality"
+msgstr "Multi-byte Functionality"
+
+msgctxt "SafeMode"
+msgid "Safe Mode"
+msgstr "Safe Mode"
+
+msgctxt "Disabled"
+msgid "Disabled"
+msgstr "Disabled"
+
+msgctxt "RemoteFOpen"
+msgid "fopen (Remote URLs Enabled)"
+msgstr "fopen (Remote URLs Enabled)"
+
+msgctxt "NotSupported"
+msgid "Not Supported"
+msgstr "Not Supported"
+
+msgctxt "NoneSupported"
+msgid "None Supported"
+msgstr "None Supported"
+
+msgctxt "ViewPHPInfo"
+msgid "View Full System Info"
+msgstr "View Full System Info"
+
+msgctxt "OperatingSystem"
+msgid "Operating System"
+msgstr "Operating System"
+
+msgctxt "ProductEdition"
+msgid "Product Edition"
+msgstr "Product Edition"
+
+msgctxt "PSpellFunctionality"
+msgid "PSpell Functionality"
+msgstr "PSpell Functionality"

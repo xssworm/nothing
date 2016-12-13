@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "GoogleWebsiteOptimizer"
+msgid "Google Website Optimizer"
+msgstr "Google Website Optimizer"
+
+msgctxt "GoogleWebsiteOptimizerIntro"
+msgid "Available storewide Google Website Optimizer tests are shown below. To enable a test, just click its 'Configure' link. Learn more by reading <a target='_blank' href='#' onclick='LaunchHelp(878); return false;'>this article</a>."
+msgstr "Available storewide Google Website Optimizer tests are shown below. To enable a test, just click its 'Configure' link. Learn more by reading <a target='_blank' href='#' onclick='LaunchHelp(878); return false;'>this article</a>."
+
+msgctxt "TestName"
+msgid "Test Name"
+msgstr "Test Name"
+
+msgctxt "Configured"
+msgid "Configured"
+msgstr "Configured"
+
+msgctxt "LastConfigured"
+msgid "Last Configured"
+msgstr "Last Configured"
+
+msgctxt "Actions"
+msgid "Actions"
+msgstr "Actions"
+
+msgctxt "Reset"
+msgid "Reset"
+msgstr "Reset"
+
+msgctxt "ControlScript"
+msgid "Control Script"
+msgstr "Control Script"
+
+msgctxt "TrackingScript"
+msgid "Tracking Script"
+msgstr "Tracking Script"
+
+msgctxt "ScriptInstallURL"
+msgid "Script Install URL"
+msgstr "Script Install URL"
+
+msgctxt "ConversionScript"
+msgid "Conversion Tracking Script"
+msgstr "Conversion Tracking Script"
+
+msgctxt "ConversionURL"
+msgid "Conversion URL"
+msgstr "Conversion URL"
+
+msgctxt "GenerateScript"
+msgid "Generate Script"
+msgstr "Generate Script"
+
+msgctxt "ControlScriptHelp"
+msgid "The control script ensures that the experiment variations are switched randomly and that all variations are displayed an equal number of times.<br /><br />When you paste the script URL into the text box above and click the \'Install Script\' button, the control script will be displayed here for you automatically. When you click \'Save & Launch\' the script will be added to your HTML automatically"
+msgstr "The control script ensures that the experiment variations are switched randomly and that all variations are displayed an equal number of times.<br /><br />When you paste the script URL into the text box above and click the \'Install Script\' button, the control script will be displayed here for you automatically. When you click \'Save & Launch\' the script will be added to your HTML automatically"
+
+msgctxt "Configure"
+msgid "Configure"
+msgstr "Configure"
+
+msgctxt "AutoConfigLabel"
+msgid "Install Google Website Optimizer scripts automatically"
+msgstr "Install Google Website Optimizer scripts automatically"
+
+msgctxt "ManualConfigLabel"
+msgid "Install Google Website Optimizer scripts manually"
+msgstr "Install Google Website Optimizer scripts manually"
+
+msgctxt "ConversionPageCart"
+msgid "Add To Cart Page"
+msgstr "Add To Cart Page"
+
+msgctxt "ConversionPageCheckout"
+msgid "Checkout Page"
+msgstr "Checkout Page"
+
+msgctxt "ConversionPageOrder"
+msgid "Order Confirmation Page"
+msgstr "Order Confirmation Page"
+
+msgctxt "ConversionPageAccountCreated"
+msgid "Account Created"
+msgstr "Account Created"
+
+msgctxt "ConversionPageNewsLetter"
+msgid "Newsletter Signup"
+msgstr "Newsletter Signup"
+
+msgctxt "ConversionPageCustom"
+msgid "Custom"
+msgstr "Custom"
+
+msgctxt "ConversionPage"
+msgid "Conversion Page"
+msgstr "Conversion Page"
+
+msgctxt "CustomConversionHelp"
+msgid "Choose this option if you\'d like to track a conversion for this test on a page that isn\'t listed here. You will need to manually install the conversion tracking script on this page to ensure the test results can be tracked."
+msgstr "Choose this option if you\'d like to track a conversion for this test on a page that isn\'t listed here. You will need to manually install the conversion tracking script on this page to ensure the test results can be tracked."
+
+msgctxt "ChooseAnOption"
+msgid "-- Please choose an option --"
+msgstr "-- Please choose an option --"
+
+msgctxt "InstallScript"
+msgid "Install Script"
+msgstr "Install Script"
+
+msgctxt "ChooseConvertionpage"
+msgid "Please choose a conversion page for this Google Website Optimizer test."
+msgstr "Please choose a conversion page for this Google Website Optimizer test."
+
+msgctxt "EnterInstallUrl"
+msgid "Please enter a valid Script Install URL which should be provided in Google Website Optimizer."
+msgstr "Please enter a valid Script Install URL which should be provided in Google Website Optimizer."
+
+msgctxt "MissingModuleId"
+msgid "The optimizer module ID is missing, please reload the page and try again."
+msgstr "The optimizer module ID is missing, please reload the page and try again."
+
+msgctxt "ProblemRetrivingScript"
+msgid "The 'Script Install URL' you entered was incorrect. Please make sure you've copied the entire link from Google Website Optimizer and try again."
+msgstr "The 'Script Install URL' you entered was incorrect. Please make sure you've copied the entire link from Google Website Optimizer and try again."
+
+msgctxt "ProblemWhenSavingScripts"
+msgid "A problem occurred when trying to save the scripts."
+msgstr "A problem occurred when trying to save the scripts."
+
+msgctxt "EnterControlScript"
+msgid "Please copy the control script from your Google Website Optimizer experiment setup page and paste it into the form below."
+msgstr "Please copy the control script from your Google Website Optimizer experiment setup page and paste it into the form below."
+
+msgctxt "EnterTrackingScript"
+msgid "Please copy the tracking script from your Google Website Optimizer experiment setup page and paste it into the form below."
+msgstr "Please copy the tracking script from your Google Website Optimizer experiment setup page and paste it into the form below."
+
+msgctxt "EnterConversionScript"
+msgid "Please copy the conversion script from your Google Website Optimizer experiment setup page and paste it into the form below."
+msgstr "Please copy the conversion script from your Google Website Optimizer experiment setup page and paste it into the form below."
+
+msgctxt "ConfigFormSavedSuccess"
+msgid "The Google Website Optimizer test for the %s has been saved."
+msgstr "The Google Website Optimizer test for the %s has been saved."
+
+msgctxt "ConfigFileUpdateFail"
+msgid "A problem occurred when trying to update your configuration file."
+msgstr "A problem occurred when trying to update your configuration file."
+
+msgctxt "ResetModuleFail"
+msgid "A problem occurred when trying to reset the module."
+msgstr "A problem occurred when trying to reset the module."
+
+msgctxt "InvalidModuleId"
+msgid "Invalid module specified"
+msgstr "Invalid module specified"
+
+msgctxt "ConfigFormResetSuccess"
+msgid "The test '%s' has been reset successfully."
+msgstr "The test '%s' has been reset successfully."
+
+msgctxt "MissingInfoForRequest"
+msgid "It's missing necessary information to process this request, please reload the page and try again."
+msgstr "It's missing necessary information to process this request, please reload the page and try again."
+
+msgctxt "ConversionPageUrl"
+msgid "Conversion Page URL"
+msgstr "Conversion Page URL"
+
+msgctxt "ProblemDuringRequest"
+msgid "A problem occurred during the request."
+msgstr "A problem occurred during the request."
+
+msgctxt "TestPageUrl"
+msgid "Test Page URL"
+msgstr "Test Page URL"
+
+msgctxt "VariationPageUrl"
+msgid "Variation Page URL"
+msgstr "Variation Page URL"
+
+msgctxt "ConfirmResetOptimizer"
+msgid "Are you sure you want to reset this Google Website Optimizer test and remove it from your online store? Click OK to confirm or Cancel to leave it running."
+msgstr "Are you sure you want to reset this Google Website Optimizer test and remove it from your online store? Click OK to confirm or Cancel to leave it running."
+
+msgctxt "UpdateCacheFail"
+msgid "A problem occurred when trying to update the cache file for Google Website Optimizer tests, please make sure your cache folder is writable."
+msgstr "A problem occurred when trying to update the cache file for Google Website Optimizer tests, please make sure your cache folder is writable."
+
+msgctxt "OptimizerSetupIntro"
+msgid "Click here for step-by-step instructions on setting up a Google Website Optimizer test"
+msgstr "Click here for step-by-step instructions on setting up a Google Website Optimizer test"
+
+msgctxt "InstallUrlIntro"
+msgid "Google Website Optimizer provides this URL when setting up the test"
+msgstr "Google Website Optimizer provides this URL when setting up the test"
+
+msgctxt "InstallUrlHelp"
+msgid "This is the URL that Google Website Optimizer provides you with when creating the test. If you\'re unsure how to get this, just click the blue link at the top to see step-by-step instructions on setting up a Google Website Optimizer test."
+msgstr "This is the URL that Google Website Optimizer provides you with when creating the test. If you\'re unsure how to get this, just click the blue link at the top to see step-by-step instructions on setting up a Google Website Optimizer test."
+
+msgctxt "CustomConversionPage"
+msgid "Custom Conversion Page"
+msgstr "Custom Conversion Page"
+
+msgctxt "ConversionPageHelp"
+msgid "When a shopper arrives at the conversion page, a conversion will be marked against this Google Website Optimizer test showing the different combinations that were displayed to the shopper."
+msgstr "When a shopper arrives at the conversion page, a conversion will be marked against this Google Website Optimizer test showing the different combinations that were displayed to the shopper."
+
+msgctxt "TrackingScriptHelp"
+msgid "The tracking script ensures that visits to both the test page and the conversion page are tracked by Google Website Optimizer for the experiment.<br /><br />When you paste the script URL into the text box above and click the \'Install Script\' button, the tracking script will be displayed here for you automatically. When you click \'Save & Launch\' the script will be added to your HTML automatically."
+msgstr "The tracking script ensures that visits to both the test page and the conversion page are tracked by Google Website Optimizer for the experiment.<br /><br />When you paste the script URL into the text box above and click the \'Install Script\' button, the tracking script will be displayed here for you automatically. When you click \'Save & Launch\' the script will be added to your HTML automatically."
+
+msgctxt "ConversionScriptHelp"
+msgid "The conversion tracking script is used by Google Website Optimizer to track a successful conversion for this test.<br /><br />When you paste the script URL into the text box above and click the \'Install Script\' button, the conversion tracking script will be displayed here for you automatically. When you click \'Save & Launch\' the script will be added to your HTML automatically."
+msgstr "The conversion tracking script is used by Google Website Optimizer to track a successful conversion for this test.<br /><br />When you paste the script URL into the text box above and click the \'Install Script\' button, the conversion tracking script will be displayed here for you automatically. When you click \'Save & Launch\' the script will be added to your HTML automatically."
+
+msgctxt "SaveAndLaunch"
+msgid "Save & Launch"
+msgstr "Save & Launch"
+
+msgctxt "TestConfigHeadline"
+msgid "Setup a Google Website Optimizer test for the "
+msgstr "Setup a Google Website Optimizer test for the "
+
+msgctxt "EnterValidConversionUrl"
+msgid "Please enter a valid conversion page URL starting with http:// or https://."
+msgstr "Please enter a valid conversion page URL starting with http:// or https://."
+
+msgctxt "TestType"
+msgid "Test Type"
+msgstr "Test Type"
+
+msgctxt "ABExperiment"
+msgid "A/B Experiment"
+msgstr "A/B Experiment"
+
+msgctxt "MultivariateExperiment"
+msgid "Multivariate Experiment"
+msgstr "Multivariate Experiment"
+
+msgctxt "OriginalPageUrl"
+msgid "Original Page URL"
+msgstr "Original Page URL"

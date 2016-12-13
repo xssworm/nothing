@@ -1,0 +1,670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "LogTypeSql"
+msgid "Database"
+msgstr "Database"
+
+msgctxt "LogTypeShipping"
+msgid "Shipping Quote"
+msgstr "Shipping Quote"
+
+msgctxt "LogTypePayment"
+msgid "Payment Gateway"
+msgstr "Payment Gateway"
+
+msgctxt "LogTypeNotification"
+msgid "Notification System"
+msgstr "Notification System"
+
+msgctxt "LogTypePhp"
+msgid "PHP"
+msgstr "PHP"
+
+msgctxt "LogSeverity1"
+msgid "Success"
+msgstr "Success"
+
+msgctxt "LogSeverity2"
+msgid "Notice"
+msgstr "Notice"
+
+msgctxt "LogSeverity3"
+msgid "Warning"
+msgstr "Warning"
+
+msgctxt "LogSeverity4"
+msgid "Error"
+msgstr "Error"
+
+msgctxt "SystemLogsDeletedSuccessfully"
+msgid "The selected system logs have been deleted successfully."
+msgstr "The selected system logs have been deleted successfully."
+
+msgctxt "ChooseLogEntry"
+msgid "Please choose one or more log entries to delete."
+msgstr "Please choose one or more log entries to delete."
+
+msgctxt "ConfirmDeleteLogEntries"
+msgid "Are you sure you want to delete the selected log entries? Click OK to confirm."
+msgstr "Are you sure you want to delete the selected log entries? Click OK to confirm."
+
+msgctxt "StoreLogsIntro"
+msgid "When an event (such as placing an order) takes place in your store, a log entry is created. The event types you've chosen to log are shown below."
+msgstr "When an event (such as placing an order) takes place in your store, a log entry is created. The event types you've chosen to log are shown below."
+
+msgctxt "SystemLogIntro"
+msgid "The system log keeps track of all events that have taken place in the public area of your store. You can configure log preferences from the settings page."
+msgstr "The system log keeps track of all events that have taken place in the public area of your store. You can configure log preferences from the settings page."
+
+msgctxt "AdminLogIntro"
+msgid "The staff log keeps track of all of the events that have taken place in the control panel of your store. You can configure log preferences from the settings page."
+msgstr "The staff log keeps track of all of the events that have taken place in the control panel of your store. You can configure log preferences from the settings page."
+
+msgctxt "LogAllSeverities"
+msgid "-- All Severities --"
+msgstr "-- All Severities --"
+
+msgctxt "LogAllTypes"
+msgid "-- All Types --"
+msgstr "-- All Types --"
+
+msgctxt "LogSearchGeneral"
+msgid "General Messages"
+msgstr "General Messages"
+
+msgctxt "LogSearchPayment"
+msgid "Payment Gateways"
+msgstr "Payment Gateways"
+
+msgctxt "LogSearchShipping"
+msgid "Shipping Quotes"
+msgstr "Shipping Quotes"
+
+msgctxt "LogSearchNotification"
+msgid "Notification System"
+msgstr "Notification System"
+
+msgctxt "LogSearchSQL"
+msgid "Database Errors"
+msgstr "Database Errors"
+
+msgctxt "LogSearchPHP"
+msgid "PHP Errors"
+msgstr "PHP Errors"
+
+msgctxt "LogSeverity"
+msgid "Severity"
+msgstr "Severity"
+
+msgctxt "SeveritySortAsc"
+msgid "Sort by Severity (ascending)"
+msgstr "Sort by Severity (ascending)"
+
+msgctxt "SeveritySortDesc"
+msgid "Sort by Severity (descending)"
+msgstr "Sort by Severity (descending)"
+
+msgctxt "LogType"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "TypeSortAsc"
+msgid "Sort by Type (ascending)"
+msgstr "Sort by Type (ascending)"
+
+msgctxt "TypeSortDesc"
+msgid "Sort by Type (descending)"
+msgstr "Sort by Type (descending)"
+
+msgctxt "LogModule"
+msgid "Module"
+msgstr "Module"
+
+msgctxt "ModuleSortAsc"
+msgid "Sort by Module (ascending)"
+msgstr "Sort by Module (ascending)"
+
+msgctxt "ModuleSortDesc"
+msgid "Sort by Module (descending)"
+msgstr "Sort by Module (descending)"
+
+msgctxt "LogSummary"
+msgid "Summary"
+msgstr "Summary"
+
+msgctxt "SummarySortAsc"
+msgid "Sort by Summary (ascending)"
+msgstr "Sort by Summary (ascending)"
+
+msgctxt "SummarySortDesc"
+msgid "Sort by Summary (descending)"
+msgstr "Sort by Summary (descending)"
+
+msgctxt "AllAdministrators"
+msgid "-- All Staff --"
+msgstr "-- All Staff --"
+
+msgctxt "SystemLogEmpty"
+msgid "The system log is currently empty."
+msgstr "The system log is currently empty."
+
+msgctxt "SystemLogNoResults"
+msgid "No log entries were found that matched your filters or search keywords."
+msgstr "No log entries were found that matched your filters or search keywords."
+
+msgctxt "AdminLogEmpty"
+msgid "The staff log is currently empty."
+msgstr "The staff log is currently empty."
+
+msgctxt "AdminLogNoResults"
+msgid "There are no staff log entries for the user %s."
+msgstr "There are no staff log entries for the user %s."
+
+msgctxt "LoggingDisabled"
+msgid "All logging methods are currently disabled. To enable logging, please visit the settings page."
+msgstr "All logging methods are currently disabled. To enable logging, please visit the settings page."
+
+msgctxt "NoLogEntries"
+msgid "Currently there are no system messages or staff action log entries."
+msgstr "Currently there are no system messages or staff action log entries."
+
+msgctxt "SystemLogClearedSuccessfully"
+msgid "All entries in the system log have been deleted."
+msgstr "All entries in the system log have been deleted."
+
+msgctxt "AdminLogClearedSuccessfully"
+msgid "All entries in the staff log have been deleted."
+msgstr "All entries in the staff log have been deleted."
+
+msgctxt "AdminLogsDeletedSuccessfully"
+msgid "The selected staff log entries have been deleted successfully."
+msgstr "The selected staff log entries have been deleted successfully."
+
+msgctxt "ConfirmDeleteAllAdminLogEntries"
+msgid "Are you sure you want to clear the staff log?"
+msgstr "Are you sure you want to clear the staff log?"
+
+msgctxt "ConfirmDeleteAllSystemLogEntries"
+msgid "Are you sure you want to clear the system log?"
+msgstr "Are you sure you want to clear the system log?"
+
+msgctxt "SystemLog"
+msgid "System Log"
+msgstr "System Log"
+
+msgctxt "AdministratorLog"
+msgid "Staff Action Log"
+msgstr "Staff Action Log"
+
+msgctxt "DeleteAll"
+msgid "Delete All"
+msgstr "Delete All"
+
+msgctxt "AdministratorLogAction_saveUpdatedSettings"
+msgid "Updated store settings"
+msgstr "Updated store settings"
+
+msgctxt "AdministratorLogAction_editProduct2"
+msgid "Updated product <a href='index.php?ToDo=editProduct&amp;productId=%d'>%s</a>"
+msgstr "Updated product <a href='index.php?ToDo=editProduct&amp;productId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_processLoginValid"
+msgid "Successfully logged in"
+msgstr "Successfully logged in"
+
+msgctxt "AdministratorLogAction_processLoginInvalid"
+msgid "Attempted to login as %2$s"
+msgstr "Attempted to login as %2$s"
+
+msgctxt "AdministratorLogAction_exportCustomersCSV"
+msgid "Exported customers to CSV file"
+msgstr "Exported customers to CSV file"
+
+msgctxt "AdministratorLogAction_exportCustomersXML"
+msgid "Exported customers to XML file"
+msgstr "Exported customers to XML file"
+
+msgctxt "AdministratorLogAction_deleteProducts"
+msgid "Deleted %s product(s)"
+msgstr "Deleted %s product(s)"
+
+msgctxt "AdministratorLogAction_editProductVisibility"
+msgid "Changed visibility of product <a href='index.php?ToDo=editProduct&amp;productId=%d'>%s</a>"
+msgstr "Changed visibility of product <a href='index.php?ToDo=editProduct&amp;productId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_addProduct2"
+msgid "Added product <a href='index.php?ToDo=editProduct&amp;productId=%d'>%s</a>"
+msgstr "Added product <a href='index.php?ToDo=editProduct&amp;productId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_saveCategory"
+msgid "Added category  <a href='index.php?ToDo=editCategory&amp;catId=%d'>%s</a>"
+msgstr "Added category  <a href='index.php?ToDo=editCategory&amp;catId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_saveUpdatedCategory"
+msgid "Updated category <a href='index.php?ToDo=editCategory&amp;catId=%d'>%s</a>"
+msgstr "Updated category <a href='index.php?ToDo=editCategory&amp;catId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_addNews2"
+msgid "Added news item <a href='index.php?ToDo=editNews&amp;newsId=%d'>%s</a>"
+msgstr "Added news item <a href='index.php?ToDo=editNews&amp;newsId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_editNews2"
+msgid "Updated news item <a href='index.php?ToDo=editNews&amp;newsId=%d'>%s</a>"
+msgstr "Updated news item <a href='index.php?ToDo=editNews&amp;newsId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_editNewsVisibility"
+msgid "Changed visibility of news item <a href='index.php?ToDo=editNews&amp;newsId=%d'>%s</a>"
+msgstr "Changed visibility of news item <a href='index.php?ToDo=editNews&amp;newsId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_deleteNews"
+msgid "Deleted %s news item(s)"
+msgstr "Deleted %s news item(s)"
+
+msgctxt "AdministratorLogAction_createBanner2"
+msgid "Added banner <a href='index.php?ToDo=editBanner&amp;bannerId=%d'>%s</a>"
+msgstr "Added banner <a href='index.php?ToDo=editBanner&amp;bannerId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_editBanner2"
+msgid "Updated banner <a href='index.php?ToDo=editBanner&amp;bannerId=%d'>%s</a>"
+msgstr "Updated banner <a href='index.php?ToDo=editBanner&amp;bannerId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_editBannerVisibility"
+msgid "Changed visibility of banner <a href='index.php?ToDo=editBanner&amp;bannerId=%d'>%s</a>"
+msgstr "Changed visibility of banner <a href='index.php?ToDo=editBanner&amp;bannerId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_editCoupon2"
+msgid "Updated coupon <a href='index.php?ToDo=editCoupon&amp;couponId=%d'>%s</a>"
+msgstr "Updated coupon <a href='index.php?ToDo=editCoupon&amp;couponId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_createCoupon2"
+msgid "Created coupon <a href='index.php?ToDo=editCoupon&amp;couponId=%d'>%s</a>"
+msgstr "Created coupon <a href='index.php?ToDo=editCoupon&amp;couponId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_clearSearchStats"
+msgid "Cleared search statistics"
+msgstr "Cleared search statistics"
+
+msgctxt "AdministratorLogAction_saveUpdatedShippingSettings"
+msgid "Updated shipping settings"
+msgstr "Updated shipping settings"
+
+msgctxt "AdministratorLogAction_SettingsSaveUpdatedTaxRate"
+msgid "Updated tax settings"
+msgstr "Updated tax settings"
+
+msgctxt "AdministratorLogAction_settingsEditTaxStatus"
+msgid "Changed status of tax rate <a href='#%d'>%s</a>"
+msgstr "Changed status of tax rate <a href='#%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_settingsDeleteTaxRates"
+msgid "Deleted %s tax rate(s)"
+msgstr "Deleted %s tax rate(s)"
+
+msgctxt "AdministratorLogAction_saveUpdatedCheckoutSettings"
+msgid "Updated checkout settings"
+msgstr "Updated checkout settings"
+
+msgctxt "AdministratorLogAction_saveUpdatedMailSettings"
+msgid "Updated Interspire Email Marketer integration settings"
+msgstr "Updated Interspire Email Marketer integration settings"
+
+msgctxt "AdministratorLogAction_CreateBackup2"
+msgid "Created backup %s"
+msgstr "Created backup %s"
+
+msgctxt "AdministratorLogAction_deleteBackups"
+msgid "Deleted %s backup(s)"
+msgstr "Deleted %s backup(s)"
+
+msgctxt "AdministratorLogAction_deleteCategory"
+msgid "Deleted %s categories"
+msgstr "Deleted %s categories"
+
+msgctxt "AdministratorLogAction_exportFroogle"
+msgid "Exported products to Froogle feed"
+msgstr "Exported products to Froogle feed"
+
+msgctxt "AdministratorLogAction_SaveEditedBrand"
+msgid "Updated brand <a href='index.php?ToDo=editBrand&amp;brandId=%d'>%s</a>"
+msgstr "Updated brand <a href='index.php?ToDo=editBrand&amp;brandId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_editUser2"
+msgid "Updated user <a href='index.php?ToDo=editUser2&amp;userId=%d'>%s</a>"
+msgstr "Updated user <a href='index.php?ToDo=editUser2&amp;userId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_deleteAllSystemLogs"
+msgid "Cleared system logs"
+msgstr "Cleared system logs"
+
+msgctxt "AdministratorLogAction_updateOrderStatus"
+msgid "Changed status of order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%d'>#%1$d</a> to %s"
+msgstr "Changed status of order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%d'>#%1$d</a> to %s"
+
+msgctxt "AdministratorLogAction_updateTrackingNo"
+msgid "Changed tracking # of order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%d'>#%1$d</a> to %s"
+msgstr "Changed tracking # of order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%d'>#%1$d</a> to %s"
+
+msgctxt "AdministratorLogAction_saveNewOrderMessage"
+msgid "Sent message <a href='index.php?ToDo=viewOrderMessages&amp;orderId=%2$d'>#%1$d</a> for order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%2$d'>#%2$d</a>"
+msgstr "Sent message <a href='index.php?ToDo=viewOrderMessages&amp;orderId=%2$d'>#%1$d</a> for order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%2$d'>#%2$d</a>"
+
+msgctxt "AdministratorLogAction_saveUpdatedOrderMessage"
+msgid "Updated message <a href='index.php?ToDo=viewOrderMessages&amp;orderId=%2$d'>#%1$d</a> for order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%2$d'>#%2$d</a>"
+msgstr "Updated message <a href='index.php?ToDo=viewOrderMessages&amp;orderId=%2$d'>#%1$d</a> for order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%2$d'>#%2$d</a>"
+
+msgctxt "AdministratorLogAction_flagOrderMessageFlagged"
+msgid "Flagged message <a href='index.php?ToDo=viewOrderMessages&amp;orderId=%3$d'>#%1$d</a> for order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%3$d'>#%3$d</a>"
+msgstr "Flagged message <a href='index.php?ToDo=viewOrderMessages&amp;orderId=%3$d'>#%1$d</a> for order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%3$d'>#%3$d</a>"
+
+msgctxt "AdministratorLogAction_flagOrderMessageUnFlagged"
+msgid "Unflagged message <a href='index.php?ToDo=viewOrderMessages&amp;orderId=%3$d'>#%1$d</a> for order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%3$d'>#%3$d</a>"
+msgstr "Unflagged message <a href='index.php?ToDo=viewOrderMessages&amp;orderId=%3$d'>#%1$d</a> for order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%3$d'>#%3$d</a>"
+
+msgctxt "AdministratorLogAction_deleteOrderMessages"
+msgid "Deleted %s message(s) from order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%d'>#%d</a>"
+msgstr "Deleted %s message(s) from order <a href='index.php?ToDo=viewOrders&amp;searchQuery=%d'>#%d</a>"
+
+msgctxt "AdministratorLogAction_exportOrdersCSV"
+msgid "Exported orders to CSV file"
+msgstr "Exported orders to CSV file"
+
+msgctxt "AdministratorLogAction_exportOrdersXML"
+msgid "Exported orders to XML file"
+msgstr "Exported orders to XML file"
+
+msgctxt "AdministratorLogAction_deleteOrders"
+msgid "Deleted %s order(s)"
+msgstr "Deleted %s order(s)"
+
+msgctxt "AdministratorLogAction_deleteCustomers"
+msgid "Deleted %s customer(s)"
+msgstr "Deleted %s customer(s)"
+
+msgctxt "AdministratorLogAction_exportProductsCSV"
+msgid "Exported products to CSV file"
+msgstr "Exported products to CSV file"
+
+msgctxt "AdministratorLogAction_exportProductsXML"
+msgid "Exported products to XML file"
+msgstr "Exported products to XML file"
+
+msgctxt "AdministratorLogAction_deleteProductDownload"
+msgid "Deleted product download %2$s from <a href='index.php?ToDo=editProduct&amp;productId=%3$d'>%4$s</a>"
+msgstr "Deleted product download %2$s from <a href='index.php?ToDo=editProduct&amp;productId=%3$d'>%4$s</a>"
+
+msgctxt "AdministratorLogAction_saveProductDownloadCreated"
+msgid "Uploaded product download %3$s for <a href='index.php?ToDo=editProduct&amp;productId=%4$d'>#%5$s</a>"
+msgstr "Uploaded product download %3$s for <a href='index.php?ToDo=editProduct&amp;productId=%4$d'>#%5$s</a>"
+
+msgctxt "AdministratorLogAction_saveProductDownloadUpdated"
+msgid "Updated product download %3$s for <a href='index.php?ToDo=editProduct&amp;productId=%4$d'>%5$s</a>"
+msgstr "Updated product download %3$s for <a href='index.php?ToDo=editProduct&amp;productId=%4$d'>%5$s</a>"
+
+msgctxt "AdministratorLogAction_approveReviews"
+msgid "Approved %d review(s)"
+msgstr "Approved %d review(s)"
+
+msgctxt "AdministratorLogAction_deleteReviews"
+msgid "Deleted %d review(s)"
+msgstr "Deleted %d review(s)"
+
+msgctxt "AdministratorLogAction_disapproveReviews"
+msgid "Disapproved %d review(s)"
+msgstr "Disapproved %d review(s)"
+
+msgctxt "AdministratorLogAction_deleteGiftCertificates"
+msgid "Deleted %s gift certificates"
+msgstr "Deleted %s gift certificates"
+
+msgctxt "AdministratorLogAction_saveQuickCategory"
+msgid "Created category <a href='index.php?ToDo=editCategory&amp;categoryId=%s'>%s</a>"
+msgstr "Created category <a href='index.php?ToDo=editCategory&amp;categoryId=%s'>%s</a>"
+
+msgctxt "AdministratorLogAction_saveUpdatedGiftCertificateSettings"
+msgid "Updated gift certificate settings"
+msgstr "Updated gift certificate settings"
+
+msgctxt "AdministratorLogAction_saveUpdatedReturnsSettings"
+msgid "Updated returns settings"
+msgstr "Updated returns settings"
+
+msgctxt "AdministratorLogAction_ImportProducts"
+msgid "Imported %s products"
+msgstr "Imported %s products"
+
+msgctxt "AdministratorLogAction_ImportCustomers"
+msgid "Imported %s customer"
+msgstr "Imported %s customer"
+
+msgctxt "AdministratorLogAction_editProductFeatured"
+msgid "Changed featured status of product <a href='index.php?ToDo=editProduct&amp;productId=%s'>%s</a>"
+msgstr "Changed featured status of product <a href='index.php?ToDo=editProduct&amp;productId=%s'>%s</a>"
+
+msgctxt "AdministratorLogAction_searchReturnsRedirect"
+msgid "Created view for returns <a href='index.php?ToDo=ToDo=customReturnSearch&amp;searchId=%s'>%s</a>"
+msgstr "Created view for returns <a href='index.php?ToDo=ToDo=customReturnSearch&amp;searchId=%s'>%s</a>"
+
+msgctxt "AdministratorLogAction_searchGiftCertificatesRedirect"
+msgid "Created view for gift certificates <a href='index.php?ToDo=ToDo=customGiftCertificateSearch&amp;searchId=%s'>%s</a>"
+msgstr "Created view for gift certificates <a href='index.php?ToDo=ToDo=customGiftCertificateSearch&amp;searchId=%s'>%s</a>"
+
+msgctxt "AdministratorLogAction_searchOrdersRedirect"
+msgid "Created view for orders <a href='index.php?ToDo=ToDo=customOrderSearch&amp;searchId=%s'>%s</a>"
+msgstr "Created view for orders <a href='index.php?ToDo=ToDo=customOrderSearch&amp;searchId=%s'>%s</a>"
+
+msgctxt "AdministratorLogAction_exportSubscribers"
+msgid "Exported newsletter subscribers to CSV file"
+msgstr "Exported newsletter subscribers to CSV file"
+
+msgctxt "AdministratorLogAction_runAddon"
+msgid "Ran addon <a href='index.php?ToDo=runAddon&addon=%s'>%s</a>"
+msgstr "Ran addon <a href='index.php?ToDo=runAddon&addon=%s'>%s</a>"
+
+msgctxt "AdministratorLogAction_saveUpdatedAddonSettings"
+msgid "Updated addon settings"
+msgstr "Updated addon settings"
+
+msgctxt "AdministratorLogAction_downloadAddonZip"
+msgid "Downloaded a new addon"
+msgstr "Downloaded a new addon"
+
+msgctxt "AdministratorLogAction_updatePerOptionInventoryLevels"
+msgid "Updated inventory levels for product <a href='index.php?ToDo=viewProducts&amp;searchQuery=%d'>#%d</a> to current stock %d, low stock level %d."
+msgstr "Updated inventory levels for product <a href='index.php?ToDo=viewProducts&amp;searchQuery=%d'>#%d</a> to current stock %d, low stock level %d."
+
+msgctxt "AdministratorLogAction_updatePerProductInventoryLevels"
+msgid "Updated inventory levels for product <a href='index.php?ToDo=viewProducts&amp;searchQuery=%d'>#%d</a> to current stock %d, low stock level %d."
+msgstr "Updated inventory levels for product <a href='index.php?ToDo=viewProducts&amp;searchQuery=%d'>#%d</a> to current stock %d, low stock level %d."
+
+msgctxt "AdministratorLogAction_saveExportTemplate"
+msgid "Added export template <a href='index.php?ToDo=editExportTemplate&amp;tempId=%d'>%s</a>"
+msgstr "Added export template <a href='index.php?ToDo=editExportTemplate&amp;tempId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_updateExportTemplate"
+msgid "Updated export template <a href='index.php?ToDo=editExportTemplate&amp;tempId=%d'>%s</a>"
+msgstr "Updated export template <a href='index.php?ToDo=editExportTemplate&amp;tempId=%d'>%s</a>"
+
+msgctxt "AdministratorLogAction_deleteExportTemplate"
+msgid "Deleted %s export templates"
+msgstr "Deleted %s export templates"
+
+msgctxt "AdministratorLogAction_runExport"
+msgid "Exported %s using &quot;%s&quot; template (%s)"
+msgstr "Exported %s using &quot;%s&quot; template (%s)"
+
+msgctxt "AdministratorLogAction_createUser2"
+msgid "Created user account %s"
+msgstr "Created user account %s"
+
+msgctxt "AdministratorLogAction_SaveUpdatedShippingZone"
+msgid "Updated shipping zone %2$s"
+msgstr "Updated shipping zone %2$s"
+
+msgctxt "AdministratorLogAction_SaveUpdatedShippingZoneMethod"
+msgid "Updated shipping method %2$s"
+msgstr "Updated shipping method %2$s"
+
+msgctxt "AdministratorLogAction_SaveNewShippingZoneMethod"
+msgid "Created shipping method %2$s"
+msgstr "Created shipping method %2$s"
+
+msgctxt "AdministratorLogAction_SaveNewShippingZone"
+msgid "Created shipping zone %s"
+msgstr "Created shipping zone %s"
+
+msgctxt "AdministratorLogAction_settingsSaveTaxSettings"
+msgid "Updated tax settings"
+msgstr "Updated tax settings"
+
+msgctxt "AdministratorLogAction_SettingsSaveNewTaxRate"
+msgid "Created new tax rate %2$s"
+msgstr "Created new tax rate %2$s"
+
+msgctxt "AdministratorLogAction_saveUpdatedNotificationSettings"
+msgid "Updated store notification settings"
+msgstr "Updated store notification settings"
+
+msgctxt "AdministratorLogAction_deleteSystemLogs"
+msgid "Cleared system logs"
+msgstr "Cleared system logs"
+
+msgctxt "AdministratorLogAction_saveUpdatedAnalyticsSettings"
+msgid "Updated analytics settings"
+msgstr "Updated analytics settings"
+
+msgctxt "AdministratorLogAction_saveUpdatedLiveChatSettings"
+msgid "Updated live chat settings"
+msgstr "Updated live chat settings"
+
+msgctxt "AdministratorLogAction_editFile"
+msgid "Updated template file %s"
+msgstr "Updated template file %s"
+
+msgctxt "ClickToViewLogInfo"
+msgid "Expand log message"
+msgstr "Expand log message"
+
+msgctxt "IPSortDesc"
+msgid "Sort by IP Address (descending)"
+msgstr "Sort by IP Address (descending)"
+
+msgctxt "IPSortAsc"
+msgid "Sort by IP Address (ascending)"
+msgstr "Sort by IP Address (ascending)"
+
+msgctxt "LogTypeGeneral"
+msgid "General"
+msgstr "General"
+
+msgctxt "AdministratorLogAction_reassignCategory"
+msgid "%d categories have been deleted and their products have been reassigned"
+msgstr "%d categories have been deleted and their products have been reassigned"
+
+msgctxt "LogSearchEmailIntegration"
+msgid "Email Integration"
+msgstr "Email Integration"
+
+msgctxt "LogTypeEmailintegration"
+msgid "Email Integration"
+msgstr "Email Integration"
+
+msgctxt "LogTypeEbay"
+msgid "eBay"
+msgstr "eBay"
+
+msgctxt "LogSearchEbay"
+msgid "eBay"
+msgstr "eBay"
+
+msgctxt "LogTypeShoppingcomparison"
+msgid "Shopping Comparison"
+msgstr "Shopping Comparison"
+
+msgctxt "LogSearchShoppingComparison"
+msgid "Shopping Comparison"
+msgstr "Shopping Comparison"
+
+msgctxt "AdministratorLogAction_saveEbay"
+msgid "Updated Sell on eBay settings"
+msgstr "Updated Sell on eBay settings"
+
+msgctxt "AdministratorLogAction_GetEbayStore"
+msgid "Updated eBay Store"
+msgstr "Updated eBay Store"
+
+msgctxt "AdministratorLogAction_saveTaxSettings"
+msgid "Saved updated tax settings"
+msgstr "Saved updated tax settings"
+
+msgctxt "AdministratorLogAction_saveTaxClasses"
+msgid "Saved updated tax classes"
+msgstr "Saved updated tax classes"
+
+msgctxt "AdministratorLogAction_toggleTaxRateStatus"
+msgid "Toggled status of tax rate %3$s"
+msgstr "Toggled status of tax rate %3$s"
+
+msgctxt "AdministratorLogAction_toggleTaxZoneStatus"
+msgid "Toggled the status of tax zone %2$s"
+msgstr "Toggled the status of tax zone %2$s"
+
+msgctxt "AdministratorLogAction_saveNewTaxRate"
+msgid "Created new tax rate %4$s in tax zone %2$s"
+msgstr "Created new tax rate %4$s in tax zone %2$s"
+
+msgctxt "AdministratorLogAction_saveUpdatedTaxRate"
+msgid "Updated tax rate %4$s in tax zone %2$s"
+msgstr "Updated tax rate %4$s in tax zone %2$s"
+
+msgctxt "AdministratorLogAction_saveUpdatedTaxZone"
+msgid "Updated the tax zone %2$s"
+msgstr "Updated the tax zone %2$s"
+
+msgctxt "AdministratorLogAction_deleteTaxZones"
+msgid "Deleted %s tax zone(s)"
+msgstr "Deleted %s tax zone(s)"
+
+msgctxt "AdministratorLogAction_saveNewTaxZone"
+msgid "Created new tax zone %2$s"
+msgstr "Created new tax zone %2$s"
+
+msgctxt "AdministratorLogAction_rebuildTaxZonePrices"
+msgid "Rebuilt product pricing with tax changes"
+msgstr "Rebuilt product pricing with tax changes"
+
+msgctxt "AdministratorLogAction_copyTaxRate"
+msgid "Copied the tax rate %2$s to %4$s"
+msgstr "Copied the tax rate %2$s to %4$s"
+
+msgctxt "AdministratorLogAction_deleteTaxRates"
+msgid "Deleted %s tax rate(s)"
+msgstr "Deleted %s tax rate(s)"
+
+msgctxt "AdministratorLogAction_copyTaxZone"
+msgid "Copied the tax zone %2$s to %3$s"
+msgstr "Copied the tax zone %2$s to %3$s"
+
+msgctxt "AdministratorLogAction_deleteAdminLogs"
+msgid "Cleared staff action logs"
+msgstr "Cleared staff action logs"
+
+msgctxt "AdministratorLogAction_deleteAllAdminLogs"
+msgid "Cleared staff action logs"
+msgstr "Cleared staff action logs"
+
+msgctxt "AdministratorLogAction_undeleteOrders"
+msgid "Restored %s order(s)"
+msgstr "Restored %s order(s)"
+
+msgctxt "AdministratorLogAction_purgeOrders"
+msgid "Permanently removed %s order(s)"
+msgstr "Permanently removed %s order(s)"

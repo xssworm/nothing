@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unreal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xssworm.com\n"
+"Last-Translator: xssworm <translate@xssworm.com>\n"
+"PO-Revision-Date: 2016-12-03 01:19:42+0000\n"
+
+msgctxt "ViewExportTemplates"
+msgid "View Export Templates"
+msgstr "View Export Templates"
+
+msgctxt "ManageExportTemplates"
+msgid "Manage Export Templates"
+msgstr "Manage Export Templates"
+
+msgctxt "ManageExportTemplatesIntro"
+msgid "Export templates are a quick and easy way to specify which fields (and in what order) you want to export for orders, customers and/or products in your store."
+msgstr "Export templates are a quick and easy way to specify which fields (and in what order) you want to export for orders, customers and/or products in your store."
+
+msgctxt "FormExportTemplateIntro"
+msgid "Use the form below to create an export template. You can drag and drop fields to change their order or untick so they are not included."
+msgstr "Use the form below to create an export template. You can drag and drop fields to change their order or untick so they are not included."
+
+msgctxt "NoExportTemplates"
+msgid "No templates have been created. Please click the &quot;Create Template&quot; button to add one."
+msgstr "No templates have been created. Please click the &quot;Create Template&quot; button to add one."
+
+msgctxt "NoExportTemplatesFound"
+msgid "No templates could be found. Click <a href='index.php?ToDo=createExportTemplate'>here</a> to create a template."
+msgstr "No templates could be found. Click <a href='index.php?ToDo=createExportTemplate'>here</a> to create a template."
+
+msgctxt "AddExportTemplate"
+msgid "Create an Export Template"
+msgstr "Create an Export Template"
+
+msgctxt "EditTemplateTitle"
+msgid "Edit Export Template"
+msgstr "Edit Export Template"
+
+msgctxt "EditExportTemplate"
+msgid "Edit this Export Template"
+msgstr "Edit this Export Template"
+
+msgctxt "ExportTemplateTitle"
+msgid "Title"
+msgstr "Title"
+
+msgctxt "ConfirmDeleteExportTemplates"
+msgid "Are you sure you want to delete the selected export templates? Click OK to confirm."
+msgstr "Are you sure you want to delete the selected export templates? Click OK to confirm."
+
+msgctxt "ConfirmDeleteExportTemplate"
+msgid "Are you sure you want to delete the selected export template? Click OK to confirm."
+msgstr "Are you sure you want to delete the selected export template? Click OK to confirm."
+
+msgctxt "ChooseExportTemplate"
+msgid "Please choose at least one template to delete."
+msgstr "Please choose at least one template to delete."
+
+msgctxt "CancelCreateTemplate"
+msgid "Are you sure you want to cancel creating a new template? Click OK to confirm."
+msgstr "Are you sure you want to cancel creating a new template? Click OK to confirm."
+
+msgctxt "CancelEditTemplate"
+msgid "Are you sure you want to cancel editing this template? Click OK to confirm."
+msgstr "Are you sure you want to cancel editing this template? Click OK to confirm."
+
+msgctxt "ExportTemplateDetails"
+msgid "Template Details"
+msgstr "Template Details"
+
+msgctxt "ExportTemplateName"
+msgid "Template Name"
+msgstr "Template Name"
+
+msgctxt "TemplateNameHelp"
+msgid "The template name is displayed when choosing a particular template to use for an export."
+msgstr "The template name is displayed when choosing a particular template to use for an export."
+
+msgctxt "DataFormat"
+msgid "Field Formatting Options"
+msgstr "Field Formatting Options"
+
+msgctxt "DateFormat"
+msgid "Date Format"
+msgstr "Date Format"
+
+msgctxt "DateFormatHelp"
+msgid "Date fields will be formatted according to the selection."
+msgstr "Date fields will be formatted according to the selection."
+
+msgctxt "PriceFormat"
+msgid "Price Format"
+msgstr "Price Format"
+
+msgctxt "PriceFormatHelp"
+msgid "Price fields will be formatted according to the selection."
+msgstr "Price fields will be formatted according to the selection."
+
+msgctxt "TemplateSavedSuccessfully"
+msgid "Template &quot;%s&quot; was created successfully."
+msgstr "Template &quot;%s&quot; was created successfully."
+
+msgctxt "TemplateNotCreated"
+msgid "There was a problem creating the template &quot;%s&quot;."
+msgstr "There was a problem creating the template &quot;%s&quot;."
+
+msgctxt "TemplateNotUpdated"
+msgid "There was a problem updating the template &quot;%s&quot;."
+msgstr "There was a problem updating the template &quot;%s&quot;."
+
+msgctxt "TemplateUpdatedSuccessfully"
+msgid "The template &quot;%s&quot; was updated successfully."
+msgstr "The template &quot;%s&quot; was updated successfully."
+
+msgctxt "TemplateAlreadyExists"
+msgid "A template called &quot;%s&quot; already exists."
+msgstr "A template called &quot;%s&quot; already exists."
+
+msgctxt "TemplateDeletedSuccessfully"
+msgid "The selected templates have been permanently removed."
+msgstr "The selected templates have been permanently removed."
+
+msgctxt "NoTemplateId"
+msgid "No template was specified"
+msgstr "No template was specified"
+
+msgctxt "TemplateNotFound"
+msgid "The specified template could not be found"
+msgstr "The specified template could not be found"
+
+msgctxt "CreateExportTemplateIntro"
+msgid "This is the create export template intro"
+msgstr "This is the create export template intro"
+
+msgctxt "NoTemplateName"
+msgid "Please enter a name for this export template."
+msgstr "Please enter a name for this export template."
+
+msgctxt "NoFilesSelected"
+msgid "Please select at least one file type."
+msgstr "Please select at least one file type."
+
+msgctxt "NoPriceFormat"
+msgid "Please select a price format."
+msgstr "Please select a price format."
+
+msgctxt "NoDateFormat"
+msgid "Please select a date format."
+msgstr "Please select a date format."
+
+msgctxt "FieldNoHeader"
+msgid "A name is required for the field "
+msgstr "A name is required for the field "
+
+msgctxt "FailedToUpdateField"
+msgid "An error occurred updating the field &quot;%s&quot;."
+msgstr "An error occurred updating the field &quot;%s&quot;."
+
+msgctxt "FailedToAddField"
+msgid "An error occurred creating the field &quot;%s&quot;."
+msgstr "An error occurred creating the field &quot;%s&quot;."
+
+msgctxt "FieldsNotPosted"
+msgid "The %s fields are missing"
+msgstr "The %s fields are missing"
+
+msgctxt "FieldOrderUpdated"
+msgid "The order of your %s fields has been updated successfully."
+msgstr "The order of your %s fields has been updated successfully."
+
+msgctxt "NoVendor"
+msgid "Do not assign to a vendor"
+msgstr "Do not assign to a vendor"
+
+msgctxt "VendorLabel"
+msgid "Vendor"
+msgstr "Vendor"
+
+msgctxt "FieldName"
+msgid "Field name"
+msgstr "Field name"
+
+msgctxt "HelpFieldName"
+msgid "This is the label that will identify each field in the export file."
+msgstr "This is the label that will identify each field in the export file."
+
+msgctxt "ThisField"
+msgid "Export This field"
+msgstr "Export This field"
+
+msgctxt "ExportWithName"
+msgid "With This Name"
+msgstr "With This Name"
+
+msgctxt "SettingMissing"
+msgid "Please enter a value for the setting &quot;%s&quot;."
+msgstr "Please enter a value for the setting &quot;%s&quot;."
+
+msgctxt "FailedToUpdateSetting"
+msgid "An error occurred updating the setting &quot;%s&quot;."
+msgstr "An error occurred updating the setting &quot;%s&quot;."
+
+msgctxt "FailedToAddSetting"
+msgid "An error occurred creating the setting &quot;%s&quot;."
+msgstr "An error occurred creating the setting &quot;%s&quot;."
+
+msgctxt "NoFields"
+msgid "Please select at least one field for the %s file"
+msgstr "Please select at least one field for the %s file"
+
+msgctxt "RunExport"
+msgid "Export %s"
+msgstr "Export %s"
+
+msgctxt "AllowType"
+msgid "Enable %s Exporting?"
+msgstr "Enable %s Exporting?"
+
+msgctxt "YesAllowType"
+msgid "Yes, allow %s to be exported"
+msgstr "Yes, allow %s to be exported"
+
+msgctxt "DataTypes"
+msgid "Export Options"
+msgstr "Export Options"
+
+msgctxt "DataTypesHelp"
+msgid "These options allow you to enable or disable the exporting of certain types of data using this template. When you export data this template will only be shown if the relevant option below is ticked."
+msgstr "These options allow you to enable or disable the exporting of certain types of data using this template. When you export data this template will only be shown if the relevant option below is ticked."
+
+msgctxt "MethodSettings"
+msgid "Advanced %s Export Settings"
+msgstr "Advanced %s Export Settings"
+
+msgctxt "BuiltInEdit"
+msgid "This is a built-in template and cannot be edited. Saving changes will create a new template."
+msgstr "This is a built-in template and cannot be edited. Saving changes will create a new template."
+
+msgctxt "DeleteBuiltIn"
+msgid "The template &quot;%s&quot; is built-in and cannot be deleted."
+msgstr "The template &quot;%s&quot; is built-in and cannot be deleted."
+
+msgctxt "CannotSaveBuiltIn"
+msgid "You cannot save changes to a built-in template."
+msgstr "You cannot save changes to a built-in template."
+
+msgctxt "BoolFormat"
+msgid "Boolean Format"
+msgstr "Boolean Format"
+
+msgctxt "BoolFormatHelp"
+msgid "Boolean (ticked - on/off options) values will be formatted according to the selection."
+msgstr "Boolean (ticked - on/off options) values will be formatted according to the selection."
+
+msgctxt "NoBoolFormat"
+msgid "Please select a boolean format."
+msgstr "Please select a boolean format."
+
+msgctxt "OneOrZero"
+msgid "One or Zero"
+msgstr "One or Zero"
+
+msgctxt "TrueOrFalse"
+msgid "True or False"
+msgstr "True or False"
+
+msgctxt "YesOrNo"
+msgid "Yes or No"
+msgstr "Yes or No"
+
+msgctxt "YOrN"
+msgid "Y or N"
+msgstr "Y or N"
+
+msgctxt "BlankForFalse"
+msgid "Blank For False"
+msgstr "Blank For False"
+
+msgctxt "YesBlankForFalse"
+msgid "Yes, set false values to blank (empty)"
+msgstr "Yes, set false values to blank (empty)"
+
+msgctxt "BuiltIn"
+msgid "Built In"
+msgstr "Built In"
+
+msgctxt "Custom"
+msgid "Custom"
+msgstr "Custom"
+
+msgctxt "TemplateType"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "TemplateTypeHelp"
+msgid "Built In export templates have been created to make it easier to export to existing accounting and order management systems.<br /><br />Custom export templates are the export templates that you\'ve created."
+msgstr "Built In export templates have been created to make it easier to export to existing accounting and order management systems.<br /><br />Custom export templates are the export templates that you\'ve created."
+
+msgctxt "EditThisTemplate"
+msgid "Edit"
+msgstr "Edit"
+
+msgctxt "ChooseAnAction"
+msgid "-- Choose an Action --"
+msgstr "-- Choose an Action --"
+
+msgctxt "TypeIntro"
+msgid "Choose which fields should be exported below by ticking them. You can drag and drop to change the field order and use the text box to change the field name in the export file."
+msgstr "Choose which fields should be exported below by ticking them. You can drag and drop to change the field order and use the text box to change the field name in the export file."
+
+msgctxt "MYOBSettings"
+msgid "MYOB Fields"
+msgstr "MYOB Fields"
+
+msgctxt "MYOBAsset"
+msgid "Asset Account"
+msgstr "Asset Account"
+
+msgctxt "MYOBIncome"
+msgid "Income Account"
+msgstr "Income Account"
+
+msgctxt "MYOBExpense"
+msgid "Expense/COS Account"
+msgstr "Expense/COS Account"
+
+msgctxt "MYOBAssetHelp"
+msgid "Linked asset account used when a product is inventoried. Must be a valid, pre-existing MYOB account number. 5 characters, numeric. May have an optional non-numeric separator between the first digit and the last 4 digits, for example, 1-1234.<br/><br/>This setting may be overridden on a per product level."
+msgstr "Linked asset account used when a product is inventoried. Must be a valid, pre-existing MYOB account number. 5 characters, numeric. May have an optional non-numeric separator between the first digit and the last 4 digits, for example, 1-1234.<br/><br/>This setting may be overridden on a per product level."
+
+msgctxt "MYOBIncomeHelp"
+msgid "Linked income account used when a product can be sold. Must be a valid, pre-existing MYOB account number. 5 characters, numeric. May have an optional non-numeric separator between the first digit and the last 4 digits, for example, 1-1234.<br/><br/>This setting may be overridden on a per product level."
+msgstr "Linked income account used when a product can be sold. Must be a valid, pre-existing MYOB account number. 5 characters, numeric. May have an optional non-numeric separator between the first digit and the last 4 digits, for example, 1-1234.<br/><br/>This setting may be overridden on a per product level."
+
+msgctxt "MYOBExpenseHelp"
+msgid "Linked expense or cost of sales account used when a product has a cost price. Must be valid, pre-existing MYOB account number. 5 characters, numeric. May have an optional non-numeric separator between the first digit and the last 4 digits , for example, 1-1234.<br/><br/>This setting may be overridden on a per product level."
+msgstr "Linked expense or cost of sales account used when a product has a cost price. Must be valid, pre-existing MYOB account number. 5 characters, numeric. May have an optional non-numeric separator between the first digit and the last 4 digits , for example, 1-1234.<br/><br/>This setting may be overridden on a per product level."
+
+msgctxt "PeachtreeSettings"
+msgid "Peachtree Fields"
+msgstr "Peachtree Fields"
+
+msgctxt "AccountsReceivable"
+msgid "Accounts Receivable Account"
+msgstr "Accounts Receivable Account"
+
+msgctxt "GLAccount"
+msgid "General Ledger Account"
+msgstr "General Ledger Account"
+
+msgctxt "GLAccountHelp"
+msgid "This setting may be overridden on a per product level."
+msgstr "This setting may be overridden on a per product level."
+
+msgctxt "ModifyForPeachtree"
+msgid "Modify fields for Peachtree?"
+msgstr "Modify fields for Peachtree?"
+
+msgctxt "YesModifyForPeachtree"
+msgid "Yes, modify fields for Peachtree"
+msgstr "Yes, modify fields for Peachtree"
+
+msgctxt "ModifyForPeachtreeHelp"
+msgid "This setting applies Peachtree specific modifications to the CSV file. These changes include negating the order product total price and inserting an extra order product row that contains the shipping details."
+msgstr "This setting applies Peachtree specific modifications to the CSV file. These changes include negating the order product total price and inserting an extra order product row that contains the shipping details."
+
+msgctxt "SoftwareSettings"
+msgid "Accounting Software Settings"
+msgstr "Accounting Software Settings"
+
+msgctxt "CreateCopy"
+msgid "Create a Copy"
+msgstr "Create a Copy"
+
+msgctxt "orderCombinedWeight"
+msgid "Combined Product Weight"
+msgstr "Combined Product Weight"
+
+msgctxt "StripHTML"
+msgid "Strip HTML"
+msgstr "Strip HTML"
+
+msgctxt "YesStripHTML"
+msgid "Yes, strip HTML from the product description"
+msgstr "Yes, strip HTML from the product description"
